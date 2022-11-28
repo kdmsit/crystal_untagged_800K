@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Pt4Sn4Zn6
+_chemical_formula_sum              "Pt4 Sn4 Zn6"
+_cell_length_a       4.38492
+_cell_length_b       4.3849
+_cell_length_c       15.6926
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.00000  0.00000  0.00000  1.0000
+  Pt  Pt2       1.0  0.33300  0.66700  0.25000  1.0000
+  Pt  Pt3       1.0  0.00000  0.00000  0.50000  1.0000
+  Pt  Pt4       1.0  0.66700  0.33300  0.75000  1.0000
+  Sn  Sn1       1.0  0.33300  0.66700  0.07210  1.0000
+  Sn  Sn2       1.0  0.33300  0.66700  0.42800  1.0000
+  Sn  Sn3       1.0  0.66700  0.33300  0.57200  1.0000
+  Sn  Sn4       1.0  0.66700  0.33300  0.92800  1.0000
+  Zn  Zn1       1.0  0.00000  0.00000  0.16800  1.0000
+  Zn  Zn2       1.0  0.66700  0.33300  0.25000  1.0000
+  Zn  Zn3       1.0  0.00000  0.00000  0.33200  1.0000
+  Zn  Zn4       1.0  0.00000  0.00000  0.66800  1.0000
+  Zn  Zn5       1.0  0.33300  0.66700  0.75000  1.0000
+  Zn  Zn6       1.0  0.00000  0.00000  0.83200  1.0000

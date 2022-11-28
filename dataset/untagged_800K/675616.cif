@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuInGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00878700
+_cell_length_b   4.88827900
+_cell_length_c   16.20858700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuInGe
+_chemical_formula_sum   'Eu4 In4 Ge4'
+_cell_volume   317.62459423
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.75426600  0.48046100  0.89257200  1
+  Eu  Eu1  1  0.74573400  0.98046100  0.60742800  1
+  Eu  Eu2  1  0.25426600  0.51953900  0.10742800  1
+  Eu  Eu3  1  0.24573400  0.01953900  0.39257200  1
+  In  In4  1  0.84963800  0.99912900  0.20956800  1
+  In  In5  1  0.65036200  0.49912900  0.29043200  1
+  In  In6  1  0.34963800  0.00087100  0.79043200  1
+  In  In7  1  0.15036200  0.50087100  0.70956800  1
+  Ge  Ge8  1  0.74955600  0.07162900  0.04334100  1
+  Ge  Ge9  1  0.75044400  0.57162900  0.45665900  1
+  Ge  Ge10  1  0.24955600  0.92837100  0.95665900  1
+  Ge  Ge11  1  0.25044400  0.42837100  0.54334100  1

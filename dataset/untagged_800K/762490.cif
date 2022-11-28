@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_DyNiGe2
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       4.20785
+_cell_length_b       4.08173
+_cell_length_c       8.59264
+_cell_angle_alpha    103.74
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  DyNiGe2
+_chemical_formula_sum  Dy2Ni2Ge4
+_cell_volume  143.3583855450384
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Dy  Dy1  1  0.75000  0.10819  0.21638  1
+ Dy  Dy2  1  0.25000  0.89181  0.78362  1
+ Ge  Ge1  1  0.75000  0.45925  0.91850  1
+ Ge  Ge2  1  0.25000  0.54075  0.08150  1
+ Ge  Ge3  1  0.75000  0.74789  0.49578  1
+ Ge  Ge4  1  0.25000  0.25211  0.50422  1
+ Ni  Ni1  1  0.75000  0.32196  0.64392  1
+ Ni  Ni2  1  0.25000  0.67804  0.35608  1

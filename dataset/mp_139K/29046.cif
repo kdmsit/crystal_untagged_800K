@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Bi(SbTe2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.46048790
+_cell_length_b   10.46048790
+_cell_length_c   7.59186520
+_cell_angle_alpha   83.29320162
+_cell_angle_beta   83.29320162
+_cell_angle_gamma   24.18639404
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi(SbTe2)3
+_chemical_formula_sum   'Bi1 Sb3 Te6'
+_cell_volume   337.91313595
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.40214400  0.40214400  0.20012100  1
+  Sb  Sb1  1  0.90035800  0.90035800  0.69840300  1
+  Sb  Sb2  1  0.09846300  0.09846300  0.30048000  1
+  Sb  Sb3  1  0.59992400  0.59992400  0.80024700  1
+  Te  Te4  1  0.50109100  0.50109100  0.50252500  1
+  Te  Te5  1  0.00204900  0.00204900  0.99663200  1
+  Te  Te6  1  0.81507900  0.81507900  0.40211500  1
+  Te  Te7  1  0.31612700  0.31612700  0.88646500  1
+  Te  Te8  1  0.68277900  0.68277900  0.10687200  1
+  Te  Te9  1  0.18198400  0.18198400  0.60614000  1

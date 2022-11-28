@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_TlInSe2
+_symmetry_space_group_name_H-M  'I4/mcm'
+_cell_length_a       6.64694
+_cell_length_b       6.64694
+_cell_length_c       6.64694
+_cell_angle_alpha    106.618
+_cell_angle_beta     106.618
+_cell_angle_gamma    115.341
+
+_symmetry_Int_Tables_number  140
+_chemical_formula_structural  TlInSe2
+_chemical_formula_sum  Tl2In2Se4
+_cell_volume  224.27192096928968
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ In  In1  1  0.25000  0.25000  0.00000  1
+ In  In2  1  0.75000  0.75000  -0.00000  1
+ Se  Se1  1  0.81142  0.68858  0.50000  1
+ Se  Se2  1  0.68858  0.18858  0.87716  1
+ Se  Se3  1  0.31142  0.81142  0.12284  1
+ Se  Se4  1  0.18858  0.31142  0.50000  1
+ Tl  Tl1  1  0.25000  0.75000  0.50000  1
+ Tl  Tl2  1  0.75000  0.25000  0.50000  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_LuBiTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.90266228
+_cell_length_b   10.90266228
+_cell_length_c   10.90266238
+_cell_angle_alpha   23.11727067
+_cell_angle_beta   23.11727067
+_cell_angle_gamma   23.11727399
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuBiTe3
+_chemical_formula_sum   'Lu1 Bi1 Te3'
+_cell_volume   175.35161682
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.60237200  0.60237200  0.60237200  1
+  Bi  Bi1  1  0.39780500  0.39780500  0.39780500  1
+  Te  Te2  1  0.99510200  0.99510200  0.99510200  1
+  Te  Te3  1  0.78499800  0.78499800  0.78499800  1
+  Te  Te4  1  0.21972400  0.21972400  0.21972400  1

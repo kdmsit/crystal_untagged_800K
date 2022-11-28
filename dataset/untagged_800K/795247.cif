@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_NaTi2O4
+_symmetry_space_group_name_H-M  'Fd-3m'
+_cell_length_a       6.14367
+_cell_length_b       6.14356
+_cell_length_c       6.14362
+_cell_angle_alpha    60.0002
+_cell_angle_beta     60
+_cell_angle_gamma    60.0006
+
+_symmetry_Int_Tables_number  227
+_chemical_formula_structural  NaTi2O4
+_chemical_formula_sum  Na2Ti4O8
+_cell_volume  163.96817200163147
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Na  Na1  1  0.12500  0.12500  0.12500  1
+ Na  Na2  1  0.87500  0.87500  0.87500  1
+ O  O1  1  0.69511  0.26830  0.26830  1
+ O  O2  1  0.26830  0.26830  0.26830  1
+ O  O3  1  0.26830  0.69511  0.26830  1
+ O  O4  1  0.26829  0.26830  0.69511  1
+ O  O5  1  0.73170  0.30489  0.73170  1
+ O  O6  1  0.73170  0.73170  0.30489  1
+ O  O7  1  0.30489  0.73170  0.73170  1
+ O  O8  1  0.73170  0.73170  0.73170  1
+ Ti  Ti1  1  0.50000  0.50000  0.00000  1
+ Ti  Ti2  1  0.50000  -0.00000  0.50000  1
+ Ti  Ti3  1  -0.00000  0.50000  0.50000  1
+ Ti  Ti4  1  0.50000  0.50000  0.50000  1

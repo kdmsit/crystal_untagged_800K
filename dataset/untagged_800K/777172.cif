@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_CeSiRu2C
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       5.94073
+_cell_length_b       5.94074
+_cell_length_c       7.12583
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    141.6
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  CeSiRu2C
+_chemical_formula_sum  Ce2Si2Ru4C2
+_cell_volume  156.20959343154425
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.00000  0.00000  0.00000  1
+ C  C2  1  0.00000  0.00000  0.50000  1
+ Ce  Ce1  1  0.55307  0.44693  0.25000  1
+ Ce  Ce2  1  0.44693  0.55307  0.75000  1
+ Ru  Ru1  1  0.83573  0.16427  0.05641  1
+ Ru  Ru2  1  0.16427  0.83573  0.94359  1
+ Ru  Ru3  1  0.16427  0.83573  0.55641  1
+ Ru  Ru4  1  0.83573  0.16427  0.44359  1
+ Si  Si1  1  0.27331  0.72669  0.25000  1
+ Si  Si2  1  0.72669  0.27331  0.75000  1

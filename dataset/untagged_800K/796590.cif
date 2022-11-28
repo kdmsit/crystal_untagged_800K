@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_LiTlPHO3
+_symmetry_space_group_name_H-M  'C2'
+_cell_length_a       7.54215
+_cell_length_b       7.54215
+_cell_length_c       5.39281
+_cell_angle_alpha    90.6724
+_cell_angle_beta     89.3276
+_cell_angle_gamma    140.602
+
+_symmetry_Int_Tables_number  5
+_chemical_formula_structural  LiTlPHO3
+_chemical_formula_sum  Li2Tl2P2H2O6
+_cell_volume  194.68901760208328
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ H  H1  1  0.39594  0.50312  0.22502  1
+ H  H2  1  0.50312  0.39594  0.77498  1
+ Li  Li1  1  0.29769  0.80217  0.81589  1
+ Li  Li2  1  0.80217  0.29769  0.18411  1
+ O  O1  1  0.20689  0.64081  0.14610  1
+ O  O2  1  0.34193  0.64389  0.58339  1
+ O  O3  1  0.72123  0.99070  0.26013  1
+ O  O4  1  0.99070  0.72123  0.73987  1
+ O  O5  1  0.64389  0.34193  0.41661  1
+ O  O6  1  0.64081  0.20689  0.85390  1
+ P  P1  1  0.41648  0.69905  0.30584  1
+ P  P2  1  0.69905  0.41648  0.69416  1
+ Tl  Tl1  1  0.11053  0.92857  0.25061  1
+ Tl  Tl2  1  0.92857  0.11053  0.74939  1

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       La4S6
+_chemical_formula_sum              "La4 S6"
+_cell_length_a       7.33838
+_cell_length_b       7.33838
+_cell_length_c       7.62692
+_cell_angle_alpha    118.756
+_cell_angle_beta     61.2438
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.64500  0.35500  0.06620  1.0000
+  La  La2       1.0  0.85500  0.14500  0.43400  1.0000
+  La  La3       1.0  0.14500  0.85500  0.56600  1.0000
+  La  La4       1.0  0.35500  0.64500  0.93400  1.0000
+  S   S1        1.0  0.95900  0.45900  0.25000  1.0000
+  S   S2        1.0  0.54100  0.75000  0.25000  1.0000
+  S   S3        1.0  0.25000  0.04120  0.25000  1.0000
+  S   S4        1.0  0.75000  0.95900  0.75000  1.0000
+  S   S5        1.0  0.45900  0.25000  0.75000  1.0000
+  S   S6        1.0  0.04120  0.54100  0.75000  1.0000

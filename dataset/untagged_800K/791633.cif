@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_NiMoP2
+_symmetry_space_group_name_H-M  'P6_3/mmc'
+_cell_length_a       3.36063
+_cell_length_b       3.36063
+_cell_length_c       11.249
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  194
+_chemical_formula_structural  NiMoP2
+_chemical_formula_sum  Ni2Mo2P4
+_cell_volume  110.02337018559109
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mo  Mo1  1  0.00000  0.00000  0.25000  1
+ Mo  Mo2  1  0.00000  0.00000  0.75000  1
+ Ni  Ni1  1  0.00000  0.00000  0.00000  1
+ Ni  Ni2  1  0.00000  0.00000  0.50000  1
+ P  P1  1  0.33333  0.66667  0.61312  1
+ P  P2  1  0.66667  0.33333  0.11312  1
+ P  P3  1  0.33333  0.66667  0.88688  1
+ P  P4  1  0.66667  0.33333  0.38688  1

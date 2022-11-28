@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_AlFeN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34624600
+_cell_length_b   6.23800000
+_cell_length_c   4.95060600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlFeN2
+_chemical_formula_sum   'Al4 Fe4 N8'
+_cell_volume   165.10212864
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.58845000  0.37659400  0.00293600  1
+  Al  Al1  1  0.41155000  0.62340600  0.50293600  1
+  Al  Al2  1  0.91155000  0.87659400  0.50293600  1
+  Al  Al3  1  0.08845000  0.12340600  0.00293600  1
+  Fe  Fe4  1  0.57406500  0.87410800  0.99959800  1
+  Fe  Fe5  1  0.42593500  0.12589200  0.49959800  1
+  Fe  Fe6  1  0.92593500  0.37410800  0.49959800  1
+  Fe  Fe7  1  0.07406500  0.62589200  0.99959800  1
+  N  N8  1  0.58991100  0.37599400  0.39052900  1
+  N  N9  1  0.41008900  0.62400600  0.89052900  1
+  N  N10  1  0.91008900  0.87599400  0.89052900  1
+  N  N11  1  0.08991100  0.12400600  0.39052900  1
+  N  N12  1  0.58010700  0.87054100  0.37693700  1
+  N  N13  1  0.41989300  0.12945900  0.87693700  1
+  N  N14  1  0.91989300  0.37054100  0.87693700  1
+  N  N15  1  0.08010700  0.62945900  0.37693700  1

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ag2K2W3
+_chemical_formula_sum              "Ag2 K2 W3"
+_cell_length_a       12.451
+_cell_length_b       12.451
+_cell_length_c       12.451
+_cell_angle_alpha    20.2971
+_cell_angle_beta     20.2971
+_cell_angle_gamma    20.2971
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.02470  0.02470  0.02470  1.0000
+  Ag  Ag2       1.0  0.48200  0.48200  0.48200  1.0000
+  K   K1        1.0  0.21000  0.21000  0.21000  1.0000
+  K   K2        1.0  0.75500  0.75500  0.75500  1.0000
+  W   W1        1.0  0.31900  0.31900  0.31900  1.0000
+  W   W2        1.0  0.63400  0.63400  0.63400  1.0000
+  W   W3        1.0  0.95000  0.95000  0.95000  1.0000

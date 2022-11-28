@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       O8Si2Tb2
+_chemical_formula_sum              "O8 Si2 Tb2"
+_cell_length_a       5.81657
+_cell_length_b       5.81657
+_cell_length_c       5.81657
+_cell_angle_alpha    106.621
+_cell_angle_beta     115.335
+_cell_angle_gamma    106.621
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.27800  0.56900  0.20900  1.0000
+  O   O2        1.0  0.64000  0.93100  0.20900  1.0000
+  O   O3        1.0  0.20900  0.06870  0.27800  1.0000
+  O   O4        1.0  0.79100  0.56900  0.36000  1.0000
+  O   O5        1.0  0.20900  0.43100  0.64000  1.0000
+  O   O6        1.0  0.79100  0.93100  0.72200  1.0000
+  O   O7        1.0  0.36000  0.06870  0.79100  1.0000
+  O   O8        1.0  0.72200  0.43100  0.79100  1.0000
+  Si  Si1       1.0  0.62500  0.75000  0.37500  1.0000
+  Si  Si2       1.0  0.37500  0.25000  0.62500  1.0000
+  Tb  Tb1       1.0  0.87500  0.25000  0.12500  1.0000
+  Tb  Tb2       1.0  0.12500  0.75000  0.87500  1.0000

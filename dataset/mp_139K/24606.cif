@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ti3FeS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.51246922
+_cell_length_b   6.51246922
+_cell_length_c   6.51246940
+_cell_angle_alpha   53.23299583
+_cell_angle_beta   53.23299583
+_cell_angle_gamma   53.23299798
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3FeS6
+_chemical_formula_sum   'Ti3 Fe1 S6'
+_cell_volume   164.35484434
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  0.00000000  0.00000000  1
+  Ti  Ti1  1  0.32993400  0.32993400  0.32993400  1
+  Ti  Ti2  1  0.67006600  0.67006600  0.67006600  1
+  Fe  Fe3  1  0.50000000  0.50000000  0.50000000  1
+  S  S4  1  0.90381500  0.58059300  0.25001200  1
+  S  S5  1  0.58059300  0.25001200  0.90381500  1
+  S  S6  1  0.25001200  0.90381500  0.58059300  1
+  S  S7  1  0.74998800  0.09618500  0.41940700  1
+  S  S8  1  0.41940700  0.74998800  0.09618500  1
+  S  S9  1  0.09618500  0.41940700  0.74998800  1

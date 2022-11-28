@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_DyGaNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19052000
+_cell_length_b   5.29731861
+_cell_length_c   5.74771132
+_cell_angle_alpha   93.10323982
+_cell_angle_beta   111.37916189
+_cell_angle_gamma   66.70083083
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyGaNi
+_chemical_formula_sum   'Dy2 Ga2 Ni2'
+_cell_volume   108.51561386
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.74594400  0.69743700  0.18932500  1
+  Dy  Dy1  1  0.25405600  0.30256300  0.81067500  1
+  Ga  Ga2  1  0.57634600  0.24729200  0.39998300  1
+  Ga  Ga3  1  0.42365400  0.75270800  0.60001700  1
+  Ni  Ni4  1  0.04528400  0.11119100  0.20175800  1
+  Ni  Ni5  1  0.95471600  0.88880900  0.79824200  1

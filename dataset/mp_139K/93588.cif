@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cr(CoN)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38406966
+_cell_length_b   6.30193770
+_cell_length_c   3.87619500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.28116850
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr(CoN)3
+_chemical_formula_sum   'Cr2 Co6 N6'
+_cell_volume   136.02176176
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.66438900  0.33285100  0.75000000  1
+  Cr  Cr1  1  0.33561100  0.66714900  0.25000000  1
+  Co  Co2  1  0.82269400  0.64057800  0.25000000  1
+  Co  Co3  1  0.82171400  0.18070700  0.25000000  1
+  Co  Co4  1  0.36057700  0.17995700  0.25000000  1
+  Co  Co5  1  0.17730600  0.35942200  0.75000000  1
+  Co  Co6  1  0.17828600  0.81929300  0.75000000  1
+  Co  Co7  1  0.63942300  0.82004300  0.75000000  1
+  N  N8  1  0.83154300  0.66067800  0.75000000  1
+  N  N9  1  0.83051100  0.16973200  0.75000000  1
+  N  N10  1  0.34007800  0.17035900  0.75000000  1
+  N  N11  1  0.16845700  0.33932200  0.25000000  1
+  N  N12  1  0.16948900  0.83026800  0.25000000  1
+  N  N13  1  0.65992200  0.82964100  0.25000000  1

@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_ErNi
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.16402
+_cell_length_b       5.33068
+_cell_length_c       6.87836
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  ErNi
+_chemical_formula_sum  Er4Ni4
+_cell_volume  152.6792241953594
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Er  Er1  1  0.75000  0.86475  0.81931  1
+ Er  Er2  1  0.25000  0.13525  0.18069  1
+ Er  Er3  1  0.25000  0.36475  0.68069  1
+ Er  Er4  1  0.75000  0.63525  0.31931  1
+ Ni  Ni1  1  0.25000  0.86664  0.53850  1
+ Ni  Ni2  1  0.75000  0.13336  0.46150  1
+ Ni  Ni3  1  0.75000  0.36664  0.96150  1
+ Ni  Ni4  1  0.25000  0.63336  0.03850  1

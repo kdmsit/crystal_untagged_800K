@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_MnCoSi
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.64942
+_cell_length_b       5.73015
+_cell_length_c       6.86913
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  MnCoSi
+_chemical_formula_sum  Mn4Co4Si4
+_cell_volume  143.64510394240094
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.25000  0.65651  0.05905  1
+ Co  Co2  1  0.75000  0.34349  0.94095  1
+ Co  Co3  1  0.25000  0.15651  0.44095  1
+ Co  Co4  1  0.75000  0.84349  0.55905  1
+ Mn  Mn1  1  0.75000  0.97054  0.18233  1
+ Mn  Mn2  1  0.25000  0.02946  0.81767  1
+ Mn  Mn3  1  0.75000  0.47054  0.31767  1
+ Mn  Mn4  1  0.25000  0.52946  0.68233  1
+ Si  Si1  1  0.25000  0.26522  0.12439  1
+ Si  Si2  1  0.75000  0.73478  0.87561  1
+ Si  Si3  1  0.25000  0.76522  0.37561  1
+ Si  Si4  1  0.75000  0.23478  0.62439  1

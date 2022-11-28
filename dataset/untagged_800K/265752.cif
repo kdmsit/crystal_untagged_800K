@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       FeLi4MoO6
+_chemical_formula_sum              "Fe1 Li4 Mo1 O6"
+_cell_length_a       5.06115
+_cell_length_b       5.06115
+_cell_length_c       5.06603
+_cell_angle_alpha    99.4632
+_cell_angle_beta     99.4632
+_cell_angle_gamma    119.832
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.84200  0.15800  0.00000  1.0000
+  Li  Li1       1.0  0.49700  0.50300  0.00000  1.0000
+  Li  Li2       1.0  0.99300  0.00712  0.50000  1.0000
+  Li  Li3       1.0  0.66800  0.33200  0.50000  1.0000
+  Li  Li4       1.0  0.34400  0.65600  0.50000  1.0000
+  Mo  Mo1       1.0  0.15700  0.84300  0.00000  1.0000
+  O   O1        1.0  0.56500  0.91700  0.23100  1.0000
+  O   O2        1.0  0.93400  0.60300  0.23100  1.0000
+  O   O3        1.0  0.25500  0.23400  0.25200  1.0000
+  O   O4        1.0  0.76600  0.74500  0.74800  1.0000
+  O   O5        1.0  0.39700  0.06570  0.76900  1.0000
+  O   O6        1.0  0.08260  0.43500  0.76900  1.0000

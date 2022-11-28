@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Hf2Ga3Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18673500
+_cell_length_b   5.31689101
+_cell_length_c   5.26693212
+_cell_angle_alpha   92.62762733
+_cell_angle_beta   113.41915651
+_cell_angle_gamma   66.81382451
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2Ga3Co
+_chemical_formula_sum   'Hf2 Ga3 Co1'
+_cell_volume   98.04161848
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.74859800  0.71485500  0.21205100  1
+  Hf  Hf1  1  0.24967500  0.29297100  0.79232200  1
+  Ga  Ga2  1  0.47700400  0.67099000  0.62499800  1
+  Ga  Ga3  1  0.04103200  0.13711000  0.21917300  1
+  Ga  Ga4  1  0.93917800  0.89757700  0.77593400  1
+  Co  Co5  1  0.54451200  0.28649700  0.37552100  1

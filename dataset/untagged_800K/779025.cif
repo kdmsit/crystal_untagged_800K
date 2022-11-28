@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_CoP3
+_symmetry_space_group_name_H-M  'Im-3'
+_cell_length_a       6.726
+_cell_length_b       6.726
+_cell_length_c       6.726
+_cell_angle_alpha    109.471
+_cell_angle_beta     109.471
+_cell_angle_gamma    109.471
+
+_symmetry_Int_Tables_number  204
+_chemical_formula_structural  CoP3
+_chemical_formula_sum  Co4P2
+_cell_volume  234.23301282881982
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.50000  0.00000  -0.00000  1
+ Co  Co2  1  0.00000  0.00000  0.50000  1
+ Co  Co3  1  0.00000  0.50000  -0.00000  1
+ Co  Co4  1  0.50000  0.50000  0.50000  1
+ P  P1  1  0.50700  0.85438  0.65261  1
+ P  P2  1  0.20177  0.85438  0.34739  1
+ P  P3  1  0.79823  0.14562  0.65261  1
+ P  P4  1  0.14562  0.34739  0.49300  1
+ P  P5  1  0.49300  0.14562  0.34739  1
+ P  P6  1  0.14562  0.65261  0.79823  1
+ P  P7  1  0.34739  0.20177  0.85438  1
+ P  P8  1  0.85438  0.65261  0.50700  1
+ P  P9  1  0.65261  0.79823  0.14562  1
+ P  P10  1  0.85438  0.34739  0.20177  1
+ P  P11  1  0.65261  0.50700  0.85438  1
+ P  P12  1  0.34739  0.49300  0.14562  1

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cd4N6
+_chemical_formula_sum              "Cd4 N6"
+_cell_length_a       5.68388
+_cell_length_b       5.68388
+_cell_length_c       5.84791
+_cell_angle_alpha    119.076
+_cell_angle_beta     60.9236
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.64100  0.35900  0.07630  1.0000
+  Cd  Cd2       1.0  0.85900  0.14100  0.42400  1.0000
+  Cd  Cd3       1.0  0.14100  0.85900  0.57600  1.0000
+  Cd  Cd4       1.0  0.35900  0.64100  0.92400  1.0000
+  N   N1        1.0  0.96200  0.46200  0.25000  1.0000
+  N   N2        1.0  0.25000  0.03780  0.25000  1.0000
+  N   N3        1.0  0.53800  0.75000  0.25000  1.0000
+  N   N4        1.0  0.46200  0.25000  0.75000  1.0000
+  N   N5        1.0  0.75000  0.96200  0.75000  1.0000
+  N   N6        1.0  0.03780  0.53800  0.75000  1.0000

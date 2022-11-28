@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li6Mn2N6Sr2
+_chemical_formula_sum              "Li6 Mn2 N6 Sr2"
+_cell_length_a       5.83402
+_cell_length_b       5.83402
+_cell_length_c       7.1643
+_cell_angle_alpha    65.9735
+_cell_angle_beta     65.9735
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.89500  0.23600  0.39200  1.0000
+  Li  Li2       1.0  0.23600  0.47700  0.39200  1.0000
+  Li  Li3       1.0  0.47700  0.89500  0.39200  1.0000
+  Li  Li4       1.0  0.52300  0.10500  0.60800  1.0000
+  Li  Li5       1.0  0.76400  0.52300  0.60800  1.0000
+  Li  Li6       1.0  0.10500  0.76400  0.60800  1.0000
+  Mn  Mn1       1.0  0.93300  0.93300  0.20100  1.0000
+  Mn  Mn2       1.0  0.06690  0.06690  0.79900  1.0000
+  N   N1        1.0  0.61900  0.20600  0.27000  1.0000
+  N   N2        1.0  0.90500  0.61900  0.27000  1.0000
+  N   N3        1.0  0.20600  0.90500  0.27000  1.0000
+  N   N4        1.0  0.79400  0.09550  0.73000  1.0000
+  N   N5        1.0  0.09550  0.38100  0.73000  1.0000
+  N   N6        1.0  0.38100  0.79400  0.73000  1.0000
+  Sr  Sr1       1.0  0.66300  0.66300  0.01230  1.0000
+  Sr  Sr2       1.0  0.33700  0.33700  0.98800  1.0000

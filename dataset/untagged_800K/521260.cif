@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       O4Pb4Pt4Se4
+_chemical_formula_sum              "O4 Pb4 Pt4 Se4"
+_cell_length_a       6.68944
+_cell_length_b       8.33461
+_cell_length_c       5.60208
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.05600  0.10900  0.04800  1.0000
+  O   O2        1.0  0.55600  0.89100  0.04800  1.0000
+  O   O3        1.0  0.44400  0.10900  0.54800  1.0000
+  O   O4        1.0  0.94400  0.89100  0.54800  1.0000
+  Pb  Pb1       1.0  0.05820  0.15000  0.49400  1.0000
+  Pb  Pb2       1.0  0.55800  0.85000  0.49400  1.0000
+  Pb  Pb3       1.0  0.44200  0.15000  0.99400  1.0000
+  Pb  Pb4       1.0  0.94200  0.85000  0.99400  1.0000
+  Pt  Pt1       1.0  0.86500  0.31300  0.01520  1.0000
+  Pt  Pt2       1.0  0.36500  0.68700  0.01520  1.0000
+  Pt  Pt3       1.0  0.63500  0.31300  0.51500  1.0000
+  Pt  Pt4       1.0  0.13500  0.68700  0.51500  1.0000
+  Se  Se1       1.0  0.15900  0.47800  0.19300  1.0000
+  Se  Se2       1.0  0.65900  0.52200  0.19300  1.0000
+  Se  Se3       1.0  0.34100  0.47800  0.69300  1.0000
+  Se  Se4       1.0  0.84100  0.52200  0.69300  1.0000

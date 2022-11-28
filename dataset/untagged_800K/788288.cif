@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_LuSiRh
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.18921
+_cell_length_b       6.74503
+_cell_length_c       7.35231
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  LuSiRh
+_chemical_formula_sum  Lu4Si4Rh4
+_cell_volume  207.7492202437113
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Lu  Lu1  1  0.25000  0.00214  0.80884  1
+ Lu  Lu2  1  0.75000  0.99786  0.19116  1
+ Lu  Lu3  1  0.25000  0.50214  0.69116  1
+ Lu  Lu4  1  0.75000  0.49786  0.30884  1
+ Rh  Rh1  1  0.75000  0.84279  0.56828  1
+ Rh  Rh2  1  0.25000  0.15721  0.43172  1
+ Rh  Rh3  1  0.75000  0.34279  0.93172  1
+ Rh  Rh4  1  0.25000  0.65721  0.06828  1
+ Si  Si1  1  0.25000  0.29146  0.10654  1
+ Si  Si2  1  0.75000  0.70854  0.89346  1
+ Si  Si3  1  0.25000  0.79146  0.39346  1
+ Si  Si4  1  0.75000  0.20854  0.60654  1

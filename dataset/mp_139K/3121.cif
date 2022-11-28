@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_PrSiGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.27479431
+_cell_length_b   8.27479431
+_cell_length_c   8.27479431
+_cell_angle_alpha   151.04385401
+_cell_angle_beta   150.35975068
+_cell_angle_gamma   41.91486541
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrSiGe
+_chemical_formula_sum   'Pr2 Si2 Ge2'
+_cell_volume   135.34405213
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.38093200  0.63093200  0.75000000  1
+  Pr  Pr1  1  0.61906800  0.36906800  0.25000000  1
+  Si  Si2  1  0.96177400  0.21177400  0.75000000  1
+  Si  Si3  1  0.03822600  0.78822600  0.25000000  1
+  Ge  Ge4  1  0.79791000  0.04791000  0.75000000  1
+  Ge  Ge5  1  0.20209000  0.95209000  0.25000000  1

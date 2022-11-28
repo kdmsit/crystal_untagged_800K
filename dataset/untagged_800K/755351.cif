@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_TbTaO4
+_symmetry_space_group_name_H-M  'P2/c'
+_cell_length_a       5.15708
+_cell_length_b       5.35145
+_cell_length_c       5.4839
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    96.6262
+
+_symmetry_Int_Tables_number  13
+_chemical_formula_structural  TbTaO4
+_chemical_formula_sum  Tb2Ta2O8
+_cell_volume  150.33288125777733
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.73225  0.00880  0.56184  1
+ O  O2  1  0.26775  0.49120  0.56184  1
+ O  O3  1  0.26775  0.99120  0.43816  1
+ O  O4  1  0.73225  0.50880  0.43816  1
+ O  O5  1  0.25124  0.60030  0.08203  1
+ O  O6  1  0.74876  0.89970  0.08203  1
+ O  O7  1  0.74876  0.39970  0.91797  1
+ O  O8  1  0.25124  0.10030  0.91797  1
+ Ta  Ta1  1  0.50000  0.25000  0.69458  1
+ Ta  Ta2  1  0.50000  0.75000  0.30542  1
+ Tb  Tb1  1  0.00000  0.75000  0.76488  1
+ Tb  Tb2  1  -0.00000  0.25000  0.23512  1

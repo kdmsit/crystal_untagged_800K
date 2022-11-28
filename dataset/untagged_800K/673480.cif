@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Na4Eu2SnAs4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.79781480
+_cell_length_b   9.79781480
+_cell_length_c   7.39294694
+_cell_angle_alpha   89.47377047
+_cell_angle_beta   89.47377047
+_cell_angle_gamma   119.91010962
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4Eu2SnAs4
+_chemical_formula_sum   'Na8 Eu4 Sn2 As8'
+_cell_volume   615.07243161
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.05403300  0.52629600  0.62121000  1
+  Na  Na1  1  0.52629600  0.05403300  0.12121000  1
+  Na  Na2  1  0.28767400  0.14206200  0.80358100  1
+  Na  Na3  1  0.85977400  0.70833100  0.79112300  1
+  Na  Na4  1  0.85855300  0.14978800  0.79575300  1
+  Na  Na5  1  0.70833100  0.85977400  0.29112300  1
+  Na  Na6  1  0.14206200  0.28767400  0.30358100  1
+  Na  Na7  1  0.14978800  0.85855300  0.29575300  1
+  Eu  Eu8  1  0.47169700  0.94813100  0.62123000  1
+  Eu  Eu9  1  0.47014300  0.52102300  0.62350300  1
+  Eu  Eu10  1  0.94813100  0.47169700  0.12123000  1
+  Eu  Eu11  1  0.52102300  0.47014300  0.12350300  1
+  Sn  Sn12  1  0.67214200  0.33562300  0.49755300  1
+  Sn  Sn13  1  0.33562300  0.67214200  0.99755300  1
+  As  As14  1  0.66376600  0.33626200  0.85946800  1
+  As  As15  1  0.33626200  0.66376600  0.35946800  1
+  As  As16  1  0.62922800  0.80977100  0.87945800  1
+  As  As17  1  0.18884800  0.37299300  0.89959400  1
+  As  As18  1  0.18275800  0.81169800  0.89059800  1
+  As  As19  1  0.37299300  0.18884800  0.39959400  1
+  As  As20  1  0.80977100  0.62922800  0.37945800  1
+  As  As21  1  0.81169800  0.18275800  0.39059800  1

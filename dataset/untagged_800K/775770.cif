@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_BaSe2
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       4.94782
+_cell_length_b       5.49814
+_cell_length_c       8.66567
+_cell_angle_alpha    79.1579
+_cell_angle_beta     73.4122
+_cell_angle_gamma    63.2592
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  BaSe2
+_chemical_formula_sum  Ba2Se4
+_cell_volume  201.275270237609
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.12542  0.25000  0.75000  1
+ Ba  Ba2  1  0.87458  0.75000  0.25000  1
+ Se  Se1  1  0.46940  0.28411  0.02788  1
+ Se  Se2  1  0.78139  0.21589  0.47212  1
+ Se  Se3  1  0.21861  0.78411  0.52788  1
+ Se  Se4  1  0.53060  0.71589  0.97212  1

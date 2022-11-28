@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CsMgNiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.34753169
+_cell_length_b   7.34753169
+_cell_length_c   7.34753169
+_cell_angle_alpha   120.51285229
+_cell_angle_beta   119.55188590
+_cell_angle_gamma   89.94596085
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsMgNiF6
+_chemical_formula_sum   'Cs2 Mg2 Ni2 F12'
+_cell_volume   280.32281058
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.37177500  0.62177500  0.75000000  1
+  Cs  Cs1  1  0.62822500  0.37822500  0.25000000  1
+  Mg  Mg2  1  0.00000000  0.00000000  0.50000000  1
+  Mg  Mg3  1  0.00000000  0.50000000  0.00000000  1
+  Ni  Ni4  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni5  1  0.50000000  0.00000000  0.50000000  1
+  F  F6  1  0.31802100  0.06802100  0.25000000  1
+  F  F7  1  0.93079300  0.68079300  0.25000000  1
+  F  F8  1  0.32593800  0.69263300  0.26169200  1
+  F  F9  1  0.93094000  0.06424500  0.23830800  1
+  F  F10  1  0.32593800  0.06424500  0.63330500  1
+  F  F11  1  0.93094000  0.69263300  0.86669500  1
+  F  F12  1  0.68197900  0.93197900  0.75000000  1
+  F  F13  1  0.06920700  0.31920700  0.75000000  1
+  F  F14  1  0.67406200  0.30736700  0.73830800  1
+  F  F15  1  0.06906000  0.93575500  0.76169200  1
+  F  F16  1  0.67406200  0.93575500  0.36669500  1
+  F  F17  1  0.06906000  0.30736700  0.13330500  1

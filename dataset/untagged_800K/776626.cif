@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Na2NiO3
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.19794
+_cell_length_b       5.19794
+_cell_length_c       5.56762
+_cell_angle_alpha    80.8043
+_cell_angle_beta     99.1957
+_cell_angle_gamma    59.9539
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Na2NiO3
+_chemical_formula_sum  Na4Ni2O6
+_cell_volume  123.37489821488403
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Na  Na1  1  0.15699  0.15699  0.50000  1
+ Na  Na2  1  0.84301  0.84301  0.50000  1
+ Na  Na3  1  0.50000  0.50000  0.50000  1
+ Na  Na4  1  0.00000  0.00000  0.00000  1
+ Ni  Ni1  1  0.66706  0.66706  0.00000  1
+ Ni  Ni2  1  0.33294  0.33294  0.00000  1
+ O  O1  1  0.30594  0.69406  0.80093  1
+ O  O2  1  0.06758  0.55695  0.19891  1
+ O  O3  1  0.44305  0.93242  0.19891  1
+ O  O4  1  0.93242  0.44305  0.80109  1
+ O  O5  1  0.55695  0.06758  0.80109  1
+ O  O6  1  0.69406  0.30594  0.19907  1

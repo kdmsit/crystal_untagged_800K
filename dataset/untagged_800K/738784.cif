@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Hf(SiO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.80109715
+_cell_length_b   9.80109715
+_cell_length_c   9.80109715
+_cell_angle_alpha   125.41848302
+_cell_angle_beta   125.41848302
+_cell_angle_gamma   80.84602464
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf(SiO)2
+_chemical_formula_sum   'Hf4 Si8 O8'
+_cell_volume   602.72301834
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.87500000  0.12500000  0.75000000  1
+  Hf  Hf1  1  0.37500000  0.12500000  0.25000000  1
+  Hf  Hf2  1  0.87500000  0.62500000  0.75000000  1
+  Hf  Hf3  1  0.87500000  0.12500000  0.25000000  1
+  Si  Si4  1  0.66905200  0.34386000  0.32519200  1
+  Si  Si5  1  0.01866800  0.34386000  0.67480800  1
+  Si  Si6  1  0.09386000  0.26866800  0.17480800  1
+  Si  Si7  1  0.73133200  0.90614000  0.82519200  1
+  Si  Si8  1  0.08094800  0.90614000  0.17480800  1
+  Si  Si9  1  0.09386000  0.91905200  0.82519200  1
+  Si  Si10  1  0.65614000  0.98133200  0.32519200  1
+  Si  Si11  1  0.65614000  0.33094800  0.67480800  1
+  O  O12  1  0.46901100  0.25762400  0.21138700  1
+  O  O13  1  0.04623700  0.25762400  0.78861300  1
+  O  O14  1  0.00762400  0.29623700  0.28861300  1
+  O  O15  1  0.70376300  0.99237600  0.71138700  1
+  O  O16  1  0.28098900  0.99237600  0.28861300  1
+  O  O17  1  0.00762400  0.71901100  0.71138700  1
+  O  O18  1  0.74237600  0.95376300  0.21138700  1
+  O  O19  1  0.74237600  0.53098900  0.78861300  1

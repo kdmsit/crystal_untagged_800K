@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca3CrF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.04152480
+_cell_length_b   6.72896691
+_cell_length_c   9.16283851
+_cell_angle_alpha   51.51084012
+_cell_angle_beta   131.75469565
+_cell_angle_gamma   114.27900665
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3CrF6
+_chemical_formula_sum   'Ca3 Cr1 F6'
+_cell_volume   289.50772173
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.50000000  1
+  Ca  Ca1  1  0.50000000  0.50000000  0.00000000  1
+  Ca  Ca2  1  0.00000000  0.50000000  0.00000000  1
+  Cr  Cr3  1  0.00000000  0.00000000  0.00000000  1
+  F  F4  1  0.85511500  0.34166500  0.79053100  1
+  F  F5  1  0.14488500  0.65833500  0.20946900  1
+  F  F6  1  0.91256100  0.89720600  0.71323800  1
+  F  F7  1  0.08743900  0.10279400  0.28676200  1
+  F  F8  1  0.71987400  0.81294300  0.97648500  1
+  F  F9  1  0.28012600  0.18705700  0.02351500  1

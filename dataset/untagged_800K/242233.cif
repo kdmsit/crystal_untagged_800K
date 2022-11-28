@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Al2Ca2F12Li2
+_chemical_formula_sum              "Al2 Ca2 F12 Li2"
+_cell_length_a       4.92231
+_cell_length_b       4.92227
+_cell_length_c       9.44827
+_cell_angle_alpha    89.9997
+_cell_angle_beta     90.0001
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.66700  0.33300  0.25000  1.0000
+  Al  Al2       1.0  0.33300  0.66700  0.75000  1.0000
+  Ca  Ca1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ca  Ca2       1.0  0.00000  0.00000  0.50000  1.0000
+  F   F1        1.0  0.37400  0.02250  0.14100  1.0000
+  F   F2        1.0  0.64800  0.62600  0.14100  1.0000
+  F   F3        1.0  0.97700  0.35200  0.14100  1.0000
+  F   F4        1.0  0.97700  0.62600  0.35900  1.0000
+  F   F5        1.0  0.64800  0.02250  0.35900  1.0000
+  F   F6        1.0  0.37400  0.35200  0.35900  1.0000
+  F   F7        1.0  0.62600  0.64800  0.64100  1.0000
+  F   F8        1.0  0.35200  0.97700  0.64100  1.0000
+  F   F9        1.0  0.02260  0.37400  0.64100  1.0000
+  F   F10       1.0  0.02260  0.64800  0.85900  1.0000
+  F   F11       1.0  0.35200  0.37400  0.85900  1.0000
+  F   F12       1.0  0.62600  0.97700  0.85900  1.0000
+  Li  Li1       1.0  0.33300  0.66700  0.25000  1.0000
+  Li  Li2       1.0  0.66700  0.33300  0.75000  1.0000

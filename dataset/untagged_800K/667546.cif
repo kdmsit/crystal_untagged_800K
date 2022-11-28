@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sm2BeGa2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20259300
+_cell_length_b   7.67722700
+_cell_length_c   7.67722700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2BeGa2O7
+_chemical_formula_sum   'Sm4 Be2 Ga4 O14'
+_cell_volume   306.63986587
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.51921800  0.16603300  0.66603300  1
+  Sm  Sm1  1  0.51921800  0.83396700  0.33396700  1
+  Sm  Sm2  1  0.48078200  0.66603300  0.83396700  1
+  Sm  Sm3  1  0.48078200  0.33396700  0.16603300  1
+  Be  Be4  1  0.00000000  0.00000000  0.00000000  1
+  Be  Be5  1  0.00000000  0.50000000  0.50000000  1
+  Ga  Ga6  1  0.97193100  0.65128100  0.15128100  1
+  Ga  Ga7  1  0.97193100  0.34871900  0.84871900  1
+  Ga  Ga8  1  0.02806900  0.15128100  0.34871900  1
+  Ga  Ga9  1  0.02806900  0.84871900  0.65128100  1
+  O  O10  1  0.19933200  0.00000000  0.50000000  1
+  O  O11  1  0.80066800  0.50000000  0.00000000  1
+  O  O12  1  0.32347200  0.63505700  0.13505700  1
+  O  O13  1  0.32347200  0.36494300  0.86494300  1
+  O  O14  1  0.67652800  0.13505700  0.36494300  1
+  O  O15  1  0.67652800  0.86494300  0.63505700  1
+  O  O16  1  0.19511900  0.09443900  0.14291300  1
+  O  O17  1  0.19511900  0.90556100  0.85708700  1
+  O  O18  1  0.80488100  0.14291300  0.90556100  1
+  O  O19  1  0.80488100  0.40556100  0.64291300  1
+  O  O20  1  0.80488100  0.85708700  0.09443900  1
+  O  O21  1  0.80488100  0.59443900  0.35708700  1
+  O  O22  1  0.19511900  0.35708700  0.40556100  1
+  O  O23  1  0.19511900  0.64291300  0.59443900  1

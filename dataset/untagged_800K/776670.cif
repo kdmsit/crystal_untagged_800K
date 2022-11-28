@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_Ca3MnO4
+_symmetry_space_group_name_H-M  'Cmmm'
+_cell_length_a       3.34749
+_cell_length_b       5.76711
+_cell_length_c       5.76711
+_cell_angle_alpha    70.3873
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  65
+_chemical_formula_structural  Ca3MnO4
+_chemical_formula_sum  Ca3MnO4
+_cell_volume  104.8766936902719
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.00000  0.50000  0.50000  1
+ Ca  Ca2  1  0.50000  -0.00000  0.50000  1
+ Ca  Ca3  1  0.50000  0.50000  -0.00000  1
+ Mn  Mn1  1  0.00000  0.00000  0.00000  1
+ O  O1  1  0.00000  0.75325  0.75325  1
+ O  O2  1  0.50000  0.24179  0.75821  1
+ O  O3  1  0.50000  0.75821  0.24179  1
+ O  O4  1  0.00000  0.24675  0.24675  1

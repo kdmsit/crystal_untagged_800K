@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_BiF3
+_symmetry_space_group_name_H-M  'P6_3/mmc'
+_cell_length_a       4.10101
+_cell_length_b       4.10101
+_cell_length_c       7.19606
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  194
+_chemical_formula_structural  BiF3
+_chemical_formula_sum  Bi2F6
+_cell_volume  104.81104086792581
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Bi  Bi1  1  0.66667  0.33333  0.75000  1
+ Bi  Bi2  1  0.33333  0.66667  0.25000  1
+ F  F1  1  0.00000  0.00000  0.25000  1
+ F  F2  1  0.00000  0.00000  0.75000  1
+ F  F3  1  0.33333  0.66667  0.57867  1
+ F  F4  1  0.33333  0.66667  0.92133  1
+ F  F5  1  0.66667  0.33333  0.07867  1
+ F  F6  1  0.66667  0.33333  0.42133  1

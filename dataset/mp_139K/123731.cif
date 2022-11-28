@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SnH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05011200
+_cell_length_b   4.64418000
+_cell_length_c   6.21304130
+_cell_angle_alpha   87.46642823
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnH4
+_chemical_formula_sum   'Sn2 H8'
+_cell_volume   116.74964896
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.25000000  0.23957100  0.57224800  1
+  Sn  Sn1  1  0.75000000  0.76042900  0.42775200  1
+  H  H2  1  0.25000000  0.37048200  0.00966600  1
+  H  H3  1  0.25000000  0.36329200  0.13092400  1
+  H  H4  1  0.75000000  0.13471500  0.93254700  1
+  H  H5  1  0.75000000  0.12415800  0.05462000  1
+  H  H6  1  0.25000000  0.87584200  0.94538000  1
+  H  H7  1  0.25000000  0.86528500  0.06745300  1
+  H  H8  1  0.75000000  0.63670800  0.86907600  1
+  H  H9  1  0.75000000  0.62951800  0.99033400  1

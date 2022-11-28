@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Al4I6
+_chemical_formula_sum              "Al4 I6"
+_cell_length_a       7.4105
+_cell_length_b       7.4105
+_cell_length_c       8.57157
+_cell_angle_alpha    115.612
+_cell_angle_beta     64.3882
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.66200  0.33800  0.01320  1.0000
+  Al  Al2       1.0  0.83800  0.16200  0.48700  1.0000
+  Al  Al3       1.0  0.16200  0.83800  0.51300  1.0000
+  Al  Al4       1.0  0.33800  0.66200  0.98700  1.0000
+  I   I1        1.0  0.25000  0.07820  0.25000  1.0000
+  I   I2        1.0  0.92200  0.42200  0.25000  1.0000
+  I   I3        1.0  0.57800  0.75000  0.25000  1.0000
+  I   I4        1.0  0.42200  0.25000  0.75000  1.0000
+  I   I5        1.0  0.07820  0.57800  0.75000  1.0000
+  I   I6        1.0  0.75000  0.92200  0.75000  1.0000

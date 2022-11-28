@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LiCeTi4O12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32598826
+_cell_length_b   5.32598826
+_cell_length_c   7.74527237
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.38441927
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCeTi4O12
+_chemical_formula_sum   'Li1 Ce1 Ti4 O12'
+_cell_volume   219.69862026
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.98115108  0.01884892  0.00000000  1
+  Ce  Ce1  1  0.52456163  0.47543837  0.50000000  1
+  Ti  Ti2  1  0.48900671  0.98668288  0.22932774  1
+  Ti  Ti3  1  0.48900671  0.98668288  0.77067226  1
+  Ti  Ti4  1  0.01331712  0.51099329  0.77067226  1
+  Ti  Ti5  1  0.01331712  0.51099329  0.22932774  1
+  O  O6  1  0.30228491  0.30061411  0.27037250  1
+  O  O7  1  0.69938589  0.69771509  0.27037250  1
+  O  O8  1  0.69938589  0.69771509  0.72962750  1
+  O  O9  1  0.30228491  0.30061411  0.72962750  1
+  O  O10  1  0.18657637  0.81342363  0.18653470  1
+  O  O11  1  0.77126490  0.22873510  0.30969874  1
+  O  O12  1  0.77126490  0.22873510  0.69030126  1
+  O  O13  1  0.18657637  0.81342363  0.81346530  1
+  O  O14  1  0.59186265  0.02408099  0.00000000  1
+  O  O15  1  0.44761239  0.93287856  0.50000000  1
+  O  O16  1  0.97591901  0.40813735  0.00000000  1
+  O  O17  1  0.06712144  0.55238761  0.50000000  1

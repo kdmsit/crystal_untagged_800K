@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Mo2(CN2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.87629588
+_cell_length_b   3.14768257
+_cell_length_c   5.15678507
+_cell_angle_alpha   90.00000586
+_cell_angle_beta   82.58907665
+_cell_angle_gamma   76.76890782
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mo2(CN2)3
+_chemical_formula_sum   'Mo2 C3 N6'
+_cell_volume   107.69463239
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.26114800  0.86942600  0.93988900  1
+  Mo  Mo1  1  0.73885200  0.13057400  0.06011100  1
+  C  C2  1  0.65513800  0.67243100  0.58440300  1
+  C  C3  1  0.34486200  0.32756900  0.41559700  1
+  C  C4  1  0.00000000  0.00000000  0.50000000  1
+  N  N5  1  0.31421100  0.34289500  0.65310100  1
+  N  N6  1  0.68578900  0.65710500  0.34689900  1
+  N  N7  1  0.38872500  0.30563700  0.16944800  1
+  N  N8  1  0.61127500  0.69436300  0.83055200  1
+  N  N9  1  0.02087500  0.98956200  0.25708000  1
+  N  N10  1  0.97912500  0.01043800  0.74292000  1

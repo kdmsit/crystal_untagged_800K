@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Hg4O4Sn4Te4
+_chemical_formula_sum              "Hg4 O4 Sn4 Te4"
+_cell_length_a       6.49356
+_cell_length_b       4.07949
+_cell_length_c       15.3909
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.73700  0.25000  0.19800  1.0000
+  Hg  Hg2       1.0  0.23700  0.25000  0.30200  1.0000
+  Hg  Hg3       1.0  0.76300  0.75000  0.69800  1.0000
+  Hg  Hg4       1.0  0.26300  0.75000  0.80200  1.0000
+  O   O1        1.0  0.23200  0.25000  0.16100  1.0000
+  O   O2        1.0  0.73200  0.25000  0.33900  1.0000
+  O   O3        1.0  0.26800  0.75000  0.66100  1.0000
+  O   O4        1.0  0.76800  0.75000  0.83900  1.0000
+  Sn  Sn1       1.0  0.23200  0.75000  0.09600  1.0000
+  Sn  Sn2       1.0  0.73200  0.75000  0.40400  1.0000
+  Sn  Sn3       1.0  0.26800  0.25000  0.59600  1.0000
+  Sn  Sn4       1.0  0.76800  0.25000  0.90400  1.0000
+  Te  Te1       1.0  0.74000  0.75000  0.07440  1.0000
+  Te  Te2       1.0  0.24000  0.75000  0.42600  1.0000
+  Te  Te3       1.0  0.76000  0.25000  0.57400  1.0000
+  Te  Te4       1.0  0.26000  0.25000  0.92600  1.0000

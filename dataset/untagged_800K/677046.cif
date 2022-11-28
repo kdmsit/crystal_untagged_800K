@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba2La3Nd(CuO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91848900
+_cell_length_b   6.85205486
+_cell_length_c   6.85205486
+_cell_angle_alpha   89.91547852
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2La3Nd(CuO5)2
+_chemical_formula_sum   'Ba2 La3 Nd1 Cu2 O10'
+_cell_volume   277.87663789
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.00093100  0.99721600  1
+  Ba  Ba1  1  0.50000000  0.49721600  0.50093100  1
+  La  La2  1  0.00000000  0.82400200  0.32400200  1
+  La  La3  1  0.00000000  0.32347700  0.17429500  1
+  La  La4  1  0.00000000  0.67429500  0.82347700  1
+  Nd  Nd5  1  0.00000000  0.17401900  0.67401900  1
+  Cu  Cu6  1  0.50000000  0.49850800  0.99850800  1
+  Cu  Cu7  1  0.50000000  0.00107100  0.50107100  1
+  O  O8  1  0.73950700  0.35714200  0.85714200  1
+  O  O9  1  0.73848800  0.64016400  0.14016400  1
+  O  O10  1  0.74051600  0.14141300  0.36413700  1
+  O  O11  1  0.74051600  0.86413700  0.64141300  1
+  O  O12  1  0.26151200  0.64016400  0.14016400  1
+  O  O13  1  0.26049300  0.35714200  0.85714200  1
+  O  O14  1  0.25948400  0.86413700  0.64141300  1
+  O  O15  1  0.25948400  0.14141300  0.36413700  1
+  O  O16  1  0.00000000  0.49846300  0.50230400  1
+  O  O17  1  0.00000000  0.00230400  0.99846300  1

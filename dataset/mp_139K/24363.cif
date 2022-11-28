@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TiSb4Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.63818700
+_cell_length_b   5.44410345
+_cell_length_c   7.46882774
+_cell_angle_alpha   87.60669660
+_cell_angle_beta   75.90336598
+_cell_angle_gamma   109.52025332
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiSb4Mo
+_chemical_formula_sum   'Ti1 Sb4 Mo1'
+_cell_volume   133.99860306
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.03852200  0.88731900  0.81027500  1
+  Sb  Sb1  1  0.61357200  0.76281000  0.53566600  1
+  Sb  Sb2  1  0.38847300  0.23565800  0.45871100  1
+  Sb  Sb3  1  0.70419700  0.30142600  0.89303200  1
+  Sb  Sb4  1  0.29406300  0.70004200  0.11191500  1
+  Mo  Mo5  1  0.96117200  0.11274500  0.19040100  1

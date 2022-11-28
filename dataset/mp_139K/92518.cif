@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Al(V4Si)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.72351800
+_cell_length_b   4.73017200
+_cell_length_c   9.46907500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al(V4Si)3
+_chemical_formula_sum   'Al1 V12 Si3'
+_cell_volume   211.56804066
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.50000000  0.50000000  0.00000000  1
+  V  V1  1  0.00000000  0.50000000  0.12866200  1
+  V  V2  1  0.00000000  0.50000000  0.62642100  1
+  V  V3  1  0.50000000  0.24574100  0.74508100  1
+  V  V4  1  0.50000000  0.24574100  0.25491900  1
+  V  V5  1  0.75966900  0.00000000  0.00000000  1
+  V  V6  1  0.75149300  0.00000000  0.50000000  1
+  V  V7  1  0.00000000  0.50000000  0.87133800  1
+  V  V8  1  0.00000000  0.50000000  0.37357900  1
+  V  V9  1  0.50000000  0.75425900  0.74508100  1
+  V  V10  1  0.50000000  0.75425900  0.25491900  1
+  V  V11  1  0.24033100  0.00000000  0.00000000  1
+  V  V12  1  0.24850700  0.00000000  0.50000000  1
+  Si  Si13  1  0.50000000  0.50000000  0.50000000  1
+  Si  Si14  1  0.00000000  0.00000000  0.74908300  1
+  Si  Si15  1  0.00000000  0.00000000  0.25091700  1

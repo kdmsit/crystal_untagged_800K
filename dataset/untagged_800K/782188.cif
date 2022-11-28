@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_CaCo2S4
+_symmetry_space_group_name_H-M  'Fd-3m'
+_cell_length_a       7.14957
+_cell_length_b       7.14957
+_cell_length_c       7.15886
+_cell_angle_alpha    119.957
+_cell_angle_beta     119.957
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  227
+_chemical_formula_structural  CaCo2S4
+_chemical_formula_sum  Ca2Co4S8
+_cell_volume  259.09069514794106
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.37500  0.62500  0.75000  1
+ Ca  Ca2  1  0.62500  0.37500  0.25000  1
+ Co  Co1  1  -0.00000  -0.00000  0.50000  1
+ Co  Co2  1  -0.00000  0.50000  -0.00000  1
+ Co  Co3  1  0.50000  -0.00000  0.50000  1
+ Co  Co4  1  0.00000  0.00000  0.00000  1
+ S  S1  1  0.77338  0.81926  0.54676  1
+ S  S2  1  0.77250  0.22662  0.95324  1
+ S  S3  1  0.18074  0.22662  0.95324  1
+ S  S4  1  0.22662  0.18074  0.45324  1
+ S  S5  1  0.22662  0.77250  0.45324  1
+ S  S6  1  0.22750  0.77338  0.04676  1
+ S  S7  1  0.77338  0.22750  0.54676  1
+ S  S8  1  0.81926  0.77338  0.04676  1

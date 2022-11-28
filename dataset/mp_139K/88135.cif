@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sc2FeB2Ru2Rh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.04492400
+_cell_length_b   9.34083700
+_cell_length_c   9.40152600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2FeB2Ru2Rh3
+_chemical_formula_sum   'Sc4 Fe2 B4 Ru4 Rh6'
+_cell_volume   267.39950706
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00000000  0.32497600  0.82318000  1
+  Sc  Sc1  1  0.00000000  0.67502400  0.17682000  1
+  Sc  Sc2  1  0.00000000  0.82497600  0.67682000  1
+  Sc  Sc3  1  0.00000000  0.17502400  0.32318000  1
+  Fe  Fe4  1  0.00000000  0.50000000  0.50000000  1
+  Fe  Fe5  1  0.00000000  0.00000000  0.00000000  1
+  B  B6  1  0.00000000  0.87845700  0.36977000  1
+  B  B7  1  0.00000000  0.12154300  0.63023000  1
+  B  B8  1  0.00000000  0.37845700  0.13023000  1
+  B  B9  1  0.00000000  0.62154300  0.86977000  1
+  Ru  Ru10  1  0.50000000  0.43030100  0.28559700  1
+  Ru  Ru11  1  0.50000000  0.56969900  0.71440300  1
+  Ru  Ru12  1  0.50000000  0.93030100  0.21440300  1
+  Ru  Ru13  1  0.50000000  0.06969900  0.78559700  1
+  Rh  Rh14  1  0.50000000  0.71573500  0.43053300  1
+  Rh  Rh15  1  0.50000000  0.28426500  0.56946700  1
+  Rh  Rh16  1  0.50000000  0.78426500  0.93053300  1
+  Rh  Rh17  1  0.50000000  0.21573500  0.06946700  1
+  Rh  Rh18  1  0.50000000  0.50000000  0.00000000  1
+  Rh  Rh19  1  0.50000000  0.00000000  0.50000000  1

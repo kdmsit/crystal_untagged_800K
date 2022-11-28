@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.61809100
+_cell_length_b   4.92381349
+_cell_length_c   9.16163507
+_cell_angle_alpha   78.57077949
+_cell_angle_beta   86.63636932
+_cell_angle_gamma   87.40468142
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaClO3
+_chemical_formula_sum   'Ba2 Cl2 O6'
+_cell_volume   203.71955765
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.75155500  0.82278800  0.28604400  1
+  Ba  Ba1  1  0.22043900  0.31099000  0.78401900  1
+  Cl  Cl2  1  0.35754200  0.37149500  0.11335500  1
+  Cl  Cl3  1  0.74415700  0.83847200  0.91569800  1
+  O  O4  1  0.25199300  0.82246500  0.48849800  1
+  O  O5  1  0.72277600  0.27275600  0.41438800  1
+  O  O6  1  0.72993200  0.20305300  0.56719700  1
+  O  O7  1  0.24281100  0.86568500  0.62423000  1
+  O  O8  1  0.24441800  0.04946900  0.17551200  1
+  O  O9  1  0.73437500  0.44282500  0.63106000  1

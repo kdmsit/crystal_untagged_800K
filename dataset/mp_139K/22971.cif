@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_ErFeGe2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.94121224
+_cell_length_b   6.94121224
+_cell_length_c   6.68358619
+_cell_angle_alpha   70.04640805
+_cell_angle_beta   70.04640805
+_cell_angle_gamma   77.95179939
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErFeGe2O7
+_chemical_formula_sum   'Er2 Fe2 Ge4 O14'
+_cell_volume   282.96062168
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.20231000  0.79769000  0.00000000  1
+  Er  Er1  1  0.79769000  0.20231000  0.00000000  1
+  Fe  Fe2  1  0.69255000  0.30745000  0.50000000  1
+  Fe  Fe3  1  0.30745000  0.69255000  0.50000000  1
+  Ge  Ge4  1  0.30214400  0.30214400  0.92754400  1
+  Ge  Ge5  1  0.69785600  0.69785600  0.07245600  1
+  Ge  Ge6  1  0.78687100  0.78687100  0.50768500  1
+  Ge  Ge7  1  0.21312900  0.21312900  0.49231500  1
+  O  O8  1  0.69811000  0.69811000  0.80240100  1
+  O  O9  1  0.30189000  0.30189000  0.19759900  1
+  O  O10  1  0.86713600  0.86713600  0.04255700  1
+  O  O11  1  0.13286400  0.13286400  0.95744300  1
+  O  O12  1  0.36500600  0.36500600  0.54081500  1
+  O  O13  1  0.63499400  0.63499400  0.45918500  1
+  O  O14  1  0.56757900  0.21952900  0.83305900  1
+  O  O15  1  0.43242100  0.78047100  0.16694100  1
+  O  O16  1  0.78047100  0.43242100  0.16694100  1
+  O  O17  1  0.21952900  0.56757900  0.83305900  1
+  O  O18  1  0.05689700  0.72827700  0.39631300  1
+  O  O19  1  0.94310300  0.27172300  0.60368700  1
+  O  O20  1  0.27172300  0.94310300  0.60368700  1
+  O  O21  1  0.72827700  0.05689700  0.39631300  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrAlSiN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19754600
+_cell_length_b   5.74821633
+_cell_length_c   5.75486891
+_cell_angle_alpha   119.41001328
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrAlSiN3
+_chemical_formula_sum   'Sr2 Al2 Si2 N6'
+_cell_volume   149.77828617
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00891800  0.68718500  0.68860900  1
+  Sr  Sr1  1  0.50891800  0.31281500  0.31139100  1
+  Al  Al2  1  0.52733500  0.02533800  0.67368200  1
+  Al  Al3  1  0.02733500  0.97466200  0.32631800  1
+  Si  Si4  1  0.52244900  0.66957700  0.02713100  1
+  Si  Si5  1  0.02244900  0.33042300  0.97286900  1
+  N  N6  1  0.51013900  0.78094700  0.79827100  1
+  N  N7  1  0.01013900  0.21905300  0.20172900  1
+  N  N8  1  0.87596300  0.11838900  0.66521500  1
+  N  N9  1  0.85339600  0.63939000  0.10299100  1
+  N  N10  1  0.37596300  0.88161100  0.33478500  1
+  N  N11  1  0.35339600  0.36061000  0.89700900  1

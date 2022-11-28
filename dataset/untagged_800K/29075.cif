@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Br6Pr2
+_chemical_formula_sum              "Br6 Pr2"
+_cell_length_a       7.97459
+_cell_length_b       7.97471
+_cell_length_c       4.42055
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.996
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.70200  0.08610  0.25000  1.0000
+  Br  Br2       1.0  0.38400  0.29800  0.25000  1.0000
+  Br  Br3       1.0  0.91400  0.61600  0.25000  1.0000
+  Br  Br4       1.0  0.08610  0.38400  0.75000  1.0000
+  Br  Br5       1.0  0.61600  0.70200  0.75000  1.0000
+  Br  Br6       1.0  0.29800  0.91400  0.75000  1.0000
+  Pr  Pr1       1.0  0.33300  0.66700  0.25000  1.0000
+  Pr  Pr2       1.0  0.66700  0.33300  0.75000  1.0000

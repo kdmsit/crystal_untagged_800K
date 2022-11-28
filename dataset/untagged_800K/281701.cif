@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       GaLi3MnO6
+_chemical_formula_sum              "Ga1 Li3 Mn1 O6"
+_cell_length_a       5.05137
+_cell_length_b       5.0513
+_cell_length_c       4.85963
+_cell_angle_alpha    99.0315
+_cell_angle_beta     99.0295
+_cell_angle_gamma    121.269
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.15900  0.84100  0.00000  1.0000
+  Li  Li1       1.0  0.50000  0.50000  0.00000  1.0000
+  Li  Li2       1.0  0.65300  0.34700  0.50000  1.0000
+  Li  Li3       1.0  0.34400  0.65600  0.50000  1.0000
+  Mn  Mn1       1.0  0.83700  0.16300  0.00000  1.0000
+  O   O1        1.0  0.22700  0.23600  0.22700  1.0000
+  O   O2        1.0  0.57400  0.92900  0.22800  1.0000
+  O   O3        1.0  0.92200  0.55100  0.23000  1.0000
+  O   O4        1.0  0.44900  0.07830  0.77000  1.0000
+  O   O5        1.0  0.07130  0.42600  0.77200  1.0000
+  O   O6        1.0  0.76400  0.77300  0.77300  1.0000

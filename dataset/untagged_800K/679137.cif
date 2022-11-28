@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MgAlCrS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20887690
+_cell_length_b   7.23453850
+_cell_length_c   7.23473596
+_cell_angle_alpha   60.22790939
+_cell_angle_beta   60.11659651
+_cell_angle_gamma   60.11797616
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgAlCrS4
+_chemical_formula_sum   'Mg2 Al2 Cr2 S8'
+_cell_volume   267.73113576
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.87400611  0.87599098  0.87599274  1
+  Mg  Mg1  1  0.12599499  0.12401166  0.12399802  1
+  Al  Al2  1  0.50000545  0.50001256  0.49998070  1
+  Al  Al3  1  0.99998825  0.49998606  0.50001387  1
+  Cr  Cr4  1  0.50003186  0.49998258  0.00001058  1
+  Cr  Cr5  1  0.49998542  0.00003567  0.50003646  1
+  S  S6  1  0.73702030  0.73701856  0.73699760  1
+  S  S7  1  0.26261152  0.26192439  0.71283605  1
+  S  S8  1  0.26262530  0.71283234  0.26191314  1
+  S  S9  1  0.71105283  0.26299028  0.26297034  1
+  S  S10  1  0.73736285  0.28716176  0.73808148  1
+  S  S11  1  0.28894591  0.73699392  0.73702196  1
+  S  S12  1  0.26297499  0.26296840  0.26299842  1
+  S  S13  1  0.73739822  0.73808581  0.28714966  1

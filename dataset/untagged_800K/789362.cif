@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_CsNiF3
+_symmetry_space_group_name_H-M  'P6_3/mmc'
+_cell_length_a       6.19623
+_cell_length_b       6.19623
+_cell_length_c       5.22657
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  194
+_chemical_formula_structural  CsNiF3
+_chemical_formula_sum  Cs2Ni2F6
+_cell_volume  173.78068719528756
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cs  Cs1  1  0.33333  0.66667  0.25000  1
+ Cs  Cs2  1  0.66667  0.33333  0.75000  1
+ F  F1  1  0.14505  0.29010  0.75000  1
+ F  F2  1  0.29010  0.14505  0.25000  1
+ F  F3  1  0.70990  0.85495  0.75000  1
+ F  F4  1  0.85495  0.14505  0.25000  1
+ F  F5  1  0.85495  0.70990  0.25000  1
+ F  F6  1  0.14505  0.85495  0.75000  1
+ Ni  Ni1  1  0.00000  0.00000  0.00000  1
+ Ni  Ni2  1  0.00000  0.00000  0.50000  1

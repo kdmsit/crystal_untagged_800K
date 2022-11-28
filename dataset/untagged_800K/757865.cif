@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_SrZn
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.68122
+_cell_length_b       6.26682
+_cell_length_c       8.44874
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  SrZn
+_chemical_formula_sum  Sr4Zn4
+_cell_volume  247.85544742404565
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Sr  Sr1  1  0.25000  0.37940  0.67955  1
+ Sr  Sr2  1  0.75000  0.62060  0.32045  1
+ Sr  Sr3  1  0.75000  0.87940  0.82045  1
+ Sr  Sr4  1  0.25000  0.12060  0.17955  1
+ Zn  Zn1  1  0.25000  0.89211  0.52934  1
+ Zn  Zn2  1  0.75000  0.10789  0.47066  1
+ Zn  Zn3  1  0.75000  0.39211  0.97066  1
+ Zn  Zn4  1  0.25000  0.60789  0.02934  1

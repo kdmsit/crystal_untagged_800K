@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Pr2MgSi2
+_symmetry_space_group_name_H-M  'P4/mbm'
+_cell_length_a       7.41364
+_cell_length_b       7.41364
+_cell_length_c       4.41563
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  127
+_chemical_formula_structural  Pr2MgSi2
+_chemical_formula_sum  Pr4Mg2Si4
+_cell_volume  242.69203738039886
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.00000  0.00000  0.00000  1
+ Mg  Mg2  1  0.50000  0.50000  0.00000  1
+ Pr  Pr1  1  0.68044  0.18044  0.50000  1
+ Pr  Pr2  1  0.31956  0.81956  0.50000  1
+ Pr  Pr3  1  0.18044  0.31956  0.50000  1
+ Pr  Pr4  1  0.81956  0.68044  0.50000  1
+ Si  Si1  1  0.11517  0.61517  0.00000  1
+ Si  Si2  1  0.88483  0.38483  0.00000  1
+ Si  Si3  1  0.61517  0.88483  0.00000  1
+ Si  Si4  1  0.38483  0.11517  0.00000  1

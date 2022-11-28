@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Co2Na4S4
+_chemical_formula_sum              "Co2 Na4 S4"
+_cell_length_a       5.57953
+_cell_length_b       6.29217
+_cell_length_c       7.05938
+_cell_angle_alpha    116.466
+_cell_angle_beta     113.278
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.25000  0.00000  0.00000  1.0000
+  Co  Co2       1.0  0.75000  0.00000  0.00000  1.0000
+  Na  Na1       1.0  0.64400  0.48500  0.28700  1.0000
+  Na  Na2       1.0  0.14400  0.80300  0.28700  1.0000
+  Na  Na3       1.0  0.85600  0.19700  0.71300  1.0000
+  Na  Na4       1.0  0.35600  0.51500  0.71300  1.0000
+  S   S1        1.0  0.11100  0.31900  0.22100  1.0000
+  S   S2        1.0  0.61100  0.90300  0.22100  1.0000
+  S   S3        1.0  0.38900  0.09730  0.77900  1.0000
+  S   S4        1.0  0.88900  0.68100  0.77900  1.0000

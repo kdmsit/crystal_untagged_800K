@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ce2MnN3
+_chemical_formula_sum              "Ce2 Mn1 N3"
+_cell_length_a       3.65687
+_cell_length_b       3.77112
+_cell_length_c       6.92605
+_cell_angle_alpha    105.798
+_cell_angle_beta     105.307
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.64800  0.64800  0.29500  1.0000
+  Ce  Ce2       1.0  0.35200  0.35200  0.70500  1.0000
+  Mn  Mn1       1.0  0.00000  0.00000  0.00000  1.0000
+  N   N1        1.0  0.00000  0.50000  0.00000  1.0000
+  N   N2        1.0  0.15800  0.15800  0.31500  1.0000
+  N   N3        1.0  0.84200  0.84200  0.68500  1.0000

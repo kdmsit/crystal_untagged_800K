@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Na3AlAs2
+_symmetry_space_group_name_H-M  'Ibam'
+_cell_length_a       6.21248
+_cell_length_b       6.83268
+_cell_length_c       8.27793
+_cell_angle_alpha    114.375
+_cell_angle_beta     112.039
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  72
+_chemical_formula_structural  Na3AlAs2
+_chemical_formula_sum  Na6Al2As4
+_cell_volume  291.6390158007443
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.75000  -0.00000  0.00000  1
+ Al  Al2  1  0.25000  -0.00000  -0.00000  1
+ As  As1  1  0.89490  0.69178  0.78981  1
+ As  As2  1  0.10510  0.30822  0.21019  1
+ As  As3  1  0.60510  0.90198  0.21019  1
+ As  As4  1  0.39490  0.09802  0.78981  1
+ Na  Na1  1  0.31186  0.61413  0.62372  1
+ Na  Na2  1  0.68814  0.38587  0.37628  1
+ Na  Na3  1  0.18814  -0.00959  0.37628  1
+ Na  Na4  1  0.81186  0.00959  0.62372  1
+ Na  Na5  1  0.25000  0.50000  -0.00000  1
+ Na  Na6  1  0.75000  0.50000  -0.00000  1

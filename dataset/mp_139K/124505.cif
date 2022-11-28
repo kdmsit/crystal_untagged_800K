@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HoMgMn2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17290000
+_cell_length_b   5.44232400
+_cell_length_c   7.52032400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoMgMn2O6
+_chemical_formula_sum   'Ho2 Mg2 Mn4 O12'
+_cell_volume   211.71665705
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.01809700  0.68213100  0.00000000  1
+  Ho  Ho1  1  0.51809700  0.31786900  0.50000000  1
+  Mg  Mg2  1  0.48294000  0.18736100  0.00000000  1
+  Mg  Mg3  1  0.98294000  0.81263900  0.50000000  1
+  Mn  Mn4  1  0.00002900  0.24414600  0.75080400  1
+  Mn  Mn5  1  0.00002900  0.24414600  0.24919600  1
+  Mn  Mn6  1  0.50002900  0.75585400  0.25080400  1
+  Mn  Mn7  1  0.50002900  0.75585400  0.74919600  1
+  O  O8  1  0.10633100  0.19399600  0.50000000  1
+  O  O9  1  0.19967800  0.95112900  0.81095500  1
+  O  O10  1  0.19967800  0.95112900  0.18904500  1
+  O  O11  1  0.31117400  0.44002900  0.81144500  1
+  O  O12  1  0.31117400  0.44002900  0.18855500  1
+  O  O13  1  0.37106200  0.71337300  0.50000000  1
+  O  O14  1  0.60633100  0.80600400  0.00000000  1
+  O  O15  1  0.69967800  0.04887100  0.31095500  1
+  O  O16  1  0.69967800  0.04887100  0.68904500  1
+  O  O17  1  0.81117400  0.55997100  0.68855500  1
+  O  O18  1  0.81117400  0.55997100  0.31144500  1
+  O  O19  1  0.87106200  0.28662700  0.00000000  1

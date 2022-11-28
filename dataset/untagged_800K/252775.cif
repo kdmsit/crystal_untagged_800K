@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Al6C10Zr4
+_chemical_formula_sum              "Al6 C10 Zr4"
+_cell_length_a       3.25016
+_cell_length_b       3.25016
+_cell_length_c       24.4251
+_cell_angle_alpha    90.0002
+_cell_angle_beta     90.0002
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.66700  0.33300  1.00000  1.0000
+  Al  Al2       1.0  0.00000  0.00001  0.09620  1.0000
+  Al  Al3       1.0  0.00003  0.00002  0.40400  1.0000
+  Al  Al4       1.0  0.33300  0.66700  0.50000  1.0000
+  Al  Al5       1.0  0.00001  0.00000  0.59600  1.0000
+  Al  Al6       1.0  0.00002  0.00003  0.90400  1.0000
+  C   C1        1.0  0.33300  0.66700  0.03280  1.0000
+  C   C2        1.0  0.66700  0.33300  0.13600  1.0000
+  C   C3        1.0  0.00001  0.00001  0.25000  1.0000
+  C   C4        1.0  0.33300  0.66700  0.36400  1.0000
+  C   C5        1.0  0.66700  0.33300  0.46700  1.0000
+  C   C6        1.0  0.66700  0.33300  0.53300  1.0000
+  C   C7        1.0  0.33300  0.66700  0.63600  1.0000
+  C   C8        1.0  0.00001  0.00001  0.75000  1.0000
+  C   C9        1.0  0.66700  0.33300  0.86400  1.0000
+  C   C10       1.0  0.33300  0.66700  0.96700  1.0000
+  Zr  Zr1       1.0  0.33300  0.66700  0.19300  1.0000
+  Zr  Zr2       1.0  0.66700  0.33300  0.30700  1.0000
+  Zr  Zr3       1.0  0.66700  0.33300  0.69300  1.0000
+  Zr  Zr4       1.0  0.33300  0.66700  0.80700  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FeGa2S4
+_chemical_formula_sum              "Fe1 Ga2 S4"
+_cell_length_a       3.65772
+_cell_length_b       3.65776
+_cell_length_c       12.2185
+_cell_angle_alpha    90
+_cell_angle_beta     90.0016
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.00000  0.00000  0.50000  1.0000
+  Ga  Ga1       1.0  0.33300  0.66700  0.21300  1.0000
+  Ga  Ga2       1.0  0.66700  0.33300  0.78700  1.0000
+  S   S1        1.0  0.66700  0.33300  0.12800  1.0000
+  S   S2        1.0  0.33300  0.66700  0.39400  1.0000
+  S   S3        1.0  0.66700  0.33300  0.60600  1.0000
+  S   S4        1.0  0.33300  0.66700  0.87200  1.0000

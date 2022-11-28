@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_SrCu2Se2(ClO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31543800
+_cell_length_b   7.25836100
+_cell_length_c   8.17318320
+_cell_angle_alpha   83.94807076
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCu2Se2(ClO3)2
+_chemical_formula_sum   'Sr2 Cu4 Se4 Cl4 O12'
+_cell_volume   431.56173442
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.02898100  0.37401700  0.06978800  1
+  Sr  Sr1  1  0.52898100  0.62598300  0.93021200  1
+  Cu  Cu2  1  0.03326300  0.86398800  0.90259000  1
+  Cu  Cu3  1  0.53326300  0.13601200  0.09741000  1
+  Cu  Cu4  1  0.01429100  0.19731000  0.58967700  1
+  Cu  Cu5  1  0.51429100  0.80269000  0.41032300  1
+  Se  Se6  1  0.67957400  0.37122600  0.38328800  1
+  Se  Se7  1  0.17957400  0.62877400  0.61671200  1
+  Se  Se8  1  0.38568100  0.14659900  0.78537500  1
+  Se  Se9  1  0.88568100  0.85340100  0.21462500  1
+  Cl  Cl10  1  0.77852600  0.37584900  0.78505700  1
+  Cl  Cl11  1  0.27852600  0.62415100  0.21494300  1
+  Cl  Cl12  1  0.31565100  0.05458600  0.37391600  1
+  Cl  Cl13  1  0.81565100  0.94541400  0.62608400  1
+  O  O14  1  0.16032100  0.06333300  0.76812800  1
+  O  O15  1  0.66032100  0.93666700  0.23187200  1
+  O  O16  1  0.65036800  0.35671100  0.17061500  1
+  O  O17  1  0.15036800  0.64328900  0.82938500  1
+  O  O18  1  0.36474400  0.29290200  0.94636400  1
+  O  O19  1  0.86474400  0.70709800  0.05363600  1
+  O  O20  1  0.70244800  0.60695300  0.38509900  1
+  O  O21  1  0.20244800  0.39304700  0.61490100  1
+  O  O22  1  0.91106300  0.31145600  0.38377400  1
+  O  O23  1  0.41106300  0.68854400  0.61622600  1
+  O  O24  1  0.96858700  0.03122000  0.07355100  1
+  O  O25  1  0.46858700  0.96878000  0.92644900  1

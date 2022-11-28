@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Be2Cr3Ni2
+_chemical_formula_sum              "Be2 Cr3 Ni2"
+_cell_length_a       6.0924
+_cell_length_b       6.0924
+_cell_length_c       6.0924
+_cell_angle_alpha    36.5232
+_cell_angle_beta     36.5232
+_cell_angle_gamma    36.5232
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.19300  0.19300  0.19300  1.0000
+  Be  Be2       1.0  0.76700  0.76700  0.76700  1.0000
+  Cr  Cr1       1.0  0.33700  0.33700  0.33700  1.0000
+  Cr  Cr2       1.0  0.62400  0.62400  0.62400  1.0000
+  Cr  Cr3       1.0  0.91200  0.91200  0.91200  1.0000
+  Ni  Ni1       1.0  0.06080  0.06080  0.06080  1.0000
+  Ni  Ni2       1.0  0.48100  0.48100  0.48100  1.0000

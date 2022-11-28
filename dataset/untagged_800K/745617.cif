@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CrGa3(FeSe4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83821300
+_cell_length_b   6.72011100
+_cell_length_c   13.29181461
+_cell_angle_alpha   80.27465938
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrGa3(FeSe4)2
+_chemical_formula_sum   'Cr1 Ga3 Fe2 Se8'
+_cell_volume   337.91167936
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.00000000  0.76169700  0.70656100  1
+  Ga  Ga1  1  0.00000000  0.99556600  0.00174200  1
+  Ga  Ga2  1  0.50000000  0.50273900  0.00183200  1
+  Ga  Ga3  1  0.50000000  0.26596000  0.70343900  1
+  Fe  Fe4  1  0.50000000  0.73522200  0.29126500  1
+  Fe  Fe5  1  0.00000000  0.23682000  0.29030500  1
+  Se  Se6  1  0.50000000  0.62526100  0.62724900  1
+  Se  Se7  1  0.00000000  0.12469600  0.62512100  1
+  Se  Se8  1  0.50000000  0.38058300  0.36319500  1
+  Se  Se9  1  0.00000000  0.87986800  0.36254200  1
+  Se  Se10  1  0.50000000  0.20519600  0.89152100  1
+  Se  Se11  1  0.00000000  0.70303100  0.89231100  1
+  Se  Se12  1  0.50000000  0.79673300  0.11023600  1
+  Se  Se13  1  0.00000000  0.29462800  0.10868200  1

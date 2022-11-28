@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_DyMgTiS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.75151795
+_cell_length_b   7.60720666
+_cell_length_c   7.60030167
+_cell_angle_alpha   58.66867511
+_cell_angle_beta   59.36751187
+_cell_angle_gamma   59.34563601
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyMgTiS4
+_chemical_formula_sum   'Dy2 Mg2 Ti2 S8'
+_cell_volume   310.56953774
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.50000300  0.50001200  0.49998000  1
+  Dy  Dy1  1  0.00000100  0.49999000  0.50001000  1
+  Mg  Mg2  1  0.87678200  0.87321200  0.87322900  1
+  Mg  Mg3  1  0.12322000  0.12678800  0.12677100  1
+  Ti  Ti4  1  0.49999600  0.50000300  0.00000300  1
+  Ti  Ti5  1  0.50000100  0.99999200  0.50001100  1
+  S  S6  1  0.72118500  0.75275600  0.75273300  1
+  S  S7  1  0.26789500  0.23286300  0.73132500  1
+  S  S8  1  0.26797900  0.73104300  0.23298900  1
+  S  S9  1  0.72669100  0.24727900  0.24724200  1
+  S  S10  1  0.73200600  0.26895500  0.76700000  1
+  S  S11  1  0.27330700  0.75272300  0.75275200  1
+  S  S12  1  0.27881700  0.24723300  0.24728100  1
+  S  S13  1  0.73211900  0.76714400  0.26867500  1

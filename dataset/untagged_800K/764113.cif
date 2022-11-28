@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_ScCuGe
+_symmetry_space_group_name_H-M  'P-62m'
+_cell_length_a       3.96408
+_cell_length_b       6.55124
+_cell_length_c       6.55103
+_cell_angle_alpha    120.001
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  189
+_chemical_formula_structural  ScCuGe
+_chemical_formula_sum  Sc3Cu3Ge3
+_cell_volume  147.33331296039535
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.50000  0.24522  0.00000  1
+ Cu  Cu2  1  0.50000  0.75480  0.75478  1
+ Cu  Cu3  1  0.50000  0.00001  0.24522  1
+ Ge  Ge1  1  0.50000  0.66668  0.33334  1
+ Ge  Ge2  1  0.50000  0.33334  0.66666  1
+ Ge  Ge3  1  0.00000  0.00002  0.00000  1
+ Sc  Sc1  1  0.00000  0.57432  0.00000  1
+ Sc  Sc2  1  0.00000  0.42570  0.42569  1
+ Sc  Sc3  1  0.00000  0.00001  0.57431  1

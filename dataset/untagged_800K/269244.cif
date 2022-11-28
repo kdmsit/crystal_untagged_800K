@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       Ni4Ta20
+_chemical_formula_sum              "Ni4 Ta20"
+_cell_length_a       8.40733
+_cell_length_b       8.40733
+_cell_length_c       8.40733
+_cell_angle_alpha    120
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni2       1.0  0.50000  0.00000  0.00000  1.0000
+  Ni  Ni3       1.0  0.50000  0.50000  0.00000  1.0000
+  Ni  Ni4       1.0  0.50000  0.50000  0.50000  1.0000
+  Ta  Ta1       1.0  0.71100  0.92300  0.13400  1.0000
+  Ta  Ta2       1.0  0.31300  0.75000  0.18700  1.0000
+  Ta  Ta3       1.0  0.93700  0.37500  0.18700  1.0000
+  Ta  Ta4       1.0  0.93700  0.75000  0.18700  1.0000
+  Ta  Ta5       1.0  0.28900  0.07720  0.21100  1.0000
+  Ta  Ta6       1.0  0.28900  0.42300  0.21100  1.0000
+  Ta  Ta7       1.0  0.63400  0.42300  0.21100  1.0000
+  Ta  Ta8       1.0  0.68700  0.87500  0.43700  1.0000
+  Ta  Ta9       1.0  0.06260  0.25000  0.43700  1.0000
+  Ta  Ta10      1.0  0.68700  0.25000  0.43700  1.0000
+  Ta  Ta11      1.0  0.93700  0.75000  0.56300  1.0000
+  Ta  Ta12      1.0  0.31300  0.75000  0.56300  1.0000
+  Ta  Ta13      1.0  0.31300  0.12500  0.56300  1.0000
+  Ta  Ta14      1.0  0.71100  0.57700  0.78900  1.0000
+  Ta  Ta15      1.0  0.71100  0.92300  0.78900  1.0000
+  Ta  Ta16      1.0  0.36600  0.57700  0.78900  1.0000
+  Ta  Ta17      1.0  0.06260  0.25000  0.81300  1.0000
+  Ta  Ta18      1.0  0.06260  0.62500  0.81300  1.0000
+  Ta  Ta19      1.0  0.68700  0.25000  0.81300  1.0000
+  Ta  Ta20      1.0  0.28900  0.07720  0.86600  1.0000

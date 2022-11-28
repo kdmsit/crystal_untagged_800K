@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_TaFeB
+_symmetry_space_group_name_H-M  'P-62m'
+_cell_length_a       3.20076
+_cell_length_b       5.97148
+_cell_length_c       5.97139
+_cell_angle_alpha    120
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  189
+_chemical_formula_structural  TaFeB
+_chemical_formula_sum  Ta3Fe3B3
+_cell_volume  98.84135004570234
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.00000  0.33332  0.66668  1
+ B  B2  1  0.00000  0.66664  0.33332  1
+ B  B3  1  0.50000  0.99998  0.00000  1
+ Fe  Fe1  1  0.00000  0.23922  0.00000  1
+ Fe  Fe2  1  0.00000  0.76077  0.76077  1
+ Fe  Fe3  1  0.00000  0.00000  0.23923  1
+ Ta  Ta1  1  0.50000  0.58849  -0.00000  1
+ Ta  Ta2  1  0.50000  0.41150  0.41151  1
+ Ta  Ta3  1  0.50000  -0.00001  0.58849  1

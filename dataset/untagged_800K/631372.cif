@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_SrLa2Cl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.70469548
+_cell_length_b   7.70469548
+_cell_length_c   5.53791066
+_cell_angle_alpha   81.82212130
+_cell_angle_beta   81.82212130
+_cell_angle_gamma   111.10367578
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLa2Cl8
+_chemical_formula_sum   'Sr1 La2 Cl8'
+_cell_volume   296.83899818
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1
+  La  La1  1  0.31797300  0.68202700  0.50000000  1
+  La  La2  1  0.68202700  0.31797300  0.50000000  1
+  Cl  Cl3  1  0.67786100  0.93838000  0.57805600  1
+  Cl  Cl4  1  0.93838000  0.67786100  0.57805600  1
+  Cl  Cl5  1  0.62920400  0.62920400  0.18813200  1
+  Cl  Cl6  1  0.76150100  0.23849900  0.00000000  1
+  Cl  Cl7  1  0.23849900  0.76150100  0.00000000  1
+  Cl  Cl8  1  0.37079600  0.37079600  0.81186800  1
+  Cl  Cl9  1  0.32213900  0.06162000  0.42194400  1
+  Cl  Cl10  1  0.06162000  0.32213900  0.42194400  1

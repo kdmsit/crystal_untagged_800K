@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Re4Ti6
+_chemical_formula_sum              "Re4 Ti6"
+_cell_length_a       5.50154
+_cell_length_b       5.50154
+_cell_length_c       7.0365
+_cell_angle_alpha    113.012
+_cell_angle_beta     66.9877
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.31300  0.68700  0.06080  1.0000
+  Re  Re2       1.0  0.18700  0.81300  0.43900  1.0000
+  Re  Re3       1.0  0.81300  0.18700  0.56100  1.0000
+  Re  Re4       1.0  0.68700  0.31300  0.93900  1.0000
+  Ti  Ti1       1.0  0.74800  0.24800  0.25000  1.0000
+  Ti  Ti2       1.0  0.25000  0.25200  0.25000  1.0000
+  Ti  Ti3       1.0  0.75200  0.75000  0.25000  1.0000
+  Ti  Ti4       1.0  0.24800  0.25000  0.75000  1.0000
+  Ti  Ti5       1.0  0.75000  0.74800  0.75000  1.0000
+  Ti  Ti6       1.0  0.25200  0.75200  0.75000  1.0000

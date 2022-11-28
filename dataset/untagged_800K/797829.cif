@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_ZnPS3
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       6.00178
+_cell_length_b       6.00178
+_cell_length_c       6.78227
+_cell_angle_alpha    98.4876
+_cell_angle_beta     98.4877
+_cell_angle_gamma    119.97
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  ZnPS3
+_chemical_formula_sum  Zn2P2S6
+_cell_volume  202.21715529952888
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ P  P1  1  0.05725  0.05725  0.17151  1
+ P  P2  1  0.94275  0.94275  0.82849  1
+ S  S1  1  0.41310  0.08290  0.25054  1
+ S  S2  1  0.91710  0.58690  0.74946  1
+ S  S3  1  0.24788  0.24788  0.75170  1
+ S  S4  1  0.75212  0.75212  0.24830  1
+ S  S5  1  0.58690  0.91710  0.74946  1
+ S  S6  1  0.08290  0.41310  0.25054  1
+ Zn  Zn1  1  0.33229  0.66771  -0.00000  1
+ Zn  Zn2  1  0.66771  0.33229  0.00000  1

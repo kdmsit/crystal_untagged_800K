@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_HoTlPd
+_symmetry_space_group_name_H-M  'P-62m'
+_cell_length_a       7.83084
+_cell_length_b       7.83084
+_cell_length_c       3.73763
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  189
+_chemical_formula_structural  HoTlPd
+_chemical_formula_sum  Ho3Tl3Pd3
+_cell_volume  198.49217752963068
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ho  Ho1  1  -0.00000  0.40104  0.50000  1
+ Ho  Ho2  1  0.59896  0.59896  0.50000  1
+ Ho  Ho3  1  0.40104  -0.00000  0.50000  1
+ Pd  Pd1  1  0.33333  0.66667  0.00000  1
+ Pd  Pd2  1  0.66667  0.33333  0.00000  1
+ Pd  Pd3  1  0.00000  0.00000  0.50000  1
+ Tl  Tl1  1  0.00000  0.73002  0.00000  1
+ Tl  Tl2  1  0.26998  0.26998  0.00000  1
+ Tl  Tl3  1  0.73002  0.00000  0.00000  1

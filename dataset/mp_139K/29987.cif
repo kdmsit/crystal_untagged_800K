@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TbMgS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93123104
+_cell_length_b   6.93123104
+_cell_length_c   6.77372743
+_cell_angle_alpha   73.36750549
+_cell_angle_beta   73.36750549
+_cell_angle_gamma   110.81699480
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbMgS3
+_chemical_formula_sum   'Tb2 Mg2 S6'
+_cell_volume   262.68976313
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.78127600  0.78127600  0.24935800  1
+  Tb  Tb1  1  0.21872400  0.21872400  0.75064200  1
+  Mg  Mg2  1  0.33868200  0.66131800  0.00000000  1
+  Mg  Mg3  1  0.66131800  0.33868200  0.00000000  1
+  S  S4  1  0.22439600  0.91967100  0.15282100  1
+  S  S5  1  0.77560400  0.08032900  0.84717900  1
+  S  S6  1  0.08032900  0.77560400  0.84717900  1
+  S  S7  1  0.91967100  0.22439600  0.15282100  1
+  S  S8  1  0.57870400  0.57870400  0.71129200  1
+  S  S9  1  0.42129600  0.42129600  0.28870800  1

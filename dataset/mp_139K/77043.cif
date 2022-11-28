@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ce(In2Ni)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41109700
+_cell_length_b   7.70492100
+_cell_length_c   11.87064600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce(In2Ni)3
+_chemical_formula_sum   'Ce2 In12 Ni6'
+_cell_volume   403.44947259
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.75000000  0.75000000  0.67599500  1
+  Ce  Ce1  1  0.25000000  0.25000000  0.32400500  1
+  In  In2  1  0.25000000  0.75000000  0.25141300  1
+  In  In3  1  0.75000000  0.25000000  0.74858700  1
+  In  In4  1  0.75000000  0.75000000  0.98789000  1
+  In  In5  1  0.25000000  0.25000000  0.01211000  1
+  In  In6  1  0.75000000  0.94994000  0.41568600  1
+  In  In7  1  0.75000000  0.55006000  0.41568600  1
+  In  In8  1  0.25000000  0.05006000  0.58431400  1
+  In  In9  1  0.25000000  0.44994000  0.58431400  1
+  In  In10  1  0.75000000  0.04957300  0.16403500  1
+  In  In11  1  0.75000000  0.45042700  0.16403500  1
+  In  In12  1  0.25000000  0.95042700  0.83596500  1
+  In  In13  1  0.25000000  0.54957300  0.83596500  1
+  Ni  Ni14  1  0.75000000  0.25000000  0.52961200  1
+  Ni  Ni15  1  0.25000000  0.75000000  0.47038800  1
+  Ni  Ni16  1  0.75000000  0.07442400  0.93474100  1
+  Ni  Ni17  1  0.75000000  0.42557600  0.93474100  1
+  Ni  Ni18  1  0.25000000  0.92557600  0.06525900  1
+  Ni  Ni19  1  0.25000000  0.57442400  0.06525900  1

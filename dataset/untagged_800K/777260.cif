@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_LiNbO3
+_symmetry_space_group_name_H-M  'R3c'
+_cell_length_a       5.56131
+_cell_length_b       5.56131
+_cell_length_c       5.56131
+_cell_angle_alpha    55.5052
+_cell_angle_beta     55.5053
+_cell_angle_gamma    55.5052
+
+_symmetry_Int_Tables_number  161
+_chemical_formula_structural  LiNbO3
+_chemical_formula_sum  Li2Nb2O6
+_cell_volume  108.93092508279412
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.28143  0.28143  0.28143  1
+ Li  Li2  1  0.78143  0.78143  0.78143  1
+ Nb  Nb1  1  0.00024  0.00024  0.00024  1
+ Nb  Nb2  1  0.50024  0.50024  0.50024  1
+ O  O1  1  0.10377  0.36865  0.71950  1
+ O  O2  1  0.71950  0.10377  0.36865  1
+ O  O3  1  0.36865  0.71950  0.10377  1
+ O  O4  1  0.86865  0.60377  0.21950  1
+ O  O5  1  0.21950  0.86865  0.60377  1
+ O  O6  1  0.60377  0.21950  0.86865  1

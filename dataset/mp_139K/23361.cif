@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CdSn3F6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.63012500
+_cell_length_b   11.66003966
+_cell_length_c   20.73622949
+_cell_angle_alpha   95.93458660
+_cell_angle_beta   92.58664804
+_cell_angle_gamma   119.17874084
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdSn3F6
+_chemical_formula_sum   'Cd1 Sn3 F6'
+_cell_volume   2427.17860160
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00000000  0.00000000  0.00000000  1
+  Sn  Sn1  1  0.00000000  0.00000000  0.50000000  1
+  Sn  Sn2  1  0.00000000  0.50000000  0.00000000  1
+  Sn  Sn3  1  0.50000000  0.00000000  0.00000000  1
+  F  F4  1  0.39286100  0.99415100  0.91677100  1
+  F  F5  1  0.60713900  0.00584900  0.08322900  1
+  F  F6  1  0.99581100  0.07365800  0.59404200  1
+  F  F7  1  0.00418900  0.92634200  0.40595800  1
+  F  F8  1  0.08860800  0.38519100  0.00471400  1
+  F  F9  1  0.91139200  0.61480900  0.99528600  1

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       FeNaO8Se2
+_chemical_formula_sum              "Fe1 Na1 O8 Se2"
+_cell_length_a       4.89872
+_cell_length_b       4.89872
+_cell_length_c       7.0163
+_cell_angle_alpha    91.8237
+_cell_angle_beta     91.8237
+_cell_angle_gamma    67.556
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.00000  0.00000  0.00000  1.0000
+  Na  Na1       1.0  1.00000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.24100  0.24100  0.03340  1.0000
+  O   O2        1.0  0.73800  0.23700  0.21300  1.0000
+  O   O3        1.0  0.23700  0.73800  0.21300  1.0000
+  O   O4        1.0  0.28300  0.28300  0.43700  1.0000
+  O   O5        1.0  0.71700  0.71700  0.56300  1.0000
+  O   O6        1.0  0.76300  0.26200  0.78700  1.0000
+  O   O7        1.0  0.26200  0.76300  0.78700  1.0000
+  O   O8        1.0  0.75900  0.75900  0.96700  1.0000
+  Se  Se1       1.0  0.36600  0.36600  0.22900  1.0000
+  Se  Se2       1.0  0.63400  0.63400  0.77100  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CaMnP2
+_chemical_formula_sum              "Ca1 Mn1 P2"
+_cell_length_a       3.86565
+_cell_length_b       3.86539
+_cell_length_c       5.63373
+_cell_angle_alpha    110.047
+_cell_angle_beta     110.071
+_cell_angle_gamma    90.0226
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.92600  0.36100  0.00479  1.0000
+  Mn  Mn1       1.0  0.67800  0.61000  0.50400  1.0000
+  P   P1        1.0  0.54700  0.98000  0.24400  1.0000
+  P   P2        1.0  0.30700  0.74100  0.76200  1.0000

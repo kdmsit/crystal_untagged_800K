@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_HoGePd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66220087
+_cell_length_b   5.66220087
+_cell_length_c   7.00171628
+_cell_angle_alpha   51.80988898
+_cell_angle_beta   51.80988898
+_cell_angle_gamma   45.42118067
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoGePd
+_chemical_formula_sum   'Ho2 Ge2 Pd2'
+_cell_volume   118.66384089
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.45593600  0.45593600  0.30385300  1
+  Ho  Ho1  1  0.54406400  0.54406400  0.69614700  1
+  Ge  Ge2  1  0.15937700  0.15937700  0.89486900  1
+  Ge  Ge3  1  0.84062300  0.84062300  0.10513100  1
+  Pd  Pd4  1  0.82253300  0.82253300  0.72616400  1
+  Pd  Pd5  1  0.17746700  0.17746700  0.27383600  1

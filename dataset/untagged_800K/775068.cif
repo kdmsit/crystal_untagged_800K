@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_FePtO2
+_symmetry_space_group_name_H-M  'R-3m'
+_cell_length_a       2.82218
+_cell_length_b       4.89211
+_cell_length_c       6.3147
+_cell_angle_alpha    104.975
+_cell_angle_beta     90.0006
+_cell_angle_gamma    90.0002
+
+_symmetry_Int_Tables_number  166
+_chemical_formula_structural  FePtO2
+_chemical_formula_sum  Fe2Pt2O4
+_cell_volume  84.22257450717157
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.50000  -0.00000  0.50000  1
+ Fe  Fe2  1  1.00000  0.50000  0.50000  1
+ O  O1  1  -0.00000  0.11094  0.33259  1
+ O  O2  1  0.50000  0.61094  0.33259  1
+ O  O3  1  0.00000  0.88906  0.66741  1
+ O  O4  1  0.50000  0.38906  0.66741  1
+ Pt  Pt1  1  0.00000  0.00000  0.00000  1
+ Pt  Pt2  1  0.50000  0.50000  0.00000  1

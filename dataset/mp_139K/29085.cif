@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ca2GdTaO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.90989500
+_cell_length_b   5.64723600
+_cell_length_c   9.93888642
+_cell_angle_alpha   55.32677087
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2GdTaO6
+_chemical_formula_sum   'Ca4 Gd2 Ta2 O12'
+_cell_volume   272.79837659
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.94597200  0.72884800  0.75634200  1
+  Ca  Ca1  1  0.55402800  0.72884800  0.25634200  1
+  Ca  Ca2  1  0.05402800  0.27115200  0.24365800  1
+  Ca  Ca3  1  0.44597200  0.27115200  0.74365800  1
+  Gd  Gd4  1  0.00000000  0.50000000  0.50000000  1
+  Gd  Gd5  1  0.50000000  0.50000000  0.00000000  1
+  Ta  Ta6  1  0.50000000  0.00000000  0.50000000  1
+  Ta  Ta7  1  0.00000000  0.00000000  0.00000000  1
+  O  O8  1  0.67933800  0.65604700  0.55332500  1
+  O  O9  1  0.82066200  0.65604700  0.05332500  1
+  O  O10  1  0.32066200  0.34395300  0.44667500  1
+  O  O11  1  0.17933800  0.34395300  0.94667500  1
+  O  O12  1  0.55511800  0.88569800  0.73071200  1
+  O  O13  1  0.94488200  0.88569800  0.23071200  1
+  O  O14  1  0.44488200  0.11430200  0.26928800  1
+  O  O15  1  0.05511800  0.11430200  0.76928800  1
+  O  O16  1  0.71629800  0.24532300  0.92920300  1
+  O  O17  1  0.78370200  0.24532300  0.42920300  1
+  O  O18  1  0.28370200  0.75467700  0.07079700  1
+  O  O19  1  0.21629800  0.75467700  0.57079700  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Fe(NiN)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80832784
+_cell_length_b   6.80794134
+_cell_length_c   3.72986900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.29159883
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe(NiN)3
+_chemical_formula_sum   'Fe2 Ni6 N6'
+_cell_volume   149.27836013
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.66507500  0.33493500  0.75000000  1
+  Fe  Fe1  1  0.33492500  0.66506500  0.25000000  1
+  Ni  Ni2  1  0.85586000  0.70790700  0.25000000  1
+  Ni  Ni3  1  0.84992400  0.14992200  0.25000000  1
+  Ni  Ni4  1  0.29209900  0.14429400  0.25000000  1
+  Ni  Ni5  1  0.14414000  0.29209300  0.75000000  1
+  Ni  Ni6  1  0.15007600  0.85007800  0.75000000  1
+  Ni  Ni7  1  0.70790100  0.85570600  0.75000000  1
+  N  N8  1  0.81499300  0.63235400  0.75000000  1
+  N  N9  1  0.81368200  0.18617300  0.75000000  1
+  N  N10  1  0.36765200  0.18518300  0.75000000  1
+  N  N11  1  0.18500700  0.36764600  0.25000000  1
+  N  N12  1  0.18631800  0.81382700  0.25000000  1
+  N  N13  1  0.63234800  0.81481700  0.25000000  1

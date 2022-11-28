@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ce2Ge6Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18336300
+_cell_length_b   4.22802400
+_cell_length_c   11.36514151
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   100.60537957
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Ge6Au
+_chemical_formula_sum   'Ce2 Ge6 Au1'
+_cell_volume   197.58554229
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.77884300  0.50000000  0.55768500  1
+  Ce  Ce1  1  0.11671000  0.50000000  0.23342100  1
+  Ge  Ge2  1  0.49215400  0.50000000  0.98430800  1
+  Ge  Ge3  1  0.37988000  0.50000000  0.75976000  1
+  Ge  Ge4  1  0.99126800  0.00000000  0.98253700  1
+  Ge  Ge5  1  0.87902500  0.00000000  0.75804900  1
+  Ge  Ge6  1  0.67241500  0.00000000  0.34483000  1
+  Ge  Ge7  1  0.23661600  0.00000000  0.47323300  1
+  Au  Au8  1  0.56008800  0.00000000  0.12017600  1

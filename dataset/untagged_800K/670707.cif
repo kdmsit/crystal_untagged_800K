@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_YbCdIn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99508295
+_cell_length_b   4.99508295
+_cell_length_c   7.43690900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001255
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbCdIn
+_chemical_formula_sum   'Yb2 Cd2 In2'
+_cell_volume   160.69725305
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.00000000  0.00000000  0.26003400  1
+  Yb  Yb1  1  0.00000000  0.00000000  0.73996600  1
+  Cd  Cd2  1  0.33333300  0.66666700  0.48152900  1
+  Cd  Cd3  1  0.66666700  0.33333300  0.51847100  1
+  In  In4  1  0.66666700  0.33333300  0.95912600  1
+  In  In5  1  0.33333300  0.66666700  0.04087400  1

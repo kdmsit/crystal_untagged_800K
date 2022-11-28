@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       In2Ni2O12Sr6
+_chemical_formula_sum              "In2 Ni2 O12 Sr6"
+_cell_length_a       6.68231
+_cell_length_b       6.68231
+_cell_length_c       6.68231
+_cell_angle_alpha    92.1071
+_cell_angle_beta     92.1071
+_cell_angle_gamma    92.1071
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.25000  0.25000  0.25000  1.0000
+  In  In2       1.0  0.75000  0.75000  0.75000  1.0000
+  Ni  Ni1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni2       1.0  0.50000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.91200  0.71100  0.04120  1.0000
+  O   O2        1.0  0.28900  0.95900  0.08820  1.0000
+  O   O3        1.0  0.41200  0.54100  0.21100  1.0000
+  O   O4        1.0  0.95900  0.08820  0.28900  1.0000
+  O   O5        1.0  0.54100  0.21100  0.41200  1.0000
+  O   O6        1.0  0.78900  0.58800  0.45900  1.0000
+  O   O7        1.0  0.21100  0.41200  0.54100  1.0000
+  O   O8        1.0  0.45900  0.78900  0.58800  1.0000
+  O   O9        1.0  0.04120  0.91200  0.71100  1.0000
+  O   O10       1.0  0.58800  0.45900  0.78900  1.0000
+  O   O11       1.0  0.71100  0.04120  0.91200  1.0000
+  O   O12       1.0  0.08820  0.28900  0.95900  1.0000
+  Sr  Sr1       1.0  0.75000  0.37800  0.12200  1.0000
+  Sr  Sr2       1.0  0.62200  0.87800  0.25000  1.0000
+  Sr  Sr3       1.0  0.12200  0.75000  0.37800  1.0000
+  Sr  Sr4       1.0  0.87800  0.25000  0.62200  1.0000
+  Sr  Sr5       1.0  0.37800  0.12200  0.75000  1.0000
+  Sr  Sr6       1.0  0.25000  0.62200  0.87800  1.0000

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cu4NiGe2S7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30430500
+_cell_length_b   6.42453109
+_cell_length_c   8.34769136
+_cell_angle_alpha   97.87936058
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   114.38189164
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu4NiGe2S7
+_chemical_formula_sum   'Cu4 Ni1 Ge2 S7'
+_cell_volume   256.14763070
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.12201200  0.28253200  0.43153300  1
+  Cu  Cu1  1  0.83947900  0.71746800  0.56846700  1
+  Cu  Cu2  1  0.70531500  0.42034100  0.13909800  1
+  Cu  Cu3  1  0.28497400  0.57965900  0.86090200  1
+  Ni  Ni4  1  0.00020000  0.00000000  0.00000000  1
+  Ge  Ge5  1  0.43200400  0.85039500  0.27882200  1
+  Ge  Ge6  1  0.58160900  0.14960500  0.72117800  1
+  S  S7  1  0.24844600  0.00000000  0.50000000  1
+  S  S8  1  0.82164000  0.13772300  0.20798700  1
+  S  S9  1  0.68391700  0.86227700  0.79201300  1
+  S  S10  1  0.52091700  0.56208000  0.35419100  1
+  S  S11  1  0.95883700  0.43792000  0.64580900  1
+  S  S12  1  0.09665400  0.71765700  0.07327900  1
+  S  S13  1  0.37899800  0.28234300  0.92672100  1

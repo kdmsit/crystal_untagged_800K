@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_Ca3Tl
+_symmetry_space_group_name_H-M  'P6_3/mmc'
+_cell_length_a       7.242
+_cell_length_b       7.242
+_cell_length_c       5.57446
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  194
+_chemical_formula_structural  Ca3Tl
+_chemical_formula_sum  Ca6Tl2
+_cell_volume  253.19268271339814
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.65063  0.82531  0.25000  1
+ Ca  Ca2  1  0.17469  0.82531  0.25000  1
+ Ca  Ca3  1  0.17469  0.34937  0.25000  1
+ Ca  Ca4  1  0.34937  0.17469  0.75000  1
+ Ca  Ca5  1  0.82531  0.17469  0.75000  1
+ Ca  Ca6  1  0.82531  0.65063  0.75000  1
+ Tl  Tl1  1  0.33333  0.66667  0.75000  1
+ Tl  Tl2  1  0.66667  0.33333  0.25000  1

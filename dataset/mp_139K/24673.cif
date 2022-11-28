@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ThSiIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02244000
+_cell_length_b   4.15619300
+_cell_length_c   8.11571936
+_cell_angle_alpha   75.16369877
+_cell_angle_beta   75.65157233
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThSiIr
+_chemical_formula_sum   'Th2 Si2 Ir2'
+_cell_volume   126.77233937
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.75299000  0.25299000  0.49402100  1
+  Th  Th1  1  0.99701000  0.99701000  0.00597900  1
+  Si  Si2  1  0.16565900  0.66565900  0.66868200  1
+  Si  Si3  1  0.58434100  0.58434100  0.83131800  1
+  Ir  Ir4  1  0.32168800  0.82168800  0.35662500  1
+  Ir  Ir5  1  0.42831200  0.42831200  0.14337500  1

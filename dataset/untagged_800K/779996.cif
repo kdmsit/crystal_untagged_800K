@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_NaH2N
+_symmetry_space_group_name_H-M  'Fddd'
+_cell_length_a       6.80312
+_cell_length_b       6.39426
+_cell_length_c       5.98797
+_cell_angle_alpha    66.5613
+_cell_angle_beta     59.5812
+_cell_angle_gamma    53.8575
+
+_symmetry_Int_Tables_number  70
+_chemical_formula_structural  NaH2N
+_chemical_formula_sum  Na4H8N4
+_cell_volume  179.5498635797104
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ H  H1  1  0.54182  0.81310  0.02848  1
+ H  H2  1  0.81310  0.54182  0.61660  1
+ H  H3  1  0.70818  0.43690  0.22152  1
+ H  H4  1  0.43690  0.70818  0.63340  1
+ H  H5  1  0.02848  0.61660  0.54182  1
+ H  H6  1  0.61660  0.02848  0.81310  1
+ H  H7  1  0.22152  0.63340  0.70818  1
+ H  H8  1  0.63340  0.22152  0.43690  1
+ N  N1  1  0.49559  0.00441  0.00441  1
+ N  N2  1  0.00441  0.49559  0.49559  1
+ N  N3  1  0.75441  0.24559  0.24559  1
+ N  N4  1  0.24559  0.75441  0.75441  1
+ Na  Na1  1  0.39791  0.39791  0.10209  1
+ Na  Na2  1  0.85209  0.85209  0.14791  1
+ Na  Na3  1  0.10209  0.10209  0.39791  1
+ Na  Na4  1  0.14791  0.14791  0.85209  1

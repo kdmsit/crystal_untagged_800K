@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ca(CoO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30762685
+_cell_length_b   6.30762685
+_cell_length_c   6.30762685
+_cell_angle_alpha   125.47992776
+_cell_angle_beta   125.47992776
+_cell_angle_gamma   80.74460927
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(CoO2)2
+_chemical_formula_sum   'Ca2 Co4 O8'
+_cell_volume   160.44103288
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.25000000  0.75000000  0.50000000  1
+  Ca  Ca1  1  0.50000000  0.50000000  0.00000000  1
+  Co  Co2  1  0.87500000  0.12500000  0.25000000  1
+  Co  Co3  1  0.87500000  0.62500000  0.75000000  1
+  Co  Co4  1  0.87500000  0.12500000  0.75000000  1
+  Co  Co5  1  0.37500000  0.12500000  0.25000000  1
+  O  O6  1  0.83576200  0.92327100  0.36318100  1
+  O  O7  1  0.52741900  0.16423800  0.08750900  1
+  O  O8  1  0.07672900  0.43991000  0.91249100  1
+  O  O9  1  0.18991000  0.77741900  0.86318100  1
+  O  O10  1  0.67327100  0.81009000  0.58750900  1
+  O  O11  1  0.22258100  0.08576200  0.41249100  1
+  O  O12  1  0.56009000  0.47258100  0.63681900  1
+  O  O13  1  0.91423800  0.32672900  0.13681900  1

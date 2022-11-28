@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ce3N6Ta2
+_chemical_formula_sum              "Ce3 N6 Ta2"
+_cell_length_a       4.06716
+_cell_length_b       4.06716
+_cell_length_c       10.4335
+_cell_angle_alpha    101.239
+_cell_angle_beta     101.239
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ce  Ce2       1.0  0.18000  0.18000  0.36000  1.0000
+  Ce  Ce3       1.0  0.82000  0.82000  0.64000  1.0000
+  N   N1        1.0  0.58500  0.08510  0.17000  1.0000
+  N   N2        1.0  0.08510  0.58500  0.17000  1.0000
+  N   N3        1.0  0.69800  0.69800  0.39600  1.0000
+  N   N4        1.0  0.30200  0.30200  0.60400  1.0000
+  N   N5        1.0  0.91500  0.41500  0.83000  1.0000
+  N   N6        1.0  0.41500  0.91500  0.83000  1.0000
+  Ta  Ta1       1.0  0.60100  0.60100  0.20200  1.0000
+  Ta  Ta2       1.0  0.39900  0.39900  0.79800  1.0000

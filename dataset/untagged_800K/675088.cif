@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Hf4(Ru4C)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08195200
+_cell_length_b   4.08195200
+_cell_length_c   15.97956300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf4(Ru4C)3
+_chemical_formula_sum   'Hf4 Ru12 C3'
+_cell_volume   266.25678600
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.00000000  0.00000000  0.88226100  1
+  Hf  Hf1  1  0.00000000  0.00000000  0.11773900  1
+  Hf  Hf2  1  0.00000000  0.00000000  0.37301100  1
+  Hf  Hf3  1  0.00000000  0.00000000  0.62698900  1
+  Ru  Ru4  1  0.50000000  0.50000000  0.88407200  1
+  Ru  Ru5  1  0.50000000  0.50000000  0.11592800  1
+  Ru  Ru6  1  0.50000000  0.50000000  0.37285000  1
+  Ru  Ru7  1  0.50000000  0.50000000  0.62715000  1
+  Ru  Ru8  1  0.50000000  0.00000000  0.00000000  1
+  Ru  Ru9  1  0.50000000  0.00000000  0.24902900  1
+  Ru  Ru10  1  0.50000000  0.00000000  0.50000000  1
+  Ru  Ru11  1  0.50000000  0.00000000  0.75097100  1
+  Ru  Ru12  1  0.00000000  0.50000000  0.00000000  1
+  Ru  Ru13  1  0.00000000  0.50000000  0.24902900  1
+  Ru  Ru14  1  0.00000000  0.50000000  0.50000000  1
+  Ru  Ru15  1  0.00000000  0.50000000  0.75097100  1
+  C  C16  1  0.50000000  0.50000000  0.23911600  1
+  C  C17  1  0.50000000  0.50000000  0.50000000  1
+  C  C18  1  0.50000000  0.50000000  0.76088400  1

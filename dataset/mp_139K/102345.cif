@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Fe2Mo4O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.88144406
+_cell_length_b   9.88144406
+_cell_length_c   9.88144406
+_cell_angle_alpha   144.47167096
+_cell_angle_beta   143.11138676
+_cell_angle_gamma   52.14739454
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2Mo4O7
+_chemical_formula_sum   'Fe4 Mo8 O14'
+_cell_volume   334.62863185
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50000000  0.00000000  0.00000000  1
+  Fe  Fe1  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe2  1  0.94510400  0.69510400  0.25000000  1
+  Fe  Fe3  1  0.05489600  0.30489600  0.75000000  1
+  Mo  Mo4  1  0.88131800  0.87936000  0.00195800  1
+  Mo  Mo5  1  0.11868200  0.12064000  0.99804200  1
+  Mo  Mo6  1  0.62259800  0.12064000  0.50195800  1
+  Mo  Mo7  1  0.37740200  0.87936000  0.49804200  1
+  Mo  Mo8  1  0.25174200  0.76532500  0.01358400  1
+  Mo  Mo9  1  0.74825800  0.76184200  0.51358400  1
+  Mo  Mo10  1  0.74825800  0.23467500  0.98641600  1
+  Mo  Mo11  1  0.25174200  0.23815800  0.48641600  1
+  O  O12  1  0.50000000  0.50000000  0.00000000  1
+  O  O13  1  0.00000000  0.50000000  0.50000000  1
+  O  O14  1  0.13200600  0.63441900  0.00241300  1
+  O  O15  1  0.86799400  0.87040800  0.50241300  1
+  O  O16  1  0.86799400  0.36558100  0.99758700  1
+  O  O17  1  0.13200600  0.12959200  0.49758700  1
+  O  O18  1  0.36855700  0.87917700  0.01062000  1
+  O  O19  1  0.63144300  0.64206300  0.51062000  1
+  O  O20  1  0.63144300  0.12082300  0.98938000  1
+  O  O21  1  0.36855700  0.35793700  0.48938000  1
+  O  O22  1  0.27978200  0.76259100  0.51719200  1
+  O  O23  1  0.72021800  0.23740900  0.48280800  1
+  O  O24  1  0.25460100  0.23740900  0.01719200  1
+  O  O25  1  0.74539900  0.76259100  0.98280800  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CaCr4(CuO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.39525051
+_cell_length_b   6.39507814
+_cell_length_c   6.38625863
+_cell_angle_alpha   70.55605213
+_cell_angle_beta   109.44656689
+_cell_angle_gamma   70.50654871
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCr4(CuO4)3
+_chemical_formula_sum   'Ca1 Cr4 Cu3 O12'
+_cell_volume   201.13470475
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.99998700  0.00001300  0.00000900  1
+  Cr  Cr1  1  0.50003000  0.50002300  0.49995600  1
+  Cr  Cr2  1  0.49999700  0.99996200  0.00001900  1
+  Cr  Cr3  1  0.00001500  0.49998200  0.99999200  1
+  Cr  Cr4  1  0.00000600  0.00000800  0.50000600  1
+  Cu  Cu5  1  0.49999600  0.00000800  0.50000100  1
+  Cu  Cu6  1  0.99999800  0.49999900  0.50000000  1
+  Cu  Cu7  1  0.49999600  0.49999500  0.00000300  1
+  O  O8  1  0.17108700  0.14112000  0.68977400  1
+  O  O9  1  0.82891000  0.85887600  0.31023200  1
+  O  O10  1  0.17017100  0.51833400  0.31119700  1
+  O  O11  1  0.31131600  0.17032200  0.14100000  1
+  O  O12  1  0.85890200  0.31230000  0.16905100  1
+  O  O13  1  0.51842600  0.31128800  0.82977300  1
+  O  O14  1  0.68782800  0.17103900  0.51875400  1
+  O  O15  1  0.14109600  0.68769800  0.83094900  1
+  O  O16  1  0.82982200  0.48166800  0.68880400  1
+  O  O17  1  0.68868200  0.82968400  0.85900200  1
+  O  O18  1  0.48157200  0.68870800  0.17023200  1
+  O  O19  1  0.31216000  0.82897700  0.48124400  1

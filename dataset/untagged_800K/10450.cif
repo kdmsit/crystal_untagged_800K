@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       As2CePd2
+_chemical_formula_sum              "As2 Ce1 Pd2"
+_cell_length_a       4.32372
+_cell_length_b       4.32372
+_cell_length_c       6.05275
+_cell_angle_alpha    110.927
+_cell_angle_beta     110.927
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.62000  0.62000  0.24100  1.0000
+  As  As2       1.0  0.38000  0.38000  0.75900  1.0000
+  Ce  Ce1       1.0  0.00000  0.00000  0.00000  1.0000
+  Pd  Pd1       1.0  0.75000  0.25000  0.50000  1.0000
+  Pd  Pd2       1.0  0.25000  0.75000  0.50000  1.0000

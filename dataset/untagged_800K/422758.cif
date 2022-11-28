@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba3Cr2Zn2
+_chemical_formula_sum              "Ba3 Cr2 Zn2"
+_cell_length_a       9.83466
+_cell_length_b       9.83466
+_cell_length_c       9.83466
+_cell_angle_alpha    33.6119
+_cell_angle_beta     33.6119
+_cell_angle_gamma    33.6119
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.38000  0.38000  0.38000  1.0000
+  Ba  Ba2       1.0  0.62500  0.62500  0.62500  1.0000
+  Ba  Ba3       1.0  0.86900  0.86900  0.86900  1.0000
+  Cr  Cr1       1.0  0.00783  0.00783  0.00783  1.0000
+  Cr  Cr2       1.0  0.50000  0.50000  0.50000  1.0000
+  Zn  Zn1       1.0  0.24600  0.24600  0.24600  1.0000
+  Zn  Zn2       1.0  0.74700  0.74700  0.74700  1.0000

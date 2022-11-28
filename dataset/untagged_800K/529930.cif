@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Gd2O2Sr2Te2
+_chemical_formula_sum              "Gd2 O2 Sr2 Te2"
+_cell_length_a       5.14495
+_cell_length_b       5.14495
+_cell_length_c       10.3143
+_cell_angle_alpha    90
+_cell_angle_beta     104.442
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.55700  0.77900  0.33600  1.0000
+  Gd  Gd2       1.0  0.44300  0.22100  0.66400  1.0000
+  O   O1        1.0  0.41100  0.70600  0.11700  1.0000
+  O   O2        1.0  0.58900  0.29400  0.88300  1.0000
+  Sr  Sr1       1.0  0.74700  0.37400  0.12100  1.0000
+  Sr  Sr2       1.0  0.25300  0.62600  0.87900  1.0000
+  Te  Te1       1.0  0.22000  0.11000  0.33000  1.0000
+  Te  Te2       1.0  0.78000  0.89000  0.67000  1.0000

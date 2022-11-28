@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_PbCSNCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.32480000
+_cell_length_b   9.82383700
+_cell_length_c   10.26429100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PbCSNCl
+_chemical_formula_sum   'Pb4 C4 S4 N4 Cl4'
+_cell_volume   436.09000443
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pb  Pb0  1  0.25000000  0.91992600  0.80967300  1
+  Pb  Pb1  1  0.75000000  0.41992600  0.69032700  1
+  Pb  Pb2  1  0.25000000  0.58007400  0.30967300  1
+  Pb  Pb3  1  0.75000000  0.08007400  0.19032700  1
+  C  C4  1  0.25000000  0.14092900  0.48342800  1
+  C  C5  1  0.75000000  0.85907100  0.51657200  1
+  C  C6  1  0.25000000  0.35907100  0.98342800  1
+  C  C7  1  0.75000000  0.64092900  0.01657200  1
+  S  S8  1  0.25000000  0.30942600  0.13625700  1
+  S  S9  1  0.75000000  0.69057400  0.86374300  1
+  S  S10  1  0.25000000  0.19057400  0.63625700  1
+  S  S11  1  0.75000000  0.80942600  0.36374300  1
+  N  N12  1  0.75000000  0.89626000  0.62669100  1
+  N  N13  1  0.25000000  0.10374000  0.37330900  1
+  N  N14  1  0.25000000  0.39626000  0.87330900  1
+  N  N15  1  0.75000000  0.60374000  0.12669100  1
+  Cl  Cl16  1  0.75000000  0.10401500  0.90274200  1
+  Cl  Cl17  1  0.75000000  0.39598500  0.40274200  1
+  Cl  Cl18  1  0.25000000  0.89598500  0.09725800  1
+  Cl  Cl19  1  0.25000000  0.60401500  0.59725800  1

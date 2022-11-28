@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_MnInCuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84299695
+_cell_length_b   6.76848547
+_cell_length_c   6.14183609
+_cell_angle_alpha   89.60312598
+_cell_angle_beta   89.95024798
+_cell_angle_gamma   90.00896603
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnInCuS4
+_chemical_formula_sum   'Mn1 In1 Cu1 S4'
+_cell_volume   159.75305576
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50014900  0.17079000  0.01134000  1
+  In  In1  1  0.50018300  0.83301200  0.49343800  1
+  Cu  Cu2  1  0.00002800  0.33456700  0.49376400  1
+  S  S3  1  0.99974200  0.30022000  0.13219100  1
+  S  S4  1  0.49995400  0.86259400  0.09039500  1
+  S  S5  1  0.49992400  0.18620700  0.63976700  1
+  S  S6  1  0.99997000  0.64596000  0.63910500  1

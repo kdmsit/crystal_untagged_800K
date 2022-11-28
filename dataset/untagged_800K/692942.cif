@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ni5Cl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.03615461
+_cell_length_b   6.03615461
+_cell_length_c   6.21654420
+_cell_angle_alpha   79.29541599
+_cell_angle_beta   79.29541599
+_cell_angle_gamma   117.73110338
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni5Cl6
+_chemical_formula_sum   'Ni5 Cl6'
+_cell_volume   187.10169967
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.66691800  0.33308200  0.00000000  1
+  Ni  Ni2  1  0.82835000  0.17165000  0.50000000  1
+  Ni  Ni3  1  0.17165000  0.82835000  0.50000000  1
+  Ni  Ni4  1  0.33308200  0.66691800  0.00000000  1
+  Cl  Cl5  1  0.38494900  0.03692300  0.74276300  1
+  Cl  Cl6  1  0.74044500  0.74044500  0.78397500  1
+  Cl  Cl7  1  0.03692300  0.38494900  0.74276300  1
+  Cl  Cl8  1  0.61505100  0.96307700  0.25723700  1
+  Cl  Cl9  1  0.25955500  0.25955500  0.21602500  1
+  Cl  Cl10  1  0.96307700  0.61505100  0.25723700  1

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Fe3Re2Sr2
+_chemical_formula_sum              "Fe3 Re2 Sr2"
+_cell_length_a       4.58121
+_cell_length_b       4.58121
+_cell_length_c       8.46878
+_cell_angle_alpha    74.3074
+_cell_angle_beta     74.3074
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.66100  0.66100  0.01570  1.0000
+  Fe  Fe2       1.0  0.11500  0.11500  0.65500  1.0000
+  Fe  Fe3       1.0  0.35800  0.35800  0.92500  1.0000
+  Re  Re1       1.0  0.44900  0.44900  0.65400  1.0000
+  Re  Re2       1.0  0.02430  0.02430  0.92700  1.0000
+  Sr  Sr1       1.0  0.23900  0.23900  0.28200  1.0000
+  Sr  Sr2       1.0  0.77800  0.77800  0.66600  1.0000

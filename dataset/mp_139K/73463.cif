@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.72421900
+_cell_length_b   4.94696700
+_cell_length_c   8.51116100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrO2
+_chemical_formula_sum   'Sr4 O8'
+_cell_volume   198.91056047
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.89096500  0.75000000  0.14657800  1
+  Sr  Sr1  1  0.60903500  0.75000000  0.64657800  1
+  Sr  Sr2  1  0.10903500  0.25000000  0.85342200  1
+  Sr  Sr3  1  0.39096500  0.25000000  0.35342200  1
+  O  O4  1  0.53443000  0.75000000  0.35537400  1
+  O  O5  1  0.96557000  0.75000000  0.85537400  1
+  O  O6  1  0.46557000  0.25000000  0.64462600  1
+  O  O7  1  0.03443000  0.25000000  0.14462600  1
+  O  O8  1  0.22287200  0.75000000  0.39549900  1
+  O  O9  1  0.27712800  0.75000000  0.89549900  1
+  O  O10  1  0.77712800  0.25000000  0.60450100  1
+  O  O11  1  0.72287200  0.25000000  0.10450100  1

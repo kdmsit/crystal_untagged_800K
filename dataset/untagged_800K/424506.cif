@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cd2Pb3Y2
+_chemical_formula_sum              "Cd2 Pb3 Y2"
+_cell_length_a       8.66236
+_cell_length_b       8.66236
+_cell_length_c       8.66236
+_cell_angle_alpha    35.5554
+_cell_angle_beta     35.5554
+_cell_angle_gamma    35.5554
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.06090  0.06090  0.06090  1.0000
+  Cd  Cd2       1.0  0.48000  0.48000  0.48000  1.0000
+  Pb  Pb1       1.0  0.34600  0.34600  0.34600  1.0000
+  Pb  Pb2       1.0  0.62500  0.62500  0.62500  1.0000
+  Pb  Pb3       1.0  0.90300  0.90300  0.90300  1.0000
+  Y   Y1        1.0  0.19800  0.19800  0.19800  1.0000
+  Y   Y2        1.0  0.76300  0.76300  0.76300  1.0000

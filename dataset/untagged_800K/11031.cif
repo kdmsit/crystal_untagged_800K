@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdCl2O2Pb2
+_chemical_formula_sum              "Cd1 Cl2 O2 Pb2"
+_cell_length_a       3.85468
+_cell_length_b       6.50658
+_cell_length_c       7.02294
+_cell_angle_alpha    68.9998
+_cell_angle_beta     105.928
+_cell_angle_gamma    107.23
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cl  Cl1       1.0  0.56600  0.83200  0.30100  1.0000
+  Cl  Cl2       1.0  0.43400  0.16800  0.69900  1.0000
+  O   O1        1.0  0.19400  0.31800  0.06990  1.0000
+  O   O2        1.0  0.80600  0.68200  0.93000  1.0000
+  Pb  Pb1       1.0  0.81500  0.38800  0.24200  1.0000
+  Pb  Pb2       1.0  0.18500  0.61200  0.75800  1.0000

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_TbFe11Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.69956300
+_cell_length_b   6.46463053
+_cell_length_c   6.46463053
+_cell_angle_alpha   97.86070028
+_cell_angle_beta   111.31424136
+_cell_angle_gamma   68.68575864
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbFe11Mo
+_chemical_formula_sum   'Tb1 Fe11 Mo1'
+_cell_volume   170.45057866
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00658200  0.99341800  0.00658200  1
+  Fe  Fe1  1  0.72948600  0.77051400  0.22948600  1
+  Fe  Fe2  1  0.27258200  0.22741800  0.77258200  1
+  Fe  Fe3  1  0.49839900  0.77886000  0.77565900  1
+  Fe  Fe4  1  0.49839900  0.22434100  0.22114000  1
+  Fe  Fe5  1  0.50058900  0.99800200  0.49989400  1
+  Fe  Fe6  1  0.00130300  0.99800200  0.49989400  1
+  Fe  Fe7  1  0.50058900  0.50010600  0.00199800  1
+  Fe  Fe8  1  0.00130300  0.50010600  0.00199800  1
+  Fe  Fe9  1  0.35866600  0.64133400  0.35866600  1
+  Fe  Fe10  1  0.99930700  0.35926400  0.35787700  1
+  Fe  Fe11  1  0.99930700  0.64212300  0.64073600  1
+  Mo  Mo12  1  0.63348700  0.36651300  0.63348700  1

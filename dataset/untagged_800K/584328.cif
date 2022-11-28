@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Bi4Ir4Lu2Nb2
+_chemical_formula_sum              "Bi4 Ir4 Lu2 Nb2"
+_cell_length_a       6.4741
+_cell_length_b       4.59295
+_cell_length_c       9.14012
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.98200  0.00000  0.12900  1.0000
+  Bi  Bi2       1.0  0.51500  0.50000  0.37800  1.0000
+  Bi  Bi3       1.0  0.01490  0.00000  0.62200  1.0000
+  Bi  Bi4       1.0  0.48200  0.50000  0.87100  1.0000
+  Ir  Ir1       1.0  0.73200  0.50000  0.11200  1.0000
+  Ir  Ir2       1.0  0.27000  0.00000  0.35700  1.0000
+  Ir  Ir3       1.0  0.77000  0.50000  0.64300  1.0000
+  Ir  Ir4       1.0  0.23200  0.00000  0.88800  1.0000
+  Lu  Lu1       1.0  0.00929  0.50000  0.37400  1.0000
+  Lu  Lu2       1.0  0.50900  0.00000  0.62600  1.0000
+  Nb  Nb1       1.0  0.49100  0.00000  0.12200  1.0000
+  Nb  Nb2       1.0  0.99100  0.50000  0.87800  1.0000

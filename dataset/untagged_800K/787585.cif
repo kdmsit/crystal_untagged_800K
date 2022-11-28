@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_P3Pd
+_symmetry_space_group_name_H-M  'Im-3'
+_cell_length_a       7.15231
+_cell_length_b       7.15231
+_cell_length_c       7.15231
+_cell_angle_alpha    109.471
+_cell_angle_beta     109.471
+_cell_angle_gamma    109.471
+
+_symmetry_Int_Tables_number  204
+_chemical_formula_structural  P3Pd
+_chemical_formula_sum  P2Pd4
+_cell_volume  281.6551414997379
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ P  P1  1  0.86503  0.63671  0.50174  1
+ P  P2  1  0.13497  0.36329  0.49826  1
+ P  P3  1  0.13497  0.63671  0.77168  1
+ P  P4  1  0.86503  0.36329  0.22832  1
+ P  P5  1  0.63671  0.50174  0.86503  1
+ P  P6  1  0.36329  0.49826  0.13497  1
+ P  P7  1  0.63671  0.77168  0.13497  1
+ P  P8  1  0.36329  0.22832  0.86503  1
+ P  P9  1  0.50174  0.86503  0.63671  1
+ P  P10  1  0.49826  0.13497  0.36329  1
+ P  P11  1  0.77168  0.13497  0.63671  1
+ P  P12  1  0.22832  0.86503  0.36329  1
+ Pd  Pd1  1  0.50000  0.50000  0.50000  1
+ Pd  Pd2  1  0.50000  0.00000  0.00000  1
+ Pd  Pd3  1  0.00000  0.50000  -0.00000  1
+ Pd  Pd4  1  -0.00000  -0.00000  0.50000  1

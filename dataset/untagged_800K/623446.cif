@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SrZnSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44372700
+_cell_length_b   4.48582700
+_cell_length_c   23.04971200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrZnSb2
+_chemical_formula_sum   'Sr4 Zn4 Sb8'
+_cell_volume   459.46813141
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.25000000  0.77155200  0.61582300  1
+  Sr  Sr1  1  0.75000000  0.22844800  0.38417700  1
+  Sr  Sr2  1  0.75000000  0.27155200  0.88417700  1
+  Sr  Sr3  1  0.25000000  0.72844800  0.11582300  1
+  Zn  Zn4  1  0.25000000  0.27512100  0.75000100  1
+  Zn  Zn5  1  0.75000000  0.72487900  0.24999900  1
+  Zn  Zn6  1  0.75000000  0.77512100  0.74999900  1
+  Zn  Zn7  1  0.25000000  0.22487900  0.25000100  1
+  Sb  Sb8  1  0.25000000  0.21603800  0.00107800  1
+  Sb  Sb9  1  0.75000000  0.78396200  0.99892200  1
+  Sb  Sb10  1  0.75000000  0.71603800  0.49892200  1
+  Sb  Sb11  1  0.25000000  0.28396200  0.50107800  1
+  Sb  Sb12  1  0.25000000  0.72612400  0.32352900  1
+  Sb  Sb13  1  0.75000000  0.27387600  0.67647100  1
+  Sb  Sb14  1  0.75000000  0.22612400  0.17647100  1
+  Sb  Sb15  1  0.25000000  0.77387600  0.82352900  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LuFeCu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14837829
+_cell_length_b   5.14837829
+_cell_length_c   5.14837829
+_cell_angle_alpha   121.79532600
+_cell_angle_beta   121.25615267
+_cell_angle_gamma   87.37771553
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuFeCu
+_chemical_formula_sum   'Lu2 Fe2 Cu2'
+_cell_volume   94.15789439
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.37214500  0.12214500  0.25000000  1
+  Lu  Lu1  1  0.62785500  0.87785500  0.75000000  1
+  Fe  Fe2  1  0.00000000  0.50000000  0.00000000  1
+  Fe  Fe3  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu4  1  0.50000000  0.50000000  0.00000000  1
+  Cu  Cu5  1  0.00000000  0.50000000  0.50000000  1

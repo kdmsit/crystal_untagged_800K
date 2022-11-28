@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Co5(SnSb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14994811
+_cell_length_b   4.15022000
+_cell_length_c   9.88961100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   59.99783273
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co5(SnSb)2
+_chemical_formula_sum   'Co5 Sn2 Sb2'
+_cell_volume   147.50751334
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000500  0.99999700  0.25449600  1
+  Co  Co1  1  0.00001100  0.99999400  0.75142300  1
+  Co  Co2  1  0.00000500  0.99999700  0.99550400  1
+  Co  Co3  1  0.00001100  0.99999400  0.49857700  1
+  Co  Co4  1  0.33337100  0.33331500  0.12500000  1
+  Sn  Sn5  1  0.66665900  0.66667100  0.12500000  1
+  Sn  Sn6  1  0.66668600  0.66665700  0.62500000  1
+  Sb  Sb7  1  0.33332600  0.33333700  0.38546500  1
+  Sb  Sb8  1  0.33332600  0.33333700  0.86453500  1

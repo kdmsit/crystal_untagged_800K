@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_BaSr4(FeO3)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93804907
+_cell_length_b   5.58130290
+_cell_length_c   14.21473787
+_cell_angle_alpha   101.34429179
+_cell_angle_beta   89.99397476
+_cell_angle_gamma   89.98140002
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSr4(FeO3)5
+_chemical_formula_sum   'Ba1 Sr4 Fe5 O15'
+_cell_volume   306.32800517
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.49993200  0.99986700  1
+  Sr  Sr1  1  0.49999700  0.10049000  0.20141000  1
+  Sr  Sr2  1  0.50000000  0.70034600  0.40066000  1
+  Sr  Sr3  1  0.49999600  0.29979400  0.59958800  1
+  Sr  Sr4  1  0.50000400  0.89945200  0.79849300  1
+  Fe  Fe5  1  0.00000300  0.39874000  0.79724700  1
+  Fe  Fe6  1  0.00001000  0.20043700  0.40073600  1
+  Fe  Fe7  1  0.99998800  0.79954900  0.59921000  1
+  Fe  Fe8  1  0.00000300  0.00001300  0.00003100  1
+  Fe  Fe9  1  0.99999300  0.60127600  0.20278400  1
+  O  O10  1  0.99995800  0.70252800  0.89535500  1
+  O  O11  1  0.99999800  0.49998000  0.49995100  1
+  O  O12  1  0.00001300  0.09912900  0.69772900  1
+  O  O13  1  0.00004100  0.29752300  0.10470100  1
+  O  O14  1  0.99998900  0.90089700  0.30225900  1
+  O  O15  1  0.99996800  0.59895200  0.69761200  1
+  O  O16  1  0.00002900  0.40101900  0.30236400  1
+  O  O17  1  0.00000500  0.99996900  0.49995100  1
+  O  O18  1  0.00005900  0.19258000  0.89561800  1
+  O  O19  1  0.99994200  0.80740800  0.10444300  1
+  O  O20  1  0.49999900  0.39698300  0.79396600  1
+  O  O21  1  0.50001000  0.20052700  0.40079900  1
+  O  O22  1  0.49998900  0.79941100  0.59908300  1
+  O  O23  1  0.50000600  0.00003600  0.00006300  1
+  O  O24  1  0.49999800  0.60302700  0.20608000  1

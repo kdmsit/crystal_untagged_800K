@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Mg5Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.10246846
+_cell_length_b   8.10246846
+_cell_length_c   5.12301400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   157.42908131
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg5Ge
+_chemical_formula_sum   'Mg5 Ge1'
+_cell_volume   129.09083354
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.67110800  0.32889200  0.00000000  1
+  Mg  Mg1  1  0.33194800  0.66805200  0.00000000  1
+  Mg  Mg2  1  0.99936700  0.00063300  0.00000000  1
+  Mg  Mg3  1  0.56031900  0.43968100  0.50000000  1
+  Mg  Mg4  1  0.88102500  0.11897500  0.50000000  1
+  Ge  Ge5  1  0.22289700  0.77710300  0.50000000  1

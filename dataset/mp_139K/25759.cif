@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_PuU3(W2C3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.16642000
+_cell_length_b   5.57300312
+_cell_length_c   11.42361899
+_cell_angle_alpha   76.74912198
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuU3(W2C3)2
+_chemical_formula_sum   'Pu1 U3 W4 C6'
+_cell_volume   196.21944216
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.50000000  0.73419300  0.10345800  1
+  U  U1  1  0.00000000  0.23029500  0.60389000  1
+  U  U2  1  0.00000000  0.77021400  0.39425500  1
+  U  U3  1  0.50000000  0.26842300  0.89505900  1
+  W  W4  1  0.50000000  0.28604700  0.34976300  1
+  W  W5  1  0.00000000  0.78172000  0.84486800  1
+  W  W6  1  0.00000000  0.22318700  0.15567600  1
+  W  W7  1  0.50000000  0.71405400  0.65316100  1
+  C  C8  1  0.00000000  0.49278900  0.99714900  1
+  C  C9  1  0.50000000  0.99792800  0.50073600  1
+  C  C10  1  0.00000000  0.50359200  0.25549200  1
+  C  C11  1  0.50000000  0.00567600  0.75268000  1
+  C  C12  1  0.50000000  0.00070000  0.24712600  1
+  C  C13  1  0.00000000  0.49118300  0.74668700  1

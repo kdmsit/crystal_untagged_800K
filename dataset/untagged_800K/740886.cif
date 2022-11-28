@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_TiCr3(CuSe4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28674722
+_cell_length_b   7.28674722
+_cell_length_c   7.28674743
+_cell_angle_alpha   61.91015349
+_cell_angle_beta   61.91015349
+_cell_angle_gamma   61.91015523
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCr3(CuSe4)2
+_chemical_formula_sum   'Ti1 Cr3 Cu2 Se8'
+_cell_volume   285.27760568
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.50000000  0.50000000  1
+  Cr  Cr1  1  0.00000000  0.50000000  0.50000000  1
+  Cr  Cr2  1  0.50000000  0.50000000  0.00000000  1
+  Cr  Cr3  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu4  1  0.12385800  0.12385800  0.12385800  1
+  Cu  Cu5  1  0.87614200  0.87614200  0.87614200  1
+  Se  Se6  1  0.25431700  0.73140200  0.25431700  1
+  Se  Se7  1  0.25431700  0.25431700  0.73140200  1
+  Se  Se8  1  0.73140200  0.25431700  0.25431700  1
+  Se  Se9  1  0.25913000  0.25913000  0.25913000  1
+  Se  Se10  1  0.74568300  0.26859800  0.74568300  1
+  Se  Se11  1  0.74568300  0.74568300  0.26859800  1
+  Se  Se12  1  0.26859800  0.74568300  0.74568300  1
+  Se  Se13  1  0.74087000  0.74087000  0.74087000  1

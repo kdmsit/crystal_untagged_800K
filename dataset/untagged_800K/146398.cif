@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ag6As2Se6
+_chemical_formula_sum              "Ag6 As2 Se6"
+_cell_length_a       7.21301
+_cell_length_b       7.21301
+_cell_length_c       7.21301
+_cell_angle_alpha    104.547
+_cell_angle_beta     104.547
+_cell_angle_gamma    104.547
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.22000  0.58200  0.02250  1.0000
+  Ag  Ag2       1.0  0.72000  0.52300  0.08230  1.0000
+  Ag  Ag3       1.0  0.58200  0.02250  0.22000  1.0000
+  Ag  Ag4       1.0  0.08230  0.72000  0.52300  1.0000
+  Ag  Ag5       1.0  0.02250  0.22000  0.58200  1.0000
+  Ag  Ag6       1.0  0.52300  0.08230  0.72000  1.0000
+  As  As1       1.0  0.99400  0.99400  0.99400  1.0000
+  As  As2       1.0  0.49400  0.49400  0.49400  1.0000
+  Se  Se1       1.0  0.91900  0.25600  0.22600  1.0000
+  Se  Se2       1.0  0.22600  0.91900  0.25600  1.0000
+  Se  Se3       1.0  0.72600  0.75600  0.41900  1.0000
+  Se  Se4       1.0  0.75600  0.41900  0.72600  1.0000
+  Se  Se5       1.0  0.41900  0.72600  0.75600  1.0000
+  Se  Se6       1.0  0.25600  0.22600  0.91900  1.0000

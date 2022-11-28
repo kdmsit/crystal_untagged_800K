@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CrGa3(NiS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.62086898
+_cell_length_b   12.43081061
+_cell_length_c   6.33293425
+_cell_angle_alpha   75.34955806
+_cell_angle_beta   89.97042761
+_cell_angle_gamma   98.38446128
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrGa3(NiS4)2
+_chemical_formula_sum   'Cr1 Ga3 Ni2 S8'
+_cell_volume   272.62384651
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.10741800  0.21390900  0.56352900  1
+  Ga  Ga1  1  0.60643600  0.21279600  0.05821400  1
+  Ga  Ga2  1  0.89226700  0.78489500  0.44188000  1
+  Ga  Ga3  1  0.39200300  0.78444900  0.94106300  1
+  Ni  Ni4  1  0.74966300  0.49918800  0.25173500  1
+  Ni  Ni5  1  0.24939100  0.49952900  0.74926400  1
+  S  S6  1  0.93576500  0.87243700  0.72946800  1
+  S  S7  1  0.43595900  0.87204600  0.22995100  1
+  S  S8  1  0.06630400  0.13222500  0.26792300  1
+  S  S9  1  0.56761200  0.13412700  0.76530800  1
+  S  S10  1  0.70161300  0.40477400  0.96500100  1
+  S  S11  1  0.19964600  0.39980100  0.46593000  1
+  S  S12  1  0.29888900  0.59594700  0.03468800  1
+  S  S13  1  0.79703300  0.59387700  0.53604500  1

@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Ba3CaLa2Cu6O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53107242
+_cell_length_b   5.53107242
+_cell_length_c   11.93056118
+_cell_angle_alpha   89.64677627
+_cell_angle_beta   89.64677627
+_cell_angle_gamma   90.83893635
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3CaLa2Cu6O13
+_chemical_formula_sum   'Ba3 Ca1 La2 Cu6 O13'
+_cell_volume   364.93561794
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00471200  0.00471200  0.19471100  1
+  Ba  Ba1  1  0.49643000  0.49643000  0.18897400  1
+  Ba  Ba2  1  0.00552700  0.00552700  0.81643100  1
+  Ca  Ca3  1  0.50084200  0.50084200  0.49605200  1
+  La  La4  1  0.50491400  0.50491400  0.79001100  1
+  La  La5  1  0.99969600  0.99969600  0.50512600  1
+  Cu  Cu6  1  0.99988500  0.50154600  0.36235200  1
+  Cu  Cu7  1  0.50154600  0.99988500  0.36235200  1
+  Cu  Cu8  1  0.99842500  0.50010400  0.64830400  1
+  Cu  Cu9  1  0.50010400  0.99842500  0.64830400  1
+  Cu  Cu10  1  0.01240700  0.48981100  0.99335700  1
+  Cu  Cu11  1  0.48981100  0.01240700  0.99335700  1
+  O  O12  1  0.25070400  0.25070400  0.37058300  1
+  O  O13  1  0.75156700  0.75156700  0.37156800  1
+  O  O14  1  0.75238400  0.24896900  0.37531500  1
+  O  O15  1  0.24896900  0.75238400  0.37531500  1
+  O  O16  1  0.25584400  0.25584400  0.64517700  1
+  O  O17  1  0.74255400  0.74255400  0.63221200  1
+  O  O18  1  0.74220600  0.25489300  0.64193000  1
+  O  O19  1  0.25489300  0.74220600  0.64193000  1
+  O  O20  1  0.99228100  0.52048500  0.14489100  1
+  O  O21  1  0.52048500  0.99228100  0.14489100  1
+  O  O22  1  0.92081300  0.50923900  0.84603400  1
+  O  O23  1  0.50923900  0.92081300  0.84603400  1
+  O  O24  1  0.29376100  0.29376100  0.96478800  1

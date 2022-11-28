@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Be2F8NaRb3
+_chemical_formula_sum              "Be2 F8 Na1 Rb3"
+_cell_length_a       5.59075
+_cell_length_b       5.5908
+_cell_length_c       7.28423
+_cell_angle_alpha    90
+_cell_angle_beta     89.9997
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.66700  0.33300  0.26700  1.0000
+  Be  Be2       1.0  0.33300  0.66700  0.73300  1.0000
+  F   F1        1.0  0.36500  0.18300  0.18700  1.0000
+  F   F2        1.0  0.81700  0.63500  0.18700  1.0000
+  F   F3        1.0  0.81700  0.18300  0.18700  1.0000
+  F   F4        1.0  0.66700  0.33300  0.47500  1.0000
+  F   F5        1.0  0.33300  0.66700  0.52500  1.0000
+  F   F6        1.0  0.18300  0.81700  0.81300  1.0000
+  F   F7        1.0  0.18300  0.36500  0.81300  1.0000
+  F   F8        1.0  0.63500  0.81700  0.81300  1.0000
+  Na  Na1       1.0  0.00000  0.00000  0.00000  1.0000
+  Rb  Rb1       1.0  0.33300  0.66700  0.16800  1.0000
+  Rb  Rb2       1.0  0.00000  0.00000  0.50000  1.0000
+  Rb  Rb3       1.0  0.66700  0.33300  0.83200  1.0000

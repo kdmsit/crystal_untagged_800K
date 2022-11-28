@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_UBrO2
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       4.00752
+_cell_length_b       4.15009
+_cell_length_c       10.3153
+_cell_angle_alpha    101.605
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  UBrO2
+_chemical_formula_sum  U2Br2O4
+_cell_volume  168.0520689910737
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.75000  0.18585  0.37169  1
+ Br  Br2  1  0.25000  0.81415  0.62831  1
+ O  O1  1  0.25000  0.57944  0.15888  1
+ O  O2  1  0.75000  0.42056  0.84112  1
+ O  O3  1  0.75000  0.03607  0.07214  1
+ O  O4  1  0.25000  0.96393  0.92786  1
+ U  U1  1  0.25000  0.07815  0.15629  1
+ U  U2  1  0.75000  0.92185  0.84371  1

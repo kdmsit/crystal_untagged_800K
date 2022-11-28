@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       K4O6Pb2
+_chemical_formula_sum              "K4 O6 Pb2"
+_cell_length_a       6.00632
+_cell_length_b       6.33925
+_cell_length_c       6.33925
+_cell_angle_alpha    66.5318
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.76300  0.48000  0.19200  1.0000
+  K   K2        1.0  0.26300  0.19200  0.48000  1.0000
+  K   K3        1.0  0.76300  0.80800  0.52000  1.0000
+  K   K4        1.0  0.26300  0.52000  0.80800  1.0000
+  O   O1        1.0  0.99400  0.16400  0.10600  1.0000
+  O   O2        1.0  0.49400  0.10600  0.16400  1.0000
+  O   O3        1.0  0.13100  0.61600  0.38400  1.0000
+  O   O4        1.0  0.63100  0.38400  0.61600  1.0000
+  O   O5        1.0  0.99400  0.89400  0.83600  1.0000
+  O   O6        1.0  0.49400  0.83600  0.89400  1.0000
+  Pb  Pb1       1.0  0.23100  0.89700  0.10300  1.0000
+  Pb  Pb2       1.0  0.73100  0.10300  0.89700  1.0000

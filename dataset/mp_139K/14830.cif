@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_U2Cu(SiO9)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82494500
+_cell_length_b   7.05477549
+_cell_length_c   8.86177482
+_cell_angle_alpha   107.90899427
+_cell_angle_beta   107.90969491
+_cell_angle_gamma   89.41757669
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2Cu(SiO9)2
+_chemical_formula_sum   'U2 Cu1 Si2 O18'
+_cell_volume   384.65031195
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.36103800  0.74619700  0.99029900  1
+  U  U1  1  0.63896200  0.25380300  0.00970100  1
+  Cu  Cu2  1  0.00000000  0.50000000  0.50000000  1
+  Si  Si3  1  0.14685300  0.22800500  0.93929400  1
+  Si  Si4  1  0.85314700  0.77199500  0.06070600  1
+  O  O5  1  0.29694300  0.65868800  0.76280800  1
+  O  O6  1  0.70305700  0.34131200  0.23719200  1
+  O  O7  1  0.55524100  0.16760400  0.77921100  1
+  O  O8  1  0.44475900  0.83239600  0.22078900  1
+  O  O9  1  0.31198800  0.41980100  0.98245200  1
+  O  O10  1  0.68801200  0.58019900  0.01754800  1
+  O  O11  1  0.31248000  0.06751900  0.98450200  1
+  O  O12  1  0.68752000  0.93248100  0.01549800  1
+  O  O13  1  0.99445100  0.14876600  0.74151200  1
+  O  O14  1  0.00554900  0.85123400  0.25848800  1
+  O  O15  1  0.97435900  0.26572900  0.03418800  1
+  O  O16  1  0.02564100  0.73427100  0.96581200  1
+  O  O17  1  0.79688900  0.54137500  0.59184500  1
+  O  O18  1  0.20311100  0.45862500  0.40815500  1
+  O  O19  1  0.90425400  0.73778300  0.49420500  1
+  O  O20  1  0.09574600  0.26221700  0.50579500  1
+  O  O21  1  0.51974400  0.84772300  0.47493500  1
+  O  O22  1  0.48025600  0.15227700  0.52506500  1

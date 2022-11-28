@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mg2Mo3Pt2
+_chemical_formula_sum              "Mg2 Mo3 Pt2"
+_cell_length_a       7.09866
+_cell_length_b       7.09866
+_cell_length_c       7.09866
+_cell_angle_alpha    36.1902
+_cell_angle_beta     36.1902
+_cell_angle_gamma    36.1902
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.19100  0.19100  0.19100  1.0000
+  Mg  Mg2       1.0  0.76900  0.76900  0.76900  1.0000
+  Mo  Mo1       1.0  0.33500  0.33500  0.33500  1.0000
+  Mo  Mo2       1.0  0.62400  0.62400  0.62400  1.0000
+  Mo  Mo3       1.0  0.91900  0.91900  0.91900  1.0000
+  Pt  Pt1       1.0  0.05300  0.05300  0.05300  1.0000
+  Pt  Pt2       1.0  0.48300  0.48300  0.48300  1.0000

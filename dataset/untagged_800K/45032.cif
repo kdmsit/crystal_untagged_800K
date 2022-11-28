@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ir2Mg2O12Sm4
+_chemical_formula_sum              "Ir2 Mg2 O12 Sm4"
+_cell_length_a       5.38151
+_cell_length_b       5.70051
+_cell_length_c       7.72137
+_cell_angle_alpha    90
+_cell_angle_beta     89.7201
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ir  Ir2       1.0  0.00000  0.00000  0.50000  1.0000
+  Mg  Mg1       1.0  0.00000  0.00000  0.00000  1.0000
+  Mg  Mg2       1.0  0.50000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.19500  0.30000  0.05320  1.0000
+  O   O2        1.0  0.30900  0.79900  0.05350  1.0000
+  O   O3        1.0  0.60500  0.46800  0.24900  1.0000
+  O   O4        1.0  0.89500  0.96800  0.25100  1.0000
+  O   O5        1.0  0.19100  0.29900  0.44700  1.0000
+  O   O6        1.0  0.30500  0.80000  0.44700  1.0000
+  O   O7        1.0  0.69500  0.20000  0.55300  1.0000
+  O   O8        1.0  0.80900  0.70100  0.55300  1.0000
+  O   O9        1.0  0.10500  0.03220  0.74900  1.0000
+  O   O10       1.0  0.39500  0.53200  0.75100  1.0000
+  O   O11       1.0  0.69100  0.20100  0.94700  1.0000
+  O   O12       1.0  0.80500  0.70000  0.94700  1.0000
+  Sm  Sm1       1.0  0.01990  0.56800  0.24900  1.0000
+  Sm  Sm2       1.0  0.48000  0.06770  0.25100  1.0000
+  Sm  Sm3       1.0  0.52000  0.93200  0.74900  1.0000
+  Sm  Sm4       1.0  0.98000  0.43200  0.75100  1.0000

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_H2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00349510
+_cell_length_b   5.00349510
+_cell_length_c   5.50229300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   131.78596117
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H2O
+_chemical_formula_sum   'H8 O4'
+_cell_volume   102.71159128
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.03020100  0.43399600  0.56913900  1
+  H  H1  1  0.56600400  0.96979900  0.56913900  1
+  H  H2  1  0.32255300  0.67744700  0.89816400  1
+  H  H3  1  0.54988800  0.45011200  0.97660300  1
+  H  H4  1  0.45011200  0.54988800  0.47660300  1
+  H  H5  1  0.67744700  0.32255300  0.39816400  1
+  H  H6  1  0.43399600  0.03020100  0.06913900  1
+  H  H7  1  0.96979900  0.56600400  0.06913900  1
+  O  O8  1  0.27006800  0.72993200  0.05593500  1
+  O  O9  1  0.37351000  0.62649000  0.60101900  1
+  O  O10  1  0.72993200  0.27006800  0.55593500  1
+  O  O11  1  0.62649000  0.37351000  0.10101900  1

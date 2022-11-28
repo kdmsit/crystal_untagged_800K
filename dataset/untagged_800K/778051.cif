@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_SiSb3
+_symmetry_space_group_name_H-M  'P6_3/mmc'
+_cell_length_a       6.62544
+_cell_length_b       6.62544
+_cell_length_c       5.43245
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  194
+_chemical_formula_structural  SiSb3
+_chemical_formula_sum  Si2Sb6
+_cell_volume  206.51722064392044
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Sb  Sb1  1  0.17750  0.35499  0.25000  1
+ Sb  Sb2  1  0.64501  0.82250  0.25000  1
+ Sb  Sb3  1  0.17750  0.82250  0.25000  1
+ Sb  Sb4  1  0.82250  0.64501  0.75000  1
+ Sb  Sb5  1  0.35499  0.17750  0.75000  1
+ Sb  Sb6  1  0.82250  0.17750  0.75000  1
+ Si  Si1  1  0.33333  0.66667  0.75000  1
+ Si  Si2  1  0.66667  0.33333  0.25000  1

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mn2Mo2O12Sr4
+_chemical_formula_sum              "Mn2 Mo2 O12 Sr4"
+_cell_length_a       5.66547
+_cell_length_b       5.67043
+_cell_length_c       7.99572
+_cell_angle_alpha    90
+_cell_angle_beta     89.935
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.50000  0.00000  0.00000  1.0000
+  Mn  Mn2       1.0  0.00000  0.50000  0.50000  1.0000
+  Mo  Mo1       1.0  0.00000  0.50000  0.00000  1.0000
+  Mo  Mo2       1.0  0.50000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.73000  0.29500  0.03470  1.0000
+  O   O2        1.0  0.79900  0.77300  0.03630  1.0000
+  O   O3        1.0  0.06780  0.48600  0.23700  1.0000
+  O   O4        1.0  0.43200  0.98600  0.26300  1.0000
+  O   O5        1.0  0.70100  0.27300  0.46400  1.0000
+  O   O6        1.0  0.77000  0.79500  0.46500  1.0000
+  O   O7        1.0  0.23000  0.20500  0.53500  1.0000
+  O   O8        1.0  0.29900  0.72700  0.53600  1.0000
+  O   O9        1.0  0.56800  0.01380  0.73700  1.0000
+  O   O10       1.0  0.93200  0.51400  0.76300  1.0000
+  O   O11       1.0  0.20100  0.22700  0.96400  1.0000
+  O   O12       1.0  0.27000  0.70500  0.96500  1.0000
+  Sr  Sr1       1.0  0.50600  0.53100  0.24900  1.0000
+  Sr  Sr2       1.0  0.99400  0.03110  0.25100  1.0000
+  Sr  Sr3       1.0  0.00571  0.96900  0.74900  1.0000
+  Sr  Sr4       1.0  0.49400  0.46900  0.75100  1.0000

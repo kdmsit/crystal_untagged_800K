@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Nb2Zn2FeO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.20745992
+_cell_length_b   10.20745992
+_cell_length_c   5.30215463
+_cell_angle_alpha   89.27862439
+_cell_angle_beta   89.27862439
+_cell_angle_gamma   34.04560420
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb2Zn2FeO8
+_chemical_formula_sum   'Nb4 Zn4 Fe2 O16'
+_cell_volume   309.26003501
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.72356400  0.04639400  0.26245200  1
+  Nb  Nb1  1  0.95360600  0.27643600  0.23754800  1
+  Nb  Nb2  1  0.27643600  0.95360600  0.73754800  1
+  Nb  Nb3  1  0.04639400  0.72356400  0.76245200  1
+  Zn  Zn4  1  0.56716500  0.87296000  0.23131700  1
+  Zn  Zn5  1  0.12704000  0.43283500  0.26868300  1
+  Zn  Zn6  1  0.43283500  0.12704000  0.76868300  1
+  Zn  Zn7  1  0.87296000  0.56716500  0.73131700  1
+  Fe  Fe8  1  0.34814800  0.65185200  0.25000000  1
+  Fe  Fe9  1  0.65185200  0.34814800  0.75000000  1
+  O  O10  1  0.81392300  0.04583600  0.92263400  1
+  O  O11  1  0.95416400  0.18607700  0.57736600  1
+  O  O12  1  0.18607700  0.95416400  0.07736600  1
+  O  O13  1  0.04583600  0.81392300  0.42263400  1
+  O  O14  1  0.56668300  0.31556100  0.40511500  1
+  O  O15  1  0.68443900  0.43331700  0.09488500  1
+  O  O16  1  0.43331700  0.68443900  0.59488500  1
+  O  O17  1  0.31556100  0.56668300  0.90511500  1
+  O  O18  1  0.71756000  0.92473000  0.56187500  1
+  O  O19  1  0.07527000  0.28244000  0.93812500  1
+  O  O20  1  0.16022700  0.45265400  0.63249600  1
+  O  O21  1  0.54734600  0.83977300  0.86750400  1
+  O  O22  1  0.83977300  0.54734600  0.36750400  1
+  O  O23  1  0.45265400  0.16022700  0.13249600  1
+  O  O24  1  0.92473000  0.71756000  0.06187500  1
+  O  O25  1  0.28244000  0.07527000  0.43812500  1

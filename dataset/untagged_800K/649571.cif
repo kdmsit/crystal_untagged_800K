@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na3SbF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76762061
+_cell_length_b   7.55316889
+_cell_length_c   8.01593207
+_cell_angle_alpha   72.85742001
+_cell_angle_beta   112.22624590
+_cell_angle_gamma   125.55469832
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3SbF6
+_chemical_formula_sum   'Na3 Sb1 F6'
+_cell_volume   307.06173976
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.50000000  1
+  Na  Na1  1  0.50000000  0.50000000  0.00000000  1
+  Na  Na2  1  0.00000000  0.50000000  0.00000000  1
+  Sb  Sb3  1  0.00000000  0.00000000  0.00000000  1
+  F  F4  1  0.08016100  0.33494200  0.87715100  1
+  F  F5  1  0.91983900  0.66505800  0.12284900  1
+  F  F6  1  0.94832200  0.86866700  0.76178100  1
+  F  F7  1  0.05167800  0.13133300  0.23821900  1
+  F  F8  1  0.59206000  0.83561500  0.93900600  1
+  F  F9  1  0.40794000  0.16438500  0.06099400  1

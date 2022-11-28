@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ce2ZrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55299031
+_cell_length_b   6.55299031
+_cell_length_c   6.55299031
+_cell_angle_alpha   146.25887503
+_cell_angle_beta   131.67350657
+_cell_angle_gamma   60.23520338
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2ZrO6
+_chemical_formula_sum   'Ce2 Zr1 O6'
+_cell_volume   115.66140142
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.66454100  0.66454100  0.00000000  1
+  Ce  Ce1  1  0.33545900  0.33545900  0.00000000  1
+  Zr  Zr2  1  0.00000000  0.00000000  0.00000000  1
+  O  O3  1  0.59567600  0.83924500  0.75643000  1
+  O  O4  1  0.23638000  0.50000000  0.73638000  1
+  O  O5  1  0.91718500  0.16075500  0.75643000  1
+  O  O6  1  0.76362000  0.50000000  0.26362000  1
+  O  O7  1  0.40432400  0.16075500  0.24357000  1
+  O  O8  1  0.08281500  0.83924500  0.24357000  1

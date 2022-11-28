@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cr2F8Sr2
+_chemical_formula_sum              "Cr2 F8 Sr2"
+_cell_length_a       5.58589
+_cell_length_b       5.58589
+_cell_length_c       6.67422
+_cell_angle_alpha    114.738
+_cell_angle_beta     114.738
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.50000  0.00000  0.00000  1.0000
+  Cr  Cr2       1.0  0.00000  0.50000  0.00000  1.0000
+  F   F1        1.0  0.80500  0.30500  0.25100  1.0000
+  F   F2        1.0  0.30500  0.44500  0.25100  1.0000
+  F   F3        1.0  0.94500  0.80500  0.25100  1.0000
+  F   F4        1.0  0.44500  0.94500  0.25100  1.0000
+  F   F5        1.0  0.55500  0.05460  0.74900  1.0000
+  F   F6        1.0  0.05460  0.19500  0.74900  1.0000
+  F   F7        1.0  0.69500  0.55500  0.74900  1.0000
+  F   F8        1.0  0.19500  0.69500  0.74900  1.0000
+  Sr  Sr1       1.0  0.25000  0.25000  0.50000  1.0000
+  Sr  Sr2       1.0  0.75000  0.75000  0.50000  1.0000

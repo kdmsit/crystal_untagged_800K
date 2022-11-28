@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cu2NiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.20436158
+_cell_length_b   6.20436158
+_cell_length_c   6.20436158
+_cell_angle_alpha   129.19279598
+_cell_angle_beta   129.19279598
+_cell_angle_gamma   74.70055410
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu2NiO4
+_chemical_formula_sum   'Cu4 Ni2 O8'
+_cell_volume   139.76056442
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.87500000  0.62500000  0.25000000  1
+  Cu  Cu1  1  0.37500000  0.62500000  0.25000000  1
+  Cu  Cu2  1  0.37500000  0.12500000  0.75000000  1
+  Cu  Cu3  1  0.37500000  0.62500000  0.75000000  1
+  Ni  Ni4  1  0.75000000  0.25000000  0.50000000  1
+  Ni  Ni5  1  0.00000000  0.00000000  0.00000000  1
+  O  O6  1  0.34891500  0.83117400  0.11303900  1
+  O  O7  1  0.03186500  0.01412500  0.61303900  1
+  O  O8  1  0.98587500  0.59891500  0.01774000  1
+  O  O9  1  0.16882600  0.28186500  0.51774000  1
+  O  O10  1  0.58117400  0.96813500  0.98226000  1
+  O  O11  1  0.76412500  0.65108500  0.48226000  1
+  O  O12  1  0.71813500  0.23587500  0.88696100  1
+  O  O13  1  0.40108500  0.41882600  0.38696100  1

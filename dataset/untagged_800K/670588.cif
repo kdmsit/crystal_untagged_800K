@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrCrFe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03423628
+_cell_length_b   5.03466460
+_cell_length_c   8.09480400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   59.39026911
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCrFe
+_chemical_formula_sum   'Zr4 Cr4 Fe4'
+_cell_volume   176.57932639
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.33353200  0.33354800  0.56084800  1
+  Zr  Zr1  1  0.66586600  0.66590200  0.43656000  1
+  Zr  Zr2  1  0.66586600  0.66590200  0.06344000  1
+  Zr  Zr3  1  0.33353200  0.33354800  0.93915200  1
+  Cr  Cr4  1  0.00024600  0.00019500  0.50340200  1
+  Cr  Cr5  1  0.00024600  0.00019500  0.99659800  1
+  Cr  Cr6  1  0.83135300  0.33898500  0.75000000  1
+  Cr  Cr7  1  0.33900700  0.83135000  0.75000000  1
+  Fe  Fe8  1  0.82892200  0.82894000  0.75000000  1
+  Fe  Fe9  1  0.16730400  0.66512800  0.25000000  1
+  Fe  Fe10  1  0.66512300  0.16730300  0.25000000  1
+  Fe  Fe11  1  0.16900200  0.16900500  0.25000000  1

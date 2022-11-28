@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Rb4CO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79984772
+_cell_length_b   5.79984772
+_cell_length_c   5.79984764
+_cell_angle_alpha   89.78595245
+_cell_angle_beta   89.78595245
+_cell_angle_gamma   89.78595337
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb4CO4
+_chemical_formula_sum   'Rb4 C1 O4'
+_cell_volume   195.09255581
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.48068200  0.48068200  0.48068200  1
+  Rb  Rb1  1  0.91450700  0.47869400  0.94023700  1
+  Rb  Rb2  1  0.94023700  0.91450700  0.47869400  1
+  Rb  Rb3  1  0.47869400  0.94023700  0.91450700  1
+  C  C4  1  0.20535200  0.20535200  0.20535200  1
+  O  O5  1  0.34417200  0.35454100  0.06063100  1
+  O  O6  1  0.06063100  0.34417200  0.35454100  1
+  O  O7  1  0.35454100  0.06063100  0.34417200  1
+  O  O8  1  0.06158600  0.06158600  0.06158600  1

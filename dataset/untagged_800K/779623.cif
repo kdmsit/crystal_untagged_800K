@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_LiDyS2
+_symmetry_space_group_name_H-M  'I4_1/amd'
+_cell_length_a       7.67421
+_cell_length_b       10.2103
+_cell_length_c       6.73453
+_cell_angle_alpha    29.1046
+_cell_angle_beta     55.2661
+_cell_angle_gamma    41.2696
+
+_symmetry_Int_Tables_number  141
+_chemical_formula_structural  LiDyS2
+_chemical_formula_sum  Li2Dy2S4
+_cell_volume  162.9662067464895
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Dy  Dy1  1  0.25000  0.50000  0.00000  1
+ Dy  Dy2  1  0.50000  -0.00000  -0.00000  1
+ Li  Li1  1  0.00000  0.00000  0.00000  1
+ Li  Li2  1  0.75000  0.50000  0.00000  1
+ S  S1  1  0.00391  0.50000  0.49219  1
+ S  S2  1  0.49610  0.50000  0.50781  1
+ S  S3  1  0.25390  -0.00000  0.49219  1
+ S  S4  1  0.74609  0.00000  0.50781  1

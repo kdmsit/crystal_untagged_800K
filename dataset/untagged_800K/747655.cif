@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NbCr3(CuS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.96079091
+_cell_length_b   5.92622804
+_cell_length_c   5.85035735
+_cell_angle_alpha   92.80409790
+_cell_angle_beta   89.99623805
+_cell_angle_gamma   90.00270695
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbCr3(CuS4)2
+_chemical_formula_sum   'Nb1 Cr3 Cu2 S8'
+_cell_volume   241.04549686
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.50000000  0.00000000  0.50000000  1
+  Cr  Cr1  1  0.25008000  0.50002500  0.50000200  1
+  Cr  Cr2  1  0.74992000  0.49997500  0.49999800  1
+  Cr  Cr3  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu4  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu5  1  0.50000000  0.00000000  0.00000000  1
+  S  S6  1  0.00001200  0.32333500  0.28027300  1
+  S  S7  1  0.50000600  0.33192200  0.26014800  1
+  S  S8  1  0.24339000  0.82022300  0.25406700  1
+  S  S9  1  0.75661700  0.82024300  0.25407400  1
+  S  S10  1  0.24338300  0.17975700  0.74592600  1
+  S  S11  1  0.75661000  0.17977700  0.74593300  1
+  S  S12  1  0.49999400  0.66807800  0.73985200  1
+  S  S13  1  0.99998800  0.67666500  0.71972700  1

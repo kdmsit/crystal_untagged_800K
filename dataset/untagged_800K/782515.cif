@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_RbAuO
+_symmetry_space_group_name_H-M  'I4/mmm'
+_cell_length_a       5.82791
+_cell_length_b       7.6323
+_cell_length_c       7.6323
+_cell_angle_alpha    81.6184
+_cell_angle_beta     67.5553
+_cell_angle_gamma    67.5553
+
+_symmetry_Int_Tables_number  139
+_chemical_formula_structural  RbAuO
+_chemical_formula_sum  Rb4Au4O4
+_cell_volume  290.00164887120985
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Au  Au1  1  0.84951  -0.00000  0.30098  1
+ Au  Au2  1  0.15049  0.69902  0.00000  1
+ Au  Au3  1  0.84951  0.30098  -0.00000  1
+ Au  Au4  1  0.15049  0.00000  0.69902  1
+ O  O1  1  0.71011  0.28989  0.28989  1
+ O  O2  1  0.00000  0.71011  0.28989  1
+ O  O3  1  -0.00000  0.28989  0.71011  1
+ O  O4  1  0.28989  0.71011  0.71011  1
+ Rb  Rb1  1  0.19466  0.30534  0.30534  1
+ Rb  Rb2  1  0.50000  0.69466  0.30534  1
+ Rb  Rb3  1  0.50000  0.30534  0.69466  1
+ Rb  Rb4  1  0.80534  0.69466  0.69466  1

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Pr2FeGe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28299500
+_cell_length_b   4.33194900
+_cell_length_c   8.43957610
+_cell_angle_alpha   75.12892606
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2FeGe4
+_chemical_formula_sum   'Pr2 Fe1 Ge4'
+_cell_volume   151.34078673
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.25000000  0.89538900  0.20922200  1
+  Pr  Pr1  1  0.75000000  0.10205400  0.79589200  1
+  Fe  Fe2  1  0.25000000  0.69485600  0.61028900  1
+  Ge  Ge3  1  0.25000000  0.54980800  0.90038400  1
+  Ge  Ge4  1  0.75000000  0.45006000  0.09988100  1
+  Ge  Ge5  1  0.25000000  0.25266700  0.49466600  1
+  Ge  Ge6  1  0.75000000  0.75016700  0.49966600  1

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ni4Zn6
+_chemical_formula_sum              "Ni4 Zn6"
+_cell_length_a       5.12357
+_cell_length_b       5.12357
+_cell_length_c       6.48401
+_cell_angle_alpha    113.272
+_cell_angle_beta     66.7282
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.31300  0.68700  0.06080  1.0000
+  Ni  Ni2       1.0  0.18700  0.81300  0.43900  1.0000
+  Ni  Ni3       1.0  0.81300  0.18700  0.56100  1.0000
+  Ni  Ni4       1.0  0.68700  0.31300  0.93900  1.0000
+  Zn  Zn1       1.0  0.25000  0.23200  0.25000  1.0000
+  Zn  Zn2       1.0  0.73200  0.75000  0.25000  1.0000
+  Zn  Zn3       1.0  0.76800  0.26800  0.25000  1.0000
+  Zn  Zn4       1.0  0.23200  0.73200  0.75000  1.0000
+  Zn  Zn5       1.0  0.26800  0.25000  0.75000  1.0000
+  Zn  Zn6       1.0  0.75000  0.76800  0.75000  1.0000

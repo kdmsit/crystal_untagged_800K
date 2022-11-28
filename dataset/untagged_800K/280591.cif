@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MnO6Si
+_chemical_formula_sum              "Mn1 O6 Si1"
+_cell_length_a       4.99739
+_cell_length_b       4.99739
+_cell_length_c       4.4662
+_cell_angle_alpha    106.984
+_cell_angle_beta     106.984
+_cell_angle_gamma    121.32
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.84000  0.16000  0.00000  1.0000
+  O   O1        1.0  0.59600  0.97100  0.23600  1.0000
+  O   O2        1.0  0.27700  0.25500  0.25200  1.0000
+  O   O3        1.0  0.03840  0.68700  0.30600  1.0000
+  O   O4        1.0  0.31300  0.96200  0.69400  1.0000
+  O   O5        1.0  0.74500  0.72300  0.74800  1.0000
+  O   O6        1.0  0.02890  0.40400  0.76400  1.0000
+  Si  Si1       1.0  0.16200  0.83800  0.00000  1.0000

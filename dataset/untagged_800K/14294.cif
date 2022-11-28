@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cu2S6Tl2Zr2
+_chemical_formula_sum              "Cu2 S6 Tl2 Zr2"
+_cell_length_a       7.35623
+_cell_length_b       3.73595
+_cell_length_c       9.82282
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    104.71
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.92400  0.46200  0.25000  1.0000
+  Cu  Cu2       1.0  0.07650  0.53800  0.75000  1.0000
+  S   S1        1.0  0.75400  0.37700  0.05060  1.0000
+  S   S2        1.0  0.12400  0.06180  0.25000  1.0000
+  S   S3        1.0  0.75400  0.37700  0.44900  1.0000
+  S   S4        1.0  0.24600  0.62300  0.55100  1.0000
+  S   S5        1.0  0.87600  0.93800  0.75000  1.0000
+  S   S6        1.0  0.24600  0.62300  0.94900  1.0000
+  Tl  Tl1       1.0  0.48800  0.74400  0.25000  1.0000
+  Tl  Tl2       1.0  0.51200  0.25600  0.75000  1.0000
+  Zr  Zr1       1.0  0.00000  0.00000  0.00000  1.0000
+  Zr  Zr2       1.0  0.00000  0.00000  0.50000  1.0000

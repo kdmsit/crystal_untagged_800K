@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Cs2MnV2(BrO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76260091
+_cell_length_b   9.44508309
+_cell_length_c   12.06427300
+_cell_angle_alpha   89.99996356
+_cell_angle_beta   90.00000121
+_cell_angle_gamma   72.23737378
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2MnV2(BrO3)2
+_chemical_formula_sum   'Cs4 Mn2 V4 Br4 O12'
+_cell_volume   625.33438056
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.36659600  0.26681000  0.02783500  1
+  Cs  Cs1  1  0.36659400  0.26681500  0.52784100  1
+  Cs  Cs2  1  0.63340400  0.73319000  0.02783500  1
+  Cs  Cs3  1  0.63340600  0.73318500  0.52784100  1
+  Mn  Mn4  1  0.00000200  0.00000000  0.77208600  1
+  Mn  Mn5  1  0.99999900  0.00000100  0.27204600  1
+  V  V6  1  0.19968600  0.60062200  0.27415800  1
+  V  V7  1  0.80031400  0.39937700  0.27415800  1
+  V  V8  1  0.19968000  0.60063400  0.77416300  1
+  V  V9  1  0.80032100  0.39936500  0.77416400  1
+  Br  Br10  1  0.50000000  0.00000000  0.26365600  1
+  Br  Br11  1  0.50000000  0.00000000  0.76366100  1
+  Br  Br12  1  0.00000000  0.00000000  0.48755400  1
+  Br  Br13  1  0.00000000  0.00000000  0.98753400  1
+  O  O14  1  0.00000000  0.50000000  0.21991300  1
+  O  O15  1  0.99999800  0.49999900  0.71992000  1
+  O  O16  1  0.50000000  0.50000000  0.21991300  1
+  O  O17  1  0.50000300  0.49999900  0.71992000  1
+  O  O18  1  0.11029200  0.77941700  0.22707300  1
+  O  O19  1  0.11031300  0.77937500  0.72708500  1
+  O  O20  1  0.88970800  0.22058200  0.22707300  1
+  O  O21  1  0.88968500  0.22062700  0.72708500  1
+  O  O22  1  0.20203100  0.59593600  0.41113600  1
+  O  O23  1  0.20203300  0.59593300  0.91109700  1
+  O  O24  1  0.79796900  0.40406400  0.41113600  1
+  O  O25  1  0.79796700  0.40406700  0.91109300  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaMg4Ag3As4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93824001
+_cell_length_b   5.46170500
+_cell_length_c   9.78260311
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMg4Ag3As4
+_chemical_formula_sum   'Na1 Mg4 Ag3 As4'
+_cell_volume   263.84864459
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.21226300  0.75000000  1
+  Mg  Mg1  1  0.00000000  0.98520800  0.46574800  1
+  Mg  Mg2  1  0.50000000  0.50732700  0.75000000  1
+  Mg  Mg3  1  0.00000000  0.98520800  0.03425200  1
+  Mg  Mg4  1  0.50000000  0.51032800  0.25000000  1
+  Ag  Ag5  1  0.50000000  0.75502900  0.99552400  1
+  Ag  Ag6  1  0.00000000  0.29313600  0.25000000  1
+  Ag  Ag7  1  0.50000000  0.75502900  0.50447600  1
+  As  As8  1  0.00000000  0.49329400  0.00111900  1
+  As  As9  1  0.50000000  0.00671600  0.25000000  1
+  As  As10  1  0.00000000  0.49329400  0.49888100  1
+  As  As11  1  0.50000000  0.00316700  0.75000000  1

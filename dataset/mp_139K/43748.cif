@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_ZnTeMoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10137900
+_cell_length_b   5.35242200
+_cell_length_c   9.20584400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnTeMoO6
+_chemical_formula_sum   'Zn2 Te2 Mo2 O12'
+_cell_volume   251.36311421
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.50000000  0.50000000  0.52492900  1
+  Zn  Zn1  1  0.00000000  0.00000000  0.47507100  1
+  Te  Te2  1  0.00000000  0.50000000  0.25998100  1
+  Te  Te3  1  0.50000000  0.00000000  0.74001900  1
+  Mo  Mo4  1  0.00000000  0.50000000  0.80698100  1
+  Mo  Mo5  1  0.50000000  0.00000000  0.19301900  1
+  O  O6  1  0.22056000  0.32600800  0.39686000  1
+  O  O7  1  0.77944000  0.67399200  0.39686000  1
+  O  O8  1  0.73719000  0.67937600  0.70586300  1
+  O  O9  1  0.27944000  0.82600800  0.60314000  1
+  O  O10  1  0.65690200  0.78757300  0.07982900  1
+  O  O11  1  0.84309800  0.28757300  0.92017100  1
+  O  O12  1  0.26281000  0.32062400  0.70586300  1
+  O  O13  1  0.72056000  0.17399200  0.60314000  1
+  O  O14  1  0.23719000  0.82062400  0.29413700  1
+  O  O15  1  0.76281000  0.17937600  0.29413700  1
+  O  O16  1  0.15690200  0.71242700  0.92017100  1
+  O  O17  1  0.34309800  0.21242700  0.07982900  1

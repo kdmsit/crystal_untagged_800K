@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_Ni3Au
+_symmetry_space_group_name_H-M  'P6_3/mmc'
+_cell_length_a       5.23607
+_cell_length_b       5.23607
+_cell_length_c       4.26239
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  194
+_chemical_formula_structural  Ni3Au
+_chemical_formula_sum  Ni6Au2
+_cell_volume  101.20336955709723
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Au  Au1  1  0.66667  0.33333  0.75000  1
+ Au  Au2  1  0.33333  0.66667  0.25000  1
+ Ni  Ni1  1  0.84095  0.15905  0.25000  1
+ Ni  Ni2  1  0.84095  0.68191  0.25000  1
+ Ni  Ni3  1  0.31809  0.15905  0.25000  1
+ Ni  Ni4  1  0.15905  0.84095  0.75000  1
+ Ni  Ni5  1  0.15905  0.31809  0.75000  1
+ Ni  Ni6  1  0.68191  0.84095  0.75000  1

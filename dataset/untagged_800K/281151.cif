@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BiLi2MnO6
+_chemical_formula_sum              "Bi1 Li2 Mn1 O6"
+_cell_length_a       5.29009
+_cell_length_b       5.29009
+_cell_length_c       5.09385
+_cell_angle_alpha    101.185
+_cell_angle_beta     101.185
+_cell_angle_gamma    119.757
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.17100  0.82900  0.00000  1.0000
+  Li  Li1       1.0  0.50200  0.49800  0.00000  1.0000
+  Li  Li2       1.0  0.98200  0.01840  0.50000  1.0000
+  Mn  Mn1       1.0  0.83400  0.16600  0.00000  1.0000
+  O   O1        1.0  0.61400  0.93500  0.21300  1.0000
+  O   O2        1.0  0.91100  0.55900  0.22200  1.0000
+  O   O3        1.0  0.20200  0.22700  0.24000  1.0000
+  O   O4        1.0  0.77300  0.79800  0.76000  1.0000
+  O   O5        1.0  0.44100  0.08850  0.77800  1.0000
+  O   O6        1.0  0.06550  0.38600  0.78700  1.0000

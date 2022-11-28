@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_BaFe2N2
+_symmetry_space_group_name_H-M  'I4/mcm'
+_cell_length_a       6.32895
+_cell_length_b       6.0791
+_cell_length_c       9.2904
+_cell_angle_alpha    90
+_cell_angle_beta     42.7806
+_cell_angle_gamma    61.2975
+
+_symmetry_Int_Tables_number  140
+_chemical_formula_structural  BaFe2N2
+_chemical_formula_sum  Ba2Fe4N4
+_cell_volume  171.66569354258496
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.00000  0.00000  0.25000  1
+ Ba  Ba2  1  0.00000  0.00000  0.75000  1
+ Fe  Fe1  1  0.73099  0.50000  0.63450  1
+ Fe  Fe2  1  0.26901  0.50000  0.36550  1
+ Fe  Fe3  1  0.26901  0.23099  0.86550  1
+ Fe  Fe4  1  0.73099  0.76901  0.13450  1
+ N  N1  1  0.68055  0.50000  0.15973  1
+ N  N2  1  0.31945  0.50000  0.84027  1
+ N  N3  1  0.31945  0.18055  0.34027  1
+ N  N4  1  0.68055  0.81945  0.65973  1

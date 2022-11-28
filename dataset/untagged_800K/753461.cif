@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ta2MnZn2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.27173454
+_cell_length_b   10.27173454
+_cell_length_c   5.31981275
+_cell_angle_alpha   89.83280393
+_cell_angle_beta   89.83280393
+_cell_angle_gamma   33.83441165
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2MnZn2O8
+_chemical_formula_sum   'Ta4 Mn2 Zn4 O16'
+_cell_volume   312.51935221
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.03963400  0.72635400  0.73075400  1
+  Ta  Ta1  1  0.27364600  0.96036600  0.76924600  1
+  Ta  Ta2  1  0.96036600  0.27364600  0.26924600  1
+  Ta  Ta3  1  0.72635400  0.03963400  0.23075400  1
+  Mn  Mn4  1  0.65428500  0.34571500  0.75000000  1
+  Mn  Mn5  1  0.34571500  0.65428500  0.25000000  1
+  Zn  Zn6  1  0.87110800  0.56621900  0.77012600  1
+  Zn  Zn7  1  0.43378100  0.12889200  0.72987400  1
+  Zn  Zn8  1  0.12889200  0.43378100  0.22987400  1
+  Zn  Zn9  1  0.56621900  0.87110800  0.27012600  1
+  O  O10  1  0.03831200  0.81789200  0.06268700  1
+  O  O11  1  0.18210800  0.96168800  0.43731300  1
+  O  O12  1  0.96168800  0.18210800  0.93731300  1
+  O  O13  1  0.81789200  0.03831200  0.56268700  1
+  O  O14  1  0.31203900  0.56687800  0.59495000  1
+  O  O15  1  0.43312200  0.68796100  0.90505000  1
+  O  O16  1  0.68796100  0.43312200  0.40505000  1
+  O  O17  1  0.56687800  0.31203900  0.09495000  1
+  O  O18  1  0.92629100  0.71669400  0.43034700  1
+  O  O19  1  0.28330600  0.07370900  0.06965300  1
+  O  O20  1  0.45510000  0.15637900  0.35907100  1
+  O  O21  1  0.84362100  0.54490000  0.14092900  1
+  O  O22  1  0.54490000  0.84362100  0.64092900  1
+  O  O23  1  0.15637900  0.45510000  0.85907100  1
+  O  O24  1  0.71669400  0.92629100  0.93034700  1
+  O  O25  1  0.07370900  0.28330600  0.56965300  1

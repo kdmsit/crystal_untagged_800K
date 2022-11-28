@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_YFeCl2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.02657082
+_cell_length_b   9.02657082
+_cell_length_c   11.01788627
+_cell_angle_alpha   52.61722920
+_cell_angle_beta   52.61722920
+_cell_angle_gamma   22.24010373
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YFeCl2O3
+_chemical_formula_sum   'Y2 Fe2 Cl4 O6'
+_cell_volume   266.92544233
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.61404900  0.61404900  0.13600000  1
+  Y  Y1  1  0.38595100  0.38595100  0.86400000  1
+  Fe  Fe2  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe3  1  0.00000000  0.00000000  0.50000000  1
+  Cl  Cl4  1  0.42177600  0.42177600  0.19976800  1
+  Cl  Cl5  1  0.57822400  0.57822400  0.80023200  1
+  Cl  Cl6  1  0.62384100  0.62384100  0.40088500  1
+  Cl  Cl7  1  0.37615900  0.37615900  0.59911500  1
+  O  O8  1  0.02727000  0.02727000  0.31433000  1
+  O  O9  1  0.97273000  0.97273000  0.68567000  1
+  O  O10  1  0.22786200  0.22786200  0.08219100  1
+  O  O11  1  0.77213800  0.77213800  0.91780900  1
+  O  O12  1  0.09545400  0.09545400  0.01460400  1
+  O  O13  1  0.90454600  0.90454600  0.98539600  1

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Fe4Rh6
+_chemical_formula_sum              "Fe4 Rh6"
+_cell_length_a       6.18347
+_cell_length_b       6.18347
+_cell_length_c       5.35716
+_cell_angle_alpha    125.248
+_cell_angle_beta     54.7516
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.58700  0.41300  0.24000  1.0000
+  Fe  Fe2       1.0  0.91300  0.08660  0.26000  1.0000
+  Fe  Fe3       1.0  0.08660  0.91300  0.74000  1.0000
+  Fe  Fe4       1.0  0.41300  0.58700  0.76000  1.0000
+  Rh  Rh1       1.0  0.25000  0.00770  0.25000  1.0000
+  Rh  Rh2       1.0  0.99200  0.49200  0.25000  1.0000
+  Rh  Rh3       1.0  0.50800  0.75000  0.25000  1.0000
+  Rh  Rh4       1.0  0.49200  0.25000  0.75000  1.0000
+  Rh  Rh5       1.0  0.00770  0.50800  0.75000  1.0000
+  Rh  Rh6       1.0  0.75000  0.99200  0.75000  1.0000

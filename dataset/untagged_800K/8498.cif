@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2S5Zn2
+_chemical_formula_sum              "In2 S5 Zn2"
+_cell_length_a       3.90467
+_cell_length_b       3.90467
+_cell_length_c       15.5655
+_cell_angle_alpha    97.2054
+_cell_angle_beta     82.7946
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.89700  0.10300  0.30900  1.0000
+  In  In2       1.0  0.07610  0.92400  0.77200  1.0000
+  S   S1        1.0  0.99300  0.00710  0.02130  1.0000
+  S   S2        1.0  0.25800  0.74200  0.22500  1.0000
+  S   S3        1.0  0.53100  0.46900  0.40600  1.0000
+  S   S4        1.0  0.13000  0.87000  0.60900  1.0000
+  S   S5        1.0  0.38700  0.61300  0.84000  1.0000
+  Zn  Zn1       1.0  0.31300  0.68700  0.06240  1.0000
+  Zn  Zn2       1.0  0.48300  0.51700  0.55200  1.0000

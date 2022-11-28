@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba2Ni2W3
+_chemical_formula_sum              "Ba2 Ni2 W3"
+_cell_length_a       10.6472
+_cell_length_b       10.6472
+_cell_length_c       10.6472
+_cell_angle_alpha    23.1834
+_cell_angle_beta     23.1834
+_cell_angle_gamma    23.1834
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.17400  0.17400  0.17400  1.0000
+  Ba  Ba2       1.0  0.74400  0.74400  0.74400  1.0000
+  Ni  Ni1       1.0  0.01180  0.01180  0.01180  1.0000
+  Ni  Ni2       1.0  0.55600  0.55600  0.55600  1.0000
+  W   W1        1.0  0.32800  0.32800  0.32800  1.0000
+  W   W2        1.0  0.63100  0.63100  0.63100  1.0000
+  W   W3        1.0  0.93000  0.93000  0.93000  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni4Pd4Te4
+_chemical_formula_sum              "Ni4 Pd4 Te4"
+_cell_length_a       8.4205
+_cell_length_b       3.78972
+_cell_length_c       6.34236
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.60600  0.25000  0.01130  1.0000
+  Ni  Ni2       1.0  0.10600  0.25000  0.48900  1.0000
+  Ni  Ni3       1.0  0.89400  0.75000  0.51100  1.0000
+  Ni  Ni4       1.0  0.39400  0.75000  0.98900  1.0000
+  Pd  Pd1       1.0  0.08540  0.75000  0.15400  1.0000
+  Pd  Pd2       1.0  0.58500  0.75000  0.34600  1.0000
+  Pd  Pd3       1.0  0.41500  0.25000  0.65400  1.0000
+  Pd  Pd4       1.0  0.91500  0.25000  0.84600  1.0000
+  Te  Te1       1.0  0.34300  0.25000  0.24100  1.0000
+  Te  Te2       1.0  0.84300  0.25000  0.25900  1.0000
+  Te  Te3       1.0  0.15700  0.75000  0.74100  1.0000
+  Te  Te4       1.0  0.65700  0.75000  0.75900  1.0000

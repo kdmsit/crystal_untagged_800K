@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Co4Ge4O4Se4
+_chemical_formula_sum              "Co4 Ge4 O4 Se4"
+_cell_length_a       5.9913
+_cell_length_b       8.02972
+_cell_length_c       5.75706
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.40000  0.06350  0.07090  1.0000
+  Co  Co2       1.0  0.90000  0.93600  0.07090  1.0000
+  Co  Co3       1.0  0.10000  0.06350  0.57100  1.0000
+  Co  Co4       1.0  0.60000  0.93600  0.57100  1.0000
+  Ge  Ge1       1.0  0.55600  0.31900  0.47700  1.0000
+  Ge  Ge2       1.0  0.05560  0.68100  0.47700  1.0000
+  Ge  Ge3       1.0  0.94400  0.31900  0.97700  1.0000
+  Ge  Ge4       1.0  0.44400  0.68100  0.97700  1.0000
+  O   O1        1.0  0.66200  0.02110  0.26200  1.0000
+  O   O2        1.0  0.16200  0.97900  0.26200  1.0000
+  O   O3        1.0  0.83800  0.02110  0.76200  1.0000
+  O   O4        1.0  0.33800  0.97900  0.76200  1.0000
+  Se  Se1       1.0  0.98100  0.35700  0.44000  1.0000
+  Se  Se2       1.0  0.48100  0.64300  0.44000  1.0000
+  Se  Se3       1.0  0.51900  0.35700  0.94000  1.0000
+  Se  Se4       1.0  0.01950  0.64300  0.94000  1.0000

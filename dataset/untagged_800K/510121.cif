@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Co2Hg2O2S2
+_chemical_formula_sum              "Co2 Hg2 O2 S2"
+_cell_length_a       3.40399
+_cell_length_b       3.54784
+_cell_length_c       12.397
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    118.668
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.29800  0.59600  0.25300  1.0000
+  Co  Co2       1.0  0.70200  0.40400  0.75300  1.0000
+  Hg  Hg1       1.0  0.08590  0.17200  0.48100  1.0000
+  Hg  Hg2       1.0  0.91400  0.82800  0.98100  1.0000
+  O   O1        1.0  0.96600  0.93200  0.32200  1.0000
+  O   O2        1.0  0.03380  0.06750  0.82200  1.0000
+  S   S1        1.0  0.67600  0.35300  0.13200  1.0000
+  S   S2        1.0  0.32400  0.64700  0.63200  1.0000

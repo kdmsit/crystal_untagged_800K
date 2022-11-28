@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_ErSiIr
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.22237
+_cell_length_b       6.80333
+_cell_length_c       7.41885
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  ErSiIr
+_chemical_formula_sum  Er4Si4Ir4
+_cell_volume  213.115111835647
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Er  Er1  1  0.75000  0.50166  0.81215  1
+ Er  Er2  1  0.25000  0.99834  0.31215  1
+ Er  Er3  1  0.75000  0.00166  0.68785  1
+ Er  Er4  1  0.25000  0.49834  0.18785  1
+ Ir  Ir1  1  0.25000  0.83920  0.93091  1
+ Ir  Ir2  1  0.25000  0.33920  0.56909  1
+ Ir  Ir3  1  0.75000  0.66080  0.43091  1
+ Ir  Ir4  1  0.75000  0.16080  0.06909  1
+ Si  Si1  1  0.25000  0.70279  0.60916  1
+ Si  Si2  1  0.25000  0.20279  0.89084  1
+ Si  Si3  1  0.75000  0.29721  0.39084  1
+ Si  Si4  1  0.75000  0.79721  0.10916  1

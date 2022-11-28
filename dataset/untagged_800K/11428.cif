@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ag4Ge2S6
+_chemical_formula_sum              "Ag4 Ge2 S6"
+_cell_length_a       6.51354
+_cell_length_b       6.93986
+_cell_length_c       6.93986
+_cell_angle_alpha    61.1875
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.48900  0.69500  0.99000  1.0000
+  Ag  Ag2       1.0  0.98900  0.30500  0.00952  1.0000
+  Ag  Ag3       1.0  0.48900  0.00952  0.30500  1.0000
+  Ag  Ag4       1.0  0.98900  0.99000  0.69500  1.0000
+  Ge  Ge1       1.0  0.96100  0.65900  0.34100  1.0000
+  Ge  Ge2       1.0  0.46100  0.34100  0.65900  1.0000
+  S   S1        1.0  0.87600  0.64800  0.03930  1.0000
+  S   S2        1.0  0.87600  0.96100  0.35200  1.0000
+  S   S3        1.0  0.32600  0.64400  0.35600  1.0000
+  S   S4        1.0  0.82600  0.35600  0.64400  1.0000
+  S   S5        1.0  0.37600  0.03930  0.64800  1.0000
+  S   S6        1.0  0.37600  0.35200  0.96100  1.0000

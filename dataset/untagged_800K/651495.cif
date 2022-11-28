@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Co4SbO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91451741
+_cell_length_b   5.91451741
+_cell_length_c   5.83218060
+_cell_angle_alpha   61.20194050
+_cell_angle_beta   61.20194050
+_cell_angle_gamma   60.80268422
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co4SbO8
+_chemical_formula_sum   'Co4 Sb1 O8'
+_cell_volume   147.72988481
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.38198000  0.38198000  0.88877500  1
+  Co  Co1  1  0.61802000  0.61802000  0.11122500  1
+  Co  Co2  1  0.00000000  0.50000000  0.50000000  1
+  Co  Co3  1  0.50000000  0.00000000  0.50000000  1
+  Sb  Sb4  1  0.00000000  0.00000000  0.00000000  1
+  O  O5  1  0.25595500  0.25595500  0.29389200  1
+  O  O6  1  0.24162700  0.24162700  0.75423600  1
+  O  O7  1  0.26246400  0.78296800  0.74064700  1
+  O  O8  1  0.78296800  0.26246400  0.74064700  1
+  O  O9  1  0.74404500  0.74404500  0.70610800  1
+  O  O10  1  0.75837300  0.75837300  0.24576400  1
+  O  O11  1  0.73753600  0.21703200  0.25935300  1
+  O  O12  1  0.21703200  0.73753600  0.25935300  1

@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_TaMnSi
+_symmetry_space_group_name_H-M  'P-62m'
+_cell_length_a       3.48029
+_cell_length_b       6.41678
+_cell_length_c       6.41672
+_cell_angle_alpha    120
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  189
+_chemical_formula_structural  TaMnSi
+_chemical_formula_sum  Ta3Mn3Si3
+_cell_volume  124.1009920052091
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mn  Mn1  1  0.00000  0.24692  -0.00000  1
+ Mn  Mn2  1  0.00000  0.75305  0.75306  1
+ Mn  Mn3  1  0.00000  0.99999  0.24694  1
+ Si  Si1  1  0.00000  0.33332  0.66667  1
+ Si  Si2  1  0.00000  0.66664  0.33333  1
+ Si  Si3  1  0.50000  -0.00000  -0.00000  1
+ Ta  Ta1  1  0.50000  0.58910  0.00000  1
+ Ta  Ta2  1  0.50000  0.41090  0.41091  1
+ Ta  Ta3  1  0.50000  0.99998  0.58909  1

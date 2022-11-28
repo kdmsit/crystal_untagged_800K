@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Ba2GeTe2Se2
+_symmetry_space_group_name_H-M  'P2_1/m'
+_cell_length_a       7.24229
+_cell_length_b       7.52334
+_cell_length_c       9.30406
+_cell_angle_alpha    108.114
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  11
+_chemical_formula_structural  Ba2GeTe2Se2
+_chemical_formula_sum  Ba4Ge2Te4Se4
+_cell_volume  481.81955978490333
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.25000  0.22518  0.05475  1
+ Ba  Ba2  1  0.25000  0.22417  0.55740  1
+ Ba  Ba3  1  0.75000  0.77583  0.44260  1
+ Ba  Ba4  1  0.75000  0.77482  0.94525  1
+ Ge  Ge1  1  0.25000  0.78335  0.69635  1
+ Ge  Ge2  1  0.75000  0.21665  0.30365  1
+ Se  Se1  1  0.50526  -0.00406  0.75127  1
+ Se  Se2  1  0.00526  0.00406  0.24873  1
+ Se  Se3  1  0.49474  0.00406  0.24873  1
+ Se  Se4  1  0.99474  -0.00406  0.75127  1
+ Te  Te1  1  0.25000  0.60961  0.90064  1
+ Te  Te2  1  0.25000  0.61049  0.40542  1
+ Te  Te3  1  0.75000  0.38951  0.59458  1
+ Te  Te4  1  0.75000  0.39039  0.09936  1

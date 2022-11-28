@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Ga2Na6P8Sr6
+_chemical_formula_sum              "Ga2 Na6 P8 Sr6"
+_cell_length_a       9.40351
+_cell_length_b       9.40328
+_cell_length_c       7.37747
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.66700  0.33300  0.37400  1.0000
+  Ga  Ga2       1.0  0.33300  0.66700  0.87400  1.0000
+  Na  Na1       1.0  0.13400  0.86600  0.17100  1.0000
+  Na  Na2       1.0  0.73100  0.86600  0.17100  1.0000
+  Na  Na3       1.0  0.13400  0.26900  0.17100  1.0000
+  Na  Na4       1.0  0.26900  0.13400  0.67100  1.0000
+  Na  Na5       1.0  0.86600  0.13400  0.67100  1.0000
+  Na  Na6       1.0  0.86600  0.73100  0.67100  1.0000
+  P   P1        1.0  0.33300  0.66700  0.21500  1.0000
+  P   P2        1.0  0.81000  0.61900  0.27900  1.0000
+  P   P3        1.0  0.38100  0.19000  0.27900  1.0000
+  P   P4        1.0  0.81000  0.19000  0.27900  1.0000
+  P   P5        1.0  0.66700  0.33300  0.71500  1.0000
+  P   P6        1.0  0.19000  0.38100  0.77900  1.0000
+  P   P7        1.0  0.19000  0.81000  0.77900  1.0000
+  P   P8        1.0  0.61900  0.81000  0.77900  1.0000
+  Sr  Sr1       1.0  0.47700  0.95400  0.50000  1.0000
+  Sr  Sr2       1.0  0.04560  0.52300  0.50000  1.0000
+  Sr  Sr3       1.0  0.47700  0.52300  0.50000  1.0000
+  Sr  Sr4       1.0  0.52300  0.04560  0.00000  1.0000
+  Sr  Sr5       1.0  0.52300  0.47700  0.00000  1.0000
+  Sr  Sr6       1.0  0.95400  0.47700  0.00000  1.0000

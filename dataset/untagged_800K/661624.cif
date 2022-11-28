@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Na(GaAu2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.52863200
+_cell_length_b   8.47506000
+_cell_length_c   9.37814410
+_cell_angle_alpha   64.25038140
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(GaAu2)2
+_chemical_formula_sum   'Na4 Ga8 Au16'
+_cell_volume   538.95990855
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.04489500  0.21122700  0.32452500  1
+  Na  Na1  1  0.54489500  0.78877300  0.17547500  1
+  Na  Na2  1  0.95510500  0.78877300  0.67547500  1
+  Na  Na3  1  0.45510500  0.21122700  0.82452500  1
+  Ga  Ga4  1  0.17535300  0.51629300  0.58495000  1
+  Ga  Ga5  1  0.67535300  0.48370700  0.91505000  1
+  Ga  Ga6  1  0.82464700  0.48370700  0.41505000  1
+  Ga  Ga7  1  0.32464700  0.51629300  0.08495000  1
+  Ga  Ga8  1  0.86856300  0.99667400  0.88792700  1
+  Ga  Ga9  1  0.36856300  0.00332600  0.61207300  1
+  Ga  Ga10  1  0.13143700  0.00332600  0.11207300  1
+  Ga  Ga11  1  0.63143700  0.99667400  0.38792700  1
+  Au  Au12  1  0.10303700  0.17547600  0.65654500  1
+  Au  Au13  1  0.60303700  0.82452400  0.84345500  1
+  Au  Au14  1  0.89696300  0.82452400  0.34345500  1
+  Au  Au15  1  0.39696300  0.17547600  0.15654500  1
+  Au  Au16  1  0.21570800  0.85554400  0.92157100  1
+  Au  Au17  1  0.71570800  0.14445600  0.57842900  1
+  Au  Au18  1  0.78429200  0.14445600  0.07842900  1
+  Au  Au19  1  0.28429200  0.85554400  0.42157100  1
+  Au  Au20  1  0.39543600  0.36563000  0.45457700  1
+  Au  Au21  1  0.89543600  0.63437000  0.04542300  1
+  Au  Au22  1  0.60456400  0.63437000  0.54542300  1
+  Au  Au23  1  0.10456400  0.36563000  0.95457700  1
+  Au  Au24  1  0.84618500  0.37132600  0.73386000  1
+  Au  Au25  1  0.34618500  0.62867400  0.76614000  1
+  Au  Au26  1  0.15381500  0.62867400  0.26614000  1
+  Au  Au27  1  0.65381500  0.37132600  0.23386000  1

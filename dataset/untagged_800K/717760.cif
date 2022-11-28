@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Mn2B4W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79107181
+_cell_length_b   6.79107181
+_cell_length_c   6.79107181
+_cell_angle_alpha   154.28475617
+_cell_angle_beta   153.65449081
+_cell_angle_gamma   37.14633688
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2B4W
+_chemical_formula_sum   'Mn2 B4 W1'
+_cell_volume   60.22178227
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.18636800  0.18636800  0.00000000  1
+  Mn  Mn1  1  0.81363200  0.81363200  0.00000000  1
+  B  B2  1  0.35198900  0.35198900  0.00000000  1
+  B  B3  1  0.64801100  0.64801100  0.00000000  1
+  B  B4  1  0.42756100  0.92756100  0.50000000  1
+  B  B5  1  0.57243900  0.07243900  0.50000000  1
+  W  W6  1  0.00000000  0.50000000  0.50000000  1

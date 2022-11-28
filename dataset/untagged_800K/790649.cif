@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_HfSi
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.79716
+_cell_length_b       5.25874
+_cell_length_c       6.91989
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  HfSi
+_chemical_formula_sum  Hf4Si4
+_cell_volume  138.1783984537779
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Hf  Hf1  1  0.25000  0.37386  0.67535  1
+ Hf  Hf2  1  0.75000  0.62614  0.32465  1
+ Hf  Hf3  1  0.75000  0.87386  0.82465  1
+ Hf  Hf4  1  0.25000  0.12614  0.17535  1
+ Si  Si1  1  0.25000  0.85818  0.54433  1
+ Si  Si2  1  0.75000  0.14182  0.45567  1
+ Si  Si3  1  0.75000  0.35818  0.95567  1
+ Si  Si4  1  0.25000  0.64182  0.04433  1

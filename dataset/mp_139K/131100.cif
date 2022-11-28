@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_V10(SiGe)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19826358
+_cell_length_b   7.19826358
+_cell_length_c   4.89553400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999612
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V10(SiGe)3
+_chemical_formula_sum   'V10 Si3 Ge3'
+_cell_volume   219.67781996
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.66666700  0.33333300  0.75514700  1
+  V  V1  1  0.33333300  0.66666700  0.75514700  1
+  V  V2  1  0.33333300  0.66666700  0.24485300  1
+  V  V3  1  0.66666700  0.33333300  0.24485300  1
+  V  V4  1  0.75074200  0.75074200  0.50000000  1
+  V  V5  1  0.24925800  0.00000000  0.50000000  1
+  V  V6  1  0.00000000  0.24925800  0.50000000  1
+  V  V7  1  0.24579900  0.24579900  0.00000000  1
+  V  V8  1  0.75420100  0.00000000  0.00000000  1
+  V  V9  1  0.00000000  0.75420100  0.00000000  1
+  Si  Si10  1  0.60944500  0.60944500  0.00000000  1
+  Si  Si11  1  0.39055500  0.00000000  0.00000000  1
+  Si  Si12  1  0.00000000  0.39055500  0.00000000  1
+  Ge  Ge13  1  0.39287200  0.39287200  0.50000000  1
+  Ge  Ge14  1  0.60712800  0.00000000  0.50000000  1
+  Ge  Ge15  1  0.00000000  0.60712800  0.50000000  1

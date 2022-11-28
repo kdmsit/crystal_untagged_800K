@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Hf3Pt4Sb4
+_chemical_formula_sum              "Hf3 Pt4 Sb4"
+_cell_length_a       6.38245
+_cell_length_b       6.38245
+_cell_length_c       7.71712
+_cell_angle_alpha    65.5735
+_cell_angle_beta     65.5735
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.50000  0.50000  0.00000  1.0000
+  Hf  Hf2       1.0  0.75000  0.25000  0.50000  1.0000
+  Hf  Hf3       1.0  0.25000  0.75000  0.50000  1.0000
+  Pt  Pt1       1.0  0.60300  0.13400  0.26200  1.0000
+  Pt  Pt2       1.0  0.13400  0.60300  0.26200  1.0000
+  Pt  Pt3       1.0  0.39700  0.39700  0.73800  1.0000
+  Pt  Pt4       1.0  0.86600  0.86600  0.73800  1.0000
+  Sb  Sb1       1.0  0.50000  0.00000  0.00000  1.0000
+  Sb  Sb2       1.0  0.00000  0.50000  0.00000  1.0000
+  Sb  Sb3       1.0  0.76700  0.76700  0.46700  1.0000
+  Sb  Sb4       1.0  0.23300  0.23300  0.53300  1.0000

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Cu2Ag(SO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41178351
+_cell_length_b   5.41178351
+_cell_length_c   8.30683076
+_cell_angle_alpha   64.25399194
+_cell_angle_beta   64.25399194
+_cell_angle_gamma   67.98064276
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu2Ag(SO5)2
+_chemical_formula_sum   'Cu2 Ag1 S2 O10'
+_cell_volume   192.11000278
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu1  1  0.50000000  0.00000000  0.00000000  1
+  Ag  Ag2  1  0.50000000  0.50000000  0.50000000  1
+  S  S3  1  0.08057700  0.08057700  0.70750400  1
+  S  S4  1  0.91942300  0.91942300  0.29249600  1
+  O  O5  1  0.17553900  0.17553900  0.80847000  1
+  O  O6  1  0.82446100  0.82446100  0.19153000  1
+  O  O7  1  0.19714800  0.19714800  0.50294600  1
+  O  O8  1  0.80285200  0.80285200  0.49705400  1
+  O  O9  1  0.75854200  0.17169100  0.76042500  1
+  O  O10  1  0.17169100  0.75854200  0.76042500  1
+  O  O11  1  0.24145800  0.82830900  0.23957500  1
+  O  O12  1  0.82830900  0.24145800  0.23957500  1
+  O  O13  1  0.66643600  0.66643600  0.95814700  1
+  O  O14  1  0.33356400  0.33356400  0.04185300  1

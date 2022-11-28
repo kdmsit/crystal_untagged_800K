@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Mg5(GeN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52460601
+_cell_length_b   5.41826698
+_cell_length_c   13.20972609
+_cell_angle_alpha   90.00000151
+_cell_angle_beta   91.30683833
+_cell_angle_gamma   119.36528838
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg5(GeN3)2
+_chemical_formula_sum   'Mg10 Ge4 N12'
+_cell_volume   344.49241737
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.24380200  0.84842400  0.05913700  1
+  Mg  Mg1  1  0.75619800  0.60462300  0.44086300  1
+  Mg  Mg2  1  0.75619800  0.15157600  0.94086300  1
+  Mg  Mg3  1  0.24380200  0.39537700  0.55913700  1
+  Mg  Mg4  1  0.28661500  0.07264400  0.72941900  1
+  Mg  Mg5  1  0.71338500  0.78602900  0.77058100  1
+  Mg  Mg6  1  0.71338500  0.92735600  0.27058100  1
+  Mg  Mg7  1  0.28661500  0.21397100  0.22941900  1
+  Mg  Mg8  1  0.00000000  0.40574200  0.75000000  1
+  Mg  Mg9  1  0.00000000  0.59425800  0.25000000  1
+  Ge  Ge10  1  0.60069500  0.96640100  0.58791200  1
+  Ge  Ge11  1  0.39930500  0.36570600  0.91208800  1
+  Ge  Ge12  1  0.39930500  0.03359900  0.41208800  1
+  Ge  Ge13  1  0.60069500  0.63429400  0.08791200  1
+  N  N14  1  0.94460100  0.07779200  0.64378000  1
+  N  N15  1  0.05539900  0.13319200  0.85622000  1
+  N  N16  1  0.05539900  0.92220800  0.35622000  1
+  N  N17  1  0.94460100  0.86680800  0.14378000  1
+  N  N18  1  0.35194000  0.73471500  0.68741300  1
+  N  N19  1  0.64806000  0.38277500  0.81258700  1
+  N  N20  1  0.64806000  0.26528500  0.31258700  1
+  N  N21  1  0.35194000  0.61722500  0.18741300  1
+  N  N22  1  0.53721500  0.25877900  0.53677900  1
+  N  N23  1  0.46278500  0.72156500  0.96322100  1
+  N  N24  1  0.46278500  0.74122100  0.46322100  1
+  N  N25  1  0.53721500  0.27843500  0.03677900  1

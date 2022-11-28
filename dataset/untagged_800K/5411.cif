@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Al3Si2Tm2
+_chemical_formula_sum              "Al3 Si2 Tm2"
+_cell_length_a       4.01262
+_cell_length_b       5.4146
+_cell_length_c       6.5594
+_cell_angle_alpha    99.7273
+_cell_angle_beta     90
+_cell_angle_gamma    111.749
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.00000  0.00000  0.00000  1.0000
+  Al  Al2       1.0  0.30500  0.61000  0.13300  1.0000
+  Al  Al3       1.0  0.69500  0.39000  0.86700  1.0000
+  Si  Si1       1.0  0.90600  0.81200  0.36100  1.0000
+  Si  Si2       1.0  0.09420  0.18800  0.63900  1.0000
+  Tm  Tm1       1.0  0.61900  0.23900  0.32300  1.0000
+  Tm  Tm2       1.0  0.38100  0.76100  0.67700  1.0000

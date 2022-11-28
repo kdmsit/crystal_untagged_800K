@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Al4Os6
+_chemical_formula_sum              "Al4 Os6"
+_cell_length_a       6.40454
+_cell_length_b       6.40454
+_cell_length_c       5.61418
+_cell_angle_alpha    124.777
+_cell_angle_beta     55.2226
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.59600  0.40400  0.21100  1.0000
+  Al  Al2       1.0  0.90400  0.09630  0.28900  1.0000
+  Al  Al3       1.0  0.09630  0.90400  0.71100  1.0000
+  Al  Al4       1.0  0.40400  0.59600  0.78900  1.0000
+  Os  Os1       1.0  0.50500  0.75000  0.25000  1.0000
+  Os  Os2       1.0  0.99500  0.49500  0.25000  1.0000
+  Os  Os3       1.0  0.25000  0.00526  0.25000  1.0000
+  Os  Os4       1.0  0.00526  0.50500  0.75000  1.0000
+  Os  Os5       1.0  0.49500  0.25000  0.75000  1.0000
+  Os  Os6       1.0  0.75000  0.99500  0.75000  1.0000

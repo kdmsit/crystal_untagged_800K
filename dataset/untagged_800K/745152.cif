@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Fe4Co(BiO3)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.79493200
+_cell_length_b   6.34211437
+_cell_length_c   14.72056116
+_cell_angle_alpha   87.93125114
+_cell_angle_beta   88.82954511
+_cell_angle_gamma   88.18512801
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe4Co(BiO3)5
+_chemical_formula_sum   'Fe4 Co1 Bi5 O15'
+_cell_volume   353.81840852
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.51222000  0.75236400  0.41056400  1
+  Fe  Fe1  1  0.51446200  0.34876100  0.61015000  1
+  Fe  Fe2  1  0.51385200  0.94422800  0.81048200  1
+  Fe  Fe3  1  0.51390700  0.54564100  0.01245700  1
+  Co  Co4  1  0.51546700  0.13845300  0.20937200  1
+  Bi  Bi5  1  0.97539200  0.98117100  0.00397100  1
+  Bi  Bi6  1  0.97246600  0.56795200  0.20964600  1
+  Bi  Bi7  1  0.96463500  0.18149900  0.40441200  1
+  Bi  Bi8  1  0.96808100  0.78169500  0.60513100  1
+  Bi  Bi9  1  0.96420600  0.37771200  0.80575000  1
+  O  O10  1  0.01002000  0.22826000  0.24097000  1
+  O  O11  1  0.00825900  0.83456400  0.43892300  1
+  O  O12  1  0.01051000  0.43518000  0.63960900  1
+  O  O13  1  0.00945700  0.02912700  0.84069700  1
+  O  O14  1  0.00914400  0.63657300  0.03901600  1
+  O  O15  1  0.51071800  0.03413900  0.33972100  1
+  O  O16  1  0.51375100  0.63270100  0.53966900  1
+  O  O17  1  0.51653300  0.22537500  0.73968900  1
+  O  O18  1  0.51098800  0.83255600  0.94138300  1
+  O  O19  1  0.51617000  0.42574300  0.14052900  1
+  O  O20  1  0.53784300  0.93882200  0.12928500  1
+  O  O21  1  0.54141200  0.53428600  0.32836000  1
+  O  O22  1  0.54328100  0.13500200  0.52833000  1
+  O  O23  1  0.54034800  0.73164200  0.72829700  1
+  O  O24  1  0.54137700  0.33425200  0.92799000  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LuGaAg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68743943
+_cell_length_b   5.68743943
+_cell_length_c   7.00909910
+_cell_angle_alpha   52.26088335
+_cell_angle_beta   52.26088335
+_cell_angle_gamma   46.93455438
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuGaAg
+_chemical_formula_sum   'Lu2 Ga2 Ag2'
+_cell_volume   123.37171015
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.53725600  0.53725600  0.70940700  1
+  Lu  Lu1  1  0.46274400  0.46274400  0.29059300  1
+  Ga  Ga2  1  0.84019600  0.84019600  0.11715300  1
+  Ga  Ga3  1  0.15980400  0.15980400  0.88284700  1
+  Ag  Ag4  1  0.17302300  0.17302300  0.27855300  1
+  Ag  Ag5  1  0.82697700  0.82697700  0.72144700  1

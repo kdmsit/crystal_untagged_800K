@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HoZn(FeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21053700
+_cell_length_b   5.44679100
+_cell_length_c   7.61979100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoZn(FeO3)2
+_chemical_formula_sum   'Ho2 Zn2 Fe4 O12'
+_cell_volume   216.25504843
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.01698100  0.68204300  0.00000000  1
+  Ho  Ho1  1  0.51698100  0.31795700  0.50000000  1
+  Zn  Zn2  1  0.49094200  0.21213400  0.00000000  1
+  Zn  Zn3  1  0.99094200  0.78786600  0.50000000  1
+  Fe  Fe4  1  0.00098600  0.23784700  0.75003400  1
+  Fe  Fe5  1  0.00098600  0.23784700  0.24996600  1
+  Fe  Fe6  1  0.50098600  0.76215300  0.25003400  1
+  Fe  Fe7  1  0.50098600  0.76215300  0.74996600  1
+  O  O8  1  0.10789100  0.19925600  0.50000000  1
+  O  O9  1  0.19532400  0.94504700  0.81171400  1
+  O  O10  1  0.19532400  0.94504700  0.18828600  1
+  O  O11  1  0.30924900  0.43859800  0.81093800  1
+  O  O12  1  0.30924900  0.43859800  0.18906200  1
+  O  O13  1  0.37189700  0.71372700  0.50000000  1
+  O  O14  1  0.60789100  0.80074400  0.00000000  1
+  O  O15  1  0.69532400  0.05495300  0.31171400  1
+  O  O16  1  0.69532400  0.05495300  0.68828600  1
+  O  O17  1  0.80924900  0.56140200  0.68906200  1
+  O  O18  1  0.80924900  0.56140200  0.31093800  1
+  O  O19  1  0.87189700  0.28627300  0.00000000  1

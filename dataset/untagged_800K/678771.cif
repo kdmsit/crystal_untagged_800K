@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KPbN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.78042200
+_cell_length_b   3.58218300
+_cell_length_c   6.77484100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KPbN
+_chemical_formula_sum   'K4 Pb4 N4'
+_cell_volume   310.16448630
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.62149900  0.25000000  0.00278400  1
+  K  K1  1  0.12149900  0.25000000  0.49721600  1
+  K  K2  1  0.37850100  0.75000000  0.99721600  1
+  K  K3  1  0.87850100  0.75000000  0.50278400  1
+  Pb  Pb4  1  0.60909500  0.25000000  0.51688800  1
+  Pb  Pb5  1  0.10909500  0.25000000  0.98311200  1
+  Pb  Pb6  1  0.39090500  0.75000000  0.48311200  1
+  Pb  Pb7  1  0.89090500  0.75000000  0.01688800  1
+  N  N8  1  0.96316000  0.25000000  0.19459600  1
+  N  N9  1  0.46316000  0.25000000  0.30540400  1
+  N  N10  1  0.03684000  0.75000000  0.80540400  1
+  N  N11  1  0.53684000  0.75000000  0.69459600  1

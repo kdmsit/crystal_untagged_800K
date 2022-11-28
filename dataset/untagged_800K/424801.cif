@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ni2Ti3V2
+_chemical_formula_sum              "Ni2 Ti3 V2"
+_cell_length_a       7.02138
+_cell_length_b       7.02138
+_cell_length_c       7.02138
+_cell_angle_alpha    34.94
+_cell_angle_beta     34.94
+_cell_angle_gamma    34.94
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.02610  0.02610  0.02610  1.0000
+  Ni  Ni2       1.0  0.50900  0.50900  0.50900  1.0000
+  Ti  Ti1       1.0  0.38200  0.38200  0.38200  1.0000
+  Ti  Ti2       1.0  0.63500  0.63500  0.63500  1.0000
+  Ti  Ti3       1.0  0.89700  0.89700  0.89700  1.0000
+  V   V1        1.0  0.15400  0.15400  0.15400  1.0000
+  V   V2        1.0  0.77200  0.77200  0.77200  1.0000

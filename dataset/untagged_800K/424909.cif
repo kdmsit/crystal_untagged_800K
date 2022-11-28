@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       As2Ge3Ni2
+_chemical_formula_sum              "As2 Ge3 Ni2"
+_cell_length_a       8.28247
+_cell_length_b       8.28247
+_cell_length_c       8.28247
+_cell_angle_alpha    28.7948
+_cell_angle_beta     28.7948
+_cell_angle_gamma    28.7948
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.06450  0.06450  0.06450  1.0000
+  As  As2       1.0  0.47100  0.47100  0.47100  1.0000
+  Ge  Ge1       1.0  0.34300  0.34300  0.34300  1.0000
+  Ge  Ge2       1.0  0.60400  0.60400  0.60400  1.0000
+  Ge  Ge3       1.0  0.87500  0.87500  0.87500  1.0000
+  Ni  Ni1       1.0  0.24500  0.24500  0.24500  1.0000
+  Ni  Ni2       1.0  0.77300  0.77300  0.77300  1.0000

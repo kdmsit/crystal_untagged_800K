@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Ni2O12Pt2Sr6
+_chemical_formula_sum              "Ni2 O12 Pt2 Sr6"
+_cell_length_a       6.61447
+_cell_length_b       6.61447
+_cell_length_c       6.61447
+_cell_angle_alpha    91.6196
+_cell_angle_beta     91.6197
+_cell_angle_gamma    91.6204
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.75000  0.75000  0.75000  1.0000
+  Ni  Ni2       1.0  0.25000  0.25000  0.25000  1.0000
+  O   O1        1.0  0.90900  0.03430  0.70700  1.0000
+  O   O2        1.0  0.70700  0.90900  0.03420  1.0000
+  O   O3        1.0  0.03420  0.70700  0.90900  1.0000
+  O   O4        1.0  0.46600  0.59100  0.79300  1.0000
+  O   O5        1.0  0.59100  0.79300  0.46600  1.0000
+  O   O6        1.0  0.79300  0.46600  0.59100  1.0000
+  O   O7        1.0  0.09130  0.96600  0.29300  1.0000
+  O   O8        1.0  0.29300  0.09130  0.96600  1.0000
+  O   O9        1.0  0.96600  0.29300  0.09130  1.0000
+  O   O10       1.0  0.53400  0.40900  0.20700  1.0000
+  O   O11       1.0  0.40900  0.20700  0.53400  1.0000
+  O   O12       1.0  0.20700  0.53400  0.40900  1.0000
+  Pt  Pt1       1.0  0.00007  0.00008  0.00007  1.0000
+  Pt  Pt2       1.0  0.50000  0.50000  0.50000  1.0000
+  Sr  Sr1       1.0  0.25000  0.88300  0.61700  1.0000
+  Sr  Sr2       1.0  0.61700  0.25000  0.88300  1.0000
+  Sr  Sr3       1.0  0.88300  0.61700  0.25000  1.0000
+  Sr  Sr4       1.0  0.75000  0.11700  0.38300  1.0000
+  Sr  Sr5       1.0  0.38300  0.75000  0.11700  1.0000
+  Sr  Sr6       1.0  0.11700  0.38300  0.75000  1.0000

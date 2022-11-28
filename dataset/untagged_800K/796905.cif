@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_BiO2
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       3.44856
+_cell_length_b       5.56683
+_cell_length_c       12.0283
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    108.044
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  BiO2
+_chemical_formula_sum  Bi4O8
+_cell_volume  219.55760853569018
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Bi  Bi1  1  0.86639  0.73277  0.08069  1
+ Bi  Bi2  1  0.13361  0.26723  0.91931  1
+ Bi  Bi3  1  0.86639  0.73277  0.41931  1
+ Bi  Bi4  1  0.13361  0.26723  0.58069  1
+ O  O1  1  0.23336  0.46671  0.40965  1
+ O  O2  1  0.76664  0.53329  0.59035  1
+ O  O3  1  0.76664  0.53329  0.90965  1
+ O  O4  1  0.23336  0.46671  0.09035  1
+ O  O5  1  0.91912  0.83823  0.25000  1
+ O  O6  1  0.08088  0.16177  0.75000  1
+ O  O7  1  0.50000  0.00000  0.00000  1
+ O  O8  1  0.50000  0.00000  0.50000  1

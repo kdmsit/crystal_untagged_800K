@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_YMnGe
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.08418
+_cell_length_b       7.04866
+_cell_length_c       7.96942
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  YMnGe
+_chemical_formula_sum  Y4Mn4Ge4
+_cell_volume  229.42366400192807
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.25000  0.27408  0.61704  1
+ Ge  Ge2  1  0.75000  0.22592  0.11704  1
+ Ge  Ge3  1  0.25000  0.77408  0.88296  1
+ Ge  Ge4  1  0.75000  0.72592  0.38296  1
+ Mn  Mn1  1  0.75000  0.36784  0.44504  1
+ Mn  Mn2  1  0.25000  0.13216  0.94504  1
+ Mn  Mn3  1  0.75000  0.86784  0.05496  1
+ Mn  Mn4  1  0.25000  0.63216  0.55496  1
+ Y  Y1  1  0.25000  0.52457  0.18256  1
+ Y  Y2  1  0.75000  0.47543  0.81744  1
+ Y  Y3  1  0.25000  0.02457  0.31744  1
+ Y  Y4  1  0.75000  0.97543  0.68256  1

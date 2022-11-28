@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CaSiSnO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63326100
+_cell_length_b   5.64441720
+_cell_length_c   7.26416186
+_cell_angle_alpha   103.98049041
+_cell_angle_beta   103.76110221
+_cell_angle_gamma   106.05738856
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSiSnO5
+_chemical_formula_sum   'Ca2 Si2 Sn2 O10'
+_cell_volume   203.56599419
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.83917600  0.16288200  0.24594000  1
+  Ca  Ca1  1  0.16082400  0.83711800  0.75406000  1
+  Si  Si2  1  0.81746300  0.18145100  0.74939900  1
+  Si  Si3  1  0.18253700  0.81854900  0.25060100  1
+  Sn  Sn4  1  0.50000000  0.50000000  0.50000000  1
+  Sn  Sn5  1  0.50000000  0.50000000  0.00000000  1
+  O  O6  1  0.41109000  0.58977700  0.75062500  1
+  O  O7  1  0.58891000  0.41022300  0.24937500  1
+  O  O8  1  0.10587900  0.24184800  0.91289200  1
+  O  O9  1  0.89412100  0.75815200  0.08710800  1
+  O  O10  1  0.75977100  0.89242900  0.58862400  1
+  O  O11  1  0.24022900  0.10757100  0.41137600  1
+  O  O12  1  0.17677000  0.60257900  0.37064300  1
+  O  O13  1  0.82323000  0.39742100  0.62935700  1
+  O  O14  1  0.39931200  0.82434300  0.12992800  1
+  O  O15  1  0.60068800  0.17565700  0.87007200  1

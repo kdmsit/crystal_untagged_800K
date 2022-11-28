@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Bi2C2Ca2F2O8
+_chemical_formula_sum              "Bi2 C2 Ca2 F2 O8"
+_cell_length_a       4.28967
+_cell_length_b       3.42679
+_cell_length_c       13.3325
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.25000  0.25000  0.09840  1.0000
+  Bi  Bi2       1.0  0.75000  0.75000  0.90200  1.0000
+  C   C1        1.0  0.75000  0.75000  0.25500  1.0000
+  C   C2        1.0  0.25000  0.25000  0.74500  1.0000
+  Ca  Ca1       1.0  0.25000  0.25000  0.40400  1.0000
+  Ca  Ca2       1.0  0.75000  0.75000  0.59600  1.0000
+  F   F1        1.0  0.75000  0.25000  0.48800  1.0000
+  F   F2        1.0  0.25000  0.75000  0.51200  1.0000
+  O   O1        1.0  0.25000  0.75000  0.99400  1.0000
+  O   O2        1.0  0.75000  0.25000  0.00642  1.0000
+  O   O3        1.0  0.75000  0.75000  0.15600  1.0000
+  O   O4        1.0  0.00510  0.75000  0.30500  1.0000
+  O   O5        1.0  0.49500  0.75000  0.30500  1.0000
+  O   O6        1.0  0.99500  0.25000  0.69500  1.0000
+  O   O7        1.0  0.50500  0.25000  0.69500  1.0000
+  O   O8        1.0  0.25000  0.25000  0.84400  1.0000

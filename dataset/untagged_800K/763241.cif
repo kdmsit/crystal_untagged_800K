@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_NaBiS2
+_symmetry_space_group_name_H-M  'Fdd2'
+_cell_length_a       8.12259
+_cell_length_b       10.7847
+_cell_length_c       7.10114
+_cell_angle_alpha    29.0907
+_cell_angle_beta     55.1117
+_cell_angle_gamma    41.1312
+
+_symmetry_Int_Tables_number  43
+_chemical_formula_structural  NaBiS2
+_chemical_formula_sum  Na2Bi2S4
+_cell_volume  191.5759073750842
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Bi  Bi1  1  0.23733  0.49911  -0.00120  1
+ Bi  Bi2  1  0.48735  0.99914  -0.00121  1
+ Na  Na1  1  0.00050  0.99916  0.99875  1
+ Na  Na2  1  0.75040  0.49911  0.99879  1
+ S  S1  1  0.02229  0.48497  0.50083  1
+ S  S2  1  0.49596  0.51341  0.49659  1
+ S  S3  1  0.25803  0.01334  0.47247  1
+ S  S4  1  0.76016  0.98487  0.52511  1

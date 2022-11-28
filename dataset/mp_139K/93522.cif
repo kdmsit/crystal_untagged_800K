@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiPtN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.46400500
+_cell_length_b   3.31177200
+_cell_length_c   5.73558000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPtN
+_chemical_formula_sum   'Li4 Pt4 N4'
+_cell_volume   160.77320998
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.64209600  0.25000000  0.10587400  1
+  Li  Li1  1  0.14209600  0.25000000  0.39412600  1
+  Li  Li2  1  0.35790400  0.75000000  0.89412600  1
+  Li  Li3  1  0.85790400  0.75000000  0.60587400  1
+  Pt  Pt4  1  0.58334600  0.25000000  0.64090400  1
+  Pt  Pt5  1  0.08334600  0.25000000  0.85909600  1
+  Pt  Pt6  1  0.41665400  0.75000000  0.35909600  1
+  Pt  Pt7  1  0.91665400  0.75000000  0.14090400  1
+  N  N8  1  0.88154200  0.25000000  0.30631700  1
+  N  N9  1  0.38154200  0.25000000  0.19368300  1
+  N  N10  1  0.11845800  0.75000000  0.69368300  1
+  N  N11  1  0.61845800  0.75000000  0.80631700  1

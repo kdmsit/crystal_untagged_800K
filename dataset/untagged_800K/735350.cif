@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Yb3(CuSi)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81477953
+_cell_length_b   7.81477953
+_cell_length_c   7.81477953
+_cell_angle_alpha   149.09246244
+_cell_angle_beta   130.25331120
+_cell_angle_gamma   59.72403286
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb3(CuSi)4
+_chemical_formula_sum   'Yb3 Cu4 Si4'
+_cell_volume   185.54947515
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.36781300  0.86781300  0.50000000  1
+  Yb  Yb1  1  0.63218700  0.13218700  0.50000000  1
+  Yb  Yb2  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu3  1  0.63883400  0.33050400  0.30832900  1
+  Cu  Cu4  1  0.36116600  0.66949600  0.69167100  1
+  Cu  Cu5  1  0.02217500  0.33050400  0.69167100  1
+  Cu  Cu6  1  0.97782500  0.66949600  0.30832900  1
+  Si  Si7  1  0.21815600  0.21815600  0.00000000  1
+  Si  Si8  1  0.78184400  0.78184400  0.00000000  1
+  Si  Si9  1  0.67804900  0.50000000  0.17804900  1
+  Si  Si10  1  0.32195100  0.50000000  0.82195100  1

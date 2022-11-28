@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_FeMoO4
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       6.39052
+_cell_length_b       6.39051
+_cell_length_c       7.70685
+_cell_angle_alpha    72.6295
+_cell_angle_beta     72.6295
+_cell_angle_gamma    85.6339
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  FeMoO4
+_chemical_formula_sum  Fe4Mo4O6
+_cell_volume  286.6556691370897
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.31425  0.31425  0.84263  1
+ Fe  Fe2  1  0.68575  0.68575  0.15737  1
+ Fe  Fe3  1  0.30596  0.69404  0.50000  1
+ Fe  Fe4  1  0.69404  0.30596  0.50000  1
+ Mo  Mo1  1  0.71088  0.71088  0.64098  1
+ Mo  Mo2  1  0.28912  0.28912  0.35902  1
+ Mo  Mo3  1  0.72153  0.27847  0.00000  1
+ Mo  Mo4  1  0.27847  0.72153  -0.00000  1
+ O  O1  1  0.65637  0.35912  0.23670  1
+ O  O2  1  0.99623  0.68114  0.58182  1
+ O  O3  1  0.35912  0.65637  0.23670  1
+ O  O4  1  0.64088  0.34363  0.76330  1
+ O  O5  1  0.65468  0.65468  0.91908  1
+ O  O6  1  0.34231  0.34231  0.57439  1
+ O  O7  1  0.31430  0.00872  0.91536  1
+ O  O8  1  0.00377  0.31886  0.41818  1
+ O  O9  1  0.65769  0.65769  0.42561  1
+ O  O10  1  0.34532  0.34532  0.08092  1
+ O  O11  1  0.68114  0.99623  0.58182  1
+ O  O12  1  -0.00872  0.68570  0.08464  1
+ O  O13  1  0.31886  0.00377  0.41818  1
+ O  O14  1  0.34363  0.64088  0.76330  1
+ O  O15  1  0.00872  0.31430  0.91536  1
+ O  O16  1  0.68570  -0.00872  0.08464  1

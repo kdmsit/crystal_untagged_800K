@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li4O12Sb4
+_chemical_formula_sum              "Li4 O12 Sb4"
+_cell_length_a       5.21092
+_cell_length_b       4.86584
+_cell_length_c       8.51641
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.75000  0.50000  0.20000  1.0000
+  Li  Li2       1.0  0.75000  0.00000  0.30000  1.0000
+  Li  Li3       1.0  0.25000  0.00000  0.70000  1.0000
+  Li  Li4       1.0  0.25000  0.50000  0.80000  1.0000
+  O   O1        1.0  0.92400  0.21100  0.08240  1.0000
+  O   O2        1.0  0.57600  0.78900  0.08240  1.0000
+  O   O3        1.0  0.41400  0.25000  0.25000  1.0000
+  O   O4        1.0  0.08550  0.75000  0.25000  1.0000
+  O   O5        1.0  0.92400  0.28900  0.41800  1.0000
+  O   O6        1.0  0.57600  0.71100  0.41800  1.0000
+  O   O7        1.0  0.42400  0.28900  0.58200  1.0000
+  O   O8        1.0  0.07640  0.71100  0.58200  1.0000
+  O   O9        1.0  0.91400  0.25000  0.75000  1.0000
+  O   O10       1.0  0.58600  0.75000  0.75000  1.0000
+  O   O11       1.0  0.42400  0.21100  0.91800  1.0000
+  O   O12       1.0  0.07640  0.78900  0.91800  1.0000
+  Sb  Sb1       1.0  0.25000  0.00000  0.09410  1.0000
+  Sb  Sb2       1.0  0.25000  0.50000  0.40600  1.0000
+  Sb  Sb3       1.0  0.75000  0.50000  0.59400  1.0000
+  Sb  Sb4       1.0  0.75000  0.00000  0.90600  1.0000

@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_BiOF
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.78553
+_cell_length_b       6.30946
+_cell_length_c       7.30704
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  BiOF
+_chemical_formula_sum  Bi4O4F4
+_cell_volume  174.52624178832608
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Bi  Bi1  1  0.25000  0.22056  0.90826  1
+ Bi  Bi2  1  0.75000  0.27944  0.40826  1
+ Bi  Bi3  1  0.25000  0.72056  0.59174  1
+ Bi  Bi4  1  0.75000  0.77944  0.09174  1
+ F  F1  1  0.75000  0.04014  0.66648  1
+ F  F2  1  0.25000  0.45986  0.16648  1
+ F  F3  1  0.75000  0.54014  0.83352  1
+ F  F4  1  0.25000  0.95986  0.33352  1
+ O  O1  1  0.75000  0.14016  0.06975  1
+ O  O2  1  0.25000  0.35984  0.56975  1
+ O  O3  1  0.75000  0.64016  0.43025  1
+ O  O4  1  0.25000  0.85984  0.93025  1

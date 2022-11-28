@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Hg2SeO4
+_symmetry_space_group_name_H-M  'P2/c'
+_cell_length_a       6.43438
+_cell_length_b       4.64089
+_cell_length_c       8.6957
+_cell_angle_alpha    90
+_cell_angle_beta     91.7967
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  13
+_chemical_formula_structural  Hg2SeO4
+_chemical_formula_sum  Hg4Se2O8
+_cell_volume  259.53683380388964
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Hg  Hg1  1  0.18939  0.06637  0.47410  1
+ Hg  Hg2  1  0.81061  0.06637  0.02590  1
+ Hg  Hg3  1  0.81061  0.93363  0.52590  1
+ Hg  Hg4  1  0.18939  0.93363  0.97410  1
+ O  O1  1  0.50286  0.76769  0.59351  1
+ O  O2  1  0.49714  0.76769  0.90649  1
+ O  O3  1  0.49714  0.23231  0.40649  1
+ O  O4  1  0.50286  0.23231  0.09351  1
+ O  O5  1  0.72045  0.35995  0.75932  1
+ O  O6  1  0.27955  0.35995  0.74068  1
+ O  O7  1  0.72045  0.64005  0.25932  1
+ O  O8  1  0.27955  0.64005  0.24068  1
+ Se  Se1  1  0.50000  0.45579  0.25000  1
+ Se  Se2  1  0.50000  0.54421  0.75000  1

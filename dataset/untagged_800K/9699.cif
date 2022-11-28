@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Fe2Si4Tb4
+_chemical_formula_sum              "Fe2 Si4 Tb4"
+_cell_length_a       4.13743
+_cell_length_b       5.67729
+_cell_length_c       8.96556
+_cell_angle_alpha    96.8702
+_cell_angle_beta     103.341
+_cell_angle_gamma    68.6303
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.72700  0.92200  0.37700  1.0000
+  Fe  Fe2       1.0  0.27300  0.07760  0.62300  1.0000
+  Si  Si1       1.0  0.50200  0.12400  0.12700  1.0000
+  Si  Si2       1.0  0.34300  0.75000  0.43600  1.0000
+  Si  Si3       1.0  0.65700  0.25000  0.56400  1.0000
+  Si  Si4       1.0  0.49800  0.87600  0.87300  1.0000
+  Tb  Tb1       1.0  0.18900  0.73000  0.10800  1.0000
+  Tb  Tb2       1.0  0.99800  0.33100  0.32700  1.0000
+  Tb  Tb3       1.0  0.00194  0.66900  0.67300  1.0000
+  Tb  Tb4       1.0  0.81100  0.27000  0.89200  1.0000

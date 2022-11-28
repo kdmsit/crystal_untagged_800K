@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs2NpO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.05675070
+_cell_length_b   7.05675070
+_cell_length_c   6.41180600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   113.51626388
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2NpO3
+_chemical_formula_sum   'Cs4 Np2 O6'
+_cell_volume   292.77506463
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.80585800  0.48194700  0.25631100  1
+  Cs  Cs1  1  0.51805300  0.19414200  0.75631100  1
+  Cs  Cs2  1  0.19414200  0.51805300  0.75631100  1
+  Cs  Cs3  1  0.48194700  0.80585800  0.25631100  1
+  Np  Np4  1  0.08553400  0.08553400  0.23946100  1
+  Np  Np5  1  0.91446600  0.91446600  0.73946100  1
+  O  O6  1  0.87703100  0.10992000  0.99472000  1
+  O  O7  1  0.89008000  0.12296900  0.49472000  1
+  O  O8  1  0.65298400  0.65298400  0.69847500  1
+  O  O9  1  0.34701600  0.34701600  0.19847500  1
+  O  O10  1  0.10992000  0.87703100  0.99472000  1
+  O  O11  1  0.12296900  0.89008000  0.49472000  1

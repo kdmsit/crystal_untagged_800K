@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cs2Pt3Ta2
+_chemical_formula_sum              "Cs2 Pt3 Ta2"
+_cell_length_a       12.042
+_cell_length_b       12.042
+_cell_length_c       12.042
+_cell_angle_alpha    21.628
+_cell_angle_beta     21.628
+_cell_angle_gamma    21.628
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.17700  0.17700  0.17700  1.0000
+  Cs  Cs2       1.0  0.75300  0.75300  0.75300  1.0000
+  Pt  Pt1       1.0  0.28800  0.28800  0.28800  1.0000
+  Pt  Pt2       1.0  0.66400  0.66400  0.66400  1.0000
+  Pt  Pt3       1.0  0.91300  0.91300  0.91300  1.0000
+  Ta  Ta1       1.0  0.59200  0.59200  0.59200  1.0000
+  Ta  Ta2       1.0  0.98800  0.98800  0.98800  1.0000

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CeCrS2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95918329
+_cell_length_b   5.95918329
+_cell_length_c   8.02688650
+_cell_angle_alpha   89.79610506
+_cell_angle_beta   89.79610506
+_cell_angle_gamma   36.96267961
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeCrS2O
+_chemical_formula_sum   'Ce2 Cr2 S4 O2'
+_cell_volume   171.39767344
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.73468200  0.73468200  0.29338700  1
+  Ce  Ce1  1  0.26531800  0.26531800  0.70661300  1
+  Cr  Cr2  1  0.00000000  0.00000000  0.50000000  1
+  Cr  Cr3  1  0.50000000  0.50000000  0.00000000  1
+  S  S4  1  0.45120400  0.45120400  0.29771100  1
+  S  S5  1  0.85875900  0.85875900  0.96522300  1
+  S  S6  1  0.14124100  0.14124100  0.03477700  1
+  S  S7  1  0.54879600  0.54879600  0.70228900  1
+  O  O8  1  0.17361200  0.17361200  0.43318000  1
+  O  O9  1  0.82638800  0.82638800  0.56682000  1

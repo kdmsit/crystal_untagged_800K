@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sc4MnSi7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.67291400
+_cell_length_b   3.84109200
+_cell_length_c   14.06098100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc4MnSi7
+_chemical_formula_sum   'Sc4 Mn1 Si7'
+_cell_volume   198.37232813
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00000000  0.00000000  0.11312400  1
+  Sc  Sc1  1  0.00000000  0.50000000  0.59626600  1
+  Sc  Sc2  1  0.50000000  0.50000000  0.41419400  1
+  Sc  Sc3  1  0.50000000  0.00000000  0.90026100  1
+  Mn  Mn4  1  0.00000000  0.00000000  0.40292600  1
+  Si  Si5  1  0.00000000  0.50000000  0.26849900  1
+  Si  Si6  1  0.00000000  0.00000000  0.74277400  1
+  Si  Si7  1  0.50000000  0.00000000  0.26863800  1
+  Si  Si8  1  0.50000000  0.50000000  0.75313300  1
+  Si  Si9  1  0.00000000  0.50000000  0.94366100  1
+  Si  Si10  1  0.50000000  0.50000000  0.05425900  1
+  Si  Si11  1  0.50000000  0.00000000  0.54226500  1

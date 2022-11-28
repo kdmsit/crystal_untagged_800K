@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba3(CoN2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.86263321
+_cell_length_b   9.56028165
+_cell_length_c   5.50875968
+_cell_angle_alpha   89.99999471
+_cell_angle_beta   93.77433917
+_cell_angle_gamma   127.44190517
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3(CoN2)2
+_chemical_formula_sum   'Ba6 Co4 N8'
+_cell_volume   327.64152230
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.30307200  0.02487400  0.08809600  1
+  Ba  Ba1  1  0.69692800  0.72180200  0.41190400  1
+  Ba  Ba2  1  0.69692800  0.97512600  0.91190400  1
+  Ba  Ba3  1  0.30307200  0.27819800  0.58809600  1
+  Ba  Ba4  1  0.00000000  0.62631200  0.75000000  1
+  Ba  Ba5  1  0.00000000  0.37368800  0.25000000  1
+  Co  Co6  1  0.60369800  0.18991300  0.58648800  1
+  Co  Co7  1  0.39630200  0.58621600  0.91351200  1
+  Co  Co8  1  0.39630200  0.81008700  0.41351200  1
+  Co  Co9  1  0.60369800  0.41378400  0.08648800  1
+  N  N10  1  0.33181700  0.95538700  0.58143800  1
+  N  N11  1  0.66818300  0.62357000  0.91856200  1
+  N  N12  1  0.66818300  0.04461300  0.41856300  1
+  N  N13  1  0.33181700  0.37643000  0.08143700  1
+  N  N14  1  0.65611300  0.29031900  0.88560200  1
+  N  N15  1  0.34388700  0.63420600  0.61439800  1
+  N  N16  1  0.34388700  0.70968100  0.11439800  1
+  N  N17  1  0.65611300  0.36579400  0.38560200  1

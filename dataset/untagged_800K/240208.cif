@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       As6Ba10
+_chemical_formula_sum              "As6 Ba10"
+_cell_length_a       9.55105
+_cell_length_b       9.55105
+_cell_length_c       7.81978
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.998
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.60800  0.60800  0.25000  1.0000
+  As  As2       1.0  0.39200  0.00000  0.25000  1.0000
+  As  As3       1.0  0.00000  0.39200  0.25000  1.0000
+  As  As4       1.0  0.39200  0.39200  0.75000  1.0000
+  As  As5       1.0  0.60800  0.00000  0.75000  1.0000
+  As  As6       1.0  0.00000  0.60800  0.75000  1.0000
+  Ba  Ba1       1.0  0.66700  0.33300  0.00000  1.0000
+  Ba  Ba2       1.0  0.33300  0.66700  0.00000  1.0000
+  Ba  Ba3       1.0  0.74000  0.00000  0.25000  1.0000
+  Ba  Ba4       1.0  0.00000  0.74000  0.25000  1.0000
+  Ba  Ba5       1.0  0.26000  0.26000  0.25000  1.0000
+  Ba  Ba6       1.0  0.66700  0.33300  0.50000  1.0000
+  Ba  Ba7       1.0  0.33300  0.66700  0.50000  1.0000
+  Ba  Ba8       1.0  0.26000  0.00000  0.75000  1.0000
+  Ba  Ba9       1.0  0.00000  0.26000  0.75000  1.0000
+  Ba  Ba10      1.0  0.74000  0.74000  0.75000  1.0000

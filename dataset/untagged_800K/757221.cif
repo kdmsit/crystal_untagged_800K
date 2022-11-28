@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_RbPS3
+_symmetry_space_group_name_H-M  'Immm'
+_cell_length_a       6.95325
+_cell_length_b       7.14199
+_cell_length_c       7.142
+_cell_angle_alpha    71.5529
+_cell_angle_beta     60.8704
+_cell_angle_gamma    60.8704
+
+_symmetry_Int_Tables_number  71
+_chemical_formula_structural  RbPS3
+_chemical_formula_sum  Rb2P2S6
+_cell_volume  269.15733198729885
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ P  P1  1  0.16093  0.33907  0.33907  1
+ P  P2  1  0.83907  0.66093  0.66093  1
+ Rb  Rb1  1  0.50000  0.73663  0.26337  1
+ Rb  Rb2  1  0.50000  0.26337  0.73663  1
+ S  S1  1  -0.00000  0.31113  0.68887  1
+ S  S2  1  0.02494  0.22962  0.22962  1
+ S  S3  1  0.48419  0.77038  0.77038  1
+ S  S4  1  0.00000  0.68887  0.31113  1
+ S  S5  1  0.51581  0.22962  0.22962  1
+ S  S6  1  0.97506  0.77038  0.77038  1

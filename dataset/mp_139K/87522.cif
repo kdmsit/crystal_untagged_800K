@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ta2Ti2Co2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.15275776
+_cell_length_b   8.15275776
+_cell_length_c   8.15275776
+_cell_angle_alpha   119.84754012
+_cell_angle_beta   119.84754012
+_cell_angle_gamma   90.26427173
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2Ti2Co2C
+_chemical_formula_sum   'Ta8 Ti8 Co8 C4'
+_cell_volume   384.05485888
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.31176500  0.31176500  0.00000000  1
+  Ta  Ta1  1  0.68823500  0.68823500  0.00000000  1
+  Ta  Ta2  1  0.56148600  0.06148600  0.12297200  1
+  Ta  Ta3  1  0.93851400  0.43851400  0.87702800  1
+  Ta  Ta4  1  0.93851400  0.06148600  0.50000000  1
+  Ta  Ta5  1  0.56148600  0.43851400  0.50000000  1
+  Ta  Ta6  1  0.93779000  0.43779000  0.50000000  1
+  Ta  Ta7  1  0.56221000  0.06221000  0.50000000  1
+  Ti  Ti8  1  0.12414900  0.37531600  0.25116700  1
+  Ti  Ti9  1  0.12701800  0.87585100  0.25116700  1
+  Ti  Ti10  1  0.62468400  0.87585100  0.74883300  1
+  Ti  Ti11  1  0.12414900  0.87298200  0.74883300  1
+  Ti  Ti12  1  0.68584200  0.68584200  0.37168400  1
+  Ti  Ti13  1  0.31415800  0.31415800  0.62831600  1
+  Ti  Ti14  1  0.31415800  0.68584200  0.00000000  1
+  Ti  Ti15  1  0.68584200  0.31415800  0.00000000  1
+  Co  Co16  1  0.91541100  0.75000900  0.83459700  1
+  Co  Co17  1  0.91918600  0.08458900  0.83459700  1
+  Co  Co18  1  0.24999100  0.08458900  0.16540300  1
+  Co  Co19  1  0.91541100  0.08081400  0.16540300  1
+  Co  Co20  1  0.33400000  0.00154400  0.66754300  1
+  Co  Co21  1  0.33354300  0.66600000  0.66754300  1
+  Co  Co22  1  0.99845600  0.66600000  0.33245700  1
+  Co  Co23  1  0.33400000  0.66645700  0.33245700  1
+  C  C24  1  0.62240600  0.87124700  0.24884100  1
+  C  C25  1  0.62643400  0.37759400  0.24884100  1
+  C  C26  1  0.12875300  0.37759400  0.75115900  1
+  C  C27  1  0.62240600  0.37356600  0.75115900  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ca(HO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.63327193
+_cell_length_b   3.63327193
+_cell_length_c   5.01120791
+_cell_angle_alpha   83.70003035
+_cell_angle_beta   83.70003035
+_cell_angle_gamma   59.23961002
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(HO)2
+_chemical_formula_sum   'Ca1 H2 O2'
+_cell_volume   56.39000458
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.05496500  0.94503500  0.00000000  1
+  H  H1  1  0.85309000  0.56913500  0.58347300  1
+  H  H2  1  0.43086500  0.14691000  0.41652700  1
+  O  O3  1  0.74593600  0.63876300  0.76970200  1
+  O  O4  1  0.36123700  0.25406400  0.23029800  1

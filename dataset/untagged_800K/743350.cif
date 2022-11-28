@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Na2Te(BrO)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.78685631
+_cell_length_b   8.78685631
+_cell_length_c   7.43848944
+_cell_angle_alpha   68.61065734
+_cell_angle_beta   68.61065734
+_cell_angle_gamma   59.38726703
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Te(BrO)6
+_chemical_formula_sum   'Na2 Te1 Br6 O6'
+_cell_volume   448.60362675
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33069800  0.66930200  0.50000000  1
+  Na  Na1  1  0.54022100  0.45977900  0.00000000  1
+  Te  Te2  1  0.02207100  0.97792900  0.00000000  1
+  Br  Br3  1  0.10643700  0.61190400  0.28190300  1
+  Br  Br4  1  0.69341900  0.06985300  0.23439200  1
+  Br  Br5  1  0.93014700  0.30658100  0.76560800  1
+  Br  Br6  1  0.38809600  0.89356300  0.71809700  1
+  Br  Br7  1  0.94960600  0.84479300  0.78053200  1
+  Br  Br8  1  0.15520700  0.05039400  0.21946800  1
+  O  O9  1  0.74434200  0.55965900  0.22289900  1
+  O  O10  1  0.62454900  0.67191600  0.12998400  1
+  O  O11  1  0.32808400  0.37545100  0.87001600  1
+  O  O12  1  0.44034100  0.25565800  0.77710100  1
+  O  O13  1  0.33720300  0.52632400  0.29254100  1
+  O  O14  1  0.47367600  0.66279700  0.70745900  1

@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Cl2K2N2O4Pd
+_chemical_formula_sum              "Cl2 K2 N2 O4 Pd1"
+_cell_length_a       3.54159
+_cell_length_b       7.75801
+_cell_length_c       7.72641
+_cell_angle_alpha    119.23
+_cell_angle_beta     101.485
+_cell_angle_gamma    93.4344
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.50300  0.30200  0.00000  1.0000
+  Cl  Cl2       1.0  0.49700  0.69800  0.00000  1.0000
+  K   K1        1.0  0.16000  0.66000  0.32100  1.0000
+  K   K2        1.0  0.84000  0.34000  0.67900  1.0000
+  N   N1        1.0  0.13000  0.13000  0.26100  1.0000
+  N   N2        1.0  0.87000  0.87000  0.73900  1.0000
+  O   O1        1.0  0.17500  0.04020  0.35900  1.0000
+  O   O2        1.0  0.18500  0.31900  0.35900  1.0000
+  O   O3        1.0  0.81500  0.68100  0.64100  1.0000
+  O   O4        1.0  0.82500  0.96000  0.64100  1.0000
+  Pd  Pd1       1.0  0.50000  0.00000  0.00000  1.0000

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cu3As4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.89194011
+_cell_length_b   10.89194011
+_cell_length_c   10.89194011
+_cell_angle_alpha   164.65943443
+_cell_angle_beta   131.34320835
+_cell_angle_gamma   51.32233490
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu3As4
+_chemical_formula_sum   'Cu6 As8'
+_cell_volume   256.17179275
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.29242000  0.43489200  0.85752800  1
+  Cu  Cu1  1  0.70758000  0.56510800  0.14247200  1
+  Cu  Cu2  1  0.42263600  0.56510800  0.85752800  1
+  Cu  Cu3  1  0.57736400  0.43489200  0.14247200  1
+  Cu  Cu4  1  0.30774300  0.30774300  0.00000000  1
+  Cu  Cu5  1  0.69225700  0.69225700  0.00000000  1
+  As  As6  1  0.11025900  0.83863800  0.27162100  1
+  As  As7  1  0.88974100  0.16136200  0.72837900  1
+  As  As8  1  0.43298300  0.16136200  0.27162100  1
+  As  As9  1  0.56701700  0.83863800  0.72837900  1
+  As  As10  1  0.17759700  0.00000000  0.17759700  1
+  As  As11  1  0.82240300  0.00000000  0.82240300  1
+  As  As12  1  0.19956700  0.69956700  0.50000000  1
+  As  As13  1  0.80043300  0.30043300  0.50000000  1

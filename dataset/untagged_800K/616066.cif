@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ag10Cs2S4Se2
+_chemical_formula_sum              "Ag10 Cs2 S4 Se2"
+_cell_length_a       12.297
+_cell_length_b       12.297
+_cell_length_c       12.297
+_cell_angle_alpha    151.745
+_cell_angle_beta     151.745
+_cell_angle_gamma    40.3864
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.25000  0.25000  0.00000  1.0000
+  Ag  Ag2       1.0  0.75000  0.75000  0.00000  1.0000
+  Ag  Ag3       1.0  0.64500  0.14500  0.09690  1.0000
+  Ag  Ag4       1.0  0.95200  0.45200  0.09690  1.0000
+  Ag  Ag5       1.0  0.14500  0.04760  0.50000  1.0000
+  Ag  Ag6       1.0  0.45200  0.35500  0.50000  1.0000
+  Ag  Ag7       1.0  0.54800  0.64500  0.50000  1.0000
+  Ag  Ag8       1.0  0.85500  0.95200  0.50000  1.0000
+  Ag  Ag9       1.0  0.35500  0.85500  0.90300  1.0000
+  Ag  Ag10      1.0  0.04760  0.54800  0.90300  1.0000
+  Cs  Cs1       1.0  0.50000  0.00000  0.50000  1.0000
+  Cs  Cs2       1.0  0.00000  0.50000  0.50000  1.0000
+  S   S1        1.0  0.09320  0.09320  0.00000  1.0000
+  S   S2        1.0  0.40700  0.40700  0.00000  1.0000
+  S   S3        1.0  0.59300  0.59300  0.00000  1.0000
+  S   S4        1.0  0.90700  0.90700  0.00000  1.0000
+  Se  Se1       1.0  0.75000  0.25000  0.50000  1.0000
+  Se  Se2       1.0  0.25000  0.75000  0.50000  1.0000

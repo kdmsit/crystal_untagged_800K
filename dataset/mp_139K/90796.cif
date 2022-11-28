@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_EuZnSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.11162526
+_cell_length_b   6.11162526
+_cell_length_c   7.68790374
+_cell_angle_alpha   51.45808649
+_cell_angle_beta   51.45808649
+_cell_angle_gamma   46.37008956
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuZnSn
+_chemical_formula_sum   'Eu2 Zn2 Sn2'
+_cell_volume   152.81418069
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.53756100  0.53756100  0.71405600  1
+  Eu  Eu1  1  0.46243900  0.46243900  0.28594400  1
+  Zn  Zn2  1  0.84711900  0.84711900  0.10081000  1
+  Zn  Zn3  1  0.15288100  0.15288100  0.89919000  1
+  Sn  Sn4  1  0.17139800  0.17139800  0.27422000  1
+  Sn  Sn5  1  0.82860200  0.82860200  0.72578000  1

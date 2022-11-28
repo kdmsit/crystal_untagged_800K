@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       As2CdK4
+_chemical_formula_sum              "As2 Cd1 K4"
+_cell_length_a       5.79968
+_cell_length_b       5.79967
+_cell_length_c       9.91761
+_cell_angle_alpha    72.9987
+_cell_angle_beta     107.001
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.08970  0.91000  0.26900  1.0000
+  As  As2       1.0  0.91000  0.08970  0.73100  1.0000
+  Cd  Cd1       1.0  0.00000  0.00000  0.00000  1.0000
+  K   K1        1.0  0.39200  0.60800  0.17500  1.0000
+  K   K2        1.0  0.79100  0.20900  0.37400  1.0000
+  K   K3        1.0  0.20900  0.79100  0.62600  1.0000
+  K   K4        1.0  0.60800  0.39200  0.82500  1.0000

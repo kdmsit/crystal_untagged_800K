@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Fe2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.68425139
+_cell_length_b   5.35504845
+_cell_length_c   7.80977045
+_cell_angle_alpha   131.67234255
+_cell_angle_beta   160.07180482
+_cell_angle_gamma   44.99101443
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2O3
+_chemical_formula_sum   'Fe4 O6'
+_cell_volume   147.98706452
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.57774500  0.10514000  0.50515800  1
+  Fe  Fe1  1  0.42225500  0.89486000  0.49484200  1
+  Fe  Fe2  1  0.07258600  0.60514000  0.49484200  1
+  Fe  Fe3  1  0.92741400  0.39486000  0.50515800  1
+  O  O4  1  0.25110200  0.99687300  0.99731600  1
+  O  O5  1  0.23728400  0.25000000  0.47456700  1
+  O  O6  1  0.74621400  0.50312700  0.99731600  1
+  O  O7  1  0.74889800  0.00312700  0.00268400  1
+  O  O8  1  0.76271600  0.75000000  0.52543300  1
+  O  O9  1  0.25378600  0.49687300  0.00268400  1

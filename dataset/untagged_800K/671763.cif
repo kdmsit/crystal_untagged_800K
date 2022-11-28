@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TbGa2Co3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05095800
+_cell_length_b   8.74827705
+_cell_length_c   8.74827783
+_cell_angle_alpha   59.98753261
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbGa2Co3
+_chemical_formula_sum   'Tb3 Ga6 Co9'
+_cell_volume   268.45957222
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.50000000  0.33335000  0.33333400  1
+  Tb  Tb1  1  0.50000000  0.66666600  0.66665000  1
+  Tb  Tb2  1  0.00000000  0.00023100  0.99976900  1
+  Ga  Ga3  1  0.00000000  0.49575900  0.50424100  1
+  Ga  Ga4  1  0.00000000  0.50416100  0.99985800  1
+  Ga  Ga5  1  0.00000000  0.00014200  0.49583900  1
+  Ga  Ga6  1  0.50000000  0.72958000  0.27042000  1
+  Ga  Ga7  1  0.50000000  0.27059900  0.99996000  1
+  Ga  Ga8  1  0.50000000  0.00004000  0.72940100  1
+  Co  Co9  1  0.00000000  0.18013300  0.18090300  1
+  Co  Co10  1  0.00000000  0.18068400  0.63896400  1
+  Co  Co11  1  0.00000000  0.63896400  0.18024000  1
+  Co  Co12  1  0.00000000  0.81909700  0.81986700  1
+  Co  Co13  1  0.00000000  0.36103600  0.81931600  1
+  Co  Co14  1  0.00000000  0.81976000  0.36103600  1
+  Co  Co15  1  0.50000000  0.29592700  0.70407300  1
+  Co  Co16  1  0.50000000  0.70370400  0.99993200  1
+  Co  Co17  1  0.50000000  0.00006800  0.29629600  1

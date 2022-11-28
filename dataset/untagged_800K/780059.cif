@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Al2CdSe4
+_symmetry_space_group_name_H-M  'Fd-3m'
+_cell_length_a       7.72813
+_cell_length_b       7.72813
+_cell_length_c       7.72813
+_cell_angle_alpha    60
+_cell_angle_beta     60
+_cell_angle_gamma    60
+
+_symmetry_Int_Tables_number  227
+_chemical_formula_structural  Al2CdSe4
+_chemical_formula_sum  Al4Cd2Se8
+_cell_volume  326.3686534407632
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.50000  0.00000  0.50000  1
+ Al  Al2  1  -0.00000  0.50000  0.50000  1
+ Al  Al3  1  0.50000  0.50000  0.50000  1
+ Al  Al4  1  0.50000  0.50000  -0.00000  1
+ Cd  Cd1  1  0.87500  0.87500  0.87500  1
+ Cd  Cd2  1  0.12500  0.12500  0.12500  1
+ Se  Se1  1  0.26361  0.26361  0.70916  1
+ Se  Se2  1  0.73639  0.73639  0.73639  1
+ Se  Se3  1  0.26361  0.26361  0.26361  1
+ Se  Se4  1  0.73639  0.73639  0.29084  1
+ Se  Se5  1  0.29084  0.73639  0.73639  1
+ Se  Se6  1  0.73639  0.29084  0.73639  1
+ Se  Se7  1  0.70916  0.26361  0.26361  1
+ Se  Se8  1  0.26361  0.70916  0.26361  1

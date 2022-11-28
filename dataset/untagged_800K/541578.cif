@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ca4Ga4Ge4
+_chemical_formula_sum              "Ca4 Ga4 Ge4"
+_cell_length_a       4.23344
+_cell_length_b       4.23352
+_cell_length_c       17.3959
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ca  Ca2       1.0  0.00000  0.00000  0.25000  1.0000
+  Ca  Ca3       1.0  0.00000  0.00000  0.50000  1.0000
+  Ca  Ca4       1.0  0.00019  0.00038  0.75000  1.0000
+  Ga  Ga1       1.0  0.33300  0.66700  0.15300  1.0000
+  Ga  Ga2       1.0  0.33300  0.66700  0.34700  1.0000
+  Ga  Ga3       1.0  0.66700  0.33300  0.65300  1.0000
+  Ga  Ga4       1.0  0.66700  0.33300  0.84700  1.0000
+  Ge  Ge1       1.0  0.66700  0.33300  0.11000  1.0000
+  Ge  Ge2       1.0  0.66700  0.33300  0.39000  1.0000
+  Ge  Ge3       1.0  0.33300  0.66700  0.61000  1.0000
+  Ge  Ge4       1.0  0.33300  0.66700  0.89000  1.0000

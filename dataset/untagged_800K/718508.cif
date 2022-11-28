@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaIr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.40449097
+_cell_length_b   9.40449097
+_cell_length_c   9.40449116
+_cell_angle_alpha   33.59897237
+_cell_angle_beta   33.59897237
+_cell_angle_gamma   33.59897000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaIr3
+_chemical_formula_sum   'La3 Ir9'
+_cell_volume   226.89251666
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.86018600  0.86018600  0.86018600  1
+  La  La1  1  0.13981400  0.13981400  0.13981400  1
+  La  La2  1  0.00000000  0.00000000  0.00000000  1
+  Ir  Ir3  1  0.42258800  0.91451100  0.42258800  1
+  Ir  Ir4  1  0.42258800  0.42258800  0.91451100  1
+  Ir  Ir5  1  0.91451100  0.42258800  0.42258800  1
+  Ir  Ir6  1  0.57741200  0.08548900  0.57741200  1
+  Ir  Ir7  1  0.57741200  0.57741200  0.08548900  1
+  Ir  Ir8  1  0.08548900  0.57741200  0.57741200  1
+  Ir  Ir9  1  0.66845800  0.66845800  0.66845800  1
+  Ir  Ir10  1  0.33154200  0.33154200  0.33154200  1
+  Ir  Ir11  1  0.50000000  0.50000000  0.50000000  1

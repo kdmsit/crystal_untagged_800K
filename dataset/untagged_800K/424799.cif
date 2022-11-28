@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cu2Hf2Pb3
+_chemical_formula_sum              "Cu2 Hf2 Pb3"
+_cell_length_a       9.16872
+_cell_length_b       9.16872
+_cell_length_c       9.16872
+_cell_angle_alpha    29.2535
+_cell_angle_beta     29.2535
+_cell_angle_gamma    29.2535
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.01580  0.01580  0.01580  1.0000
+  Cu  Cu2       1.0  0.49500  0.49500  0.49500  1.0000
+  Hf  Hf1       1.0  0.24500  0.24500  0.24500  1.0000
+  Hf  Hf2       1.0  0.75100  0.75100  0.75100  1.0000
+  Pb  Pb1       1.0  0.38300  0.38300  0.38300  1.0000
+  Pb  Pb2       1.0  0.62700  0.62700  0.62700  1.0000
+  Pb  Pb3       1.0  0.85700  0.85700  0.85700  1.0000

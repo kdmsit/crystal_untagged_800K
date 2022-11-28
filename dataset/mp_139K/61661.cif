@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ca(FeO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23318212
+_cell_length_b   6.22705453
+_cell_length_c   6.19177313
+_cell_angle_alpha   90.94439189
+_cell_angle_beta   118.95181865
+_cell_angle_gamma   119.23053457
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(FeO2)2
+_chemical_formula_sum   'Ca2 Fe4 O8'
+_cell_volume   173.16211258
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.24633500  0.12222900  0.87685800  1
+  Ca  Ca1  1  0.75363600  0.87777500  0.12313600  1
+  Fe  Fe2  1  0.50010800  0.00003100  0.50008800  1
+  Fe  Fe3  1  0.50014500  0.50004700  0.50011800  1
+  Fe  Fe4  1  0.99983200  0.49992100  0.99971900  1
+  Fe  Fe5  1  0.00001200  0.49998300  0.50002500  1
+  O  O6  1  0.03761300  0.73003000  0.26186500  1
+  O  O7  1  0.45262500  0.72850600  0.69720200  1
+  O  O8  1  0.48291100  0.74053700  0.28062900  1
+  O  O9  1  0.96044300  0.69297700  0.74051900  1
+  O  O10  1  0.51705600  0.25945900  0.71936300  1
+  O  O11  1  0.54735400  0.27149800  0.30279700  1
+  O  O12  1  0.03955700  0.30701300  0.25951700  1
+  O  O13  1  0.96237400  0.26999400  0.73816500  1

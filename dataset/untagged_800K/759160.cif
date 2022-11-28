@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_TlFeO2
+_symmetry_space_group_name_H-M  'R-3m'
+_cell_length_a       6.25364
+_cell_length_b       6.25364
+_cell_length_c       6.25364
+_cell_angle_alpha    55.1104
+_cell_angle_beta     55.1103
+_cell_angle_gamma    55.1104
+
+_symmetry_Int_Tables_number  166
+_chemical_formula_structural  TlFeO2
+_chemical_formula_sum  Tl2Fe2O4
+_cell_volume  153.26955094699542
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.38391  0.38391  0.38391  1
+ Fe  Fe2  1  0.61609  0.61609  0.61609  1
+ O  O1  1  0.50000  -0.00000  0.50000  1
+ O  O2  1  0.00000  0.50000  0.50000  1
+ O  O3  1  0.50000  0.50000  0.50000  1
+ O  O4  1  0.50000  0.50000  0.00000  1
+ Tl  Tl1  1  0.80244  0.80244  0.80244  1
+ Tl  Tl2  1  0.19756  0.19756  0.19756  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_MnZn3F6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31000611
+_cell_length_b   7.06827370
+_cell_length_c   11.22782773
+_cell_angle_alpha   89.02083217
+_cell_angle_beta   92.75271405
+_cell_angle_gamma   106.67433205
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZn3F6
+_chemical_formula_sum   'Mn1 Zn3 F6'
+_cell_volume   403.22129653
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Zn  Zn1  1  0.00000000  0.00000000  0.50000000  1
+  Zn  Zn2  1  0.50000000  0.50000000  0.00000000  1
+  Zn  Zn3  1  0.00000000  0.50000000  0.00000000  1
+  F  F4  1  0.90597800  0.24785200  0.92206600  1
+  F  F5  1  0.09402200  0.75214800  0.07793400  1
+  F  F6  1  0.93599100  0.97707000  0.65118500  1
+  F  F7  1  0.06400900  0.02293000  0.34881500  1
+  F  F8  1  0.68372900  0.80193100  0.93208900  1
+  F  F9  1  0.31627100  0.19806900  0.06791100  1

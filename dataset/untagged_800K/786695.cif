@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_TbSiIr
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.27604
+_cell_length_b       6.92157
+_cell_length_c       7.40502
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  TbSiIr
+_chemical_formula_sum  Tb4Si4Ir4
+_cell_volume  219.1658844591724
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ir  Ir1  1  0.25000  0.65931  0.57211  1
+ Ir  Ir2  1  0.25000  0.15931  0.92789  1
+ Ir  Ir3  1  0.75000  0.84069  0.07211  1
+ Ir  Ir4  1  0.75000  0.34069  0.42789  1
+ Si  Si1  1  0.25000  0.80084  0.89348  1
+ Si  Si2  1  0.25000  0.30084  0.60652  1
+ Si  Si3  1  0.75000  0.19916  0.10652  1
+ Si  Si4  1  0.75000  0.69916  0.39348  1
+ Tb  Tb1  1  0.75000  0.50274  0.81367  1
+ Tb  Tb2  1  0.25000  0.99726  0.31367  1
+ Tb  Tb3  1  0.75000  0.00274  0.68633  1
+ Tb  Tb4  1  0.25000  0.49726  0.18633  1

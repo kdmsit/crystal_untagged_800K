@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_CaMgAsO4F
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       5.63569
+_cell_length_b       5.63569
+_cell_length_c       7.11517
+_cell_angle_alpha    103.828
+_cell_angle_beta     103.828
+_cell_angle_gamma    106.489
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  CaMgAsO4F
+_chemical_formula_sum  Ca2Mg2As2O8F2
+_cell_volume  198.6570165252643
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.82117  0.67883  0.25000  1
+ As  As2  1  0.17883  0.32117  0.75000  1
+ Ca  Ca1  1  0.16771  0.33229  0.25000  1
+ Ca  Ca2  1  0.83229  0.66771  0.75000  1
+ F  F1  1  0.41797  0.08203  0.25000  1
+ F  F2  1  0.58203  0.91797  0.75000  1
+ Mg  Mg1  1  0.50000  -0.00000  0.00000  1
+ Mg  Mg2  1  0.50000  -0.00000  0.50000  1
+ O  O1  1  0.75972  0.38134  0.07393  1
+ O  O2  1  0.11866  0.74028  0.42607  1
+ O  O3  1  0.17114  0.09980  0.88117  1
+ O  O4  1  0.40020  0.32886  0.61883  1
+ O  O5  1  0.82886  0.90020  0.11883  1
+ O  O6  1  0.59980  0.67114  0.38117  1
+ O  O7  1  0.24028  0.61866  0.92607  1
+ O  O8  1  0.88134  0.25972  0.57393  1

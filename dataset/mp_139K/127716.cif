@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KZnB(H2Cl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18539100
+_cell_length_b   6.87981400
+_cell_length_c   8.04576080
+_cell_angle_alpha   78.64058914
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KZnB(H2Cl)2
+_chemical_formula_sum   'K2 Zn2 B2 H8 Cl4'
+_cell_volume   335.67509900
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25000000  0.50854700  0.74622500  1
+  K  K1  1  0.75000000  0.49145300  0.25377500  1
+  Zn  Zn2  1  0.25000000  0.97321400  0.33808900  1
+  Zn  Zn3  1  0.75000000  0.02678600  0.66191100  1
+  B  B4  1  0.25000000  0.19626500  0.10173700  1
+  B  B5  1  0.75000000  0.80373500  0.89826300  1
+  H  H6  1  0.25000000  0.37129400  0.10233800  1
+  H  H7  1  0.75000000  0.62870600  0.89766200  1
+  H  H8  1  0.07935500  0.13110300  0.17725300  1
+  H  H9  1  0.57935500  0.86889700  0.82274700  1
+  H  H10  1  0.92064500  0.86889700  0.82274700  1
+  H  H11  1  0.42064500  0.13110300  0.17725300  1
+  H  H12  1  0.25000000  0.14073300  0.96748800  1
+  H  H13  1  0.75000000  0.85926700  0.03251200  1
+  Cl  Cl14  1  0.25000000  0.03786600  0.60152800  1
+  Cl  Cl15  1  0.75000000  0.96213400  0.39847200  1
+  Cl  Cl16  1  0.25000000  0.64775900  0.33578300  1
+  Cl  Cl17  1  0.75000000  0.35224100  0.66421700  1

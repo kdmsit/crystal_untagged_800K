@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ag4Ni4O4Se4
+_chemical_formula_sum              "Ag4 Ni4 O4 Se4"
+_cell_length_a       6.30948
+_cell_length_b       3.0676
+_cell_length_c       13.2828
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.57600  0.25000  0.23900  1.0000
+  Ag  Ag2       1.0  0.07630  0.25000  0.26100  1.0000
+  Ag  Ag3       1.0  0.92400  0.75000  0.73900  1.0000
+  Ag  Ag4       1.0  0.42400  0.75000  0.76100  1.0000
+  Ni  Ni1       1.0  0.22700  0.75000  0.05860  1.0000
+  Ni  Ni2       1.0  0.72700  0.75000  0.44100  1.0000
+  Ni  Ni3       1.0  0.27300  0.25000  0.55900  1.0000
+  Ni  Ni4       1.0  0.77300  0.25000  0.94100  1.0000
+  O   O1        1.0  0.30900  0.25000  0.13800  1.0000
+  O   O2        1.0  0.80900  0.25000  0.36200  1.0000
+  O   O3        1.0  0.19100  0.75000  0.63800  1.0000
+  O   O4        1.0  0.69100  0.75000  0.86200  1.0000
+  Se  Se1       1.0  0.82700  0.75000  0.09470  1.0000
+  Se  Se2       1.0  0.32700  0.75000  0.40500  1.0000
+  Se  Se3       1.0  0.67300  0.25000  0.59500  1.0000
+  Se  Se4       1.0  0.17300  0.25000  0.90500  1.0000

@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_SmInPt
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       8.60821
+_cell_length_b       9.97249
+_cell_length_c       4.08577
+_cell_angle_alpha    90.052
+_cell_angle_beta     103.665
+_cell_angle_gamma    139.086
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  SmInPt
+_chemical_formula_sum  Sm3In3Pt3
+_cell_volume  214.15169144735833
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ In  In1  1  0.08507  0.41743  0.70902  1
+ In  In2  1  0.55096  0.64224  0.44217  1
+ In  In3  1  0.42999  0.07593  0.38171  1
+ Pt  Pt1  1  -0.05316  -0.10882  0.14015  1
+ Pt  Pt2  1  0.75405  0.34778  0.04364  1
+ Pt  Pt3  1  0.28786  0.71823  0.31056  1
+ Sm  Sm1  1  -0.03496  0.67223  0.64929  1
+ Sm  Sm2  1  0.69023  -0.00000  0.01162  1
+ Sm  Sm3  1  0.28996  0.23498  -0.18816  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ba2La2Ni(WO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72325925
+_cell_length_b   5.72376889
+_cell_length_c   9.85103840
+_cell_angle_alpha   73.10516119
+_cell_angle_beta   73.11416830
+_cell_angle_gamma   60.00674994
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2La2Ni(WO6)2
+_chemical_formula_sum   'Ba2 La2 Ni1 W2 O12'
+_cell_volume   263.29176913
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.13379700  0.13375900  0.59858700  1
+  Ba  Ba1  1  0.86621600  0.86616900  0.40140600  1
+  La  La2  1  0.29313400  0.29304600  0.12073500  1
+  La  La3  1  0.70692300  0.70687600  0.87927700  1
+  Ni  Ni4  1  0.00005100  0.00030600  0.99988200  1
+  W  W5  1  0.41720600  0.41716000  0.74834400  1
+  W  W6  1  0.58274300  0.58288300  0.25167600  1
+  O  O7  1  0.11679300  0.61696200  0.64915600  1
+  O  O8  1  0.61699400  0.61697700  0.64914300  1
+  O  O9  1  0.61697400  0.11677100  0.64916500  1
+  O  O10  1  0.88316100  0.38298800  0.35088500  1
+  O  O11  1  0.38299400  0.38299300  0.35087400  1
+  O  O12  1  0.38299500  0.88315700  0.35087200  1
+  O  O13  1  0.31796600  0.78455000  0.11295600  1
+  O  O14  1  0.78455800  0.78457800  0.11294900  1
+  O  O15  1  0.78454400  0.31796000  0.11295100  1
+  O  O16  1  0.68201800  0.21542700  0.88704800  1
+  O  O17  1  0.21547800  0.21544800  0.88704000  1
+  O  O18  1  0.21545700  0.68199000  0.88705500  1

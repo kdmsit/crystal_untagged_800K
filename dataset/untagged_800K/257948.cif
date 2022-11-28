@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Cs4Mn2S12Te4
+_chemical_formula_sum              "Cs4 Mn2 S12 Te4"
+_cell_length_a       7.00265
+_cell_length_b       7.00171
+_cell_length_c       16.1353
+_cell_angle_alpha    90
+_cell_angle_beta     89.9974
+_cell_angle_gamma    119.996
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.33300  0.66700  0.20400  1.0000
+  Cs  Cs2       1.0  0.66700  0.33300  0.29600  1.0000
+  Cs  Cs3       1.0  0.33300  0.66700  0.70400  1.0000
+  Cs  Cs4       1.0  0.66700  0.33300  0.79600  1.0000
+  Mn  Mn1       1.0  0.00000  0.00000  0.00000  1.0000
+  Mn  Mn2       1.0  0.00000  0.00000  0.50000  1.0000
+  S   S1        1.0  0.78500  0.10600  0.10400  1.0000
+  S   S2        1.0  0.89400  0.67900  0.10400  1.0000
+  S   S3        1.0  0.32100  0.21500  0.10400  1.0000
+  S   S4        1.0  0.67900  0.89400  0.39600  1.0000
+  S   S5        1.0  0.10600  0.78500  0.39600  1.0000
+  S   S6        1.0  0.21500  0.32100  0.39600  1.0000
+  S   S7        1.0  0.78500  0.67900  0.60400  1.0000
+  S   S8        1.0  0.89400  0.21500  0.60400  1.0000
+  S   S9        1.0  0.32100  0.10600  0.60400  1.0000
+  S   S10       1.0  0.67900  0.78500  0.89600  1.0000
+  S   S11       1.0  0.10600  0.32100  0.89600  1.0000
+  S   S12       1.0  0.21500  0.89400  0.89600  1.0000
+  Te  Te1       1.0  0.66700  0.33300  0.03750  1.0000
+  Te  Te2       1.0  0.33300  0.66700  0.46200  1.0000
+  Te  Te3       1.0  0.66700  0.33300  0.53800  1.0000
+  Te  Te4       1.0  0.33300  0.66700  0.96200  1.0000

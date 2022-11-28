@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CoBrO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88128900
+_cell_length_b   6.36236900
+_cell_length_c   12.67645200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoBrO
+_chemical_formula_sum   'Co8 Br8 O8'
+_cell_volume   474.33928035
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.20755900  0.13403600  0.50499500  1
+  Co  Co1  1  0.70755900  0.86596400  0.99500500  1
+  Co  Co2  1  0.79244100  0.36596400  0.00499500  1
+  Co  Co3  1  0.29244100  0.63403600  0.49500500  1
+  Co  Co4  1  0.79244100  0.86596400  0.49500500  1
+  Co  Co5  1  0.29244100  0.13403600  0.00499500  1
+  Co  Co6  1  0.20755900  0.63403600  0.99500500  1
+  Co  Co7  1  0.70755900  0.36596400  0.50499500  1
+  Br  Br8  1  0.93096500  0.09222300  0.14208700  1
+  Br  Br9  1  0.43096500  0.90777700  0.35791300  1
+  Br  Br10  1  0.06903500  0.40777700  0.64208700  1
+  Br  Br11  1  0.56903500  0.59222300  0.85791300  1
+  Br  Br12  1  0.06903500  0.90777700  0.85791300  1
+  Br  Br13  1  0.56903500  0.09222300  0.64208700  1
+  Br  Br14  1  0.93096500  0.59222300  0.35791300  1
+  Br  Br15  1  0.43096500  0.40777700  0.14208700  1
+  O  O16  1  0.88868800  0.14441900  0.45158700  1
+  O  O17  1  0.38868800  0.85558100  0.04841300  1
+  O  O18  1  0.11131200  0.35558100  0.95158700  1
+  O  O19  1  0.61131200  0.64441900  0.54841300  1
+  O  O20  1  0.11131200  0.85558100  0.54841300  1
+  O  O21  1  0.61131200  0.14441900  0.95158700  1
+  O  O22  1  0.88868800  0.64441900  0.04841300  1
+  O  O23  1  0.38868800  0.35558100  0.45158700  1

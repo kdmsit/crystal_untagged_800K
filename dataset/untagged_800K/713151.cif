@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Zn(NiS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85122400
+_cell_length_b   6.85117847
+_cell_length_c   6.90286186
+_cell_angle_alpha   60.99298720
+_cell_angle_beta   60.36166959
+_cell_angle_gamma   60.49539442
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(NiS2)2
+_chemical_formula_sum   'Zn2 Ni4 S8'
+_cell_volume   232.28715408
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000000  0.00000000  0.00000000  1
+  Zn  Zn1  1  0.00000000  0.50000000  0.50000000  1
+  Ni  Ni2  1  0.00000000  0.50000000  0.00000000  1
+  Ni  Ni3  1  0.50000000  0.00000000  0.00000000  1
+  Ni  Ni4  1  0.50000000  0.50000000  0.00000000  1
+  Ni  Ni5  1  0.50000000  0.50000000  0.50000000  1
+  S  S6  1  0.24907100  0.71809500  0.78756700  1
+  S  S7  1  0.24363600  0.28215700  0.75167200  1
+  S  S8  1  0.26374200  0.26818500  0.20527700  1
+  S  S9  1  0.29226500  0.73277700  0.23961200  1
+  S  S10  1  0.73625800  0.73181500  0.79472300  1
+  S  S11  1  0.75636400  0.71784300  0.24832800  1
+  S  S12  1  0.70773500  0.26722300  0.76038800  1
+  S  S13  1  0.75092900  0.28190500  0.21243300  1

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       B2H8Li2
+_chemical_formula_sum              "B2 H8 Li2"
+_cell_length_a       3.85582
+_cell_length_b       3.85582
+_cell_length_c       6.21757
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    88.3961
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.05430  0.42500  0.25000  1.0000
+  B   B2        1.0  0.57500  0.94600  0.75000  1.0000
+  H   H1        1.0  0.23800  0.40200  0.09010  1.0000
+  H   H2        1.0  0.82700  0.21100  0.25000  1.0000
+  H   H3        1.0  0.88700  0.69700  0.25000  1.0000
+  H   H4        1.0  0.23800  0.40200  0.41000  1.0000
+  H   H5        1.0  0.59800  0.76200  0.59000  1.0000
+  H   H6        1.0  0.30300  0.11300  0.75000  1.0000
+  H   H7        1.0  0.78900  0.17300  0.75000  1.0000
+  H   H8        1.0  0.59800  0.76200  0.91000  1.0000
+  Li  Li1       1.0  0.06090  0.93900  0.00000  1.0000
+  Li  Li2       1.0  0.06090  0.93900  0.50000  1.0000

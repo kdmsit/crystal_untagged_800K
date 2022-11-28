@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       O2P2Pm2Tm2
+_chemical_formula_sum              "O2 P2 Pm2 Tm2"
+_cell_length_a       4.2826
+_cell_length_b       4.2826
+_cell_length_c       8.70425
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.75000  0.25000  0.00000  1.0000
+  O   O2        1.0  0.25000  0.75000  0.00000  1.0000
+  P   P1        1.0  0.75000  0.75000  0.28900  1.0000
+  P   P2        1.0  0.25000  0.25000  0.71100  1.0000
+  Pm  Pm1       1.0  0.75000  0.25000  0.50000  1.0000
+  Pm  Pm2       1.0  0.25000  0.75000  0.50000  1.0000
+  Tm  Tm1       1.0  0.25000  0.25000  0.09340  1.0000
+  Tm  Tm2       1.0  0.75000  0.75000  0.90700  1.0000

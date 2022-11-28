@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_BaLuCo4O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33657790
+_cell_length_b   6.33657790
+_cell_length_c   10.31184715
+_cell_angle_alpha   89.80104355
+_cell_angle_beta   89.80104355
+_cell_angle_gamma   120.32561318
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLuCo4O7
+_chemical_formula_sum   'Ba2 Lu2 Co8 O14'
+_cell_volume   357.38123535
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.67322800  0.33667900  0.00308000  1
+  Ba  Ba1  1  0.33667900  0.67322800  0.50308000  1
+  Lu  Lu2  1  0.66783800  0.33115300  0.37869100  1
+  Lu  Lu3  1  0.33115300  0.66783800  0.87869100  1
+  Co  Co4  1  0.00137000  0.00349700  0.94259700  1
+  Co  Co5  1  0.00349700  0.00137000  0.44259700  1
+  Co  Co6  1  0.34490800  0.18373000  0.68848200  1
+  Co  Co7  1  0.18373000  0.34490800  0.18848200  1
+  Co  Co8  1  0.65838400  0.84591700  0.18805800  1
+  Co  Co9  1  0.84591700  0.65838400  0.68805800  1
+  Co  Co10  1  0.82052100  0.16200300  0.68483400  1
+  Co  Co11  1  0.16200300  0.82052100  0.18483400  1
+  O  O12  1  0.99091100  0.48020400  0.76567800  1
+  O  O13  1  0.48020400  0.99091100  0.26567800  1
+  O  O14  1  0.98721500  0.46889200  0.24329900  1
+  O  O15  1  0.46889200  0.98721500  0.74329900  1
+  O  O16  1  0.49802100  0.50817900  0.74625100  1
+  O  O17  1  0.50817900  0.49802100  0.24625100  1
+  O  O18  1  0.00841100  0.00473700  0.74783400  1
+  O  O19  1  0.00473700  0.00841100  0.24783400  1
+  O  O20  1  0.66324100  0.88811800  0.99818600  1
+  O  O21  1  0.88811800  0.66324100  0.49818600  1
+  O  O22  1  0.79133200  0.12706200  0.49774100  1
+  O  O23  1  0.12706200  0.79133200  0.99774100  1
+  O  O24  1  0.34150900  0.22294100  0.50616800  1
+  O  O25  1  0.22294100  0.34150900  0.00616800  1

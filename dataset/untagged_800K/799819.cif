@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_GePd
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.60271
+_cell_length_b       5.85962
+_cell_length_c       6.32592
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  GePd
+_chemical_formula_sum  Ge4Pd4
+_cell_volume  133.54340502276364
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.75000  0.81189  0.57982  1
+ Ge  Ge2  1  0.25000  0.18811  0.42018  1
+ Ge  Ge3  1  0.75000  0.31189  0.92018  1
+ Ge  Ge4  1  0.25000  0.68811  0.07982  1
+ Pd  Pd1  1  0.75000  0.99654  0.19125  1
+ Pd  Pd2  1  0.25000  0.00346  0.80875  1
+ Pd  Pd3  1  0.75000  0.49654  0.30875  1
+ Pd  Pd4  1  0.25000  0.50346  0.69125  1

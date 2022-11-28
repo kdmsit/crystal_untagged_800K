@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_PrAlPt
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.50666
+_cell_length_b       7.24738
+_cell_length_c       7.8944
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  PrAlPt
+_chemical_formula_sum  Pr4Al4Pt4
+_cell_volume  257.8426475603795
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.25000  0.14729  0.93137  1
+ Al  Al2  1  0.75000  0.35271  0.43137  1
+ Al  Al3  1  0.25000  0.64729  0.56863  1
+ Al  Al4  1  0.75000  0.85271  0.06863  1
+ Pr  Pr1  1  0.25000  0.52790  0.18206  1
+ Pr  Pr2  1  0.25000  0.02790  0.31794  1
+ Pr  Pr3  1  0.75000  0.97210  0.68206  1
+ Pr  Pr4  1  0.75000  0.47210  0.81794  1
+ Pt  Pt1  1  0.25000  0.78653  0.89100  1
+ Pt  Pt2  1  0.25000  0.28653  0.60900  1
+ Pt  Pt3  1  0.75000  0.71347  0.39100  1
+ Pt  Pt4  1  0.75000  0.21347  0.10900  1

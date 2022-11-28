@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       Be2La6S14Sb2
+_chemical_formula_sum              "Be2 La6 S14 Sb2"
+_cell_length_a       10.2422
+_cell_length_b       10.2422
+_cell_length_c       6.28525
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.66700  0.33300  0.15600  1.0000
+  Be  Be2       1.0  0.33300  0.66700  0.65600  1.0000
+  La  La1       1.0  0.25700  0.86000  0.24300  1.0000
+  La  La2       1.0  0.14000  0.39700  0.24300  1.0000
+  La  La3       1.0  0.60300  0.74300  0.24300  1.0000
+  La  La4       1.0  0.39700  0.25700  0.74300  1.0000
+  La  La5       1.0  0.74300  0.14000  0.74300  1.0000
+  La  La6       1.0  0.86000  0.60300  0.74300  1.0000
+  S   S1        1.0  0.33300  0.66700  0.00231  1.0000
+  S   S2        1.0  0.52100  0.11500  0.02470  1.0000
+  S   S3        1.0  0.88500  0.40600  0.02470  1.0000
+  S   S4        1.0  0.59400  0.47900  0.02470  1.0000
+  S   S5        1.0  0.84100  0.09410  0.29500  1.0000
+  S   S6        1.0  0.25300  0.15900  0.29500  1.0000
+  S   S7        1.0  0.90600  0.74700  0.29500  1.0000
+  S   S8        1.0  0.66700  0.33300  0.50200  1.0000
+  S   S9        1.0  0.40600  0.52100  0.52500  1.0000
+  S   S10       1.0  0.11500  0.59400  0.52500  1.0000
+  S   S11       1.0  0.47900  0.88500  0.52500  1.0000
+  S   S12       1.0  0.15900  0.90600  0.79500  1.0000
+  S   S13       1.0  0.09410  0.25300  0.79500  1.0000
+  S   S14       1.0  0.74700  0.84100  0.79500  1.0000
+  Sb  Sb1       1.0  0.00000  0.00000  0.48400  1.0000
+  Sb  Sb2       1.0  0.00000  0.00000  0.98400  1.0000

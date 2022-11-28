@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CeCrSb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.14434500
+_cell_length_b   6.27985800
+_cell_length_c   12.93642700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeCrSb3
+_chemical_formula_sum   'Ce4 Cr4 Sb12'
+_cell_volume   499.15998009
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.25000000  0.50341600  0.30774500  1
+  Ce  Ce1  1  0.75000000  0.49658400  0.69225500  1
+  Ce  Ce2  1  0.25000000  0.00341600  0.69225500  1
+  Ce  Ce3  1  0.75000000  0.99658400  0.30774500  1
+  Cr  Cr4  1  0.00000000  0.75000000  0.90582300  1
+  Cr  Cr5  1  0.00000000  0.25000000  0.09417700  1
+  Cr  Cr6  1  0.50000000  0.25000000  0.09417700  1
+  Cr  Cr7  1  0.50000000  0.75000000  0.90582300  1
+  Sb  Sb8  1  0.00000000  0.75000000  0.50113800  1
+  Sb  Sb9  1  0.00000000  0.25000000  0.49886200  1
+  Sb  Sb10  1  0.50000000  0.25000000  0.49886200  1
+  Sb  Sb11  1  0.50000000  0.75000000  0.50113800  1
+  Sb  Sb12  1  0.25000000  0.59944600  0.06271900  1
+  Sb  Sb13  1  0.75000000  0.40055400  0.93728100  1
+  Sb  Sb14  1  0.25000000  0.09944600  0.93728100  1
+  Sb  Sb15  1  0.75000000  0.90055400  0.06271900  1
+  Sb  Sb16  1  0.25000000  0.00205600  0.22629400  1
+  Sb  Sb17  1  0.75000000  0.99794400  0.77370600  1
+  Sb  Sb18  1  0.25000000  0.50205600  0.77370600  1
+  Sb  Sb19  1  0.75000000  0.49794400  0.22629400  1

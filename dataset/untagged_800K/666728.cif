@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Zr9Mo4S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.76323154
+_cell_length_b   8.76323154
+_cell_length_c   8.65443900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999653
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr9Mo4S
+_chemical_formula_sum   'Zr18 Mo8 S2'
+_cell_volume   575.56998935
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.53830800  0.07661700  0.25000000  1
+  Zr  Zr1  1  0.46169200  0.92338300  0.75000000  1
+  Zr  Zr2  1  0.92338300  0.46169200  0.25000000  1
+  Zr  Zr3  1  0.07661700  0.53830800  0.75000000  1
+  Zr  Zr4  1  0.53830800  0.46169200  0.25000000  1
+  Zr  Zr5  1  0.46169200  0.53830800  0.75000000  1
+  Zr  Zr6  1  0.19829800  0.39659500  0.04798600  1
+  Zr  Zr7  1  0.80170200  0.60340500  0.95201400  1
+  Zr  Zr8  1  0.60340500  0.80170200  0.04798600  1
+  Zr  Zr9  1  0.80170200  0.60340500  0.54798600  1
+  Zr  Zr10  1  0.39659500  0.19829800  0.95201400  1
+  Zr  Zr11  1  0.19829800  0.39659500  0.45201400  1
+  Zr  Zr12  1  0.19829800  0.80170200  0.04798600  1
+  Zr  Zr13  1  0.39659500  0.19829800  0.54798600  1
+  Zr  Zr14  1  0.80170200  0.19829800  0.95201400  1
+  Zr  Zr15  1  0.60340500  0.80170200  0.45201400  1
+  Zr  Zr16  1  0.80170200  0.19829800  0.54798600  1
+  Zr  Zr17  1  0.19829800  0.80170200  0.45201400  1
+  Mo  Mo18  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo19  1  0.00000000  0.00000000  0.50000000  1
+  Mo  Mo20  1  0.89138100  0.78276300  0.25000000  1
+  Mo  Mo21  1  0.10861900  0.21723700  0.75000000  1
+  Mo  Mo22  1  0.21723700  0.10861900  0.25000000  1
+  Mo  Mo23  1  0.78276300  0.89138100  0.75000000  1
+  Mo  Mo24  1  0.89138100  0.10861900  0.25000000  1
+  Mo  Mo25  1  0.10861900  0.89138100  0.75000000  1
+  S  S26  1  0.33333300  0.66666700  0.25000000  1
+  S  S27  1  0.66666700  0.33333300  0.75000000  1

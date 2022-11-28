@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_ThSiTe
+_symmetry_space_group_name_H-M  'I4/mmm'
+_cell_length_a       4.18828
+_cell_length_b       4.18828
+_cell_length_c       9.70889
+_cell_angle_alpha    102.456
+_cell_angle_beta     102.456
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  139
+_chemical_formula_structural  ThSiTe
+_chemical_formula_sum  Th2Si2Te2
+_cell_volume  162.19333538627905
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Si  Si1  1  0.00000  0.50000  0.00000  1
+ Si  Si2  1  0.50000  0.00000  0.00000  1
+ Te  Te1  1  0.31073  0.31073  0.62145  1
+ Te  Te2  1  0.68927  0.68927  0.37855  1
+ Th  Th1  1  0.12097  0.12097  0.24194  1
+ Th  Th2  1  0.87903  0.87903  0.75806  1

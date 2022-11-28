@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       FeGaLi4O6
+_chemical_formula_sum              "Fe1 Ga1 Li4 O6"
+_cell_length_a       4.96957
+_cell_length_b       4.96957
+_cell_length_c       5.01578
+_cell_angle_alpha    99.6761
+_cell_angle_beta     99.6761
+_cell_angle_gamma    119.904
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.83300  0.16700  0.00000  1.0000
+  Ga  Ga1       1.0  0.16600  0.83400  0.00000  1.0000
+  Li  Li1       1.0  0.50000  0.50000  0.00000  1.0000
+  Li  Li2       1.0  0.99100  0.00858  0.50000  1.0000
+  Li  Li3       1.0  0.66400  0.33600  0.50000  1.0000
+  Li  Li4       1.0  0.34200  0.65800  0.50000  1.0000
+  O   O1        1.0  0.59200  0.93900  0.22500  1.0000
+  O   O2        1.0  0.92500  0.56100  0.23100  1.0000
+  O   O3        1.0  0.21500  0.22800  0.23200  1.0000
+  O   O4        1.0  0.77200  0.78500  0.76800  1.0000
+  O   O5        1.0  0.43900  0.07500  0.76900  1.0000
+  O   O6        1.0  0.06100  0.40800  0.77500  1.0000

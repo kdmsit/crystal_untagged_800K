@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ge4Ni4Sc4
+_chemical_formula_sum              "Ge4 Ni4 Sc4"
+_cell_length_a       6.47785
+_cell_length_b       4.0964
+_cell_length_c       7.0818
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.70400  0.75000  0.09190  1.0000
+  Ge  Ge2       1.0  0.20400  0.75000  0.40800  1.0000
+  Ge  Ge3       1.0  0.79600  0.25000  0.59200  1.0000
+  Ge  Ge4       1.0  0.29600  0.25000  0.90800  1.0000
+  Ni  Ni1       1.0  0.31000  0.75000  0.08000  1.0000
+  Ni  Ni2       1.0  0.81000  0.75000  0.42000  1.0000
+  Ni  Ni3       1.0  0.19000  0.25000  0.58000  1.0000
+  Ni  Ni4       1.0  0.69000  0.25000  0.92000  1.0000
+  Sc  Sc1       1.0  0.99300  0.25000  0.20800  1.0000
+  Sc  Sc2       1.0  0.49300  0.25000  0.29200  1.0000
+  Sc  Sc3       1.0  0.50700  0.75000  0.70800  1.0000
+  Sc  Sc4       1.0  0.00688  0.75000  0.79200  1.0000

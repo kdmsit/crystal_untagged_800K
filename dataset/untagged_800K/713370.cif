@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_TiNb2Zn2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.13845897
+_cell_length_b   10.13845897
+_cell_length_c   5.29644177
+_cell_angle_alpha   89.57708983
+_cell_angle_beta   89.57708983
+_cell_angle_gamma   34.01041828
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiNb2Zn2O8
+_chemical_formula_sum   'Ti2 Nb4 Zn4 O16'
+_cell_volume   304.50460600
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.36688500  0.63311500  0.75000000  1
+  Ti  Ti1  1  0.63311500  0.36688500  0.25000000  1
+  Nb  Nb2  1  0.73896500  0.03314200  0.76999800  1
+  Nb  Nb3  1  0.96685800  0.26103500  0.73000200  1
+  Nb  Nb4  1  0.26103500  0.96685800  0.23000200  1
+  Nb  Nb5  1  0.03314200  0.73896500  0.26999800  1
+  Zn  Zn6  1  0.56916900  0.87154900  0.73447400  1
+  Zn  Zn7  1  0.12845100  0.43083100  0.76552600  1
+  Zn  Zn8  1  0.43083100  0.12845100  0.26552600  1
+  Zn  Zn9  1  0.87154900  0.56916900  0.23447400  1
+  O  O10  1  0.79796800  0.07155300  0.41272100  1
+  O  O11  1  0.92844700  0.20203200  0.08727900  1
+  O  O12  1  0.20203200  0.92844700  0.58727900  1
+  O  O13  1  0.07155300  0.79796800  0.91272100  1
+  O  O14  1  0.56645300  0.32393900  0.92063400  1
+  O  O15  1  0.67606100  0.43354700  0.57936600  1
+  O  O16  1  0.43354700  0.67606100  0.07936600  1
+  O  O17  1  0.32393900  0.56645300  0.42063400  1
+  O  O18  1  0.71845600  0.92651700  0.07354200  1
+  O  O19  1  0.07348300  0.28154400  0.42645800  1
+  O  O20  1  0.15651200  0.45760800  0.14302500  1
+  O  O21  1  0.54239200  0.84348800  0.35697500  1
+  O  O22  1  0.84348800  0.54239200  0.85697500  1
+  O  O23  1  0.45760800  0.15651200  0.64302500  1
+  O  O24  1  0.92651700  0.71845600  0.57354200  1
+  O  O25  1  0.28154400  0.07348300  0.92645800  1

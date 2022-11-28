@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Zn(CdN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93080191
+_cell_length_b   3.94295731
+_cell_length_c   7.94649071
+_cell_angle_alpha   89.99999829
+_cell_angle_beta   119.52643815
+_cell_angle_gamma   120.10236052
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(CdN)2
+_chemical_formula_sum   'Zn1 Cd2 N2'
+_cell_volume   87.57320761
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000000  0.00000000  0.50000000  1
+  Cd  Cd1  1  0.89527900  0.44763900  0.17258400  1
+  Cd  Cd2  1  0.10472100  0.55236100  0.82741600  1
+  N  N3  1  0.37887900  0.18944000  0.78431200  1
+  N  N4  1  0.62112100  0.81056000  0.21568800  1

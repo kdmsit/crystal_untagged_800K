@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_KNi(BrO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.39890207
+_cell_length_b   6.39890207
+_cell_length_c   12.17192501
+_cell_angle_alpha   75.27721188
+_cell_angle_beta   75.27721188
+_cell_angle_gamma   66.91077739
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNi(BrO2)3
+_chemical_formula_sum   'K2 Ni2 Br6 O12'
+_cell_volume   436.67953155
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.44673700  0.55326300  0.25000000  1
+  K  K1  1  0.55326300  0.44673700  0.75000000  1
+  Ni  Ni2  1  0.00000000  0.50000000  0.00000000  1
+  Ni  Ni3  1  0.50000000  0.00000000  0.50000000  1
+  Br  Br4  1  0.50000000  0.00000000  0.00000000  1
+  Br  Br5  1  0.00000000  0.50000000  0.50000000  1
+  Br  Br6  1  0.10782500  0.24605000  0.25346800  1
+  Br  Br7  1  0.89217500  0.75395000  0.74653200  1
+  Br  Br8  1  0.75395000  0.89217500  0.24653200  1
+  Br  Br9  1  0.24605000  0.10782500  0.75346800  1
+  O  O10  1  0.13092300  0.47173900  0.13793900  1
+  O  O11  1  0.86907700  0.52826100  0.86206100  1
+  O  O12  1  0.52826100  0.86907700  0.36206100  1
+  O  O13  1  0.47173900  0.13092300  0.63793900  1
+  O  O14  1  0.71314200  0.70867400  0.06461200  1
+  O  O15  1  0.28685800  0.29132600  0.93538800  1
+  O  O16  1  0.29132600  0.28685800  0.43538800  1
+  O  O17  1  0.70867400  0.71314200  0.56461200  1
+  O  O18  1  0.84935600  0.33944800  0.34253900  1
+  O  O19  1  0.15064400  0.66055200  0.65746100  1
+  O  O20  1  0.66055200  0.15064400  0.15746100  1
+  O  O21  1  0.33944800  0.84935600  0.84253900  1

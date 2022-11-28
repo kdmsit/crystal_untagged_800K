@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LuTiFe11C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.80517800
+_cell_length_b   6.47968399
+_cell_length_c   6.47968399
+_cell_angle_alpha   97.65793746
+_cell_angle_beta   111.76421331
+_cell_angle_gamma   68.23578669
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuTiFe11C
+_chemical_formula_sum   'Lu1 Ti1 Fe11 C1'
+_cell_volume   174.01203045
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.00759400  0.99240600  0.00759400  1
+  Ti  Ti1  1  0.63430300  0.36569700  0.63430300  1
+  Fe  Fe2  1  0.72398000  0.77602000  0.22398000  1
+  Fe  Fe3  1  0.27821800  0.22178200  0.77821800  1
+  Fe  Fe4  1  0.49800800  0.78189200  0.77790900  1
+  Fe  Fe5  1  0.49800800  0.22209100  0.21810800  1
+  Fe  Fe6  1  0.50016200  0.99765000  0.49917900  1
+  Fe  Fe7  1  0.00136700  0.99765000  0.49917900  1
+  Fe  Fe8  1  0.50016200  0.50082100  0.00235000  1
+  Fe  Fe9  1  0.00136700  0.50082100  0.00235000  1
+  Fe  Fe10  1  0.35563700  0.64436300  0.35563700  1
+  Fe  Fe11  1  0.99984800  0.35792200  0.35761800  1
+  Fe  Fe12  1  0.99984800  0.64238200  0.64207800  1
+  C  C13  1  0.50149800  0.99850200  0.00149800  1

@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_NaCuO
+_symmetry_space_group_name_H-M  'I4/mmm'
+_cell_length_a       4.67997
+_cell_length_b       6.68404
+_cell_length_c       6.68405
+_cell_angle_alpha    82.9601
+_cell_angle_beta     69.5074
+_cell_angle_gamma    69.5075
+
+_symmetry_Int_Tables_number  139
+_chemical_formula_structural  NaCuO
+_chemical_formula_sum  Na4Cu4O4
+_cell_volume  183.45907881607994
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.89997  0.50000  0.20006  1
+ Cu  Cu2  1  0.89997  0.20006  0.50000  1
+ Cu  Cu3  1  0.60003  0.79994  0.50000  1
+ Cu  Cu4  1  0.60003  0.50000  0.79994  1
+ Na  Na1  1  0.92225  0.82775  0.82775  1
+ Na  Na2  1  0.25000  0.82775  0.17225  1
+ Na  Na3  1  0.25000  0.17225  0.82775  1
+ Na  Na4  1  0.57774  0.17225  0.17225  1
+ O  O1  1  0.45478  0.79521  0.79521  1
+ O  O2  1  0.75001  0.79521  0.20479  1
+ O  O3  1  0.75001  0.20479  0.79521  1
+ O  O4  1  0.04520  0.20479  0.20479  1

@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_InCuTeSe
+_symmetry_space_group_name_H-M  'I2_12_12_1'
+_cell_length_a       7.45491
+_cell_length_b       7.45492
+_cell_length_c       7.45491
+_cell_angle_alpha    131.996
+_cell_angle_beta     131.791
+_cell_angle_gamma    70.3977
+
+_symmetry_Int_Tables_number  24
+_chemical_formula_structural  InCuTeSe
+_chemical_formula_sum  In2Cu2Te2Se2
+_cell_volume  224.97314188708634
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.88801  0.63801  0.25000  1
+ Cu  Cu2  1  0.61199  0.86199  0.75000  1
+ In  In1  1  0.38077  0.13077  0.25000  1
+ In  In2  1  0.11923  0.36923  0.75000  1
+ Se  Se1  1  0.25000  0.52582  0.27582  1
+ Se  Se2  1  0.75000  0.97418  0.22418  1
+ Te  Te1  1  0.53934  0.25000  0.78934  1
+ Te  Te2  1  0.96066  0.75000  0.71066  1

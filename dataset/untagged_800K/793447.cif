@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_MnBiS2Br
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.70249
+_cell_length_b       6.5162
+_cell_length_c       8.9224
+_cell_angle_alpha    91.8623
+_cell_angle_beta     90
+_cell_angle_gamma    106.505
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  MnBiS2Br
+_chemical_formula_sum  Mn2Bi2S4Br2
+_cell_volume  206.27478045492379
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Bi  Bi1  1  0.21668  0.43336  0.78624  1
+ Bi  Bi2  1  0.78332  0.56664  0.21376  1
+ Br  Br1  1  0.12777  0.25555  0.45084  1
+ Br  Br2  1  0.87223  0.74445  0.54916  1
+ Mn  Mn1  1  0.50000  0.00000  0.00000  1
+ Mn  Mn2  1  0.50000  -0.00000  0.50000  1
+ S  S1  1  0.11929  0.23858  0.04655  1
+ S  S2  1  0.55648  0.11295  0.74987  1
+ S  S3  1  0.88071  0.76142  0.95345  1
+ S  S4  1  0.44352  0.88705  0.25013  1

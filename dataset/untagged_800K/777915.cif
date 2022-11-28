@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_CaGeN2
+_symmetry_space_group_name_H-M  'I-42d'
+_cell_length_a       5.27446
+_cell_length_b       5.27446
+_cell_length_c       5.27446
+_cell_angle_alpha    94.2264
+_cell_angle_beta     117.591
+_cell_angle_gamma    117.591
+
+_symmetry_Int_Tables_number  122
+_chemical_formula_structural  CaGeN2
+_chemical_formula_sum  Ca2Ge2N4
+_cell_volume  107.22032300271522
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.50000  0.25000  0.75000  1
+ Ca  Ca2  1  0.00000  0.50000  0.50000  1
+ Ge  Ge1  1  0.00000  0.00000  0.00000  1
+ Ge  Ge2  1  0.50000  0.75000  0.25000  1
+ N  N1  1  0.57607  0.87500  0.95107  1
+ N  N2  1  0.92393  0.04893  0.62500  1
+ N  N3  1  0.42393  0.37500  0.29893  1
+ N  N4  1  0.07607  0.70107  0.12500  1

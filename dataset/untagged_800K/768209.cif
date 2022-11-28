@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_NdSiGe
+_symmetry_space_group_name_H-M  'Imma'
+_cell_length_a       4.15204
+_cell_length_b       4.13501
+_cell_length_c       8.31555
+_cell_angle_alpha    104.397
+_cell_angle_beta     104.457
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  74
+_chemical_formula_structural  NdSiGe
+_chemical_formula_sum  Nd2Si2Ge2
+_cell_volume  133.61211638415386
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.20077  0.95077  0.90154  1
+ Ge  Ge2  1  0.79923  0.04923  0.09846  1
+ Nd  Nd1  1  0.62054  0.37054  0.74108  1
+ Nd  Nd2  1  0.37946  0.62946  0.25892  1
+ Si  Si1  1  0.03850  0.78850  0.57700  1
+ Si  Si2  1  0.96150  0.21150  0.42300  1

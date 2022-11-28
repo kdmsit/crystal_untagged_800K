@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_MnAg4(SbS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.01126500
+_cell_length_b   6.73285700
+_cell_length_c   12.46909992
+_cell_angle_alpha   58.92229286
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnAg4(SbS3)2
+_chemical_formula_sum   'Mn2 Ag8 Sb4 S12'
+_cell_volume   576.03216115
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.50000000  0.50000000  1
+  Mn  Mn1  1  0.00000000  0.50000000  0.00000000  1
+  Ag  Ag2  1  0.96770000  0.76622800  0.47238500  1
+  Ag  Ag3  1  0.53230000  0.76622800  0.97238500  1
+  Ag  Ag4  1  0.03230000  0.23377200  0.52761500  1
+  Ag  Ag5  1  0.70373000  0.25172600  0.81700500  1
+  Ag  Ag6  1  0.20373000  0.74827400  0.68299500  1
+  Ag  Ag7  1  0.29627000  0.74827400  0.18299500  1
+  Ag  Ag8  1  0.79627000  0.25172600  0.31700500  1
+  Ag  Ag9  1  0.46770000  0.23377200  0.02761500  1
+  Sb  Sb10  1  0.14968300  0.16171100  0.81136400  1
+  Sb  Sb11  1  0.35031700  0.16171100  0.31136400  1
+  Sb  Sb12  1  0.85031700  0.83828900  0.18863600  1
+  Sb  Sb13  1  0.64968300  0.83828900  0.68863600  1
+  S  S14  1  0.90704400  0.59651000  0.78060300  1
+  S  S15  1  0.74189100  0.23753100  0.10573600  1
+  S  S16  1  0.40704400  0.40349000  0.71939700  1
+  S  S17  1  0.09295600  0.40349000  0.21939700  1
+  S  S18  1  0.59295600  0.59651000  0.28060300  1
+  S  S19  1  0.17456800  0.15675000  0.01396500  1
+  S  S20  1  0.67456800  0.84325000  0.48603500  1
+  S  S21  1  0.82543200  0.84325000  0.98603500  1
+  S  S22  1  0.32543200  0.15675000  0.51396500  1
+  S  S23  1  0.75810900  0.23753100  0.60573600  1
+  S  S24  1  0.25810900  0.76246900  0.89426400  1
+  S  S25  1  0.24189100  0.76246900  0.39426400  1

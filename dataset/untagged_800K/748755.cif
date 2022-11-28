@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Al2NiN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44443769
+_cell_length_b   5.48880408
+_cell_length_c   4.97149000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.26992468
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2NiN3
+_chemical_formula_sum   'Al4 Ni2 N6'
+_cell_volume   128.30993063
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.33817800  0.33127700  0.49226600  1
+  Al  Al1  1  0.66182200  0.99309900  0.49226600  1
+  Al  Al2  1  0.66182200  0.66872300  0.99226600  1
+  Al  Al3  1  0.33817800  0.00690100  0.99226600  1
+  Ni  Ni4  1  0.00000000  0.64634300  0.49465400  1
+  Ni  Ni5  1  0.00000000  0.35365700  0.99465400  1
+  N  N6  1  0.34033100  0.33284800  0.87176000  1
+  N  N7  1  0.65966900  0.99251600  0.87176000  1
+  N  N8  1  0.65966900  0.66715200  0.37176000  1
+  N  N9  1  0.34033100  0.00748400  0.37176000  1
+  N  N10  1  0.00000000  0.67930500  0.86529400  1
+  N  N11  1  0.00000000  0.32069500  0.36529400  1

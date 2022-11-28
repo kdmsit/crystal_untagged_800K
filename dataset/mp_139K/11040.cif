@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_La2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37018331
+_cell_length_b   6.37036212
+_cell_length_c   3.28989421
+_cell_angle_alpha   90.00124685
+_cell_angle_beta   89.99847488
+_cell_angle_gamma   120.01047558
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2O3
+_chemical_formula_sum   'La2 O3'
+_cell_volume   115.60663531
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.33331600  0.66667400  0.50190400  1
+  La  La1  1  0.66666300  0.33330400  0.49811000  1
+  O  O2  1  0.49541000  0.49540700  0.99999400  1
+  O  O3  1  0.00000800  0.50460700  0.00001800  1
+  O  O4  1  0.50460300  0.00000600  0.99997500  1

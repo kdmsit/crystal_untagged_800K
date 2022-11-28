@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_DyFeSi
+_symmetry_space_group_name_H-M  'P4/nmm'
+_cell_length_a       4.04152
+_cell_length_b       4.04152
+_cell_length_c       6.45149
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  129
+_chemical_formula_structural  DyFeSi
+_chemical_formula_sum  Dy2Fe2Si2
+_cell_volume  105.3777281694062
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Dy  Dy1  1  0.00000  0.50000  0.68405  1
+ Dy  Dy2  1  0.50000  0.00000  0.31595  1
+ Fe  Fe1  1  0.50000  0.50000  0.00000  1
+ Fe  Fe2  1  0.00000  0.00000  0.00000  1
+ Si  Si1  1  0.50000  0.00000  0.81755  1
+ Si  Si2  1  0.00000  0.50000  0.18245  1

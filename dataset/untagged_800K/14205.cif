@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Al2K4Li2P4
+_chemical_formula_sum              "Al2 K4 Li2 P4"
+_cell_length_a       6.1001
+_cell_length_b       6.12959
+_cell_length_c       8.53462
+_cell_angle_alpha    111.045
+_cell_angle_beta     110.939
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.25000  0.00000  0.00000  1.0000
+  Al  Al2       1.0  0.75000  0.00000  0.00000  1.0000
+  K   K1        1.0  0.67500  0.44900  0.34900  1.0000
+  K   K2        1.0  0.17500  0.90000  0.34900  1.0000
+  K   K3        1.0  0.82500  0.10000  0.65100  1.0000
+  K   K4        1.0  0.32500  0.55100  0.65100  1.0000
+  Li  Li1       1.0  0.25000  0.50000  0.00000  1.0000
+  Li  Li2       1.0  0.75000  0.50000  0.00000  1.0000
+  P   P1        1.0  0.08940  0.31200  0.17900  1.0000
+  P   P2        1.0  0.58900  0.86700  0.17900  1.0000
+  P   P3        1.0  0.41100  0.13300  0.82100  1.0000
+  P   P4        1.0  0.91100  0.68800  0.82100  1.0000

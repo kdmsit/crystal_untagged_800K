@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Zr3Ti2(PbO3)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.60306047
+_cell_length_b   12.60306047
+_cell_length_c   12.60306065
+_cell_angle_alpha   26.78191724
+_cell_angle_beta   26.78191724
+_cell_angle_gamma   26.78191573
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr3Ti2(PbO3)5
+_chemical_formula_sum   'Zr3 Ti2 Pb5 O15'
+_cell_volume   358.39529299
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.39667000  0.39667000  0.39667000  1
+  Zr  Zr1  1  0.99463600  0.99463600  0.99463600  1
+  Zr  Zr2  1  0.59200000  0.59200000  0.59200000  1
+  Ti  Ti3  1  0.19180100  0.19180100  0.19180100  1
+  Ti  Ti4  1  0.79442600  0.79442600  0.79442600  1
+  Pb  Pb5  1  0.28180700  0.28180700  0.28180700  1
+  Pb  Pb6  1  0.88366800  0.88366800  0.88366800  1
+  Pb  Pb7  1  0.48991100  0.48991100  0.48991100  1
+  Pb  Pb8  1  0.08837900  0.08837900  0.08837900  1
+  Pb  Pb9  1  0.68468600  0.68468600  0.68468600  1
+  O  O10  1  0.91880000  0.38723900  0.38723900  1
+  O  O11  1  0.50410700  0.99948200  0.99948200  1
+  O  O12  1  0.10146700  0.60553000  0.60553000  1
+  O  O13  1  0.71782600  0.19509200  0.19509200  1
+  O  O14  1  0.31707500  0.79173800  0.79173800  1
+  O  O15  1  0.38723900  0.38723900  0.91880000  1
+  O  O16  1  0.99948200  0.99948200  0.50410700  1
+  O  O17  1  0.60553000  0.60553000  0.10146700  1
+  O  O18  1  0.19509200  0.19509200  0.71782600  1
+  O  O19  1  0.79173800  0.79173800  0.31707500  1
+  O  O20  1  0.38723900  0.91880000  0.38723900  1
+  O  O21  1  0.99948200  0.50410700  0.99948200  1
+  O  O22  1  0.60553000  0.10146700  0.60553000  1
+  O  O23  1  0.19509200  0.71782600  0.19509200  1
+  O  O24  1  0.79173800  0.31707500  0.79173800  1

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Mg2Nb2NiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.96803574
+_cell_length_b   9.96803574
+_cell_length_c   5.17976243
+_cell_angle_alpha   89.66661294
+_cell_angle_beta   89.66661294
+_cell_angle_gamma   35.04644431
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2Nb2NiO8
+_chemical_formula_sum   'Mg4 Nb4 Ni2 O16'
+_cell_volume   295.53884049
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.58600700  0.87112700  0.74686500  1
+  Mg  Mg1  1  0.12887300  0.41399300  0.75313500  1
+  Mg  Mg2  1  0.41399300  0.12887300  0.25313500  1
+  Mg  Mg3  1  0.87112700  0.58600700  0.24686500  1
+  Nb  Nb4  1  0.71513100  0.05593000  0.75666500  1
+  Nb  Nb5  1  0.94407000  0.28486900  0.74333500  1
+  Nb  Nb6  1  0.28486900  0.94407000  0.24333500  1
+  Nb  Nb7  1  0.05593000  0.71513100  0.25666500  1
+  Ni  Ni8  1  0.35389100  0.64610900  0.75000000  1
+  Ni  Ni9  1  0.64610900  0.35389100  0.25000000  1
+  O  O10  1  0.81568400  0.04457000  0.41789700  1
+  O  O11  1  0.95543000  0.18431600  0.08210300  1
+  O  O12  1  0.18431600  0.95543000  0.58210300  1
+  O  O13  1  0.04457000  0.81568400  0.91789700  1
+  O  O14  1  0.56463400  0.32085500  0.91616400  1
+  O  O15  1  0.67914500  0.43536600  0.58383600  1
+  O  O16  1  0.43536600  0.67914500  0.08383600  1
+  O  O17  1  0.32085500  0.56463400  0.41616400  1
+  O  O18  1  0.70701900  0.91853200  0.04073600  1
+  O  O19  1  0.08146800  0.29298100  0.45926400  1
+  O  O20  1  0.16323400  0.45539600  0.11515900  1
+  O  O21  1  0.54460400  0.83676600  0.38484100  1
+  O  O22  1  0.83676600  0.54460400  0.88484100  1
+  O  O23  1  0.45539600  0.16323400  0.61515900  1
+  O  O24  1  0.91853200  0.70701900  0.54073600  1
+  O  O25  1  0.29298100  0.08146800  0.95926400  1

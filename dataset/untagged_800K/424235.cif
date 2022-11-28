@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ni2Os2Sr3
+_chemical_formula_sum              "Ni2 Os2 Sr3"
+_cell_length_a       12.9548
+_cell_length_b       12.9548
+_cell_length_c       12.9548
+_cell_angle_alpha    18.3368
+_cell_angle_beta     18.3368
+_cell_angle_gamma    18.3368
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.14600  0.14600  0.14600  1.0000
+  Ni  Ni2       1.0  0.80200  0.80200  0.80200  1.0000
+  Os  Os1       1.0  0.01980  0.01980  0.01980  1.0000
+  Os  Os2       1.0  0.48600  0.48600  0.48600  1.0000
+  Sr  Sr1       1.0  0.40500  0.40500  0.40500  1.0000
+  Sr  Sr2       1.0  0.63900  0.63900  0.63900  1.0000
+  Sr  Sr3       1.0  0.87700  0.87700  0.87700  1.0000

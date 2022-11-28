@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       In2K4Na2P4
+_chemical_formula_sum              "In2 K4 Na2 P4"
+_cell_length_a       6.67037
+_cell_length_b       6.63732
+_cell_length_c       8.85311
+_cell_angle_alpha    112.016
+_cell_angle_beta     112.131
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.25000  0.50000  0.00000  1.0000
+  In  In2       1.0  0.75000  0.50000  0.00000  1.0000
+  K   K1        1.0  0.67700  0.41600  0.35400  1.0000
+  K   K2        1.0  0.17700  0.93900  0.35400  1.0000
+  K   K3        1.0  0.82300  0.06130  0.64600  1.0000
+  K   K4        1.0  0.32300  0.58400  0.64600  1.0000
+  Na  Na1       1.0  0.25000  0.00000  0.00000  1.0000
+  Na  Na2       1.0  0.75000  0.00000  0.00000  1.0000
+  P   P1        1.0  0.09970  0.38400  0.19900  1.0000
+  P   P2        1.0  0.60000  0.81600  0.19900  1.0000
+  P   P3        1.0  0.40000  0.18400  0.80100  1.0000
+  P   P4        1.0  0.90000  0.61600  0.80100  1.0000

@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Cr2Eu2O12Te2
+_chemical_formula_sum              "Cr2 Eu2 O12 Te2"
+_cell_length_a       5.14494
+_cell_length_b       5.08865
+_cell_length_c       10.0645
+_cell_angle_alpha    89.3983
+_cell_angle_beta     90.2976
+_cell_angle_gamma    119.639
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.32100  0.66100  0.25000  1.0000
+  Cr  Cr2       1.0  0.67900  0.33900  0.75000  1.0000
+  Eu  Eu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Eu  Eu2       1.0  0.00000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.38300  0.99600  0.14100  1.0000
+  O   O2        1.0  0.62200  0.62300  0.14200  1.0000
+  O   O3        1.0  0.00018  0.37900  0.14200  1.0000
+  O   O4        1.0  0.00018  0.62100  0.35800  1.0000
+  O   O5        1.0  0.62200  0.99900  0.35800  1.0000
+  O   O6        1.0  0.38300  0.38700  0.35900  1.0000
+  O   O7        1.0  0.61700  0.61300  0.64100  1.0000
+  O   O8        1.0  0.37800  0.00055  0.64200  1.0000
+  O   O9        1.0  0.00000  0.37900  0.64200  1.0000
+  O   O10       1.0  0.00000  0.62100  0.85800  1.0000
+  O   O11       1.0  0.37800  0.37700  0.85800  1.0000
+  O   O12       1.0  0.61700  0.00385  0.85900  1.0000
+  Te  Te1       1.0  0.66500  0.33300  0.25000  1.0000
+  Te  Te2       1.0  0.33500  0.66700  0.75000  1.0000

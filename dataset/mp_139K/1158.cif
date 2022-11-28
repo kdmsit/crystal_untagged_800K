@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_HfTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00304800
+_cell_length_b   5.81423700
+_cell_length_c   10.56512587
+_cell_angle_alpha   83.38495105
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfTe3
+_chemical_formula_sum   'Hf2 Te6'
+_cell_volume   244.26274854
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.25000000  0.71681400  0.65981000  1
+  Hf  Hf1  1  0.75000000  0.28318600  0.34019000  1
+  Te  Te2  1  0.25000000  0.23909900  0.54785800  1
+  Te  Te3  1  0.75000000  0.76090100  0.45214200  1
+  Te  Te4  1  0.25000000  0.56198100  0.18022900  1
+  Te  Te5  1  0.75000000  0.43801900  0.81977100  1
+  Te  Te6  1  0.25000000  0.07817600  0.17335000  1
+  Te  Te7  1  0.75000000  0.92182400  0.82665000  1

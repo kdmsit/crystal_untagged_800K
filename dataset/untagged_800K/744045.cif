@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_La6Co(SiS7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.30777611
+_cell_length_b   10.30777611
+_cell_length_c   5.81868600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000071
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La6Co(SiS7)2
+_chemical_formula_sum   'La6 Co1 Si2 S14'
+_cell_volume   535.40879870
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.64375000  0.87093600  0.24893600  1
+  La  La1  1  0.12906400  0.77281400  0.24893600  1
+  La  La2  1  0.22718600  0.35625000  0.24893600  1
+  La  La3  1  0.35644400  0.12959000  0.74805100  1
+  La  La4  1  0.87041000  0.22685400  0.74805100  1
+  La  La5  1  0.77314600  0.64355600  0.74805100  1
+  Co  Co6  1  0.00000000  0.00000000  0.49295200  1
+  Si  Si7  1  0.33333300  0.66666700  0.83199300  1
+  Si  Si8  1  0.66666700  0.33333300  0.33393100  1
+  S  S9  1  0.33333300  0.66666700  0.46922800  1
+  S  S10  1  0.66666700  0.33333300  0.97075700  1
+  S  S11  1  0.47434500  0.58724800  0.97012400  1
+  S  S12  1  0.41275200  0.88709700  0.97012400  1
+  S  S13  1  0.11290300  0.52565500  0.97012400  1
+  S  S14  1  0.52647200  0.41341400  0.47233800  1
+  S  S15  1  0.58658600  0.11305800  0.47233800  1
+  S  S16  1  0.88694200  0.47352800  0.47233800  1
+  S  S17  1  0.76212200  0.91296800  0.71479400  1
+  S  S18  1  0.08703200  0.84915300  0.71479400  1
+  S  S19  1  0.15084700  0.23787800  0.71479400  1
+  S  S20  1  0.23889300  0.08513100  0.24485800  1
+  S  S21  1  0.91486900  0.15376200  0.24485800  1
+  S  S22  1  0.84623800  0.76110700  0.24485800  1

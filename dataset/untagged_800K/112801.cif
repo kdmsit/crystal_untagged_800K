@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       C2H8N4O2
+_chemical_formula_sum              "C2 H8 N4 O2"
+_cell_length_a       5.75465
+_cell_length_b       5.75465
+_cell_length_c       4.48104
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.50000  0.00000  0.42200  1.0000
+  C   C2        1.0  0.00000  0.50000  0.57800  1.0000
+  H   H1        1.0  0.75300  0.25300  0.53100  1.0000
+  H   H2        1.0  0.24700  0.74700  0.53100  1.0000
+  H   H3        1.0  0.86400  0.36400  0.18800  1.0000
+  H   H4        1.0  0.13600  0.63600  0.18800  1.0000
+  H   H5        1.0  0.25300  0.24700  0.46900  1.0000
+  H   H6        1.0  0.74700  0.75300  0.46900  1.0000
+  H   H7        1.0  0.36400  0.13600  0.81200  1.0000
+  H   H8        1.0  0.63600  0.86400  0.81200  1.0000
+  N   N1        1.0  0.86000  0.36000  0.41700  1.0000
+  N   N2        1.0  0.14000  0.64000  0.41700  1.0000
+  N   N3        1.0  0.36000  0.14000  0.58300  1.0000
+  N   N4        1.0  0.64000  0.86000  0.58300  1.0000
+  O   O1        1.0  0.50000  0.00000  0.14000  1.0000
+  O   O2        1.0  0.00000  0.50000  0.86000  1.0000

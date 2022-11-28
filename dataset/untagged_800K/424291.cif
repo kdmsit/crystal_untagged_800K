@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ca3Hg2W2
+_chemical_formula_sum              "Ca3 Hg2 W2"
+_cell_length_a       8.90213
+_cell_length_b       8.90213
+_cell_length_c       8.90213
+_cell_angle_alpha    31.1695
+_cell_angle_beta     31.1695
+_cell_angle_gamma    31.1695
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.35700  0.35700  0.35700  1.0000
+  Ca  Ca2       1.0  0.61100  0.61100  0.61100  1.0000
+  Ca  Ca3       1.0  0.85600  0.85600  0.85600  1.0000
+  Hg  Hg1       1.0  0.22600  0.22600  0.22600  1.0000
+  Hg  Hg2       1.0  0.73900  0.73900  0.73900  1.0000
+  W   W1        1.0  0.11600  0.11600  0.11600  1.0000
+  W   W2        1.0  0.47000  0.47000  0.47000  1.0000

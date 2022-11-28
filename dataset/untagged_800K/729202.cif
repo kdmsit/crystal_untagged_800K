@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TmU3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.36930300
+_cell_length_b   6.36930307
+_cell_length_c   5.34569600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000481
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmU3
+_chemical_formula_sum   'Tm2 U6'
+_cell_volume   187.80999129
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.33333400  0.66666800  0.75000000  1
+  Tm  Tm1  1  0.66666800  0.33333400  0.24999900  1
+  U  U2  1  0.14729000  0.29457900  0.24999900  1
+  U  U3  1  0.70542100  0.85271000  0.24999900  1
+  U  U4  1  0.14729100  0.85271000  0.24999900  1
+  U  U5  1  0.85271000  0.70542000  0.75000000  1
+  U  U6  1  0.29458100  0.14729200  0.75000000  1
+  U  U7  1  0.85271100  0.14729200  0.75000000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaMgZn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84729168
+_cell_length_b   5.84729168
+_cell_length_c   9.66685100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.83482357
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMgZn
+_chemical_formula_sum   'Ca4 Mg4 Zn4'
+_cell_volume   289.53791749
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.33359800  0.66640200  0.19812700  1
+  Ca  Ca1  1  0.66791100  0.33208900  0.32230900  1
+  Ca  Ca2  1  0.66791100  0.33208900  0.67769100  1
+  Ca  Ca3  1  0.33359800  0.66640200  0.80187300  1
+  Mg  Mg4  1  0.99646600  0.00353400  0.26425500  1
+  Mg  Mg5  1  0.99646600  0.00353400  0.73574500  1
+  Mg  Mg6  1  0.83317600  0.65964400  0.00000000  1
+  Mg  Mg7  1  0.34035600  0.16682400  0.00000000  1
+  Zn  Zn8  1  0.82936800  0.17063200  0.00000000  1
+  Zn  Zn9  1  0.17903800  0.35490300  0.50000000  1
+  Zn  Zn10  1  0.64509700  0.82096200  0.50000000  1
+  Zn  Zn11  1  0.17725300  0.82274700  0.50000000  1

@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Bi4Hf3Pd4
+_chemical_formula_sum              "Bi4 Hf3 Pd4"
+_cell_length_a       6.4675
+_cell_length_b       6.4675
+_cell_length_c       7.83933
+_cell_angle_alpha    65.6378
+_cell_angle_beta     65.6378
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.50000  0.00000  0.00000  1.0000
+  Bi  Bi2       1.0  0.00000  0.50000  0.00000  1.0000
+  Bi  Bi3       1.0  0.76900  0.76900  0.46200  1.0000
+  Bi  Bi4       1.0  0.23100  0.23100  0.53800  1.0000
+  Hf  Hf1       1.0  0.50000  0.50000  0.00000  1.0000
+  Hf  Hf2       1.0  0.75000  0.25000  0.50000  1.0000
+  Hf  Hf3       1.0  0.25000  0.75000  0.50000  1.0000
+  Pd  Pd1       1.0  0.60400  0.13700  0.25900  1.0000
+  Pd  Pd2       1.0  0.13700  0.60400  0.25900  1.0000
+  Pd  Pd3       1.0  0.39600  0.39600  0.74100  1.0000
+  Pd  Pd4       1.0  0.86300  0.86300  0.74100  1.0000

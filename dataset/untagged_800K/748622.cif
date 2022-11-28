@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Mg2PdN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.05763462
+_cell_length_b   4.32405124
+_cell_length_c   6.76189535
+_cell_angle_alpha   90.00000151
+_cell_angle_beta   103.07997302
+_cell_angle_gamma   134.99872693
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2PdN2
+_chemical_formula_sum   'Mg2 Pd1 N2'
+_cell_volume   59.89271506
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.66201900  0.33100900  0.16250000  1
+  Mg  Mg1  1  0.33798100  0.66899100  0.83750000  1
+  Pd  Pd2  1  0.00000000  0.00000000  0.50000000  1
+  N  N3  1  0.31373900  0.15687000  0.81320800  1
+  N  N4  1  0.68626100  0.84313000  0.18679200  1

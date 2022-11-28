@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       NiO8Re2
+_chemical_formula_sum              "Ni1 O8 Re2"
+_cell_length_a       5.64559
+_cell_length_b       5.64557
+_cell_length_c       5.95152
+_cell_angle_alpha    90.0005
+_cell_angle_beta     90.0024
+_cell_angle_gamma    119.999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.67000  0.79400  0.19400  1.0000
+  O   O2        1.0  0.20600  0.87500  0.19400  1.0000
+  O   O3        1.0  0.12500  0.33000  0.19400  1.0000
+  O   O4        1.0  0.66700  0.33300  0.42000  1.0000
+  O   O5        1.0  0.33300  0.66700  0.58000  1.0000
+  O   O6        1.0  0.87500  0.67000  0.80600  1.0000
+  O   O7        1.0  0.79400  0.12500  0.80600  1.0000
+  O   O8        1.0  0.33000  0.20600  0.80600  1.0000
+  Re  Re1       1.0  0.33300  0.66700  0.28900  1.0000
+  Re  Re2       1.0  0.66700  0.33300  0.71100  1.0000

@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       Cr8H12Zr4
+_chemical_formula_sum              "Cr8 H12 Zr4"
+_cell_length_a       5.24092
+_cell_length_b       5.24092
+_cell_length_c       9.5142
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.00000  0.00000  0.25000  1.0000
+  Cr  Cr2       1.0  0.00336  0.50200  0.25000  1.0000
+  Cr  Cr3       1.0  0.49800  0.50200  0.25000  1.0000
+  Cr  Cr4       1.0  0.49800  0.99700  0.25000  1.0000
+  Cr  Cr5       1.0  0.00000  0.00000  0.75000  1.0000
+  Cr  Cr6       1.0  0.50200  0.00336  0.75000  1.0000
+  Cr  Cr7       1.0  0.50200  0.49800  0.75000  1.0000
+  Cr  Cr8       1.0  0.99700  0.49800  0.75000  1.0000
+  H   H1        1.0  0.32600  0.16300  0.13900  1.0000
+  H   H2        1.0  0.83700  0.16300  0.13900  1.0000
+  H   H3        1.0  0.83700  0.67400  0.13900  1.0000
+  H   H4        1.0  0.32600  0.16300  0.36100  1.0000
+  H   H5        1.0  0.83700  0.16300  0.36100  1.0000
+  H   H6        1.0  0.83700  0.67400  0.36100  1.0000
+  H   H7        1.0  0.16300  0.32600  0.63900  1.0000
+  H   H8        1.0  0.16300  0.83700  0.63900  1.0000
+  H   H9        1.0  0.67400  0.83700  0.63900  1.0000
+  H   H10       1.0  0.16300  0.32600  0.86100  1.0000
+  H   H11       1.0  0.16300  0.83700  0.86100  1.0000
+  H   H12       1.0  0.67400  0.83700  0.86100  1.0000
+  Zr  Zr1       1.0  0.33300  0.66700  0.00920  1.0000
+  Zr  Zr2       1.0  0.33300  0.66700  0.49100  1.0000
+  Zr  Zr3       1.0  0.66700  0.33300  0.50900  1.0000
+  Zr  Zr4       1.0  0.66700  0.33300  0.99100  1.0000

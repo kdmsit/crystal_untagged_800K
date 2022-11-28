@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeAlRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59430376
+_cell_length_b   5.59415080
+_cell_length_c   8.29070100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.88846171
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeAlRu
+_chemical_formula_sum   'Ce4 Al4 Ru4'
+_cell_volume   226.68407469
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.33525800  0.33524700  0.53901800  1
+  Ce  Ce1  1  0.67199100  0.67200000  0.41927700  1
+  Ce  Ce2  1  0.67199100  0.67200000  0.08072300  1
+  Ce  Ce3  1  0.33525800  0.33524700  0.96098200  1
+  Al  Al4  1  0.99582900  0.99581500  0.49216200  1
+  Al  Al5  1  0.99582900  0.99581500  0.00783800  1
+  Al  Al6  1  0.83343400  0.33890200  0.75000000  1
+  Al  Al7  1  0.33889400  0.83343700  0.75000000  1
+  Ru  Ru8  1  0.82881900  0.82882400  0.75000000  1
+  Ru  Ru9  1  0.16501000  0.66387800  0.25000000  1
+  Ru  Ru10  1  0.66386900  0.16495500  0.25000000  1
+  Ru  Ru11  1  0.16381600  0.16387900  0.25000000  1

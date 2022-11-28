@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Li3MnNpO6
+_chemical_formula_sum              "Li3 Mn1 Np1 O6"
+_cell_length_a       5.24609
+_cell_length_b       5.24597
+_cell_length_c       5.07967
+_cell_angle_alpha    98.2093
+_cell_angle_beta     98.2142
+_cell_angle_gamma    120.12
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.50100  0.49900  0.00000  1.0000
+  Li  Li2       1.0  0.96700  0.03340  0.50000  1.0000
+  Li  Li3       1.0  0.64400  0.35600  0.50000  1.0000
+  Mn  Mn1       1.0  0.83900  0.16000  0.00000  1.0000
+  Np  Np1       1.0  0.17200  0.82800  0.00000  1.0000
+  O   O1        1.0  0.89900  0.55100  0.21900  1.0000
+  O   O2        1.0  0.59800  0.93100  0.22600  1.0000
+  O   O3        1.0  0.22000  0.21800  0.23500  1.0000
+  O   O4        1.0  0.78200  0.78000  0.76500  1.0000
+  O   O5        1.0  0.06940  0.40200  0.77400  1.0000
+  O   O6        1.0  0.44900  0.10100  0.78100  1.0000

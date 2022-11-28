@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       N4Pt6
+_chemical_formula_sum              "N4 Pt6"
+_cell_length_a       6.65207
+_cell_length_b       6.65206
+_cell_length_c       5.79707
+_cell_angle_alpha    125.012
+_cell_angle_beta     54.9883
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.92800  0.07240  0.21700  1.0000
+  N   N2        1.0  0.57200  0.42800  0.28300  1.0000
+  N   N3        1.0  0.42800  0.57200  0.71700  1.0000
+  N   N4        1.0  0.07240  0.92800  0.78300  1.0000
+  Pt  Pt1       1.0  0.71400  0.75000  0.25000  1.0000
+  Pt  Pt2       1.0  0.78600  0.28600  0.25000  1.0000
+  Pt  Pt3       1.0  0.25000  0.21400  0.25000  1.0000
+  Pt  Pt4       1.0  0.75000  0.78600  0.75000  1.0000
+  Pt  Pt5       1.0  0.21400  0.71400  0.75000  1.0000
+  Pt  Pt6       1.0  0.28600  0.25000  0.75000  1.0000

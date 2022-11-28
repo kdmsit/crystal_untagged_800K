@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cd2Hf3In2
+_chemical_formula_sum              "Cd2 Hf3 In2"
+_cell_length_a       8.40872
+_cell_length_b       8.40872
+_cell_length_c       8.40872
+_cell_angle_alpha    33.77
+_cell_angle_beta     33.77
+_cell_angle_gamma    33.77
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.23800  0.23800  0.23800  1.0000
+  Cd  Cd2       1.0  0.75800  0.75800  0.75800  1.0000
+  Hf  Hf1       1.0  0.37000  0.37000  0.37000  1.0000
+  Hf  Hf2       1.0  0.62500  0.62500  0.62500  1.0000
+  Hf  Hf3       1.0  0.88100  0.88100  0.88100  1.0000
+  In  In1       1.0  0.00910  0.00910  0.00910  1.0000
+  In  In2       1.0  0.49400  0.49400  0.49400  1.0000

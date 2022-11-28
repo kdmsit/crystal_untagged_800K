@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_CeNi9Ge4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.11003215
+_cell_length_b   8.11003215
+_cell_length_c   8.11003215
+_cell_angle_alpha   121.35466742
+_cell_angle_beta   121.35466742
+_cell_angle_gamma   87.66923675
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeNi9Ge4
+_chemical_formula_sum   'Ce2 Ni18 Ge8'
+_cell_volume   369.12859857
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.75000000  0.75000000  0.00000000  1
+  Ce  Ce1  1  0.25000000  0.25000000  0.00000000  1
+  Ni  Ni2  1  0.94148600  0.44148600  0.74560100  1
+  Ni  Ni3  1  0.69588500  0.19588500  0.25439900  1
+  Ni  Ni4  1  0.44148600  0.69588500  0.50000000  1
+  Ni  Ni5  1  0.19588500  0.94148600  0.50000000  1
+  Ni  Ni6  1  0.05851400  0.55851400  0.25439900  1
+  Ni  Ni7  1  0.30411500  0.80411500  0.74560100  1
+  Ni  Ni8  1  0.55851400  0.30411500  0.50000000  1
+  Ni  Ni9  1  0.80411500  0.05851400  0.50000000  1
+  Ni  Ni10  1  0.20359300  0.06618500  0.26977700  1
+  Ni  Ni11  1  0.79640700  0.93381500  0.73022300  1
+  Ni  Ni12  1  0.70359300  0.43381500  0.13740800  1
+  Ni  Ni13  1  0.29640700  0.56618500  0.86259200  1
+  Ni  Ni14  1  0.93381500  0.20359300  0.13740800  1
+  Ni  Ni15  1  0.06618500  0.79640700  0.86259200  1
+  Ni  Ni16  1  0.56618500  0.70359300  0.26977700  1
+  Ni  Ni17  1  0.43381500  0.29640700  0.73022300  1
+  Ni  Ni18  1  0.00000000  0.50000000  0.50000000  1
+  Ni  Ni19  1  0.50000000  0.00000000  0.50000000  1
+  Ge  Ge20  1  0.20209600  0.70209600  0.14858000  1
+  Ge  Ge21  1  0.55351600  0.05351600  0.85142000  1
+  Ge  Ge22  1  0.70209600  0.55351600  0.50000000  1
+  Ge  Ge23  1  0.05351600  0.20209600  0.50000000  1
+  Ge  Ge24  1  0.79790400  0.29790400  0.85142000  1
+  Ge  Ge25  1  0.44648400  0.94648400  0.14858000  1
+  Ge  Ge26  1  0.29790400  0.44648400  0.50000000  1
+  Ge  Ge27  1  0.94648400  0.79790400  0.50000000  1

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Bi2Pt2Si3
+_chemical_formula_sum              "Bi2 Pt2 Si3"
+_cell_length_a       8.61407
+_cell_length_b       8.61407
+_cell_length_c       8.61407
+_cell_angle_alpha    30.3084
+_cell_angle_beta     30.3084
+_cell_angle_gamma    30.3084
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.19700  0.19700  0.19700  1.0000
+  Bi  Bi2       1.0  0.76800  0.76800  0.76800  1.0000
+  Pt  Pt1       1.0  0.00642  0.00642  0.00642  1.0000
+  Pt  Pt2       1.0  0.47200  0.47200  0.47200  1.0000
+  Si  Si1       1.0  0.36800  0.36800  0.36800  1.0000
+  Si  Si2       1.0  0.65000  0.65000  0.65000  1.0000
+  Si  Si3       1.0  0.91300  0.91300  0.91300  1.0000

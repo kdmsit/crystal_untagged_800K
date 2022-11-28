@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cl6W
+_chemical_formula_sum              "Cl6 W1"
+_cell_length_a       6.15709
+_cell_length_b       6.15709
+_cell_length_c       6.63724
+_cell_angle_alpha    62.3655
+_cell_angle_beta     117.634
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.77200  0.61600  0.23700  1.0000
+  Cl  Cl2       1.0  0.38400  0.91900  0.23700  1.0000
+  Cl  Cl3       1.0  0.08110  0.22800  0.23700  1.0000
+  Cl  Cl4       1.0  0.91900  0.77200  0.76300  1.0000
+  Cl  Cl5       1.0  0.61600  0.08110  0.76300  1.0000
+  Cl  Cl6       1.0  0.22800  0.38400  0.76300  1.0000
+  W   W1        1.0  0.00000  0.00000  0.00000  1.0000

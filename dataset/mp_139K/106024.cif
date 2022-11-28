@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaFeCuF7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.44608948
+_cell_length_b   7.44608948
+_cell_length_c   5.73360059
+_cell_angle_alpha   69.43182152
+_cell_angle_beta   69.43182152
+_cell_angle_gamma   86.39493327
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaFeCuF7
+_chemical_formula_sum   'Ba2 Fe2 Cu2 F14'
+_cell_volume   277.99278569
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.68798900  0.32521500  0.25870200  1
+  Ba  Ba1  1  0.32521500  0.68798900  0.75870200  1
+  Fe  Fe2  1  0.30072200  0.08082900  0.11944900  1
+  Fe  Fe3  1  0.08082900  0.30072200  0.61944900  1
+  Cu  Cu4  1  0.71735500  0.91355000  0.88634600  1
+  Cu  Cu5  1  0.91355000  0.71735500  0.38634600  1
+  F  F6  1  0.96937200  0.51624400  0.73807700  1
+  F  F7  1  0.18128500  0.81392100  0.27767500  1
+  F  F8  1  0.32955700  0.41509100  0.52140000  1
+  F  F9  1  0.94251200  0.80150600  0.01073200  1
+  F  F10  1  0.58528600  0.67377300  0.99189300  1
+  F  F11  1  0.51624400  0.96937200  0.23807700  1
+  F  F12  1  0.41509100  0.32955700  0.02140000  1
+  F  F13  1  0.08421700  0.17711300  0.99457000  1
+  F  F14  1  0.67377300  0.58528600  0.49189300  1
+  F  F15  1  0.04220100  0.43666100  0.28775500  1
+  F  F16  1  0.80150600  0.94251200  0.51073200  1
+  F  F17  1  0.43666100  0.04220100  0.78775500  1
+  F  F18  1  0.17711300  0.08421700  0.49457000  1
+  F  F19  1  0.81392100  0.18128500  0.77767500  1

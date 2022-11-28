@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       As2F2O2
+_chemical_formula_sum              "As2 F2 O2"
+_cell_length_a       3.6435
+_cell_length_b       3.64351
+_cell_length_c       6.39382
+_cell_angle_alpha    106.554
+_cell_angle_beta     106.554
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.76300  0.76300  0.29000  1.0000
+  As  As2       1.0  0.23700  0.23700  0.71000  1.0000
+  F   F1        1.0  0.38100  0.38100  0.14300  1.0000
+  F   F2        1.0  0.61900  0.61900  0.85700  1.0000
+  O   O1        1.0  0.13000  0.13000  0.39000  1.0000
+  O   O2        1.0  0.87000  0.87000  0.61000  1.0000

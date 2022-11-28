@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KBa2Ni2F9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.78322301
+_cell_length_b   7.78322301
+_cell_length_c   7.78322319
+_cell_angle_alpha   44.06683042
+_cell_angle_beta   44.06683042
+_cell_angle_gamma   44.06683280
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBa2Ni2F9
+_chemical_formula_sum   'K1 Ba2 Ni2 F9'
+_cell_volume   207.17863167
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.21148600  0.21148600  0.21148600  1
+  Ba  Ba1  1  0.99864000  0.99864000  0.99864000  1
+  Ba  Ba2  1  0.79312900  0.79312900  0.79312900  1
+  Ni  Ni3  1  0.39099200  0.39099200  0.39099200  1
+  Ni  Ni4  1  0.60580000  0.60580000  0.60580000  1
+  F  F5  1  0.26886200  0.77604000  0.26886200  1
+  F  F6  1  0.77604000  0.26886200  0.26886200  1
+  F  F7  1  0.26886200  0.26886200  0.77604000  1
+  F  F8  1  0.73154200  0.21924900  0.73154200  1
+  F  F9  1  0.21924900  0.73154200  0.73154200  1
+  F  F10  1  0.73154200  0.73154200  0.21924900  1
+  F  F11  1  0.99480200  0.50452800  0.50452800  1
+  F  F12  1  0.50452800  0.50452800  0.99480200  1
+  F  F13  1  0.50452800  0.99480200  0.50452800  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TlSbO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.99235249
+_cell_length_b   6.13195938
+_cell_length_c   7.21112468
+_cell_angle_alpha   62.32626270
+_cell_angle_beta   143.11063437
+_cell_angle_gamma   99.62165617
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlSbO3
+_chemical_formula_sum   'Tl2 Sb2 O6'
+_cell_volume   260.24884551
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.22349700  0.68039300  0.98076400  1
+  Tl  Tl1  1  0.77650300  0.31960700  0.01923600  1
+  Sb  Sb2  1  0.42420500  0.91729100  0.68873300  1
+  Sb  Sb3  1  0.57579500  0.08270900  0.31126700  1
+  O  O4  1  0.74983200  0.89409500  0.38846700  1
+  O  O5  1  0.49257700  0.20627800  0.57965300  1
+  O  O6  1  0.32352900  0.28857500  0.73935600  1
+  O  O7  1  0.25016800  0.10590500  0.61153300  1
+  O  O8  1  0.50742300  0.79372200  0.42034700  1
+  O  O9  1  0.67647100  0.71142500  0.26064400  1

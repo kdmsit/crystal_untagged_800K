@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       B2I6
+_chemical_formula_sum              "B2 I6"
+_cell_length_a       7.2556
+_cell_length_b       7.25537
+_cell_length_c       8.26961
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.003
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.33300  0.66700  0.25000  1.0000
+  B   B2        1.0  0.66700  0.33300  0.75000  1.0000
+  I   I1        1.0  0.03890  0.37300  0.25000  1.0000
+  I   I2        1.0  0.62700  0.66600  0.25000  1.0000
+  I   I3        1.0  0.33400  0.96100  0.25000  1.0000
+  I   I4        1.0  0.66600  0.03880  0.75000  1.0000
+  I   I5        1.0  0.37300  0.33400  0.75000  1.0000
+  I   I6        1.0  0.96100  0.62700  0.75000  1.0000

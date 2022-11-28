@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CrF6Mo
+_chemical_formula_sum              "Cr1 F6 Mo1"
+_cell_length_a       4.83745
+_cell_length_b       5.27148
+_cell_length_c       4.83898
+_cell_angle_alpha    117.03
+_cell_angle_beta     120.371
+_cell_angle_gamma    89.98
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.00000  1.00000  0.00000  1.0000
+  F   F1        1.0  0.93100  0.75500  0.16800  1.0000
+  F   F2        1.0  0.76300  0.24400  0.17600  1.0000
+  F   F3        1.0  0.41500  0.24400  0.48500  1.0000
+  F   F4        1.0  0.58500  0.75600  0.51500  1.0000
+  F   F5        1.0  0.23700  0.75600  0.82400  1.0000
+  F   F6        1.0  0.06870  0.24500  0.83200  1.0000
+  Mo  Mo1       1.0  0.50000  0.50000  0.00000  1.0000

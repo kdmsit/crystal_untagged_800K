@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_FeBiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61564328
+_cell_length_b   5.61562901
+_cell_length_c   5.70514013
+_cell_angle_alpha   60.51083391
+_cell_angle_beta   119.48936365
+_cell_angle_gamma   120.00101486
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeBiO3
+_chemical_formula_sum   'Fe2 Bi2 O6'
+_cell_volume   128.19046441
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.21902800  0.78096900  0.65706500  1
+  Fe  Fe1  1  0.71903200  0.28097000  0.15707000  1
+  Bi  Bi2  1  0.49859500  0.50142500  0.49571600  1
+  Bi  Bi3  1  0.99857500  0.00140400  0.99571700  1
+  O  O4  1  0.43604500  0.11185700  0.35939500  1
+  O  O5  1  0.03521800  0.56398600  0.35941300  1
+  O  O6  1  0.88812200  0.96477400  0.35940900  1
+  O  O7  1  0.38814200  0.06395500  0.85939400  1
+  O  O8  1  0.53522800  0.61188000  0.85940900  1
+  O  O9  1  0.93601300  0.46478000  0.85941400  1

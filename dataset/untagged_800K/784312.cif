@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_BaTeO3
+_symmetry_space_group_name_H-M  'P2_1/m'
+_cell_length_a       4.63017
+_cell_length_b       6.00034
+_cell_length_c       7.13418
+_cell_angle_alpha    90
+_cell_angle_beta     106.488
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  11
+_chemical_formula_structural  BaTeO3
+_chemical_formula_sum  Ba2Te2O6
+_cell_volume  190.05530942846747
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.33779  0.25000  0.68696  1
+ Ba  Ba2  1  0.66221  0.75000  0.31304  1
+ O  O1  1  0.82420  0.51190  0.67340  1
+ O  O2  1  0.17580  0.01190  0.32660  1
+ O  O3  1  0.17580  0.48810  0.32660  1
+ O  O4  1  0.82420  0.98810  0.67340  1
+ O  O5  1  0.35356  0.75000  0.89236  1
+ O  O6  1  0.64644  0.25000  0.10764  1
+ Te  Te1  1  0.07027  0.25000  0.14566  1
+ Te  Te2  1  0.92973  0.75000  0.85434  1

@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_CoHO2
+_symmetry_space_group_name_H-M  'R3m'
+_cell_length_a       2.87594
+_cell_length_b       2.87604
+_cell_length_c       8.9272
+_cell_angle_alpha    90.0039
+_cell_angle_beta     99.2703
+_cell_angle_gamma    120.002
+
+_symmetry_Int_Tables_number  160
+_chemical_formula_structural  CoHO2
+_chemical_formula_sum  Co2H2O4
+_cell_volume  62.829155467120216
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  -0.00223  0.49934  0.49679  1
+ Co  Co2  1  0.99793  -0.00150  -0.00321  1
+ H  H1  1  0.50898  0.25434  0.76344  1
+ H  H2  1  0.50894  0.75465  0.26344  1
+ O  O1  1  0.40250  0.20172  0.60385  1
+ O  O2  1  0.40265  0.70091  0.10385  1
+ O  O3  1  0.59068  0.29485  0.88592  1
+ O  O4  1  0.59053  0.79569  0.38593  1

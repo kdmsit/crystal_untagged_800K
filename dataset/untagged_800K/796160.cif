@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_NaPrTe2
+_symmetry_space_group_name_H-M  'Fd-3m'
+_cell_length_a       9.13086
+_cell_length_b       9.13085
+_cell_length_c       9.13086
+_cell_angle_alpha    60
+_cell_angle_beta     60
+_cell_angle_gamma    60
+
+_symmetry_Int_Tables_number  227
+_chemical_formula_structural  NaPrTe2
+_chemical_formula_sum  Na4Pr4Te8
+_cell_volume  538.2944669752961
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Na  Na1  1  0.00000  0.00000  0.00000  1
+ Na  Na2  1  0.00000  0.00000  0.50000  1
+ Na  Na3  1  0.50000  0.00000  0.00000  1
+ Na  Na4  1  0.00000  0.50000  0.00000  1
+ Pr  Pr1  1  0.50000  0.50000  0.50000  1
+ Pr  Pr2  1  0.50000  0.00000  0.50000  1
+ Pr  Pr3  1  0.00000  0.50000  0.50000  1
+ Pr  Pr4  1  0.50000  0.50000  0.00000  1
+ Te  Te1  1  0.74824  0.74824  0.74824  1
+ Te  Te2  1  0.25176  0.25176  0.25176  1
+ Te  Te3  1  0.25176  0.25176  0.74473  1
+ Te  Te4  1  0.25176  0.74473  0.25176  1
+ Te  Te5  1  0.25527  0.74824  0.74824  1
+ Te  Te6  1  0.74824  0.74824  0.25527  1
+ Te  Te7  1  0.74824  0.25527  0.74824  1
+ Te  Te8  1  0.74473  0.25176  0.25176  1

@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_TaMnP
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.67388
+_cell_length_b       6.08616
+_cell_length_c       7.0113
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  TaMnP
+_chemical_formula_sum  Ta4Mn4P4
+_cell_volume  156.77124813799043
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mn  Mn1  1  0.75000  0.84854  0.56055  1
+ Mn  Mn2  1  0.25000  0.15146  0.43945  1
+ Mn  Mn3  1  0.75000  0.34854  0.93945  1
+ Mn  Mn4  1  0.25000  0.65146  0.06055  1
+ P  P1  1  0.25000  0.28091  0.12198  1
+ P  P2  1  0.75000  0.71909  0.87802  1
+ P  P3  1  0.25000  0.78091  0.37802  1
+ P  P4  1  0.75000  0.21909  0.62198  1
+ Ta  Ta1  1  0.25000  0.52168  0.67801  1
+ Ta  Ta2  1  0.75000  0.47832  0.32199  1
+ Ta  Ta3  1  0.25000  0.02168  0.82199  1
+ Ta  Ta4  1  0.75000  0.97832  0.17801  1

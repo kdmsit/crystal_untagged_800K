@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Eu2O2S2Tl2
+_chemical_formula_sum              "Eu2 O2 S2 Tl2"
+_cell_length_a       4.48233
+_cell_length_b       6.87997
+_cell_length_c       6.43404
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.50000  0.83800  0.02530  1.0000
+  Eu  Eu2       1.0  0.50000  0.16200  0.52500  1.0000
+  O   O1        1.0  0.50000  0.14500  0.16700  1.0000
+  O   O2        1.0  0.50000  0.85500  0.66700  1.0000
+  S   S1        1.0  0.00000  0.64900  0.19700  1.0000
+  S   S2        1.0  0.00000  0.35100  0.69700  1.0000
+  Tl  Tl1       1.0  0.00000  0.26500  0.10100  1.0000
+  Tl  Tl2       1.0  0.00000  0.73500  0.60100  1.0000

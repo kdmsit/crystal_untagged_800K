@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ca2Nb2BiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.59644551
+_cell_length_b   10.59644551
+_cell_length_c   5.58391897
+_cell_angle_alpha   88.90348164
+_cell_angle_beta   88.90348164
+_cell_angle_gamma   36.38105876
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Nb2BiO8
+_chemical_formula_sum   'Ca4 Nb4 Bi2 O16'
+_cell_volume   371.82446292
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.87323300  0.55803500  0.75442800  1
+  Ca  Ca1  1  0.44196500  0.12676700  0.74557200  1
+  Ca  Ca2  1  0.12676700  0.44196500  0.24557200  1
+  Ca  Ca3  1  0.55803500  0.87323300  0.25442800  1
+  Nb  Nb4  1  0.02780100  0.73168600  0.74223500  1
+  Nb  Nb5  1  0.26831400  0.97219900  0.75776500  1
+  Nb  Nb6  1  0.97219900  0.26831400  0.25776500  1
+  Nb  Nb7  1  0.73168600  0.02780100  0.24223500  1
+  Bi  Bi8  1  0.67737300  0.32262700  0.75000000  1
+  Bi  Bi9  1  0.32262700  0.67737300  0.25000000  1
+  O  O10  1  0.02937600  0.82538800  0.06152400  1
+  O  O11  1  0.17461200  0.97062400  0.43847600  1
+  O  O12  1  0.97062400  0.17461200  0.93847600  1
+  O  O13  1  0.82538800  0.02937600  0.56152400  1
+  O  O14  1  0.28980400  0.58229300  0.60705500  1
+  O  O15  1  0.41770700  0.71019600  0.89294500  1
+  O  O16  1  0.71019600  0.41770700  0.39294500  1
+  O  O17  1  0.58229300  0.28980400  0.10705500  1
+  O  O18  1  0.89260000  0.73793700  0.47189700  1
+  O  O19  1  0.26206300  0.10740000  0.02810300  1
+  O  O20  1  0.47448300  0.14756800  0.35219800  1
+  O  O21  1  0.85243200  0.52551700  0.14780200  1
+  O  O22  1  0.52551700  0.85243200  0.64780200  1
+  O  O23  1  0.14756800  0.47448300  0.85219800  1
+  O  O24  1  0.73793700  0.89260000  0.97189700  1
+  O  O25  1  0.10740000  0.26206300  0.52810300  1

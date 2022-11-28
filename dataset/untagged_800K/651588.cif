@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ce2MnN3F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89261700
+_cell_length_b   3.89261700
+_cell_length_c   6.86065729
+_cell_angle_alpha   73.51936967
+_cell_angle_beta   73.51936967
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2MnN3F
+_chemical_formula_sum   'Ce2 Mn1 N3 F1'
+_cell_volume   95.22260359
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.37314800  0.37314800  0.25370500  1
+  Ce  Ce1  1  0.63609500  0.63609500  0.72781000  1
+  Mn  Mn2  1  0.02126400  0.02126400  0.95747200  1
+  N  N3  1  0.99541200  0.49541200  0.00917700  1
+  N  N4  1  0.49541200  0.99541200  0.00917700  1
+  N  N5  1  0.19101600  0.19101600  0.61796800  1
+  F  F6  1  0.82065400  0.82065400  0.35869200  1

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al2Au2O2Te2
+_chemical_formula_sum              "Al2 Au2 O2 Te2"
+_cell_length_a       4.1612
+_cell_length_b       7.96223
+_cell_length_c       5.53908
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.50000  0.89600  0.02280  1.0000
+  Al  Al2       1.0  0.50000  0.10400  0.52300  1.0000
+  Au  Au1       1.0  0.00000  0.32700  0.12100  1.0000
+  Au  Au2       1.0  0.00000  0.67300  0.62100  1.0000
+  O   O1        1.0  0.50000  0.06180  0.21900  1.0000
+  O   O2        1.0  0.50000  0.93800  0.71900  1.0000
+  Te  Te1       1.0  0.00000  0.69000  0.12700  1.0000
+  Te  Te2       1.0  0.00000  0.31000  0.62700  1.0000

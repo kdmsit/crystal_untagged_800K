@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Y7ReO14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.71015203
+_cell_length_b   7.71015203
+_cell_length_c   7.71015241
+_cell_angle_alpha   58.58373991
+_cell_angle_beta   58.58373991
+_cell_angle_gamma   58.58374013
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y7ReO14
+_chemical_formula_sum   'Y7 Re1 O14'
+_cell_volume   313.60096275
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.00000000  0.00000000  0.50000000  1
+  Y  Y1  1  0.50000000  0.00000000  0.00000000  1
+  Y  Y2  1  0.00000000  0.50000000  0.00000000  1
+  Y  Y3  1  0.50000000  0.50000000  0.00000000  1
+  Y  Y4  1  0.00000000  0.50000000  0.50000000  1
+  Y  Y5  1  0.50000000  0.00000000  0.50000000  1
+  Y  Y6  1  0.00000000  0.00000000  0.00000000  1
+  Re  Re7  1  0.50000000  0.50000000  0.50000000  1
+  O  O8  1  0.86467000  0.86467000  0.86467000  1
+  O  O9  1  0.86434200  0.40385900  0.86434200  1
+  O  O10  1  0.40385900  0.86434200  0.86434200  1
+  O  O11  1  0.86434200  0.86434200  0.40385900  1
+  O  O12  1  0.13533000  0.13533000  0.13533000  1
+  O  O13  1  0.13565800  0.59614100  0.13565800  1
+  O  O14  1  0.59614100  0.13565800  0.13565800  1
+  O  O15  1  0.13565800  0.13565800  0.59614100  1
+  O  O16  1  0.42991600  0.79745000  0.42991600  1
+  O  O17  1  0.79745000  0.42991600  0.42991600  1
+  O  O18  1  0.42991600  0.42991600  0.79745000  1
+  O  O19  1  0.57008400  0.20255000  0.57008400  1
+  O  O20  1  0.20255000  0.57008400  0.57008400  1
+  O  O21  1  0.57008400  0.57008400  0.20255000  1

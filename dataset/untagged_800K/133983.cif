@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Bi2F8Li2
+_chemical_formula_sum              "Bi2 F8 Li2"
+_cell_length_a       5.20481
+_cell_length_b       5.20481
+_cell_length_c       6.68422
+_cell_angle_alpha    112.913
+_cell_angle_beta     112.913
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.00000  0.00000  0.00000  1.0000
+  Bi  Bi2       1.0  0.25000  0.75000  0.50000  1.0000
+  F   F1        1.0  0.85000  0.42200  0.16400  1.0000
+  F   F2        1.0  0.31400  0.74200  0.16400  1.0000
+  F   F3        1.0  0.93600  0.00796  0.33600  1.0000
+  F   F4        1.0  0.40000  0.32800  0.33600  1.0000
+  F   F5        1.0  0.67200  0.06380  0.66400  1.0000
+  F   F6        1.0  0.99200  0.60000  0.66400  1.0000
+  F   F7        1.0  0.25800  0.15000  0.83600  1.0000
+  F   F8        1.0  0.57800  0.68600  0.83600  1.0000
+  Li  Li1       1.0  0.50000  0.50000  0.00000  1.0000
+  Li  Li2       1.0  0.75000  0.25000  0.50000  1.0000

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CdIn3Te4As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.39789338
+_cell_length_b   7.86179184
+_cell_length_c   7.75471327
+_cell_angle_alpha   100.12584288
+_cell_angle_beta   114.19208370
+_cell_angle_gamma   65.68166638
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdIn3Te4As
+_chemical_formula_sum   'Cd1 In3 Te4 As1'
+_cell_volume   324.21675527
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00160300  0.00886100  0.00462500  1
+  In  In1  1  0.58154200  0.20673400  0.38728100  1
+  In  In2  1  0.20949100  0.39599000  0.81573100  1
+  In  In3  1  0.81140200  0.59021500  0.19376400  1
+  Te  Te4  1  0.35556300  0.70385600  0.87843700  1
+  Te  Te5  1  0.97379900  0.89444200  0.32385900  1
+  Te  Te6  1  0.53783600  0.08129200  0.68999400  1
+  Te  Te7  1  0.73070100  0.52041000  0.50827300  1
+  As  As8  1  0.14806300  0.29820100  0.09803500  1

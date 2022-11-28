@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ni2Ta2Te10
+_chemical_formula_sum              "Ni2 Ta2 Te10"
+_cell_length_a       7.055
+_cell_length_b       3.69635
+_cell_length_c       15.2802
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    105.187
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni2       1.0  0.00000  0.00000  0.50000  1.0000
+  Ta  Ta1       1.0  0.02270  0.51100  0.25000  1.0000
+  Ta  Ta2       1.0  0.97700  0.48900  0.75000  1.0000
+  Te  Te1       1.0  0.20500  0.60200  0.07610  1.0000
+  Te  Te2       1.0  0.80300  0.90100  0.14500  1.0000
+  Te  Te3       1.0  0.33900  0.17000  0.25000  1.0000
+  Te  Te4       1.0  0.80300  0.90100  0.35500  1.0000
+  Te  Te5       1.0  0.20500  0.60200  0.42400  1.0000
+  Te  Te6       1.0  0.79500  0.39800  0.57600  1.0000
+  Te  Te7       1.0  0.19700  0.09850  0.64500  1.0000
+  Te  Te8       1.0  0.66100  0.83000  0.75000  1.0000
+  Te  Te9       1.0  0.19700  0.09850  0.85500  1.0000
+  Te  Te10      1.0  0.79500  0.39800  0.92400  1.0000

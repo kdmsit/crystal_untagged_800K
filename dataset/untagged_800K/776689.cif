@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_MnOF
+_symmetry_space_group_name_H-M  'Pmn2_1'
+_cell_length_a       3.74919
+_cell_length_b       5.60202
+_cell_length_c       3.18034
+_cell_angle_alpha    89.9988
+_cell_angle_beta     89.9999
+_cell_angle_gamma    90.0002
+
+_symmetry_Int_Tables_number  31
+_chemical_formula_structural  MnOF
+_chemical_formula_sum  Mn2O2F2
+_cell_volume  66.79693518218555
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.25000  0.38263  0.28836  1
+ F  F2  1  0.75000  0.61738  0.78836  1
+ Mn  Mn1  1  0.25000  0.16907  0.76066  1
+ Mn  Mn2  1  0.75000  0.83094  0.26065  1
+ O  O1  1  0.25000  0.91611  0.20098  1
+ O  O2  1  0.75000  0.08388  0.70099  1

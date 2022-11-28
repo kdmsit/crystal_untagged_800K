@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LaTaCrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49541700
+_cell_length_b   5.49592886
+_cell_length_c   5.49889177
+_cell_angle_alpha   90.27367346
+_cell_angle_beta   119.85235320
+_cell_angle_gamma   119.76602442
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaTaCrO6
+_chemical_formula_sum   'La1 Ta1 Cr1 O6'
+_cell_volume   117.83162537
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.49583800  0.73813100  0.75641200  1
+  Ta  Ta1  1  0.00007900  0.98946700  0.50596100  1
+  Cr  Cr2  1  0.99446800  0.48679800  0.00299200  1
+  O  O3  1  0.49956100  0.74393000  0.31282800  1
+  O  O4  1  0.94342900  0.70963200  0.21336500  1
+  O  O5  1  0.06480900  0.28951300  0.77331200  1
+  O  O6  1  0.94939300  0.20716600  0.20857100  1
+  O  O7  1  0.05019200  0.75976600  0.77663200  1
+  O  O8  1  0.50264500  0.23418500  0.71016500  1

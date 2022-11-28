@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HoMg(NiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09973300
+_cell_length_b   5.42036100
+_cell_length_c   7.34930800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoMg(NiO3)2
+_chemical_formula_sum   'Ho2 Mg2 Ni4 O12'
+_cell_volume   203.15246636
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.01952900  0.67338700  0.00000000  1
+  Ho  Ho1  1  0.51952900  0.32661300  0.50000000  1
+  Mg  Mg2  1  0.47248800  0.17772300  0.00000000  1
+  Mg  Mg3  1  0.97248800  0.82227700  0.50000000  1
+  Ni  Ni4  1  0.99836100  0.24521100  0.75034500  1
+  Ni  Ni5  1  0.99836100  0.24521100  0.24965500  1
+  Ni  Ni6  1  0.49836100  0.75478900  0.25034500  1
+  Ni  Ni7  1  0.49836100  0.75478900  0.74965500  1
+  O  O8  1  0.10703900  0.19364400  0.50000000  1
+  O  O9  1  0.20613900  0.96118600  0.81691900  1
+  O  O10  1  0.20613900  0.96118600  0.18308100  1
+  O  O11  1  0.31330700  0.44014800  0.80838500  1
+  O  O12  1  0.31330700  0.44014800  0.19161500  1
+  O  O13  1  0.36508900  0.71851700  0.50000000  1
+  O  O14  1  0.60703900  0.80635600  0.00000000  1
+  O  O15  1  0.70613900  0.03881400  0.31691900  1
+  O  O16  1  0.70613900  0.03881400  0.68308100  1
+  O  O17  1  0.81330700  0.55985200  0.69161500  1
+  O  O18  1  0.81330700  0.55985200  0.30838500  1
+  O  O19  1  0.86508900  0.28148300  0.00000000  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Bi3IrO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.76532200
+_cell_length_b   10.12330100
+_cell_length_c   13.01459700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi3IrO2
+_chemical_formula_sum   'Bi12 Ir4 O8'
+_cell_volume   496.08374455
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.75000000  0.19703100  0.39567200  1
+  Bi  Bi1  1  0.75000000  0.69703100  0.10432800  1
+  Bi  Bi2  1  0.25000000  0.80296900  0.60432800  1
+  Bi  Bi3  1  0.25000000  0.30296900  0.89567200  1
+  Bi  Bi4  1  0.75000000  0.10913200  0.69564500  1
+  Bi  Bi5  1  0.75000000  0.60913200  0.80435500  1
+  Bi  Bi6  1  0.25000000  0.89086800  0.30435500  1
+  Bi  Bi7  1  0.25000000  0.39086800  0.19564500  1
+  Bi  Bi8  1  0.75000000  0.12570400  0.09057800  1
+  Bi  Bi9  1  0.75000000  0.62570400  0.40942200  1
+  Bi  Bi10  1  0.25000000  0.87429600  0.90942200  1
+  Bi  Bi11  1  0.25000000  0.37429600  0.59057800  1
+  Ir  Ir12  1  0.75000000  0.40687100  0.03413700  1
+  Ir  Ir13  1  0.75000000  0.90687100  0.46586300  1
+  Ir  Ir14  1  0.25000000  0.59312900  0.96586300  1
+  Ir  Ir15  1  0.25000000  0.09312900  0.53413700  1
+  O  O16  1  0.75000000  0.89317300  0.02285400  1
+  O  O17  1  0.75000000  0.39317300  0.47714600  1
+  O  O18  1  0.25000000  0.10682700  0.97714600  1
+  O  O19  1  0.25000000  0.60682700  0.52285400  1
+  O  O20  1  0.75000000  0.33084200  0.70862400  1
+  O  O21  1  0.75000000  0.83084200  0.79137600  1
+  O  O22  1  0.25000000  0.66915800  0.29137600  1
+  O  O23  1  0.25000000  0.16915800  0.20862400  1

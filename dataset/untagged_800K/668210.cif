@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_H4PbI3N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.36664641
+_cell_length_b   6.36664641
+_cell_length_c   6.37402787
+_cell_angle_alpha   89.30602276
+_cell_angle_beta   89.30602276
+_cell_angle_gamma   90.53108793
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H4PbI3N
+_chemical_formula_sum   'H4 Pb1 I3 N1'
+_cell_volume   258.31667795
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.89659400  0.89659400  0.94211900  1
+  H  H1  1  0.96745400  0.15130000  0.95187100  1
+  H  H2  1  0.99565900  0.99565900  0.16456000  1
+  H  H3  1  0.15130000  0.96745400  0.95187100  1
+  Pb  Pb4  1  0.49695800  0.49695800  0.49348300  1
+  I  I5  1  0.49114800  0.49114800  0.99381900  1
+  I  I6  1  0.50860100  0.99733400  0.49734700  1
+  I  I7  1  0.99733400  0.50860100  0.49734700  1
+  N  N8  1  0.00270000  0.00270000  0.00278100  1

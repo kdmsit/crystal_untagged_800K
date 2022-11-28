@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_GaPNO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41870500
+_cell_length_b   4.60899400
+_cell_length_c   8.13943952
+_cell_angle_alpha   83.58272772
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaPNO5
+_chemical_formula_sum   'Ga2 P2 N2 O10'
+_cell_volume   239.28657153
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.50000000  0.00000000  0.00000000  1
+  Ga  Ga1  1  0.00000000  0.00000000  0.00000000  1
+  P  P2  1  0.75000000  0.62276200  0.89044300  1
+  P  P3  1  0.25000000  0.37723800  0.10955700  1
+  N  N4  1  0.25000000  0.09168800  0.54765500  1
+  N  N5  1  0.75000000  0.90831200  0.45234500  1
+  O  O6  1  0.75000000  0.28397100  0.90402200  1
+  O  O7  1  0.25000000  0.71602900  0.09597800  1
+  O  O8  1  0.54338400  0.75633400  0.81953100  1
+  O  O9  1  0.04338400  0.24366600  0.18046900  1
+  O  O10  1  0.45661600  0.24366600  0.18046900  1
+  O  O11  1  0.95661600  0.75633400  0.81953100  1
+  O  O12  1  0.75000000  0.65964600  0.50011200  1
+  O  O13  1  0.25000000  0.34035400  0.49988800  1
+  O  O14  1  0.25000000  0.24789400  0.92893800  1
+  O  O15  1  0.75000000  0.75210600  0.07106200  1

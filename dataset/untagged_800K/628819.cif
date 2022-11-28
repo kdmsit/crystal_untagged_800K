@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba2Tm2Al3Si5N11O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73105644
+_cell_length_b   6.73105644
+_cell_length_c   10.24425800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000434
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Tm2Al3Si5N11O3
+_chemical_formula_sum   'Ba2 Tm2 Al3 Si5 N11 O3'
+_cell_volume   401.95513830
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.33333300  0.66666700  0.22393000  1
+  Ba  Ba1  1  0.66666700  0.33333300  0.60950300  1
+  Tm  Tm2  1  0.33333300  0.66666700  0.63271500  1
+  Tm  Tm3  1  0.66666700  0.33333300  0.04027900  1
+  Al  Al4  1  0.17513800  0.82486200  0.95775400  1
+  Al  Al5  1  0.17513800  0.35027500  0.95775400  1
+  Al  Al6  1  0.64972500  0.82486200  0.95775400  1
+  Si  Si7  1  0.00000000  0.00000000  0.21083200  1
+  Si  Si8  1  0.00000000  0.00000000  0.56760900  1
+  Si  Si9  1  0.32453200  0.16226600  0.37502300  1
+  Si  Si10  1  0.83773400  0.67546800  0.37502300  1
+  Si  Si11  1  0.83773400  0.16226600  0.37502300  1
+  N  N12  1  0.52492000  0.47508000  0.38390300  1
+  N  N13  1  0.52492000  0.04983900  0.38390300  1
+  N  N14  1  0.52242200  0.26121100  0.83915500  1
+  N  N15  1  0.47607700  0.52392300  0.01826300  1
+  N  N16  1  0.95016100  0.47508000  0.38390300  1
+  N  N17  1  0.73878900  0.47757800  0.83915500  1
+  N  N18  1  0.00000000  0.00000000  0.87289200  1
+  N  N19  1  0.47607700  0.95215500  0.01826300  1
+  N  N20  1  0.04784500  0.52392300  0.01826300  1
+  N  N21  1  0.73878900  0.26121100  0.83915500  1
+  N  N22  1  0.00000000  0.00000000  0.73012000  1
+  O  O23  1  0.06533900  0.53267000  0.51054300  1
+  O  O24  1  0.46733000  0.93466100  0.51054300  1
+  O  O25  1  0.46733000  0.53267000  0.51054300  1

@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_NbNiP
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.6145
+_cell_length_b       6.1695
+_cell_length_c       7.14898
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  NbNiP
+_chemical_formula_sum  Nb4Ni4P4
+_cell_volume  159.4195905639257
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Nb  Nb1  1  0.25000  0.52185  0.66647  1
+ Nb  Nb2  1  0.25000  0.02185  0.83353  1
+ Nb  Nb3  1  0.75000  0.97815  0.16647  1
+ Nb  Nb4  1  0.75000  0.47815  0.33353  1
+ Ni  Ni1  1  0.75000  0.35006  0.93204  1
+ Ni  Ni2  1  0.25000  0.14994  0.43204  1
+ Ni  Ni3  1  0.75000  0.85006  0.56796  1
+ Ni  Ni4  1  0.25000  0.64994  0.06796  1
+ P  P1  1  0.25000  0.78234  0.37799  1
+ P  P2  1  0.25000  0.28234  0.12201  1
+ P  P3  1  0.75000  0.21766  0.62201  1
+ P  P4  1  0.75000  0.71766  0.87799  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaSmI4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.95812776
+_cell_length_b   8.95812776
+_cell_length_c   7.81792937
+_cell_angle_alpha   68.27963424
+_cell_angle_beta   68.27963424
+_cell_angle_gamma   109.99039581
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaSmI4
+_chemical_formula_sum   'La2 Sm2 I8'
+_cell_volume   450.47655008
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.48663600  0.51336400  0.25000000  1
+  La  La1  1  0.51336400  0.48663600  0.75000000  1
+  Sm  Sm2  1  0.86883700  0.13116300  0.75000000  1
+  Sm  Sm3  1  0.13116300  0.86883700  0.25000000  1
+  I  I4  1  0.55387800  0.18012300  0.09771500  1
+  I  I5  1  0.75372900  0.87369800  0.25518100  1
+  I  I6  1  0.24627100  0.12630200  0.74481900  1
+  I  I7  1  0.81987700  0.44612200  0.40228500  1
+  I  I8  1  0.18012300  0.55387800  0.59771500  1
+  I  I9  1  0.12630200  0.24627100  0.24481900  1
+  I  I10  1  0.87369800  0.75372900  0.75518100  1
+  I  I11  1  0.44612200  0.81987700  0.90228500  1

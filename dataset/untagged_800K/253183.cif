@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Mn2Sb10U6
+_chemical_formula_sum              "Mn2 Sb10 U6"
+_cell_length_a       8.96348
+_cell_length_b       8.9634
+_cell_length_c       6.10074
+_cell_angle_alpha    89.9997
+_cell_angle_beta     89.9995
+_cell_angle_gamma    120.002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  1.00000  1.00000  0.00001  1.0000
+  Mn  Mn2       1.0  0.00000  0.00000  0.50000  1.0000
+  Sb  Sb1       1.0  0.66700  0.33300  1.00000  1.0000
+  Sb  Sb2       1.0  0.33300  0.66700  0.00000  1.0000
+  Sb  Sb3       1.0  0.24700  1.00000  0.25000  1.0000
+  Sb  Sb4       1.0  0.00000  0.24700  0.25000  1.0000
+  Sb  Sb5       1.0  0.75300  0.75300  0.25000  1.0000
+  Sb  Sb6       1.0  0.33300  0.66700  0.50000  1.0000
+  Sb  Sb7       1.0  0.66700  0.33300  0.50000  1.0000
+  Sb  Sb8       1.0  0.24700  0.24700  0.75000  1.0000
+  Sb  Sb9       1.0  1.00000  0.75300  0.75000  1.0000
+  Sb  Sb10      1.0  0.75300  0.00000  0.75000  1.0000
+  U   U1        1.0  0.39100  0.39100  0.25000  1.0000
+  U   U2        1.0  0.60900  0.00000  0.25000  1.0000
+  U   U3        1.0  0.00000  0.60900  0.25000  1.0000
+  U   U4        1.0  1.00000  0.39100  0.75000  1.0000
+  U   U5        1.0  0.60900  0.60900  0.75000  1.0000
+  U   U6        1.0  0.39100  1.00000  0.75000  1.0000

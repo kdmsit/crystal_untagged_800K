@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Eu(InSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57321391
+_cell_length_b   6.57321391
+_cell_length_c   11.26526700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   116.87748466
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu(InSe2)2
+_chemical_formula_sum   'Eu2 In4 Se8'
+_cell_volume   434.16001695
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.50000000  0.50000000  0.75000000  1
+  Eu  Eu1  1  0.50000000  0.50000000  0.25000000  1
+  In  In2  1  0.77107600  0.23056400  0.50000000  1
+  In  In3  1  0.22892400  0.76943600  0.50000000  1
+  In  In4  1  0.76943600  0.22892400  0.00000000  1
+  In  In5  1  0.23056400  0.77107600  0.00000000  1
+  Se  Se6  1  0.35685700  0.20745500  0.50000000  1
+  Se  Se7  1  0.64314300  0.79254500  0.50000000  1
+  Se  Se8  1  0.79254500  0.64314300  0.00000000  1
+  Se  Se9  1  0.20745500  0.35685700  0.00000000  1
+  Se  Se10  1  0.50000000  0.00000000  0.82269100  1
+  Se  Se11  1  0.00000000  0.50000000  0.67730900  1
+  Se  Se12  1  0.50000000  0.00000000  0.17730900  1
+  Se  Se13  1  0.00000000  0.50000000  0.32269100  1

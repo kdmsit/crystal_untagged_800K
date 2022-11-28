@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_Li3Eu
+_symmetry_space_group_name_H-M  'P6_3/mmc'
+_cell_length_a       6.53597
+_cell_length_b       6.53598
+_cell_length_c       5.07483
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  194
+_chemical_formula_structural  Li3Eu
+_chemical_formula_sum  Li6Eu2
+_cell_volume  187.74695391461512
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Eu  Eu1  1  0.33333  0.66667  0.75000  1
+ Eu  Eu2  1  0.66667  0.33333  0.25000  1
+ Li  Li1  1  0.15033  0.30065  0.25000  1
+ Li  Li2  1  0.69935  0.84967  0.25000  1
+ Li  Li3  1  0.15033  0.84967  0.25000  1
+ Li  Li4  1  0.84967  0.69935  0.75000  1
+ Li  Li5  1  0.30065  0.15033  0.75000  1
+ Li  Li6  1  0.84967  0.15033  0.75000  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_LaNb2AgO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.30538971
+_cell_length_b   11.30538971
+_cell_length_c   11.30538971
+_cell_angle_alpha   159.95168909
+_cell_angle_beta   159.95168909
+_cell_angle_gamma   28.50111804
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaNb2AgO7
+_chemical_formula_sum   'La1 Nb2 Ag1 O7'
+_cell_volume   169.72954862
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00000000  0.00000000  0.00000000  1
+  Nb  Nb1  1  0.60385000  0.60385000  0.00000000  1
+  Nb  Nb2  1  0.39615000  0.39615000  0.00000000  1
+  Ag  Ag3  1  0.25000000  0.75000000  0.50000000  1
+  O  O4  1  0.68686000  0.68686000  0.00000000  1
+  O  O5  1  0.31314000  0.31314000  0.00000000  1
+  O  O6  1  0.41612500  0.91612500  0.50000000  1
+  O  O7  1  0.91638800  0.41638800  0.50000000  1
+  O  O8  1  0.58361200  0.08361200  0.50000000  1
+  O  O9  1  0.08387500  0.58387500  0.50000000  1
+  O  O10  1  0.50000000  0.50000000  0.00000000  1

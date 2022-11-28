@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_NdPt
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.59914
+_cell_length_b       5.74096
+_cell_length_c       7.35232
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  NdPt
+_chemical_formula_sum  Nd4Pt4
+_cell_volume  194.1265933537428
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Nd  Nd1  1  0.25000  0.35819  0.68314  1
+ Nd  Nd2  1  0.25000  0.14181  0.18314  1
+ Nd  Nd3  1  0.75000  0.64181  0.31686  1
+ Nd  Nd4  1  0.75000  0.85819  0.81686  1
+ Pt  Pt1  1  0.25000  0.84302  0.54519  1
+ Pt  Pt2  1  0.25000  0.65698  0.04519  1
+ Pt  Pt3  1  0.75000  0.15698  0.45481  1
+ Pt  Pt4  1  0.75000  0.34302  0.95481  1

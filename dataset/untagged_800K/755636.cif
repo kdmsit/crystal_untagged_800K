@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_B2CN
+_symmetry_space_group_name_H-M  'Pmma'
+_cell_length_a       2.51145
+_cell_length_b       2.55259
+_cell_length_c       7.90315
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  51
+_chemical_formula_structural  B2CN
+_chemical_formula_sum  B4C2N2
+_cell_volume  50.66466946191838
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.25000  0.00000  0.68815  1
+ B  B2  1  0.75000  0.00000  0.31185  1
+ B  B3  1  0.25000  0.50000  0.08503  1
+ B  B4  1  0.75000  0.50000  0.91497  1
+ C  C1  1  0.25000  0.50000  0.55183  1
+ C  C2  1  0.75000  0.50000  0.44817  1
+ N  N1  1  0.25000  0.00000  0.19504  1
+ N  N2  1  0.75000  0.00000  0.80496  1

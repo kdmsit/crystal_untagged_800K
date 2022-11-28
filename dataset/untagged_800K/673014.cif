@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_PbCI3N2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63242224
+_cell_length_b   8.87964744
+_cell_length_c   9.20006997
+_cell_angle_alpha   61.14557446
+_cell_angle_beta   90.53654137
+_cell_angle_gamma   91.11185851
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PbCI3N2
+_chemical_formula_sum   'Pb2 C2 I6 N4'
+_cell_volume   546.00489468
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pb  Pb0  1  0.49540900  0.99796700  0.00036000  1
+  Pb  Pb1  1  0.99540900  0.99832700  0.99964000  1
+  C  C2  1  0.34436200  0.30719000  0.30799600  1
+  C  C3  1  0.84436200  0.61518600  0.69200400  1
+  I  I4  1  0.24813700  0.84544800  0.31022500  1
+  I  I5  1  0.25048200  0.31976300  0.84294400  1
+  I  I6  1  0.24160100  0.84116800  0.84163400  1
+  I  I7  1  0.74813700  0.15567300  0.68977500  1
+  I  I8  1  0.74160100  0.68280300  0.15836600  1
+  I  I9  1  0.75048200  0.16270700  0.15705600  1
+  N  N10  1  0.34866900  0.44249600  0.17389900  1
+  N  N11  1  0.34755000  0.17292300  0.44203100  1
+  N  N12  1  0.84866900  0.61639500  0.82610100  1
+  N  N13  1  0.84755000  0.61495300  0.55796900  1

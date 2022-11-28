@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TmBeNF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.85038700
+_cell_length_b   6.51097900
+_cell_length_c   7.33134502
+_cell_angle_alpha   67.07707419
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmBeNF6
+_chemical_formula_sum   'Tm2 Be2 N2 F12'
+_cell_volume   257.21017848
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.25000000  0.36895000  0.21845600  1
+  Tm  Tm1  1  0.75000000  0.63105000  0.78154400  1
+  Be  Be2  1  0.25000000  0.78029600  0.45521600  1
+  Be  Be3  1  0.75000000  0.21970400  0.54478400  1
+  N  N4  1  0.25000000  0.20362400  0.85304500  1
+  N  N5  1  0.75000000  0.79637600  0.14695500  1
+  F  F6  1  0.46408100  0.75591000  0.59071600  1
+  F  F7  1  0.53591900  0.24409000  0.40928400  1
+  F  F8  1  0.96408100  0.24409000  0.40928400  1
+  F  F9  1  0.03591900  0.75591000  0.59071600  1
+  F  F10  1  0.25000000  0.59149100  0.37368000  1
+  F  F11  1  0.75000000  0.40850900  0.62632000  1
+  F  F12  1  0.54311400  0.64564500  0.05027900  1
+  F  F13  1  0.45688600  0.35435500  0.94972100  1
+  F  F14  1  0.04311400  0.35435500  0.94972100  1
+  F  F15  1  0.95688600  0.64564500  0.05027900  1
+  F  F16  1  0.25000000  0.01157800  0.27674400  1
+  F  F17  1  0.75000000  0.98842200  0.72325600  1

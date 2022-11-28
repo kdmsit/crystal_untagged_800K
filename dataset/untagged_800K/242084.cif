@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Al6C8U4
+_chemical_formula_sum              "Al6 C8 U4"
+_cell_length_a       3.39667
+_cell_length_b       3.39668
+_cell_length_c       23.3135
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.00000  0.00000  0.16100  1.0000
+  Al  Al2       1.0  0.33300  0.66700  0.24600  1.0000
+  Al  Al3       1.0  0.00000  0.00000  0.33500  1.0000
+  Al  Al4       1.0  0.00001  0.00001  0.66100  1.0000
+  Al  Al5       1.0  0.66700  0.33300  0.74600  1.0000
+  Al  Al6       1.0  0.00001  0.00001  0.83500  1.0000
+  C   C1        1.0  0.00000  0.00000  0.99900  1.0000
+  C   C2        1.0  0.33300  0.66700  0.13300  1.0000
+  C   C3        1.0  0.00000  0.00000  0.24800  1.0000
+  C   C4        1.0  0.33300  0.66700  0.36600  1.0000
+  C   C5        1.0  0.00000  0.00000  0.49900  1.0000
+  C   C6        1.0  0.66700  0.33300  0.63300  1.0000
+  C   C7        1.0  0.00002  0.00003  0.74800  1.0000
+  C   C8        1.0  0.66700  0.33300  0.86600  1.0000
+  U   U1        1.0  0.66700  0.33300  0.06100  1.0000
+  U   U2        1.0  0.66700  0.33300  0.43600  1.0000
+  U   U3        1.0  0.33300  0.66700  0.56100  1.0000
+  U   U4        1.0  0.33300  0.66700  0.93600  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       C4Cr4U
+_chemical_formula_sum              "C4 Cr4 U1"
+_cell_length_a       3.00368
+_cell_length_b       5.81846
+_cell_length_c       5.81846
+_cell_angle_alpha    93.8201
+_cell_angle_beta     75.0417
+_cell_angle_gamma    104.958
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.59500  0.32900  0.13800  1.0000
+  C   C2        1.0  0.26600  0.86200  0.32900  1.0000
+  C   C3        1.0  0.73400  0.13800  0.67100  1.0000
+  C   C4        1.0  0.40500  0.67100  0.86200  1.0000
+  Cr  Cr1       1.0  0.17800  0.54300  0.18700  1.0000
+  Cr  Cr2       1.0  0.36500  0.18700  0.45700  1.0000
+  Cr  Cr3       1.0  0.63500  0.81300  0.54300  1.0000
+  Cr  Cr4       1.0  0.82200  0.45700  0.81300  1.0000
+  U   U1        1.0  0.00000  0.00000  0.00000  1.0000

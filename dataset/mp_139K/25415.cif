@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmFe2Co2B
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10556614
+_cell_length_b   5.13788782
+_cell_length_c   6.89040502
+_cell_angle_alpha   89.99572991
+_cell_angle_beta   89.99141012
+_cell_angle_gamma   60.20788972
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmFe2Co2B
+_chemical_formula_sum   'Sm2 Fe4 Co4 B2'
+_cell_volume   156.85915482
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.99999000  0.00000000  0.00243800  1
+  Sm  Sm1  1  0.99998500  0.00000000  0.49267000  1
+  Fe  Fe2  1  0.99999300  0.49999500  0.71244400  1
+  Fe  Fe3  1  0.49998800  0.50000500  0.71244400  1
+  Fe  Fe4  1  0.66763800  0.66460300  0.00302700  1
+  Fe  Fe5  1  0.33224100  0.33539700  0.00302700  1
+  Co  Co6  1  0.50001300  0.00000000  0.28873300  1
+  Co  Co7  1  0.99998700  0.50003200  0.28992200  1
+  Co  Co8  1  0.50001800  0.49996800  0.28992200  1
+  Co  Co9  1  0.50001200  0.00000000  0.71228200  1
+  B  B10  1  0.66497100  0.66999300  0.49654600  1
+  B  B11  1  0.33496400  0.33000700  0.49654600  1

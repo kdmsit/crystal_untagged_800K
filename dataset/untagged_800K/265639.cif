@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       HfLi4O6Pb
+_chemical_formula_sum              "Hf1 Li4 O6 Pb1"
+_cell_length_a       5.38844
+_cell_length_b       5.38844
+_cell_length_c       5.29826
+_cell_angle_alpha    99.828
+_cell_angle_beta     99.828
+_cell_angle_gamma    119.9
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.16800  0.83200  0.00000  1.0000
+  Li  Li1       1.0  0.50000  0.50000  0.00000  1.0000
+  Li  Li2       1.0  0.00010  1.00000  0.50000  1.0000
+  Li  Li3       1.0  0.65500  0.34500  0.50000  1.0000
+  Li  Li4       1.0  0.34700  0.65300  0.50000  1.0000
+  O   O1        1.0  0.92900  0.59500  0.24000  1.0000
+  O   O2        1.0  0.56700  0.91700  0.24300  1.0000
+  O   O3        1.0  0.24400  0.23100  0.24500  1.0000
+  O   O4        1.0  0.76900  0.75600  0.75500  1.0000
+  O   O5        1.0  0.08260  0.43300  0.75700  1.0000
+  O   O6        1.0  0.40500  0.07100  0.76000  1.0000
+  Pb  Pb1       1.0  0.83300  0.16700  0.00000  1.0000

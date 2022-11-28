@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_SrLiBi
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.91079
+_cell_length_b       8.17851
+_cell_length_c       8.62114
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  SrLiBi
+_chemical_formula_sum  Sr4Li4Bi4
+_cell_volume  346.2504328225403
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Bi  Bi1  1  0.75000  0.72386  0.09363  1
+ Bi  Bi2  1  0.25000  0.27614  0.90637  1
+ Bi  Bi3  1  0.75000  0.22386  0.40637  1
+ Bi  Bi4  1  0.25000  0.77614  0.59363  1
+ Li  Li1  1  0.75000  0.33966  0.07562  1
+ Li  Li2  1  0.25000  0.66034  0.92438  1
+ Li  Li3  1  0.75000  0.83966  0.42438  1
+ Li  Li4  1  0.25000  0.16034  0.57562  1
+ Sr  Sr1  1  0.75000  0.49634  0.70769  1
+ Sr  Sr2  1  0.25000  0.50366  0.29231  1
+ Sr  Sr3  1  0.75000  0.99634  0.79231  1
+ Sr  Sr4  1  0.25000  0.00366  0.20769  1

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Br4Pd6
+_chemical_formula_sum              "Br4 Pd6"
+_cell_length_a       6.50539
+_cell_length_b       6.50539
+_cell_length_c       6.87007
+_cell_angle_alpha    118.259
+_cell_angle_beta     61.741
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.60800  0.39200  0.17600  1.0000
+  Br  Br2       1.0  0.89200  0.10800  0.32400  1.0000
+  Br  Br3       1.0  0.10800  0.89200  0.67600  1.0000
+  Br  Br4       1.0  0.39200  0.60800  0.82400  1.0000
+  Pd  Pd1       1.0  0.48300  0.75000  0.25000  1.0000
+  Pd  Pd2       1.0  0.01740  0.51700  0.25000  1.0000
+  Pd  Pd3       1.0  0.25000  0.98300  0.25000  1.0000
+  Pd  Pd4       1.0  0.98300  0.48300  0.75000  1.0000
+  Pd  Pd5       1.0  0.51700  0.25000  0.75000  1.0000
+  Pd  Pd6       1.0  0.75000  0.01740  0.75000  1.0000

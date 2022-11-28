@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_In2CuTe3I
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.26692158
+_cell_length_b   6.26348525
+_cell_length_c   7.68949331
+_cell_angle_alpha   66.03881510
+_cell_angle_beta   66.06425601
+_cell_angle_gamma   89.89421847
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2CuTe3I
+_chemical_formula_sum   'In2 Cu1 Te3 I1'
+_cell_volume   247.25915414
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.25441500  0.72272400  0.52659900  1
+  In  In1  1  0.98117100  0.99501400  0.98325600  1
+  Cu  Cu2  1  0.51890500  0.52856300  0.98913000  1
+  Te  Te3  1  0.83103000  0.38079200  0.74448700  1
+  Te  Te4  1  0.41194700  0.89376700  0.74784800  1
+  Te  Te5  1  0.62420500  0.58332800  0.26067000  1
+  I  I6  1  0.12832700  0.14581100  0.24801000  1

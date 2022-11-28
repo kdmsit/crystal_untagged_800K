@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_LiCaBi
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.71427
+_cell_length_b       7.77606
+_cell_length_c       8.47614
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  LiCaBi
+_chemical_formula_sum  Li4Ca4Bi4
+_cell_volume  310.7222820227752
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Bi  Bi1  1  0.75000  0.73225  0.10017  1
+ Bi  Bi2  1  0.25000  0.26775  0.89983  1
+ Bi  Bi3  1  0.25000  0.76775  0.60017  1
+ Bi  Bi4  1  0.75000  0.23225  0.39983  1
+ Ca  Ca1  1  0.25000  0.01073  0.20234  1
+ Ca  Ca2  1  0.75000  0.48927  0.70234  1
+ Ca  Ca3  1  0.75000  0.98927  0.79766  1
+ Ca  Ca4  1  0.25000  0.51073  0.29766  1
+ Li  Li1  1  0.75000  0.34831  0.07197  1
+ Li  Li2  1  0.75000  0.84831  0.42803  1
+ Li  Li3  1  0.25000  0.15169  0.57197  1
+ Li  Li4  1  0.25000  0.65169  0.92803  1

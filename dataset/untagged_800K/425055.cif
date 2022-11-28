@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cr2Ir2Si3
+_chemical_formula_sum              "Cr2 Ir2 Si3"
+_cell_length_a       7.27081
+_cell_length_b       7.27081
+_cell_length_c       7.27081
+_cell_angle_alpha    32.4113
+_cell_angle_beta     32.4113
+_cell_angle_gamma    32.4113
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.25000  0.25000  0.25000  1.0000
+  Cr  Cr2       1.0  0.74900  0.74900  0.74900  1.0000
+  Ir  Ir1       1.0  0.50300  0.50300  0.50300  1.0000
+  Ir  Ir2       1.0  0.99900  0.99900  0.99900  1.0000
+  Si  Si1       1.0  0.38400  0.38400  0.38400  1.0000
+  Si  Si2       1.0  0.62500  0.62500  0.62500  1.0000
+  Si  Si3       1.0  0.86500  0.86500  0.86500  1.0000

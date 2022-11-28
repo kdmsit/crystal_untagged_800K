@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiAlNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91349625
+_cell_length_b   4.91369059
+_cell_length_c   7.95633100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   61.52037399
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAlNi
+_chemical_formula_sum   'Ti4 Al4 Ni4'
+_cell_volume   168.84709619
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.33328700  0.33324600  0.54379100  1
+  Ti  Ti1  1  0.66408500  0.66405500  0.42322200  1
+  Ti  Ti2  1  0.66408500  0.66405500  0.07677800  1
+  Ti  Ti3  1  0.33328700  0.33324600  0.95620900  1
+  Al  Al4  1  0.99116000  0.99109900  0.48873100  1
+  Al  Al5  1  0.99116000  0.99109900  0.01126900  1
+  Al  Al6  1  0.83738700  0.34958100  0.75000000  1
+  Al  Al7  1  0.34965500  0.83727400  0.75000000  1
+  Ni  Ni8  1  0.83737400  0.83742700  0.75000000  1
+  Ni  Ni9  1  0.17446200  0.65405600  0.25000000  1
+  Ni  Ni10  1  0.65397400  0.17463000  0.25000000  1
+  Ni  Ni11  1  0.17008400  0.17023300  0.25000000  1

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cl4Np6
+_chemical_formula_sum              "Cl4 Np6"
+_cell_length_a       6.91031
+_cell_length_b       6.91031
+_cell_length_c       7.10652
+_cell_angle_alpha    119.091
+_cell_angle_beta     60.9092
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.66600  0.33400  0.00115  1.0000
+  Cl  Cl2       1.0  0.83400  0.16600  0.49900  1.0000
+  Cl  Cl3       1.0  0.16600  0.83400  0.50100  1.0000
+  Cl  Cl4       1.0  0.33400  0.66600  0.99900  1.0000
+  Np  Np1       1.0  0.59700  0.75000  0.25000  1.0000
+  Np  Np2       1.0  0.90300  0.40300  0.25000  1.0000
+  Np  Np3       1.0  0.25000  0.09710  0.25000  1.0000
+  Np  Np4       1.0  0.75000  0.90300  0.75000  1.0000
+  Np  Np5       1.0  0.09710  0.59700  0.75000  1.0000
+  Np  Np6       1.0  0.40300  0.25000  0.75000  1.0000

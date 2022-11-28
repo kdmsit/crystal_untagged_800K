@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Te(NO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91309523
+_cell_length_b   4.91309523
+_cell_length_c   6.74220983
+_cell_angle_alpha   75.45444481
+_cell_angle_beta   75.45444481
+_cell_angle_gamma   72.76536135
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Te(NO3)2
+_chemical_formula_sum   'Te1 N2 O6'
+_cell_volume   147.68232537
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.00000000  0.00000000  0.00000000  1
+  N  N1  1  0.63342700  0.63342700  0.74047500  1
+  N  N2  1  0.36657300  0.36657300  0.25952500  1
+  O  O3  1  0.32634100  0.32634100  0.43707000  1
+  O  O4  1  0.67365900  0.67365900  0.56293000  1
+  O  O5  1  0.73964100  0.18922400  0.81387600  1
+  O  O6  1  0.18922400  0.73964100  0.81387600  1
+  O  O7  1  0.26035900  0.81077600  0.18612400  1
+  O  O8  1  0.81077600  0.26035900  0.18612400  1

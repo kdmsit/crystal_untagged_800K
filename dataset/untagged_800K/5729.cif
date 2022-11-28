@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ho2Sn4
+_chemical_formula_sum              "Ho2 Sn4"
+_cell_length_a       4.32701
+_cell_length_b       4.39049
+_cell_length_c       8.44006
+_cell_angle_alpha    74.9241
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.25000  0.90100  0.19700  1.0000
+  Ho  Ho2       1.0  0.75000  0.09870  0.80300  1.0000
+  Sn  Sn1       1.0  0.75000  0.43700  0.12500  1.0000
+  Sn  Sn2       1.0  0.25000  0.25100  0.49800  1.0000
+  Sn  Sn3       1.0  0.75000  0.74900  0.50200  1.0000
+  Sn  Sn4       1.0  0.25000  0.56300  0.87500  1.0000

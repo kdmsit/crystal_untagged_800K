@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In3Ni3Th3
+_chemical_formula_sum              "In3 Ni3 Th3"
+_cell_length_a       7.35702
+_cell_length_b       7.35702
+_cell_length_c       4.15271
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.119
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.00000  0.24400  0.00000  1.0000
+  In  In2       1.0  0.75600  0.75600  0.00000  1.0000
+  In  In3       1.0  0.24400  1.00000  0.00000  1.0000
+  Ni  Ni1       1.0  0.66700  0.33300  0.00000  1.0000
+  Ni  Ni2       1.0  0.33300  0.66700  0.00000  1.0000
+  Ni  Ni3       1.0  0.00023  0.00023  0.50000  1.0000
+  Th  Th1       1.0  0.41700  0.41700  0.50000  1.0000
+  Th  Th2       1.0  0.00000  0.58300  0.50000  1.0000
+  Th  Th3       1.0  0.58300  1.00000  0.50000  1.0000

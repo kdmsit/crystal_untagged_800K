@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmAlFe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48335607
+_cell_length_b   5.47187246
+_cell_length_c   8.71880500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.93555586
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmAlFe
+_chemical_formula_sum   'Sm4 Al4 Fe4'
+_cell_volume   226.70007702
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.66550100  0.33269300  0.56350100  1
+  Sm  Sm1  1  0.32495200  0.66251700  0.44956400  1
+  Sm  Sm2  1  0.32495200  0.66251700  0.05043600  1
+  Sm  Sm3  1  0.66550100  0.33269300  0.93649900  1
+  Al  Al4  1  0.67848100  0.83919600  0.75000000  1
+  Al  Al5  1  0.83677300  0.67479000  0.25000000  1
+  Al  Al6  1  0.83675900  0.16197000  0.25000000  1
+  Al  Al7  1  0.32544500  0.16272100  0.25000000  1
+  Fe  Fe8  1  0.01445200  0.00726100  0.51228000  1
+  Fe  Fe9  1  0.01445200  0.00726100  0.98772000  1
+  Fe  Fe10  1  0.15640100  0.31918700  0.75000000  1
+  Fe  Fe11  1  0.15633200  0.83719500  0.75000000  1

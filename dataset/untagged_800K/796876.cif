@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_Ti2PbC
+_symmetry_space_group_name_H-M  'P6_3/mmc'
+_cell_length_a       3.22908
+_cell_length_b       3.22908
+_cell_length_c       13.9437
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  194
+_chemical_formula_structural  Ti2PbC
+_chemical_formula_sum  Ti4Pb2C2
+_cell_volume  125.91184682775993
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.00000  0.00000  0.50000  1
+ C  C2  1  0.00000  0.00000  0.00000  1
+ Pb  Pb1  1  0.66667  0.33333  0.25000  1
+ Pb  Pb2  1  0.33333  0.66667  0.75000  1
+ Ti  Ti1  1  0.66667  0.33333  0.57748  1
+ Ti  Ti2  1  0.33333  0.66667  0.42252  1
+ Ti  Ti3  1  0.33333  0.66667  0.07748  1
+ Ti  Ti4  1  0.66667  0.33333  0.92252  1

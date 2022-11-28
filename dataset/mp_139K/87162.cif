@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Ti3TePb4O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42415559
+_cell_length_b   7.42415559
+_cell_length_c   7.42415569
+_cell_angle_alpha   59.59222644
+_cell_angle_beta   59.59222644
+_cell_angle_gamma   59.59222703
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3TePb4O13
+_chemical_formula_sum   'Ti3 Te1 Pb4 O13'
+_cell_volume   286.66990764
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.99823600  0.50042900  0.50042900  1
+  Ti  Ti1  1  0.50042900  0.50042900  0.99823600  1
+  Ti  Ti2  1  0.50042900  0.99823600  0.50042900  1
+  Te  Te3  1  0.50015200  0.50015200  0.50015200  1
+  Pb  Pb4  1  0.49298200  0.00258300  0.00258300  1
+  Pb  Pb5  1  0.00258300  0.00258300  0.49298200  1
+  Pb  Pb6  1  0.00258300  0.49298200  0.00258300  1
+  Pb  Pb7  1  0.00181000  0.00181000  0.00181000  1
+  O  O8  1  0.18179200  0.56557100  0.18179200  1
+  O  O9  1  0.57002800  0.18606100  0.57002800  1
+  O  O10  1  0.18179200  0.18179200  0.56557100  1
+  O  O11  1  0.57002800  0.57002800  0.18606100  1
+  O  O12  1  0.56557100  0.18179200  0.18179200  1
+  O  O13  1  0.18606100  0.57002800  0.57002800  1
+  O  O14  1  0.81520100  0.43815400  0.81520100  1
+  O  O15  1  0.43278600  0.81225200  0.43278600  1
+  O  O16  1  0.81520100  0.81520100  0.43815400  1
+  O  O17  1  0.43278600  0.43278600  0.81225200  1
+  O  O18  1  0.43815400  0.81520100  0.81520100  1
+  O  O19  1  0.81225200  0.43278600  0.43278600  1
+  O  O20  1  0.87414500  0.87414500  0.87414500  1

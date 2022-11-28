@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CaSnAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06167952
+_cell_length_b   6.06167952
+_cell_length_c   6.06167952
+_cell_angle_alpha   133.20785274
+_cell_angle_beta   104.93049309
+_cell_angle_gamma   93.30814365
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSnAu
+_chemical_formula_sum   'Ca2 Sn2 Au2'
+_cell_volume   147.94177846
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.68703000  0.68703000  0.00000000  1
+  Ca  Ca1  1  0.11886400  0.61886400  0.50000000  1
+  Sn  Sn2  1  0.28192800  0.98706100  0.29486700  1
+  Sn  Sn3  1  0.69219400  0.98706100  0.70513300  1
+  Au  Au4  1  0.53941500  0.31770200  0.22171300  1
+  Au  Au5  1  0.09598900  0.31770200  0.77828700  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Zr5AlNi4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24026700
+_cell_length_b   7.24026700
+_cell_length_c   6.61255100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr5AlNi4
+_chemical_formula_sum   'Zr10 Al2 Ni8'
+_cell_volume   346.63961895
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.32042200  0.82042200  0.25000000  1
+  Zr  Zr1  1  0.67957800  0.17957800  0.25000000  1
+  Zr  Zr2  1  0.17957800  0.32042200  0.75000000  1
+  Zr  Zr3  1  0.82042200  0.67957800  0.75000000  1
+  Zr  Zr4  1  0.83873800  0.66126200  0.25000000  1
+  Zr  Zr5  1  0.16126200  0.33873800  0.25000000  1
+  Zr  Zr6  1  0.66126200  0.16126200  0.75000000  1
+  Zr  Zr7  1  0.33873800  0.83873800  0.75000000  1
+  Zr  Zr8  1  0.00000000  0.00000000  0.00000000  1
+  Zr  Zr9  1  0.50000000  0.50000000  0.50000000  1
+  Al  Al10  1  0.00000000  0.00000000  0.50000000  1
+  Al  Al11  1  0.50000000  0.50000000  0.00000000  1
+  Ni  Ni12  1  0.12481500  0.62455000  0.97609500  1
+  Ni  Ni13  1  0.87518500  0.37545000  0.97609500  1
+  Ni  Ni14  1  0.37518500  0.12455000  0.47609500  1
+  Ni  Ni15  1  0.62481500  0.87545000  0.47609500  1
+  Ni  Ni16  1  0.87545000  0.37518500  0.52390500  1
+  Ni  Ni17  1  0.12455000  0.62481500  0.52390500  1
+  Ni  Ni18  1  0.62455000  0.87518500  0.02390500  1
+  Ni  Ni19  1  0.37545000  0.12481500  0.02390500  1

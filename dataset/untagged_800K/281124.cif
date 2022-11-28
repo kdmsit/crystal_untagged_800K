@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Li2MnO6Ta
+_chemical_formula_sum              "Li2 Mn1 O6 Ta1"
+_cell_length_a       5.11592
+_cell_length_b       5.11592
+_cell_length_c       5.04913
+_cell_angle_alpha    101.07
+_cell_angle_beta     101.07
+_cell_angle_gamma    119.135
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.50300  0.49700  0.00000  1.0000
+  Li  Li2       1.0  0.98500  0.01490  0.50000  1.0000
+  Mn  Mn1       1.0  0.83000  0.17000  0.00000  1.0000
+  O   O1        1.0  0.60000  0.93900  0.21700  1.0000
+  O   O2        1.0  0.92600  0.57700  0.21900  1.0000
+  O   O3        1.0  0.20200  0.21200  0.22900  1.0000
+  O   O4        1.0  0.78800  0.79800  0.77100  1.0000
+  O   O5        1.0  0.42300  0.07440  0.78100  1.0000
+  O   O6        1.0  0.06110  0.40000  0.78300  1.0000
+  Ta  Ta1       1.0  0.17400  0.82600  0.00000  1.0000

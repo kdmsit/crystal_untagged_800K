@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Li4O6PrU
+_chemical_formula_sum              "Li4 O6 Pr1 U1"
+_cell_length_a       5.84147
+_cell_length_b       5.84147
+_cell_length_c       5.2108
+_cell_angle_alpha    98.9982
+_cell_angle_beta     98.9982
+_cell_angle_gamma    121.88
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.50400  0.49600  0.00000  1.0000
+  Li  Li2       1.0  0.02080  0.97900  0.50000  1.0000
+  Li  Li3       1.0  0.63500  0.36500  0.50000  1.0000
+  Li  Li4       1.0  0.37800  0.62200  0.50000  1.0000
+  O   O1        1.0  0.90200  0.59700  0.23200  1.0000
+  O   O2        1.0  0.54100  0.89900  0.25100  1.0000
+  O   O3        1.0  0.24700  0.22900  0.25500  1.0000
+  O   O4        1.0  0.77100  0.75300  0.74500  1.0000
+  O   O5        1.0  0.10100  0.45900  0.74900  1.0000
+  O   O6        1.0  0.40300  0.09760  0.76800  1.0000
+  Pr  Pr1       1.0  0.83400  0.16600  0.00000  1.0000
+  U   U1        1.0  0.16500  0.83500  0.00000  1.0000

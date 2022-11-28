@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_In4CuAg3Te8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52372700
+_cell_length_b   6.52372700
+_cell_length_c   12.83391500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In4CuAg3Te8
+_chemical_formula_sum   'In4 Cu1 Ag3 Te8'
+_cell_volume   546.19876778
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.50000000  0.00000000  0.25231800  1
+  In  In1  1  0.00000000  0.50000000  0.74768200  1
+  In  In2  1  0.50000000  0.50000000  0.00000000  1
+  In  In3  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu4  1  0.50000000  0.50000000  0.50000000  1
+  Ag  Ag5  1  0.00000000  0.50000000  0.25152600  1
+  Ag  Ag6  1  0.50000000  0.00000000  0.74847400  1
+  Ag  Ag7  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te8  1  0.73794800  0.26798800  0.38120100  1
+  Te  Te9  1  0.24937600  0.75695300  0.87451400  1
+  Te  Te10  1  0.26205200  0.73201200  0.38120100  1
+  Te  Te11  1  0.75062400  0.24304700  0.87451400  1
+  Te  Te12  1  0.24304700  0.24937600  0.12548600  1
+  Te  Te13  1  0.73201200  0.73794800  0.61879900  1
+  Te  Te14  1  0.75695300  0.75062400  0.12548600  1
+  Te  Te15  1  0.26798800  0.26205200  0.61879900  1

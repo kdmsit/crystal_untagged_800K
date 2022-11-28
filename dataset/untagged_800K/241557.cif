@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Ag3C6KMnN6
+_chemical_formula_sum              "Ag3 C6 K1 Mn1 N6"
+_cell_length_a       6.81565
+_cell_length_b       6.8157
+_cell_length_c       8.15658
+_cell_angle_alpha    89.9999
+_cell_angle_beta     90.0001
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.01080  0.50500  0.50000  1.0000
+  Ag  Ag2       1.0  0.49500  0.98900  0.50000  1.0000
+  Ag  Ag3       1.0  0.49500  0.50500  0.50000  1.0000
+  C   C1        1.0  0.34300  0.99500  0.28500  1.0000
+  C   C2        1.0  0.00453  0.34700  0.28500  1.0000
+  C   C3        1.0  0.65300  0.65700  0.28500  1.0000
+  C   C4        1.0  0.00453  0.65700  0.71500  1.0000
+  C   C5        1.0  0.34300  0.34700  0.71500  1.0000
+  C   C6        1.0  0.65300  0.99500  0.71500  1.0000
+  K   K1        1.0  0.66700  0.33300  0.00000  1.0000
+  Mn  Mn1       1.0  0.00000  0.00000  0.00000  1.0000
+  N   N1        1.0  0.25700  0.00404  0.16300  1.0000
+  N   N2        1.0  0.99600  0.25300  0.16300  1.0000
+  N   N3        1.0  0.74700  0.74300  0.16300  1.0000
+  N   N4        1.0  0.99600  0.74300  0.83700  1.0000
+  N   N5        1.0  0.25700  0.25300  0.83700  1.0000
+  N   N6        1.0  0.74700  0.00404  0.83700  1.0000

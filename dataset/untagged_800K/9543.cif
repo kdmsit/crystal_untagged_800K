@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cd2P2S6
+_chemical_formula_sum              "Cd2 P2 S6"
+_cell_length_a       6.26726
+_cell_length_b       6.26726
+_cell_length_c       6.98475
+_cell_angle_alpha    98.5367
+_cell_angle_beta     98.5367
+_cell_angle_gamma    119.956
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.66800  0.33200  0.00000  1.0000
+  Cd  Cd2       1.0  0.33200  0.66800  0.00000  1.0000
+  P   P1        1.0  0.05500  0.05500  0.16900  1.0000
+  P   P2        1.0  0.94500  0.94500  0.83100  1.0000
+  S   S1        1.0  0.76900  0.76900  0.25200  1.0000
+  S   S2        1.0  0.39500  0.08320  0.25700  1.0000
+  S   S3        1.0  0.08320  0.39500  0.25700  1.0000
+  S   S4        1.0  0.91700  0.60500  0.74300  1.0000
+  S   S5        1.0  0.60500  0.91700  0.74300  1.0000
+  S   S6        1.0  0.23100  0.23100  0.74800  1.0000

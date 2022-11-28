@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_V5Bi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68233289
+_cell_length_b   7.97964680
+_cell_length_c   7.97964779
+_cell_angle_alpha   82.71685732
+_cell_angle_beta   69.14208963
+_cell_angle_gamma   69.14209200
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V5Bi3
+_chemical_formula_sum   'V10 Bi6'
+_cell_volume   315.95216985
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.57823500  0.64740800  0.19612200  1
+  V  V1  1  0.42176500  0.35259200  0.80387800  1
+  V  V2  1  0.77435700  0.80387800  0.64740800  1
+  V  V3  1  0.22564300  0.19612200  0.35259200  1
+  V  V4  1  0.92176500  0.80387800  0.35259200  1
+  V  V5  1  0.27435700  0.64740800  0.80387800  1
+  V  V6  1  0.25000000  0.50000000  0.50000000  1
+  V  V7  1  0.75000000  0.50000000  0.50000000  1
+  V  V8  1  0.07823500  0.19612200  0.64740800  1
+  V  V9  1  0.72564300  0.35259200  0.19612200  1
+  Bi  Bi10  1  0.82677600  0.50000000  0.84644900  1
+  Bi  Bi11  1  0.67322400  0.15355100  0.50000000  1
+  Bi  Bi12  1  0.32677600  0.84644900  0.50000000  1
+  Bi  Bi13  1  0.17322400  0.50000000  0.15355100  1
+  Bi  Bi14  1  0.75000000  0.00000000  0.00000000  1
+  Bi  Bi15  1  0.25000000  0.00000000  0.00000000  1

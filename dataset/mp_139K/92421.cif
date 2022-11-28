@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AsH4NF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18826000
+_cell_length_b   5.23669298
+_cell_length_c   5.24013705
+_cell_angle_alpha   101.21492292
+_cell_angle_beta   102.27641713
+_cell_angle_gamma   101.32280911
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AsH4NF6
+_chemical_formula_sum   'As1 H4 N1 F6'
+_cell_volume   132.19637075
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.00000000  0.00000000  0.00000000  1
+  H  H1  1  0.40535400  0.46885900  0.28927100  1
+  H  H2  1  0.45739800  0.28826600  0.46502800  1
+  H  H3  1  0.59464600  0.53114100  0.71072900  1
+  H  H4  1  0.54260200  0.71173400  0.53497200  1
+  N  N5  1  0.50000000  0.50000000  0.50000000  1
+  F  F6  1  0.88384300  0.18045900  0.24896400  1
+  F  F7  1  0.21851800  0.30630400  0.98339200  1
+  F  F8  1  0.27187200  0.96180200  0.25374500  1
+  F  F9  1  0.11615700  0.81954100  0.75103600  1
+  F  F10  1  0.78148200  0.69369600  0.01660800  1
+  F  F11  1  0.72812800  0.03819800  0.74625500  1

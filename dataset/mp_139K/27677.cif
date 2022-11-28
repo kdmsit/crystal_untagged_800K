@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfVSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05703242
+_cell_length_b   5.05703242
+_cell_length_c   8.45818200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.20847046
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfVSi
+_chemical_formula_sum   'Hf4 V4 Si4'
+_cell_volume   190.61608262
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.33199800  0.66800200  0.18615500  1
+  Hf  Hf1  1  0.66911500  0.33088500  0.31065100  1
+  Hf  Hf2  1  0.66911500  0.33088500  0.68934900  1
+  Hf  Hf3  1  0.33199800  0.66800200  0.81384500  1
+  V  V4  1  0.83799400  0.16200600  0.00000000  1
+  V  V5  1  0.17563800  0.35229600  0.50000000  1
+  V  V6  1  0.64770400  0.82436200  0.50000000  1
+  V  V7  1  0.17234200  0.82765800  0.50000000  1
+  Si  Si8  1  0.99261800  0.00738200  0.25959500  1
+  Si  Si9  1  0.99261800  0.00738200  0.74040500  1
+  Si  Si10  1  0.82780100  0.65015600  0.00000000  1
+  Si  Si11  1  0.34984400  0.17219900  0.00000000  1

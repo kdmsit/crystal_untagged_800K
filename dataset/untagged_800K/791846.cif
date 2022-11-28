@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_YbCu
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.2383
+_cell_length_b       5.53752
+_cell_length_c       7.18979
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  YbCu
+_chemical_formula_sum  Yb4Cu4
+_cell_volume  168.74206231385116
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.25000  0.62122  0.03445  1
+ Cu  Cu2  1  0.75000  0.37878  0.96555  1
+ Cu  Cu3  1  0.75000  0.12122  0.46555  1
+ Cu  Cu4  1  0.25000  0.87878  0.53445  1
+ Yb  Yb1  1  0.25000  0.13244  0.18082  1
+ Yb  Yb2  1  0.75000  0.86756  0.81918  1
+ Yb  Yb3  1  0.75000  0.63244  0.31918  1
+ Yb  Yb4  1  0.25000  0.36756  0.68082  1

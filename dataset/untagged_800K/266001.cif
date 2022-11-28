@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Li4O6PdTe
+_chemical_formula_sum              "Li4 O6 Pd1 Te1"
+_cell_length_a       5.2159
+_cell_length_b       5.21587
+_cell_length_c       5.3427
+_cell_angle_alpha    103.968
+_cell_angle_beta     103.968
+_cell_angle_gamma    114.709
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.50100  0.49900  0.00000  1.0000
+  Li  Li2       1.0  0.33300  0.66700  0.50000  1.0000
+  Li  Li3       1.0  0.98700  0.01350  0.50000  1.0000
+  Li  Li4       1.0  0.67200  0.32800  0.50000  1.0000
+  O   O1        1.0  0.93800  0.61000  0.20100  1.0000
+  O   O2        1.0  0.23800  0.21500  0.24300  1.0000
+  O   O3        1.0  0.52900  0.88200  0.27600  1.0000
+  O   O4        1.0  0.11800  0.47100  0.72400  1.0000
+  O   O5        1.0  0.78500  0.76200  0.75700  1.0000
+  O   O6        1.0  0.39000  0.06210  0.79900  1.0000
+  Pd  Pd1       1.0  0.83400  0.16600  0.00000  1.0000
+  Te  Te1       1.0  0.17600  0.82400  0.00000  1.0000

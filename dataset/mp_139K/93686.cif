@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Cd(FeN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.10154124
+_cell_length_b   3.17322298
+_cell_length_c   7.99276650
+_cell_angle_alpha   89.99999625
+_cell_angle_beta   73.83910853
+_cell_angle_gamma   120.76751769
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd(FeN)2
+_chemical_formula_sum   'Cd1 Fe2 N2'
+_cell_volume   63.94747739
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe1  1  0.55246800  0.27623400  0.11194400  1
+  Fe  Fe2  1  0.44753200  0.72376600  0.88805600  1
+  N  N3  1  0.81385600  0.40692900  0.84477800  1
+  N  N4  1  0.18614400  0.59307100  0.15522200  1

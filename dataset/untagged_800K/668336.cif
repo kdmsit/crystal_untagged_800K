@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Na3EuV2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98824809
+_cell_length_b   5.98824809
+_cell_length_c   7.32713400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000103
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3EuV2O8
+_chemical_formula_sum   'Na3 Eu1 V2 O8'
+_cell_volume   227.54344606
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33333300  0.66666700  0.69367700  1
+  Na  Na1  1  0.66666700  0.33333300  0.30632300  1
+  Na  Na2  1  0.00000000  0.00000000  0.00000000  1
+  Eu  Eu3  1  0.00000000  0.00000000  0.50000000  1
+  V  V4  1  0.33333300  0.66666700  0.22140000  1
+  V  V5  1  0.66666700  0.33333300  0.77860000  1
+  O  O6  1  0.33333300  0.66666700  0.99161000  1
+  O  O7  1  0.66666700  0.33333300  0.00839000  1
+  O  O8  1  0.17397600  0.82602400  0.30536000  1
+  O  O9  1  0.82602400  0.17397600  0.69464000  1
+  O  O10  1  0.17397600  0.34795100  0.30536000  1
+  O  O11  1  0.82602400  0.65204900  0.69464000  1
+  O  O12  1  0.65204900  0.82602400  0.30536000  1
+  O  O13  1  0.34795100  0.17397600  0.69464000  1

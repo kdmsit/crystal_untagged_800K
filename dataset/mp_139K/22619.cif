@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ga5CuSe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52141400
+_cell_length_b   5.52141400
+_cell_length_c   11.26954900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga5CuSe8
+_chemical_formula_sum   'Ga5 Cu1 Se8'
+_cell_volume   343.56361235
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.00000000  0.50000000  0.25490300  1
+  Ga  Ga1  1  0.50000000  0.00000000  0.74509700  1
+  Ga  Ga2  1  0.00000000  0.50000000  0.74509700  1
+  Ga  Ga3  1  0.50000000  0.00000000  0.25490300  1
+  Ga  Ga4  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu5  1  0.50000000  0.50000000  0.50000000  1
+  Se  Se6  1  0.26811200  0.26811200  0.11509300  1
+  Se  Se7  1  0.73188800  0.73188800  0.11509300  1
+  Se  Se8  1  0.26811200  0.73188800  0.88490700  1
+  Se  Se9  1  0.73188800  0.26811200  0.88490700  1
+  Se  Se10  1  0.23870700  0.23870700  0.61758700  1
+  Se  Se11  1  0.76129300  0.76129300  0.61758700  1
+  Se  Se12  1  0.23870700  0.76129300  0.38241300  1
+  Se  Se13  1  0.76129300  0.23870700  0.38241300  1

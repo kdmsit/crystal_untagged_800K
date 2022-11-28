@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AlFe4Hg2O2F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60369000
+_cell_length_b   8.68657578
+_cell_length_c   8.68657578
+_cell_angle_alpha   78.95650289
+_cell_angle_beta   64.04475104
+_cell_angle_gamma   64.04475104
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlFe4Hg2O2F
+_chemical_formula_sum   'Al2 Fe8 Hg4 O4 F2'
+_cell_volume   463.84465738
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.25209900  0.00000000  0.00000000  1
+  Al  Al1  1  0.75209900  0.00000000  0.00000000  1
+  Fe  Fe2  1  0.27437600  0.15771600  0.69821500  1
+  Fe  Fe3  1  0.13030700  0.84228400  0.30178500  1
+  Fe  Fe4  1  0.97259100  0.30178500  0.15771600  1
+  Fe  Fe5  1  0.77437600  0.69821500  0.15771600  1
+  Fe  Fe6  1  0.43209200  0.69821500  0.84228400  1
+  Fe  Fe7  1  0.63030700  0.30178500  0.84228400  1
+  Fe  Fe8  1  0.47259100  0.15771600  0.30178500  1
+  Fe  Fe9  1  0.93209200  0.84228400  0.69821500  1
+  Hg  Hg10  1  0.14579300  0.50000000  0.27249400  1
+  Hg  Hg11  1  0.91828800  0.50000000  0.72750600  1
+  Hg  Hg12  1  0.41828800  0.72750600  0.50000000  1
+  Hg  Hg13  1  0.64579300  0.27249400  0.50000000  1
+  O  O14  1  0.81025400  0.50000000  0.07544000  1
+  O  O15  1  0.38569400  0.50000000  0.92456000  1
+  O  O16  1  0.88569400  0.92456000  0.50000000  1
+  O  O17  1  0.31025400  0.07544000  0.50000000  1
+  F  F18  1  0.99240700  0.00000000  0.00000000  1
+  F  F19  1  0.49240700  0.00000000  0.00000000  1

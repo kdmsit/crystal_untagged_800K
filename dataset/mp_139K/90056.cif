@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La2(GaNi)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33212228
+_cell_length_b   6.33212228
+_cell_length_c   5.18105100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   101.06699055
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2(GaNi)5
+_chemical_formula_sum   'La2 Ga5 Ni5'
+_cell_volume   203.87502116
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.68904700  0.68904700  0.00000000  1
+  La  La1  1  0.31032900  0.31032900  0.50000000  1
+  Ga  Ga2  1  0.21877300  0.77459300  0.25516900  1
+  Ga  Ga3  1  0.21877300  0.77459300  0.74483100  1
+  Ga  Ga4  1  0.77459300  0.21877300  0.25516900  1
+  Ga  Ga5  1  0.77459300  0.21877300  0.74483100  1
+  Ga  Ga6  1  0.08845400  0.08845400  0.00000000  1
+  Ni  Ni7  1  0.93618400  0.93618400  0.50000000  1
+  Ni  Ni8  1  0.07574100  0.46030900  0.00000000  1
+  Ni  Ni9  1  0.54268700  0.91051700  0.50000000  1
+  Ni  Ni10  1  0.91051700  0.54268700  0.50000000  1
+  Ni  Ni11  1  0.46030900  0.07574100  0.00000000  1

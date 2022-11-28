@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf4CuP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.48771900
+_cell_length_b   6.48771900
+_cell_length_c   5.21553800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf4CuP
+_chemical_formula_sum   'Hf8 Cu2 P2'
+_cell_volume   219.52459083
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.15890600  0.65367500  0.50000000  1
+  Hf  Hf1  1  0.84109400  0.34632500  0.50000000  1
+  Hf  Hf2  1  0.65367500  0.84109400  0.50000000  1
+  Hf  Hf3  1  0.34632500  0.15890600  0.50000000  1
+  Hf  Hf4  1  0.15890600  0.34632500  0.00000000  1
+  Hf  Hf5  1  0.84109400  0.65367500  0.00000000  1
+  Hf  Hf6  1  0.65367500  0.15890600  0.00000000  1
+  Hf  Hf7  1  0.34632500  0.84109400  0.00000000  1
+  Cu  Cu8  1  0.00000000  0.00000000  0.25000000  1
+  Cu  Cu9  1  0.00000000  0.00000000  0.75000000  1
+  P  P10  1  0.50000000  0.50000000  0.25000000  1
+  P  P11  1  0.50000000  0.50000000  0.75000000  1

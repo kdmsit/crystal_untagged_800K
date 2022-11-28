@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       C4CdN4Se4Zn
+_chemical_formula_sum              "C4 Cd1 N4 Se4 Zn1"
+_cell_length_a       4.63237
+_cell_length_b       8.3382
+_cell_length_c       8.3382
+_cell_angle_alpha    94.4254
+_cell_angle_beta     73.8723
+_cell_angle_gamma    106.128
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.46000  0.35500  0.20500  1.0000
+  C   C2        1.0  0.33500  0.79500  0.35500  1.0000
+  C   C3        1.0  0.89600  0.20500  0.64500  1.0000
+  C   C4        1.0  0.31000  0.64500  0.79500  1.0000
+  Cd  Cd1       1.0  0.50000  0.00000  0.00000  1.0000
+  N   N1        1.0  0.56100  0.41000  0.31900  1.0000
+  N   N2        1.0  0.12100  0.68100  0.41000  1.0000
+  N   N3        1.0  0.84900  0.31900  0.59000  1.0000
+  N   N4        1.0  0.46900  0.59000  0.68100  1.0000
+  Se  Se1       1.0  0.30000  0.27700  0.03120  1.0000
+  Se  Se2       1.0  0.66900  0.96900  0.27700  1.0000
+  Se  Se3       1.0  0.97700  0.03120  0.72300  1.0000
+  Se  Se4       1.0  0.05380  0.72300  0.96900  1.0000
+  Zn  Zn1       1.0  0.75000  0.50000  0.50000  1.0000

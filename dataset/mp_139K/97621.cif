@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ba3Sr(CoO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.83048451
+_cell_length_b   5.67418750
+_cell_length_c   9.82093458
+_cell_angle_alpha   90.01854061
+_cell_angle_beta   89.94997641
+_cell_angle_gamma   89.53080348
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Sr(CoO3)4
+_chemical_formula_sum   'Ba3 Sr1 Co4 O12'
+_cell_volume   269.17358785
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25039900  0.99949300  0.66688400  1
+  Ba  Ba1  1  0.74890300  0.00060800  0.33149800  1
+  Ba  Ba2  1  0.75040200  0.49986500  0.83509900  1
+  Sr  Sr3  1  0.24638700  0.50033500  0.16814100  1
+  Co  Co4  1  0.00040400  0.99993800  0.00372600  1
+  Co  Co5  1  0.99982000  0.50011800  0.49603300  1
+  Co  Co6  1  0.50059800  0.00010300  0.00385400  1
+  Co  Co7  1  0.50016400  0.49996400  0.49596000  1
+  O  O8  1  0.75041900  0.50033800  0.34552000  1
+  O  O9  1  0.74559600  0.99996700  0.85409400  1
+  O  O10  1  0.25463000  0.99935300  0.15242200  1
+  O  O11  1  0.24984800  0.49975600  0.64661500  1
+  O  O12  1  0.76532200  0.77818500  0.07635900  1
+  O  O13  1  0.74024300  0.22511600  0.07644400  1
+  O  O14  1  0.74803500  0.27994800  0.57075000  1
+  O  O15  1  0.75167900  0.72003600  0.57087400  1
+  O  O16  1  0.25177600  0.71853900  0.42034800  1
+  O  O17  1  0.24833900  0.28164000  0.42011500  1
+  O  O18  1  0.23791100  0.22337000  0.93256300  1
+  O  O19  1  0.25912400  0.77332300  0.93270100  1

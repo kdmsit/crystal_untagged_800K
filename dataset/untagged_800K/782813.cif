@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_HoMnSi
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.11406
+_cell_length_b       6.94114
+_cell_length_c       7.41515
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  HoMnSi
+_chemical_formula_sum  Ho4Mn4Si4
+_cell_volume  211.74899137621253
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ho  Ho1  1  0.25000  0.50382  0.18754  1
+ Ho  Ho2  1  0.75000  0.49618  0.81246  1
+ Ho  Ho3  1  0.25000  0.00382  0.31246  1
+ Ho  Ho4  1  0.75000  0.99618  0.68754  1
+ Mn  Mn1  1  0.75000  0.85818  0.06125  1
+ Mn  Mn2  1  0.25000  0.14182  0.93875  1
+ Mn  Mn3  1  0.75000  0.35818  0.43875  1
+ Mn  Mn4  1  0.25000  0.64182  0.56125  1
+ Si  Si1  1  0.25000  0.79103  0.89163  1
+ Si  Si2  1  0.75000  0.20897  0.10837  1
+ Si  Si3  1  0.25000  0.29103  0.60837  1
+ Si  Si4  1  0.75000  0.70897  0.39163  1

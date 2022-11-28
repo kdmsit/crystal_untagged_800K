@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ce3Ga10Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22378500
+_cell_length_b   4.31006400
+_cell_length_c   15.26939800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3Ga10Ni
+_chemical_formula_sum   'Ce3 Ga10 Ni1'
+_cell_volume   277.97608740
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00000000  0.50000000  0.50000000  1
+  Ce  Ce1  1  0.00000000  0.00000000  0.24573600  1
+  Ce  Ce2  1  0.00000000  0.00000000  0.75426400  1
+  Ga  Ga3  1  0.50000000  0.50000000  0.18461500  1
+  Ga  Ga4  1  0.50000000  0.50000000  0.81538500  1
+  Ga  Ga5  1  0.50000000  0.50000000  0.34190000  1
+  Ga  Ga6  1  0.50000000  0.50000000  0.65810000  1
+  Ga  Ga7  1  0.50000000  0.00000000  0.41924400  1
+  Ga  Ga8  1  0.50000000  0.00000000  0.58075600  1
+  Ga  Ga9  1  0.50000000  0.00000000  0.08501600  1
+  Ga  Ga10  1  0.50000000  0.00000000  0.91498400  1
+  Ga  Ga11  1  0.00000000  0.50000000  0.08418900  1
+  Ga  Ga12  1  0.00000000  0.50000000  0.91581100  1
+  Ni  Ni13  1  0.00000000  0.00000000  0.00000000  1

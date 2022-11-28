@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cd2F12Tb2
+_chemical_formula_sum              "Cd2 F12 Tb2"
+_cell_length_a       5.032
+_cell_length_b       5.032
+_cell_length_c       7.62338
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cd  Cd2       1.0  0.00000  0.00000  0.50000  1.0000
+  F   F1        1.0  0.26700  0.39000  0.00000  1.0000
+  F   F2        1.0  0.73300  0.61000  0.00000  1.0000
+  F   F3        1.0  0.70000  0.12200  0.17900  1.0000
+  F   F4        1.0  0.30000  0.87800  0.17900  1.0000
+  F   F5        1.0  0.12200  0.30000  0.32100  1.0000
+  F   F6        1.0  0.87800  0.70000  0.32100  1.0000
+  F   F7        1.0  0.61000  0.26700  0.50000  1.0000
+  F   F8        1.0  0.39000  0.73300  0.50000  1.0000
+  F   F9        1.0  0.12200  0.30000  0.67900  1.0000
+  F   F10       1.0  0.87800  0.70000  0.67900  1.0000
+  F   F11       1.0  0.70000  0.12200  0.82100  1.0000
+  F   F12       1.0  0.30000  0.87800  0.82100  1.0000
+  Tb  Tb1       1.0  0.50000  0.50000  0.25000  1.0000
+  Tb  Tb2       1.0  0.50000  0.50000  0.75000  1.0000

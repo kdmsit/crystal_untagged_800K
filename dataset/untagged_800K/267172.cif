@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CoGe3Nd
+_chemical_formula_sum              "Co1 Ge3 Nd1"
+_cell_length_a       4.32386
+_cell_length_b       4.32386
+_cell_length_c       5.81349
+_cell_angle_alpha    111.832
+_cell_angle_beta     111.832
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.00049  0.00049  0.00097  1.0000
+  Ge  Ge1       1.0  0.59500  0.09470  0.18900  1.0000
+  Ge  Ge2       1.0  0.09470  0.59500  0.18900  1.0000
+  Ge  Ge3       1.0  0.76900  0.76900  0.53800  1.0000
+  Nd  Nd1       1.0  0.33700  0.33700  0.67300  1.0000

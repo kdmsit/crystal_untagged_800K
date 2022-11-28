@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_NaIn2Au
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       4.48893
+_cell_length_b       5.75085
+_cell_length_c       8.0707
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    112.972
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  NaIn2Au
+_chemical_formula_sum  Na2In4Au2
+_cell_volume  191.82351422350288
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Au  Au1  1  0.28435  0.56869  0.25000  1
+ Au  Au2  1  0.71565  0.43131  0.75000  1
+ In  In1  1  0.13842  0.27684  0.94982  1
+ In  In2  1  0.86158  0.72316  0.05018  1
+ In  In3  1  0.86158  0.72316  0.44982  1
+ In  In4  1  0.13842  0.27684  0.55018  1
+ Na  Na1  1  0.56999  0.13997  0.25000  1
+ Na  Na2  1  0.43001  0.86003  0.75000  1

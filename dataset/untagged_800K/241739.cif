@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Mo2O12Te2Zn2
+_chemical_formula_sum              "Mo2 O12 Te2 Zn2"
+_cell_length_a       5.24306
+_cell_length_b       5.04003
+_cell_length_c       8.78748
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.50000  0.00000  0.18700  1.0000
+  Mo  Mo2       1.0  0.00000  0.50000  0.81300  1.0000
+  O   O1        1.0  0.71700  0.15700  0.06800  1.0000
+  O   O2        1.0  0.28300  0.84300  0.06800  1.0000
+  O   O3        1.0  0.31900  0.26100  0.29200  1.0000
+  O   O4        1.0  0.68100  0.73900  0.29200  1.0000
+  O   O5        1.0  0.82100  0.27600  0.39000  1.0000
+  O   O6        1.0  0.17900  0.72400  0.39000  1.0000
+  O   O7        1.0  0.32100  0.22400  0.61000  1.0000
+  O   O8        1.0  0.67900  0.77600  0.61000  1.0000
+  O   O9        1.0  0.81900  0.23900  0.70800  1.0000
+  O   O10       1.0  0.18100  0.76100  0.70800  1.0000
+  O   O11       1.0  0.21700  0.34300  0.93200  1.0000
+  O   O12       1.0  0.78300  0.65700  0.93200  1.0000
+  Te  Te1       1.0  0.00000  0.50000  0.24700  1.0000
+  Te  Te2       1.0  0.50000  0.00000  0.75300  1.0000
+  Zn  Zn1       1.0  0.50000  0.50000  0.47900  1.0000
+  Zn  Zn2       1.0  0.00000  0.00000  0.52100  1.0000

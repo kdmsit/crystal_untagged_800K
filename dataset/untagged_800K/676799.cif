@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ba3SrAg4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98871300
+_cell_length_b   6.62181500
+_cell_length_c   8.65604956
+_cell_angle_alpha   89.27260094
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3SrAg4
+_chemical_formula_sum   'Ba3 Sr1 Ag4'
+_cell_volume   285.92379382
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.36809800  0.18047900  1
+  Ba  Ba1  1  0.00000000  0.87070900  0.32228000  1
+  Ba  Ba2  1  0.00000000  0.63102900  0.81774500  1
+  Sr  Sr3  1  0.50000000  0.13279100  0.68130300  1
+  Ag  Ag4  1  0.50000000  0.61701800  0.53627800  1
+  Ag  Ag5  1  0.50000000  0.88364900  0.03098500  1
+  Ag  Ag6  1  0.00000000  0.37793700  0.46967400  1
+  Ag  Ag7  1  0.00000000  0.11876900  0.96125500  1

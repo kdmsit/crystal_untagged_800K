@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Gd2O2Pb2Se2
+_chemical_formula_sum              "Gd2 O2 Pb2 Se2"
+_cell_length_a       4.78124
+_cell_length_b       4.78124
+_cell_length_c       11.0081
+_cell_angle_alpha    102.524
+_cell_angle_beta     77.4759
+_cell_angle_gamma    120.016
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.22300  0.77700  0.33100  1.0000
+  Gd  Gd2       1.0  0.77700  0.22300  0.66900  1.0000
+  O   O1        1.0  0.28900  0.71100  0.13200  1.0000
+  O   O2        1.0  0.71100  0.28900  0.86800  1.0000
+  Pb  Pb1       1.0  0.63300  0.36700  0.10100  1.0000
+  Pb  Pb2       1.0  0.36700  0.63300  0.89900  1.0000
+  Se  Se1       1.0  0.87500  0.12500  0.37500  1.0000
+  Se  Se2       1.0  0.12500  0.87500  0.62500  1.0000

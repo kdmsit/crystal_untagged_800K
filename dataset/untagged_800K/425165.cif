@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Bi2Ni2Pb3
+_chemical_formula_sum              "Bi2 Ni2 Pb3"
+_cell_length_a       9.95717
+_cell_length_b       9.95717
+_cell_length_c       9.95717
+_cell_angle_alpha    26.7995
+_cell_angle_beta     26.7995
+_cell_angle_gamma    26.7995
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.08430  0.08430  0.08430  1.0000
+  Bi  Bi2       1.0  0.48300  0.48300  0.48300  1.0000
+  Ni  Ni1       1.0  0.25300  0.25300  0.25300  1.0000
+  Ni  Ni2       1.0  0.71100  0.71100  0.71100  1.0000
+  Pb  Pb1       1.0  0.34900  0.34900  0.34900  1.0000
+  Pb  Pb2       1.0  0.61500  0.61500  0.61500  1.0000
+  Pb  Pb3       1.0  0.88100  0.88100  0.88100  1.0000

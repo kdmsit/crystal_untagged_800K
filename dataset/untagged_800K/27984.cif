@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Ge6Mn6Sc
+_chemical_formula_sum              "Ge6 Mn6 Sc1"
+_cell_length_a       5.12074
+_cell_length_b       5.12074
+_cell_length_c       8.10184
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.66700  0.33300  0.00000  1.0000
+  Ge  Ge2       1.0  0.33300  0.66700  0.00000  1.0000
+  Ge  Ge3       1.0  0.00001  0.00001  0.16200  1.0000
+  Ge  Ge4       1.0  0.66700  0.33300  0.50000  1.0000
+  Ge  Ge5       1.0  0.33300  0.66700  0.50000  1.0000
+  Ge  Ge6       1.0  0.00001  0.00001  0.83800  1.0000
+  Mn  Mn1       1.0  0.50000  0.00001  0.25100  1.0000
+  Mn  Mn2       1.0  0.50000  0.50000  0.25100  1.0000
+  Mn  Mn3       1.0  0.00001  0.50000  0.25100  1.0000
+  Mn  Mn4       1.0  0.50000  0.00001  0.74900  1.0000
+  Mn  Mn5       1.0  0.50000  0.50000  0.74900  1.0000
+  Mn  Mn6       1.0  0.00001  0.50000  0.74900  1.0000
+  Sc  Sc1       1.0  0.00002  0.00002  0.50000  1.0000

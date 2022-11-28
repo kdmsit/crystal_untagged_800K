@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Br4Ce6
+_chemical_formula_sum              "Br4 Ce6"
+_cell_length_a       7.46413
+_cell_length_b       7.46413
+_cell_length_c       8.04255
+_cell_angle_alpha    117.648
+_cell_angle_beta     62.3519
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.66600  0.33400  0.00182  1.0000
+  Br  Br2       1.0  0.83400  0.16600  0.49800  1.0000
+  Br  Br3       1.0  0.16600  0.83400  0.50200  1.0000
+  Br  Br4       1.0  0.33400  0.66600  0.99800  1.0000
+  Ce  Ce1       1.0  0.25000  0.09200  0.25000  1.0000
+  Ce  Ce2       1.0  0.90800  0.40800  0.25000  1.0000
+  Ce  Ce3       1.0  0.59200  0.75000  0.25000  1.0000
+  Ce  Ce4       1.0  0.40800  0.25000  0.75000  1.0000
+  Ce  Ce5       1.0  0.09200  0.59200  0.75000  1.0000
+  Ce  Ce6       1.0  0.75000  0.90800  0.75000  1.0000

@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_FeNiAs
+_symmetry_space_group_name_H-M  'P-62m'
+_cell_length_a       3.57263
+_cell_length_b       6.07042
+_cell_length_c       6.07019
+_cell_angle_alpha    120.001
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  189
+_chemical_formula_structural  FeNiAs
+_chemical_formula_sum  Fe3Ni3As3
+_cell_volume  114.00793465455286
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.00000  0.33333  0.66668  1
+ As  As2  1  0.00000  0.66665  0.33332  1
+ As  As3  1  0.50000  0.99997  -0.00000  1
+ Fe  Fe1  1  0.50000  0.59423  0.00000  1
+ Fe  Fe2  1  0.50000  0.40577  0.40577  1
+ Fe  Fe3  1  0.50000  0.00000  0.59423  1
+ Ni  Ni1  1  0.00000  0.25521  -0.00000  1
+ Ni  Ni2  1  0.00000  0.74473  0.74475  1
+ Ni  Ni3  1  0.00000  -0.00001  0.25525  1

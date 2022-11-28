@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_BiTePt
+_symmetry_space_group_name_H-M  'P2_13'
+_cell_length_a       6.77992
+_cell_length_b       6.77992
+_cell_length_c       6.77992
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  198
+_chemical_formula_structural  BiTePt
+_chemical_formula_sum  Bi4Te4Pt4
+_cell_volume  311.65449968596346
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Bi  Bi1  1  0.36898  0.36898  0.36898  1
+ Bi  Bi2  1  0.13102  0.63102  0.86898  1
+ Bi  Bi3  1  0.86898  0.13102  0.63102  1
+ Bi  Bi4  1  0.63102  0.86898  0.13102  1
+ Pt  Pt1  1  0.00415  0.00415  0.00415  1
+ Pt  Pt2  1  0.49585  0.99585  0.50415  1
+ Pt  Pt3  1  0.50415  0.49585  0.99585  1
+ Pt  Pt4  1  0.99585  0.50415  0.49585  1
+ Te  Te1  1  0.62706  0.62706  0.62706  1
+ Te  Te2  1  0.87294  0.37294  0.12706  1
+ Te  Te3  1  0.12706  0.87294  0.37294  1
+ Te  Te4  1  0.37294  0.12706  0.87294  1

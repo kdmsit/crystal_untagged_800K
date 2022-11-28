@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cr4I6
+_chemical_formula_sum              "Cr4 I6"
+_cell_length_a       7.2996
+_cell_length_b       7.2996
+_cell_length_c       7.91205
+_cell_angle_alpha    117.471
+_cell_angle_beta     62.5292
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.66300  0.33700  0.01150  1.0000
+  Cr  Cr2       1.0  0.83700  0.16300  0.48900  1.0000
+  Cr  Cr3       1.0  0.16300  0.83700  0.51100  1.0000
+  Cr  Cr4       1.0  0.33700  0.66300  0.98900  1.0000
+  I   I1        1.0  0.25000  0.07380  0.25000  1.0000
+  I   I2        1.0  0.92600  0.42600  0.25000  1.0000
+  I   I3        1.0  0.57400  0.75000  0.25000  1.0000
+  I   I4        1.0  0.42600  0.25000  0.75000  1.0000
+  I   I5        1.0  0.07380  0.57400  0.75000  1.0000
+  I   I6        1.0  0.75000  0.92600  0.75000  1.0000

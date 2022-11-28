@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mn4O4Rb4Se4
+_chemical_formula_sum              "Mn4 O4 Rb4 Se4"
+_cell_length_a       7.05779
+_cell_length_b       10.5732
+_cell_length_c       6.20633
+_cell_angle_alpha    90
+_cell_angle_beta     98.3526
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.49600  0.15300  0.02180  1.0000
+  Mn  Mn2       1.0  0.50400  0.65300  0.47800  1.0000
+  Mn  Mn3       1.0  0.49600  0.34700  0.52200  1.0000
+  Mn  Mn4       1.0  0.50400  0.84700  0.97800  1.0000
+  O   O1        1.0  0.45700  0.74300  0.21300  1.0000
+  O   O2        1.0  0.54300  0.24300  0.28700  1.0000
+  O   O3        1.0  0.45700  0.75700  0.71300  1.0000
+  O   O4        1.0  0.54300  0.25700  0.78700  1.0000
+  Rb  Rb1       1.0  0.82700  0.38000  0.08420  1.0000
+  Rb  Rb2       1.0  0.17300  0.88000  0.41600  1.0000
+  Rb  Rb3       1.0  0.82700  0.12000  0.58400  1.0000
+  Rb  Rb4       1.0  0.17300  0.62000  0.91600  1.0000
+  Se  Se1       1.0  0.77900  0.99500  0.06730  1.0000
+  Se  Se2       1.0  0.22100  0.49500  0.43300  1.0000
+  Se  Se3       1.0  0.77900  0.50500  0.56700  1.0000
+  Se  Se4       1.0  0.22100  0.00528  0.93300  1.0000

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LaMn2CdO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55479819
+_cell_length_b   5.35710878
+_cell_length_c   5.50642490
+_cell_angle_alpha   61.37112184
+_cell_angle_beta   58.24848595
+_cell_angle_gamma   61.73976124
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaMn2CdO6
+_chemical_formula_sum   'La1 Mn2 Cd1 O6'
+_cell_volume   116.79868915
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.74556500  0.75297300  0.75260100  1
+  Mn  Mn1  1  0.00113600  0.00136100  0.99966800  1
+  Mn  Mn2  1  0.49696900  0.50172800  0.49917800  1
+  Cd  Cd3  1  0.25294900  0.24802900  0.24575200  1
+  O  O4  1  0.85594700  0.22671100  0.68144900  1
+  O  O5  1  0.24749000  0.66571900  0.83793400  1
+  O  O6  1  0.66475600  0.83876000  0.24566500  1
+  O  O7  1  0.75204200  0.31822600  0.17875100  1
+  O  O8  1  0.31972900  0.17746600  0.75812200  1
+  O  O9  1  0.16341800  0.76902700  0.30087900  1

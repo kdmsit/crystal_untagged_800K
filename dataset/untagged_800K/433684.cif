@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cu2Mo3Rb2
+_chemical_formula_sum              "Cu2 Mo3 Rb2"
+_cell_length_a       12.5735
+_cell_length_b       12.5735
+_cell_length_c       12.5735
+_cell_angle_alpha    19.7406
+_cell_angle_beta     19.7406
+_cell_angle_gamma    19.7406
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.00815  0.00815  0.00815  1.0000
+  Cu  Cu2       1.0  0.56800  0.56800  0.56800  1.0000
+  Mo  Mo1       1.0  0.31100  0.31100  0.31100  1.0000
+  Mo  Mo2       1.0  0.63500  0.63500  0.63500  1.0000
+  Mo  Mo3       1.0  0.93800  0.93800  0.93800  1.0000
+  Rb  Rb1       1.0  0.17700  0.17700  0.17700  1.0000
+  Rb  Rb2       1.0  0.73800  0.73800  0.73800  1.0000

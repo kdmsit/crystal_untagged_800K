@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_VO2F
+_symmetry_space_group_name_H-M  'Cc'
+_cell_length_a       5.05984
+_cell_length_b       5.05984
+_cell_length_c       5.20203
+_cell_angle_alpha    61.9538
+_cell_angle_beta     61.9538
+_cell_angle_gamma    58.5844
+
+_symmetry_Int_Tables_number  9
+_chemical_formula_structural  VO2F
+_chemical_formula_sum  V2O4F2
+_cell_volume  95.72701488085632
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.45107  0.35877  0.61401  1
+ F  F2  1  0.35877  0.45107  0.11401  1
+ O  O1  1  0.85061  0.55943  0.60939  1
+ O  O2  1  0.05744  0.96575  0.60145  1
+ O  O3  1  0.55943  0.85061  0.10939  1
+ O  O4  1  0.96575  0.05744  0.10145  1
+ V  V1  1  0.76407  0.23530  0.81150  1
+ V  V2  1  0.23530  0.76407  0.31150  1

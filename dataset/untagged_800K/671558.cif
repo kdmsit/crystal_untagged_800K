@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti5MnS10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.43470762
+_cell_length_b   3.43470803
+_cell_length_c   29.96033700
+_cell_angle_alpha   89.99979632
+_cell_angle_beta   89.99979659
+_cell_angle_gamma   59.98386814
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5MnS10
+_chemical_formula_sum   'Ti5 Mn1 S10'
+_cell_volume   306.04571698
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00001800  0.00001800  0.99814000  1
+  Ti  Ti1  1  0.99998200  0.99998200  0.20186000  1
+  Ti  Ti2  1  0.99996400  0.99996400  0.40017400  1
+  Ti  Ti3  1  0.00000000  0.00000000  0.60000000  1
+  Ti  Ti4  1  0.00003600  0.00003600  0.79982600  1
+  Mn  Mn5  1  0.00000000  0.00000000  0.10000000  1
+  S  S6  1  0.66669200  0.66669200  0.05024700  1
+  S  S7  1  0.66668300  0.66668300  0.24769800  1
+  S  S8  1  0.66673900  0.66673900  0.44724000  1
+  S  S9  1  0.66679800  0.66679800  0.64716000  1
+  S  S10  1  0.66665800  0.66665800  0.84711300  1
+  S  S11  1  0.33330800  0.33330800  0.14975300  1
+  S  S12  1  0.33334200  0.33334200  0.35288700  1
+  S  S13  1  0.33320200  0.33320200  0.55284000  1
+  S  S14  1  0.33326100  0.33326100  0.75276000  1
+  S  S15  1  0.33331700  0.33331700  0.95230200  1

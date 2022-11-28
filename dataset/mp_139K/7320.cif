@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TiCr(BIr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.19368400
+_cell_length_b   8.58416200
+_cell_length_c   8.58518968
+_cell_angle_alpha   119.99604031
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCr(BIr)2
+_chemical_formula_sum   'Ti3 Cr3 B6 Ir6'
+_cell_volume   203.83919766
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  0.58954600  0.00000000  1
+  Ti  Ti1  1  0.00000000  0.41032700  0.41035000  1
+  Ti  Ti2  1  0.00000000  0.99997700  0.58965000  1
+  Cr  Cr3  1  0.00000000  0.83040600  0.82968300  1
+  Cr  Cr4  1  0.00000000  0.00072400  0.17031700  1
+  Cr  Cr5  1  0.00000000  0.16957300  0.00000000  1
+  B  B6  1  0.50000000  0.99973400  0.00000000  1
+  B  B7  1  0.50000000  0.79728100  0.00000000  1
+  B  B8  1  0.50000000  0.20283700  0.20278600  1
+  B  B9  1  0.50000000  0.00005200  0.79721400  1
+  B  B10  1  0.00000000  0.33348500  0.66695000  1
+  B  B11  1  0.00000000  0.66653500  0.33305000  1
+  Ir  Ir12  1  0.50000000  0.53850100  0.72329400  1
+  Ir  Ir13  1  0.50000000  0.18478900  0.46168800  1
+  Ir  Ir14  1  0.50000000  0.27659300  0.81536200  1
+  Ir  Ir15  1  0.50000000  0.81520700  0.27670600  1
+  Ir  Ir16  1  0.50000000  0.72310100  0.53831200  1
+  Ir  Ir17  1  0.50000000  0.46123100  0.18463800  1

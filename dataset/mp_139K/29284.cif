@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_BaNa2Fe4F12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.05589106
+_cell_length_b   7.05589106
+_cell_length_c   8.09458642
+_cell_angle_alpha   55.08234455
+_cell_angle_beta   55.08234455
+_cell_angle_gamma   70.36966148
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNa2Fe4F12
+_chemical_formula_sum   'Ba1 Na2 Fe4 F12'
+_cell_volume   270.93618461
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.99952300  0.99952300  0.00055200  1
+  Na  Na1  1  0.44990500  0.44990500  0.04920200  1
+  Na  Na2  1  0.50115800  0.50115800  0.45787500  1
+  Fe  Fe3  1  0.50202200  0.00018100  0.99471300  1
+  Fe  Fe4  1  0.99286700  0.50062800  0.50426600  1
+  Fe  Fe5  1  0.50062800  0.99286700  0.50426600  1
+  Fe  Fe6  1  0.00018100  0.50202200  0.99471300  1
+  F  F7  1  0.29019300  0.70733300  0.81147300  1
+  F  F8  1  0.70262000  0.29477700  0.19712300  1
+  F  F9  1  0.70733300  0.29019300  0.81147300  1
+  F  F10  1  0.29477700  0.70262000  0.19712300  1
+  F  F11  1  0.90438800  0.51950400  0.28646200  1
+  F  F12  1  0.09941000  0.47836800  0.70965700  1
+  F  F13  1  0.47836800  0.09941000  0.70965700  1
+  F  F14  1  0.51950400  0.90438800  0.28646200  1
+  F  F15  1  0.79407900  0.79407900  0.92499300  1
+  F  F16  1  0.21136100  0.21136100  0.07555500  1
+  F  F17  1  0.79728300  0.79728300  0.48417600  1
+  F  F18  1  0.21340000  0.21340000  0.50025500  1

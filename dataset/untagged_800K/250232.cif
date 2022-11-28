@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Pa4S6
+_chemical_formula_sum              "Pa4 S6"
+_cell_length_a       6.81083
+_cell_length_b       6.81083
+_cell_length_c       7.36047
+_cell_angle_alpha    117.559
+_cell_angle_beta     62.4409
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pa  Pa1       1.0  0.65600  0.34400  0.03080  1.0000
+  Pa  Pa2       1.0  0.84400  0.15600  0.46900  1.0000
+  Pa  Pa3       1.0  0.15600  0.84400  0.53100  1.0000
+  Pa  Pa4       1.0  0.34400  0.65600  0.96900  1.0000
+  S   S1        1.0  0.25000  0.06010  0.25000  1.0000
+  S   S2        1.0  0.94000  0.44000  0.25000  1.0000
+  S   S3        1.0  0.56000  0.75000  0.25000  1.0000
+  S   S4        1.0  0.44000  0.25000  0.75000  1.0000
+  S   S5        1.0  0.06010  0.56000  0.75000  1.0000
+  S   S6        1.0  0.75000  0.94000  0.75000  1.0000

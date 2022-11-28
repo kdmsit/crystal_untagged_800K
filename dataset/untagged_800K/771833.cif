@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_Sc2Co
+_symmetry_space_group_name_H-M  'I4/mcm'
+_cell_length_a       5.23324
+_cell_length_b       5.23324
+_cell_length_c       5.23324
+_cell_angle_alpha    106.804
+_cell_angle_beta     106.804
+_cell_angle_gamma    114.948
+
+_symmetry_Int_Tables_number  140
+_chemical_formula_structural  Sc2Co
+_chemical_formula_sum  Sc4Co2
+_cell_volume  109.56617456511121
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.75000  0.75000  -0.00000  1
+ Co  Co2  1  0.25000  0.25000  0.00000  1
+ Sc  Sc1  1  0.32141  0.82141  0.14281  1
+ Sc  Sc2  1  0.82141  0.67859  0.50000  1
+ Sc  Sc3  1  0.67859  0.17859  0.85719  1
+ Sc  Sc4  1  0.17859  0.32141  0.50000  1

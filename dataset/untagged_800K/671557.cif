@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti5Nb5Ge6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.66552836
+_cell_length_b   7.66552836
+_cell_length_c   5.34214700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.93251621
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5Nb5Ge6
+_chemical_formula_sum   'Ti5 Nb5 Ge6'
+_cell_volume   272.03549816
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.25633800  0.99968200  0.50000000  1
+  Ti  Ti1  1  0.99968200  0.25633800  0.50000000  1
+  Ti  Ti2  1  0.25657600  0.25657600  0.00000000  1
+  Ti  Ti3  1  0.74550500  0.00029800  0.00000000  1
+  Ti  Ti4  1  0.00029800  0.74550500  0.00000000  1
+  Nb  Nb5  1  0.66708300  0.33401800  0.24886100  1
+  Nb  Nb6  1  0.33401800  0.66708300  0.24886100  1
+  Nb  Nb7  1  0.33401800  0.66708300  0.75113900  1
+  Nb  Nb8  1  0.66708300  0.33401800  0.75113900  1
+  Nb  Nb9  1  0.74102500  0.74102500  0.50000000  1
+  Ge  Ge10  1  0.38094000  0.38094000  0.50000000  1
+  Ge  Ge11  1  0.61500100  0.00304200  0.50000000  1
+  Ge  Ge12  1  0.00304200  0.61500100  0.50000000  1
+  Ge  Ge13  1  0.61608500  0.61608500  0.00000000  1
+  Ge  Ge14  1  0.38288700  0.00041600  0.00000000  1
+  Ge  Ge15  1  0.00041600  0.38288700  0.00000000  1

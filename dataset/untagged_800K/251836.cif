@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       In2Mo6Te6
+_chemical_formula_sum              "In2 Mo6 Te6"
+_cell_length_a       9.52412
+_cell_length_b       9.52467
+_cell_length_c       4.61575
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.998
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.66700  0.33300  0.25000  1.0000
+  In  In2       1.0  0.33300  0.66700  0.75000  1.0000
+  Mo  Mo1       1.0  0.85500  0.02980  0.25000  1.0000
+  Mo  Mo2       1.0  0.17400  0.14400  0.25000  1.0000
+  Mo  Mo3       1.0  0.97000  0.82600  0.25000  1.0000
+  Mo  Mo4       1.0  0.02980  0.17400  0.75000  1.0000
+  Mo  Mo5       1.0  0.82600  0.85600  0.75000  1.0000
+  Mo  Mo6       1.0  0.14500  0.97000  0.75000  1.0000
+  Te  Te1       1.0  0.06510  0.37200  0.25000  1.0000
+  Te  Te2       1.0  0.62800  0.69300  0.25000  1.0000
+  Te  Te3       1.0  0.30700  0.93500  0.25000  1.0000
+  Te  Te4       1.0  0.69300  0.06510  0.75000  1.0000
+  Te  Te5       1.0  0.37200  0.30700  0.75000  1.0000
+  Te  Te6       1.0  0.93500  0.62800  0.75000  1.0000

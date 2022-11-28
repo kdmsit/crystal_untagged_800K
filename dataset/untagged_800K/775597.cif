@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_SiPd
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.50201
+_cell_length_b       5.66411
+_cell_length_c       6.16592
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  SiPd
+_chemical_formula_sum  Si4Pd4
+_cell_volume  122.30576499651997
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Pd  Pd1  1  0.25000  0.50233  0.69195  1
+ Pd  Pd2  1  0.75000  0.49767  0.30805  1
+ Pd  Pd3  1  0.25000  0.00233  0.80805  1
+ Pd  Pd4  1  0.75000  0.99767  0.19195  1
+ Si  Si1  1  0.25000  0.67974  0.07503  1
+ Si  Si2  1  0.75000  0.32026  0.92497  1
+ Si  Si3  1  0.25000  0.17974  0.42497  1
+ Si  Si4  1  0.75000  0.82026  0.57503  1

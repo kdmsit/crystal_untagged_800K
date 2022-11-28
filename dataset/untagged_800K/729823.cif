@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_ErFe3(BO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.10950075
+_cell_length_b   6.10950075
+_cell_length_c   6.10950091
+_cell_angle_alpha   103.82173634
+_cell_angle_beta   103.82173634
+_cell_angle_gamma   103.82173362
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErFe3(BO3)4
+_chemical_formula_sum   'Er1 Fe3 B4 O12'
+_cell_volume   204.16015039
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe1  1  0.55006700  0.00000000  0.44993300  1
+  Fe  Fe2  1  0.44993300  0.55006700  0.00000000  1
+  Fe  Fe3  1  0.00000000  0.44993300  0.55006700  1
+  B  B4  1  0.50000000  0.50000000  0.50000000  1
+  B  B5  1  0.94851300  0.50000000  0.05148700  1
+  B  B6  1  0.05148700  0.94851300  0.50000000  1
+  B  B7  1  0.50000000  0.05148700  0.94851300  1
+  O  O8  1  0.35618600  0.50000000  0.64381400  1
+  O  O9  1  0.64381400  0.35618600  0.50000000  1
+  O  O10  1  0.50000000  0.64381400  0.35618600  1
+  O  O11  1  0.09221200  0.50000000  0.90778800  1
+  O  O12  1  0.90778800  0.09221200  0.50000000  1
+  O  O13  1  0.50000000  0.90778800  0.09221200  1
+  O  O14  1  0.96960400  0.36418600  0.20288400  1
+  O  O15  1  0.20288400  0.96960400  0.36418600  1
+  O  O16  1  0.36418600  0.20288400  0.96960400  1
+  O  O17  1  0.79711600  0.63581400  0.03039600  1
+  O  O18  1  0.63581400  0.03039600  0.79711600  1
+  O  O19  1  0.03039600  0.79711600  0.63581400  1

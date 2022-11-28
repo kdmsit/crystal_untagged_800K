@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ni2Sc2Si6
+_chemical_formula_sum              "Ni2 Sc2 Si6"
+_cell_length_a       3.81033
+_cell_length_b       3.84577
+_cell_length_c       10.5383
+_cell_angle_alpha    79.4865
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.50000  0.39200  0.21600  1.0000
+  Ni  Ni2       1.0  0.50000  0.61700  0.76600  1.0000
+  Sc  Sc1       1.0  0.00000  0.83500  0.33000  1.0000
+  Sc  Sc2       1.0  0.00000  0.17400  0.65200  1.0000
+  Si  Si1       1.0  0.00000  0.44800  0.10500  1.0000
+  Si  Si2       1.0  0.50000  0.94700  0.10600  1.0000
+  Si  Si3       1.0  0.50000  0.28600  0.42800  1.0000
+  Si  Si4       1.0  0.50000  0.72300  0.55400  1.0000
+  Si  Si5       1.0  0.50000  0.06120  0.87800  1.0000
+  Si  Si6       1.0  0.00000  0.56100  0.87800  1.0000

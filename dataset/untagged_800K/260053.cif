@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Ag2As2F12Se6
+_chemical_formula_sum              "Ag2 As2 F12 Se6"
+_cell_length_a       5.13569
+_cell_length_b       8.78297
+_cell_length_c       8.78297
+_cell_angle_alpha    118.373
+_cell_angle_beta     91.3133
+_cell_angle_gamma    91.3133
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.50000  0.00000  0.00000  1.0000
+  Ag  Ag2       1.0  0.00000  0.50000  0.50000  1.0000
+  As  As1       1.0  0.00000  0.82200  0.17800  1.0000
+  As  As2       1.0  0.00000  0.17800  0.82200  1.0000
+  F   F1        1.0  0.88600  0.21300  0.02720  1.0000
+  F   F2        1.0  0.70000  0.72200  0.07110  1.0000
+  F   F3        1.0  0.12300  0.62400  0.14400  1.0000
+  F   F4        1.0  0.88600  0.02720  0.21300  1.0000
+  F   F5        1.0  0.30000  0.92900  0.27800  1.0000
+  F   F6        1.0  0.87700  0.85600  0.37600  1.0000
+  F   F7        1.0  0.12300  0.14400  0.62400  1.0000
+  F   F8        1.0  0.70000  0.07110  0.72200  1.0000
+  F   F9        1.0  0.11400  0.97300  0.78700  1.0000
+  F   F10       1.0  0.87700  0.37600  0.85600  1.0000
+  F   F11       1.0  0.30000  0.27800  0.92900  1.0000
+  F   F12       1.0  0.11400  0.78700  0.97300  1.0000
+  Se  Se1       1.0  0.61000  0.50800  0.26900  1.0000
+  Se  Se2       1.0  0.37400  0.27300  0.27300  1.0000
+  Se  Se3       1.0  0.39000  0.73100  0.49200  1.0000
+  Se  Se4       1.0  0.61000  0.26900  0.50800  1.0000
+  Se  Se5       1.0  0.62600  0.72700  0.72700  1.0000
+  Se  Se6       1.0  0.39000  0.49200  0.73100  1.0000

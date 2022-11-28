@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Nd3Sm(GaO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.79251600
+_cell_length_b   5.46171400
+_cell_length_c   5.61136273
+_cell_angle_alpha   89.92557440
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd3Sm(GaO3)4
+_chemical_formula_sum   'Nd3 Sm1 Ga4 O12'
+_cell_volume   238.82216699
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.00000000  0.01329600  0.94772800  1
+  Nd  Nd1  1  0.50000000  0.51320100  0.55135300  1
+  Nd  Nd2  1  0.50000000  0.98616800  0.05294100  1
+  Sm  Sm3  1  0.00000000  0.48547400  0.44425900  1
+  Ga  Ga4  1  0.24901700  0.99969700  0.50007700  1
+  Ga  Ga5  1  0.75071200  0.50026600  0.99915200  1
+  Ga  Ga6  1  0.75098300  0.99969700  0.50007700  1
+  Ga  Ga7  1  0.24928800  0.50026600  0.99915200  1
+  O  O8  1  0.00000000  0.58773300  0.02761500  1
+  O  O9  1  0.00000000  0.90544900  0.52333700  1
+  O  O10  1  0.50000000  0.41237900  0.97651800  1
+  O  O11  1  0.50000000  0.08699400  0.47815700  1
+  O  O12  1  0.20201000  0.20900100  0.20820200  1
+  O  O13  1  0.79976200  0.29446400  0.70452400  1
+  O  O14  1  0.70373200  0.79344400  0.79401300  1
+  O  O15  1  0.29613400  0.70778100  0.29308000  1
+  O  O16  1  0.29626800  0.79344400  0.79401300  1
+  O  O17  1  0.70386600  0.70778100  0.29308000  1
+  O  O18  1  0.79799000  0.20900100  0.20820200  1
+  O  O19  1  0.20023800  0.29446400  0.70452400  1

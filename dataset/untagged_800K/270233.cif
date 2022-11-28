@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Bi2Br9Cs3
+_chemical_formula_sum              "Bi2 Br9 Cs3"
+_cell_length_a       8.05779
+_cell_length_b       8.0577
+_cell_length_c       9.96345
+_cell_angle_alpha    90
+_cell_angle_beta     90.0011
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.66700  0.33300  0.19000  1.0000
+  Bi  Bi2       1.0  0.33300  0.66700  0.81000  1.0000
+  Br  Br1       1.0  0.50000  1.00000  1.00000  1.0000
+  Br  Br2       1.0  0.50000  0.50000  0.00000  1.0000
+  Br  Br3       1.0  0.00000  0.50000  0.00000  1.0000
+  Br  Br4       1.0  0.83300  0.16700  0.34000  1.0000
+  Br  Br5       1.0  0.83300  0.66600  0.34000  1.0000
+  Br  Br6       1.0  0.33400  0.16700  0.34000  1.0000
+  Br  Br7       1.0  0.66600  0.83300  0.66000  1.0000
+  Br  Br8       1.0  0.16700  0.33400  0.66000  1.0000
+  Br  Br9       1.0  0.16700  0.83300  0.66000  1.0000
+  Cs  Cs1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cs  Cs2       1.0  0.33300  0.66700  0.33300  1.0000
+  Cs  Cs3       1.0  0.66700  0.33300  0.66700  1.0000

@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_TaIr
+_symmetry_space_group_name_H-M  'Pmma'
+_cell_length_a       2.87667
+_cell_length_b       4.86491
+_cell_length_c       13.855
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  51
+_chemical_formula_structural  TaIr
+_chemical_formula_sum  Ta6Ir6
+_cell_volume  193.89672317623774
+_cell_formula_units_Z  6
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ir  Ir1  1  0.50000  0.45800  0.75000  1
+ Ir  Ir2  1  0.50000  0.54200  0.25000  1
+ Ir  Ir3  1  0.50000  0.82420  0.91771  1
+ Ir  Ir4  1  0.50000  0.82420  0.58229  1
+ Ir  Ir5  1  0.50000  0.17580  0.08229  1
+ Ir  Ir6  1  0.50000  0.17580  0.41771  1
+ Ta  Ta1  1  0.00000  0.95007  0.75000  1
+ Ta  Ta2  1  0.00000  0.32599  0.91471  1
+ Ta  Ta3  1  0.00000  0.67401  0.41471  1
+ Ta  Ta4  1  0.00000  0.67401  0.08529  1
+ Ta  Ta5  1  0.00000  0.04993  0.25000  1
+ Ta  Ta6  1  0.00000  0.32599  0.58529  1

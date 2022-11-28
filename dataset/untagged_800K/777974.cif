@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_PuSi
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.86685
+_cell_length_b       5.65782
+_cell_length_c       8.04582
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  PuSi
+_chemical_formula_sum  Pu4Si4
+_cell_volume  176.02604290011706
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Pu  Pu1  1  0.25000  0.38994  0.68207  1
+ Pu  Pu2  1  0.75000  0.61006  0.31793  1
+ Pu  Pu3  1  0.75000  0.88994  0.81793  1
+ Pu  Pu4  1  0.25000  0.11006  0.18207  1
+ Si  Si1  1  0.25000  0.87469  0.53128  1
+ Si  Si2  1  0.75000  0.12531  0.46872  1
+ Si  Si3  1  0.75000  0.37469  0.96872  1
+ Si  Si4  1  0.25000  0.62531  0.03128  1

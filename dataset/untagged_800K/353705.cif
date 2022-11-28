@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CeS2Sb4
+_chemical_formula_sum              "Ce1 S2 Sb4"
+_cell_length_a       3.99369
+_cell_length_b       4.17937
+_cell_length_c       12.8194
+_cell_angle_alpha    82.6932
+_cell_angle_beta     81.0865
+_cell_angle_gamma    89.8414
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.22500  0.05700  0.30500  1.0000
+  S   S1        1.0  0.75200  0.58000  0.24700  1.0000
+  S   S2        1.0  0.64500  0.10200  0.47000  1.0000
+  Sb  Sb1       1.0  0.37400  0.17900  0.02660  1.0000
+  Sb  Sb2       1.0  0.57700  0.68900  0.63100  1.0000
+  Sb  Sb3       1.0  0.02600  0.05150  0.73400  1.0000
+  Sb  Sb4       1.0  0.91600  0.73000  0.95000  1.0000

@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_MnNbGe
+_symmetry_space_group_name_H-M  'P-62m'
+_cell_length_a       6.47328
+_cell_length_b       6.47328
+_cell_length_c       3.66613
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  189
+_chemical_formula_structural  MnNbGe
+_chemical_formula_sum  Mn3Nb3Ge3
+_cell_volume  133.04168511618332
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.66667  0.33333  0.00000  1
+ Ge  Ge2  1  0.00000  0.00000  0.50000  1
+ Ge  Ge3  1  0.33333  0.66667  0.00000  1
+ Mn  Mn1  1  0.24285  0.24285  0.00000  1
+ Mn  Mn2  1  -0.00000  0.75715  0.00000  1
+ Mn  Mn3  1  0.75715  -0.00000  0.00000  1
+ Nb  Nb1  1  0.41626  -0.00000  0.50000  1
+ Nb  Nb2  1  0.58374  0.58374  0.50000  1
+ Nb  Nb3  1  -0.00000  0.41626  0.50000  1

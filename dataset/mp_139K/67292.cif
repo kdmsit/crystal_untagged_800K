@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Sm2Fe2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89870400
+_cell_length_b   4.16620175
+_cell_length_c   8.00078094
+_cell_angle_alpha   86.71080697
+_cell_angle_beta   87.64155640
+_cell_angle_gamma   89.25019112
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2Fe2O5
+_chemical_formula_sum   'Sm2 Fe2 O5'
+_cell_volume   129.62351174
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.01621700  0.99594200  0.96524500  1
+  Sm  Sm1  1  0.96845000  0.91427300  0.42649800  1
+  Fe  Fe2  1  0.49253000  0.44858800  0.24096800  1
+  Fe  Fe3  1  0.52605800  0.51582900  0.75204300  1
+  O  O4  1  0.99043700  0.43616200  0.27709700  1
+  O  O5  1  0.00677300  0.51201800  0.84845500  1
+  O  O6  1  0.46507300  0.67833000  0.50398700  1
+  O  O7  1  0.50556700  0.97179000  0.18232000  1
+  O  O8  1  0.52888600  0.02707900  0.80338600  1

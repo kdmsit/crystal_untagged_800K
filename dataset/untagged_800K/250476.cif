@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cs4Mn2S4
+_chemical_formula_sum              "Cs4 Mn2 S4"
+_cell_length_a       6.49373
+_cell_length_b       7.43022
+_cell_length_c       8.49248
+_cell_angle_alpha    115.942
+_cell_angle_beta     112.478
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.64900  0.48900  0.29800  1.0000
+  Cs  Cs2       1.0  0.14900  0.80900  0.29800  1.0000
+  Cs  Cs3       1.0  0.85100  0.19100  0.70200  1.0000
+  Cs  Cs4       1.0  0.35100  0.51100  0.70200  1.0000
+  Mn  Mn1       1.0  0.25000  0.00000  0.00000  1.0000
+  Mn  Mn2       1.0  0.75000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.09370  0.26800  0.18700  1.0000
+  S   S2        1.0  0.59400  0.91900  0.18700  1.0000
+  S   S3        1.0  0.40600  0.08090  0.81300  1.0000
+  S   S4        1.0  0.90600  0.73200  0.81300  1.0000

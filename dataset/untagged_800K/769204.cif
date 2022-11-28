@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_GeP3
+_symmetry_space_group_name_H-M  'R-3m'
+_cell_length_a       5.36304
+_cell_length_b       5.36304
+_cell_length_c       5.36304
+_cell_angle_alpha    83.356
+_cell_angle_beta     83.356
+_cell_angle_gamma    83.356
+
+_symmetry_Int_Tables_number  166
+_chemical_formula_structural  GeP3
+_chemical_formula_sum  Ge2P6
+_cell_volume  151.36753987783098
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.73662  0.73662  0.73662  1
+ Ge  Ge2  1  0.26338  0.26338  0.26338  1
+ P  P1  1  0.21139  0.21139  0.73406  1
+ P  P2  1  0.21139  0.73406  0.21139  1
+ P  P3  1  0.78861  0.26594  0.78861  1
+ P  P4  1  0.78861  0.78861  0.26594  1
+ P  P5  1  0.26594  0.78861  0.78861  1
+ P  P6  1  0.73406  0.21139  0.21139  1

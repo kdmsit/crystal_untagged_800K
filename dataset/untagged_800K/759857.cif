@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_EuGe3
+_symmetry_space_group_name_H-M  'P6_3/mmc'
+_cell_length_a       5.32169
+_cell_length_b       6.05567
+_cell_length_c       6.05567
+_cell_angle_alpha    120.001
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  194
+_chemical_formula_structural  EuGe3
+_chemical_formula_sum  Eu2Ge6
+_cell_volume  169.00543418149604
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Eu  Eu1  1  0.25000  0.66667  0.33333  1
+ Eu  Eu2  1  0.75000  0.33333  0.66667  1
+ Ge  Ge1  1  0.75000  0.84891  0.69782  1
+ Ge  Ge2  1  0.75000  0.84892  0.15108  1
+ Ge  Ge3  1  0.75000  0.30218  0.15109  1
+ Ge  Ge4  1  0.25000  0.15109  0.30218  1
+ Ge  Ge5  1  0.25000  0.15108  0.84892  1
+ Ge  Ge6  1  0.25000  0.69782  0.84891  1

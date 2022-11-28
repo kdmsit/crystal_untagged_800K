@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mo6Rb2Se6
+_chemical_formula_sum              "Mo6 Rb2 Se6"
+_cell_length_a       9.36417
+_cell_length_b       9.36402
+_cell_length_c       4.5195
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.988
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.82400  0.97300  0.25000  1.0000
+  Mo  Mo2       1.0  0.14900  0.17600  0.25000  1.0000
+  Mo  Mo3       1.0  0.02670  0.85100  0.25000  1.0000
+  Mo  Mo4       1.0  0.17600  0.02660  0.75000  1.0000
+  Mo  Mo5       1.0  0.97300  0.14900  0.75000  1.0000
+  Mo  Mo6       1.0  0.85100  0.82400  0.75000  1.0000
+  Rb  Rb1       1.0  0.33300  0.66700  0.25000  1.0000
+  Rb  Rb2       1.0  0.66700  0.33300  0.75000  1.0000
+  Se  Se1       1.0  0.34900  0.05440  0.25000  1.0000
+  Se  Se2       1.0  0.94600  0.29500  0.25000  1.0000
+  Se  Se3       1.0  0.70500  0.65100  0.25000  1.0000
+  Se  Se4       1.0  0.65100  0.94600  0.75000  1.0000
+  Se  Se5       1.0  0.29500  0.34900  0.75000  1.0000
+  Se  Se6       1.0  0.05450  0.70500  0.75000  1.0000

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li3TiN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.65843660
+_cell_length_b   6.98765562
+_cell_length_c   14.22038693
+_cell_angle_alpha   89.99999538
+_cell_angle_beta   145.20376650
+_cell_angle_gamma   113.79824866
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3TiN2
+_chemical_formula_sum   'Li12 Ti4 N8'
+_cell_volume   347.17185262
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.50000000  0.36720000  1
+  Li  Li1  1  0.00000000  0.00000000  0.88280000  1
+  Li  Li2  1  0.00000000  0.50000000  0.13280000  1
+  Li  Li3  1  0.00000000  0.00000000  0.11720000  1
+  Li  Li4  1  0.45215500  0.50000000  0.47607800  1
+  Li  Li5  1  0.54784500  0.50000000  0.02392200  1
+  Li  Li6  1  0.45215500  0.00000000  0.22607800  1
+  Li  Li7  1  0.54784500  0.00000000  0.77392200  1
+  Li  Li8  1  0.54784500  0.04784500  0.02392200  1
+  Li  Li9  1  0.45215500  0.95215500  0.47607800  1
+  Li  Li10  1  0.54784500  0.54784500  0.77392200  1
+  Li  Li11  1  0.45215500  0.45215500  0.22607800  1
+  Ti  Ti12  1  0.00000000  0.50000000  0.63653000  1
+  Ti  Ti13  1  0.00000000  0.00000000  0.61347000  1
+  Ti  Ti14  1  0.00000000  0.50000000  0.86347000  1
+  Ti  Ti15  1  0.00000000  0.00000000  0.38653000  1
+  N  N16  1  0.44803400  0.72401700  0.79935300  1
+  N  N17  1  0.55196600  0.27598300  0.35131900  1
+  N  N18  1  0.44803400  0.22401700  0.89868100  1
+  N  N19  1  0.55196600  0.77598300  0.45064700  1
+  N  N20  1  0.00000000  0.27598300  0.92466400  1
+  N  N21  1  0.00000000  0.72401700  0.92466400  1
+  N  N22  1  0.00000000  0.77598300  0.32533600  1
+  N  N23  1  0.00000000  0.22401700  0.32533600  1

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_MgTa2Zn2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.09819018
+_cell_length_b   10.09819018
+_cell_length_c   5.25902475
+_cell_angle_alpha   89.73900051
+_cell_angle_beta   89.73900051
+_cell_angle_gamma   34.26865214
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTa2Zn2O8
+_chemical_formula_sum   'Mg2 Ta4 Zn4 O16'
+_cell_volume   301.96237698
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.64595600  0.35404400  0.75000000  1
+  Mg  Mg1  1  0.35404400  0.64595600  0.25000000  1
+  Ta  Ta2  1  0.27533400  0.95434100  0.76217300  1
+  Ta  Ta3  1  0.72466600  0.04565900  0.23782700  1
+  Ta  Ta4  1  0.04565900  0.72466600  0.73782700  1
+  Ta  Ta5  1  0.95434100  0.27533400  0.26217300  1
+  Zn  Zn6  1  0.43373000  0.12606200  0.73902700  1
+  Zn  Zn7  1  0.56627000  0.87393800  0.26097300  1
+  Zn  Zn8  1  0.87393800  0.56627000  0.76097300  1
+  Zn  Zn9  1  0.12606200  0.43373000  0.23902700  1
+  O  O10  1  0.71818100  0.92197700  0.94351000  1
+  O  O11  1  0.28181900  0.07802300  0.05649000  1
+  O  O12  1  0.07802300  0.28181900  0.55649000  1
+  O  O13  1  0.92197700  0.71818100  0.44351000  1
+  O  O14  1  0.81578100  0.04433400  0.57437500  1
+  O  O15  1  0.18421900  0.95566600  0.42562500  1
+  O  O16  1  0.95566600  0.18421900  0.92562500  1
+  O  O17  1  0.04433400  0.81578100  0.07437500  1
+  O  O18  1  0.54659400  0.83838100  0.63129200  1
+  O  O19  1  0.45340600  0.16161900  0.36870800  1
+  O  O20  1  0.16161900  0.45340600  0.86870800  1
+  O  O21  1  0.83838100  0.54659400  0.13129200  1
+  O  O22  1  0.31653000  0.56650800  0.59003200  1
+  O  O23  1  0.68347000  0.43349200  0.40996800  1
+  O  O24  1  0.43349200  0.68347000  0.90996800  1
+  O  O25  1  0.56650800  0.31653000  0.09003200  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Eu2Ga2GeS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.69454700
+_cell_length_b   9.69454700
+_cell_length_c   6.35609700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu2Ga2GeS7
+_chemical_formula_sum   'Eu4 Ga4 Ge2 S14'
+_cell_volume   597.37295567
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.84694900  0.65305100  0.51654900  1
+  Eu  Eu1  1  0.65305100  0.15305100  0.48345100  1
+  Eu  Eu2  1  0.15305100  0.34694900  0.51654900  1
+  Eu  Eu3  1  0.34694900  0.84694900  0.48345100  1
+  Ga  Ga4  1  0.35320600  0.14679400  0.96951500  1
+  Ga  Ga5  1  0.14679400  0.64679400  0.03048500  1
+  Ga  Ga6  1  0.64679400  0.85320600  0.96951500  1
+  Ga  Ga7  1  0.85320600  0.35320600  0.03048500  1
+  Ge  Ge8  1  0.50000000  0.50000000  0.00000000  1
+  Ge  Ge9  1  0.00000000  0.00000000  0.00000000  1
+  S  S10  1  0.35458500  0.14541500  0.31627000  1
+  S  S11  1  0.14541500  0.64541500  0.68373000  1
+  S  S12  1  0.64541500  0.85458500  0.31627000  1
+  S  S13  1  0.85458500  0.35458500  0.68373000  1
+  S  S14  1  0.00000000  0.50000000  0.20179300  1
+  S  S15  1  0.50000000  0.00000000  0.79820700  1
+  S  S16  1  0.34120700  0.58108200  0.22643700  1
+  S  S17  1  0.15879300  0.08108200  0.77356300  1
+  S  S18  1  0.65879300  0.41891800  0.22643700  1
+  S  S19  1  0.84120700  0.91891800  0.77356300  1
+  S  S20  1  0.58108200  0.65879300  0.77356300  1
+  S  S21  1  0.91891800  0.15879300  0.22643700  1
+  S  S22  1  0.41891800  0.34120700  0.77356300  1
+  S  S23  1  0.08108200  0.84120700  0.22643700  1

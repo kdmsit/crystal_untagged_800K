@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LaNO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77890700
+_cell_length_b   6.89984600
+_cell_length_c   8.29665590
+_cell_angle_alpha   89.10601719
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaNO5
+_chemical_formula_sum   'La2 N2 O10'
+_cell_volume   216.29964803
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.25431900  0.72808700  0.13142200  1
+  La  La1  1  0.75431900  0.27191300  0.86857800  1
+  N  N2  1  0.63901500  0.76509300  0.45405900  1
+  N  N3  1  0.13901500  0.23490700  0.54594100  1
+  O  O4  1  0.76019900  0.84572400  0.31844500  1
+  O  O5  1  0.26019900  0.15427600  0.68155500  1
+  O  O6  1  0.76347500  0.80692100  0.58420800  1
+  O  O7  1  0.26347500  0.19307900  0.41579200  1
+  O  O8  1  0.74323900  0.96116500  0.98432000  1
+  O  O9  1  0.24323900  0.03883500  0.01568000  1
+  O  O10  1  0.75539000  0.50276500  0.08232800  1
+  O  O11  1  0.25539000  0.49723500  0.91767200  1
+  O  O12  1  0.38636300  0.64676600  0.43462400  1
+  O  O13  1  0.88636300  0.35323400  0.56537600  1

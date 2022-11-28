@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta3AlCo8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.20278401
+_cell_length_b   8.20278401
+_cell_length_c   8.20278390
+_cell_angle_alpha   33.67160495
+_cell_angle_beta   33.67160495
+_cell_angle_gamma   33.67160709
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3AlCo8
+_chemical_formula_sum   'Ta3 Al1 Co8'
+_cell_volume   151.14896813
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.62325800  0.62325800  0.62325800  1
+  Ta  Ta1  1  0.00286800  0.00286800  0.00286800  1
+  Ta  Ta2  1  0.49831100  0.49831100  0.49831100  1
+  Al  Al3  1  0.12579300  0.12579300  0.12579300  1
+  Co  Co4  1  0.56345900  0.56345900  0.06020100  1
+  Co  Co5  1  0.06407900  0.06407900  0.56051900  1
+  Co  Co6  1  0.56345900  0.06020100  0.56345900  1
+  Co  Co7  1  0.06407900  0.56051900  0.06407900  1
+  Co  Co8  1  0.81158300  0.81158300  0.81158300  1
+  Co  Co9  1  0.31239100  0.31239100  0.31239100  1
+  Co  Co10  1  0.06020100  0.56345900  0.56345900  1
+  Co  Co11  1  0.56051900  0.06407900  0.06407900  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr3MoN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.97902300
+_cell_length_b   7.97905099
+_cell_length_c   5.35806800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99976816
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3MoN3
+_chemical_formula_sum   'Sr6 Mo2 N6'
+_cell_volume   295.42063327
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.90633800  0.64743300  0.25000000  1
+  Sr  Sr1  1  0.74109400  0.09365900  0.25000000  1
+  Sr  Sr2  1  0.35256500  0.25890400  0.25000000  1
+  Sr  Sr3  1  0.09366200  0.35256700  0.75000000  1
+  Sr  Sr4  1  0.25890600  0.90634100  0.75000000  1
+  Sr  Sr5  1  0.64743500  0.74109600  0.75000000  1
+  Mo  Mo6  1  0.66664900  0.33332500  0.75000000  1
+  Mo  Mo7  1  0.33335100  0.66667500  0.25000000  1
+  N  N8  1  0.88424900  0.58010800  0.75000000  1
+  N  N9  1  0.69586200  0.11575600  0.75000000  1
+  N  N10  1  0.41990100  0.30414000  0.75000000  1
+  N  N11  1  0.11575100  0.41989200  0.25000000  1
+  N  N12  1  0.30413800  0.88424400  0.25000000  1
+  N  N13  1  0.58009900  0.69586000  0.25000000  1

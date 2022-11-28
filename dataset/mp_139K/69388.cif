@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaPu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.76834092
+_cell_length_b   7.76834092
+_cell_length_c   7.76834135
+_cell_angle_alpha   107.01856601
+_cell_angle_beta   107.01856601
+_cell_angle_gamma   107.01857305
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPu
+_chemical_formula_sum   'Na6 Pu6'
+_cell_volume   390.22073052
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.45644400  0.16703500  0.40260400  1
+  Na  Na1  1  0.40260400  0.45644400  0.16703500  1
+  Na  Na2  1  0.16703500  0.40260400  0.45644400  1
+  Na  Na3  1  0.54355600  0.83296500  0.59739600  1
+  Na  Na4  1  0.59739600  0.54355600  0.83296500  1
+  Na  Na5  1  0.83296500  0.59739600  0.54355600  1
+  Pu  Pu6  1  0.20660000  0.04675200  0.69616300  1
+  Pu  Pu7  1  0.69616300  0.20660000  0.04675200  1
+  Pu  Pu8  1  0.04675200  0.69616300  0.20660000  1
+  Pu  Pu9  1  0.79340000  0.95324800  0.30383700  1
+  Pu  Pu10  1  0.30383700  0.79340000  0.95324800  1
+  Pu  Pu11  1  0.95324800  0.30383700  0.79340000  1

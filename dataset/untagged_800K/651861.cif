@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr(NiB)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.24972800
+_cell_length_b   6.28179000
+_cell_length_c   13.38479500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(NiB)2
+_chemical_formula_sum   'Sr4 Ni8 B8'
+_cell_volume   273.23866211
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50000000  0.64137700  0.39826900  1
+  Sr  Sr1  1  0.50000000  0.35862300  0.60173100  1
+  Sr  Sr2  1  0.00000000  0.85862300  0.89826900  1
+  Sr  Sr3  1  0.00000000  0.14137700  0.10173100  1
+  Ni  Ni4  1  0.50000000  0.69427600  0.13038900  1
+  Ni  Ni5  1  0.50000000  0.30572400  0.86961100  1
+  Ni  Ni6  1  0.00000000  0.80572400  0.63038900  1
+  Ni  Ni7  1  0.00000000  0.19427600  0.36961100  1
+  Ni  Ni8  1  0.50000000  0.62378100  0.75829200  1
+  Ni  Ni9  1  0.50000000  0.37621900  0.24170800  1
+  Ni  Ni10  1  0.00000000  0.87621900  0.25829200  1
+  Ni  Ni11  1  0.00000000  0.12378100  0.74170800  1
+  B  B12  1  0.50000000  0.07208500  0.44609100  1
+  B  B13  1  0.50000000  0.92791500  0.55390900  1
+  B  B14  1  0.00000000  0.42791500  0.94609100  1
+  B  B15  1  0.00000000  0.57208500  0.05390900  1
+  B  B16  1  0.50000000  0.06059500  0.30986400  1
+  B  B17  1  0.50000000  0.93940500  0.69013600  1
+  B  B18  1  0.00000000  0.43940500  0.80986400  1
+  B  B19  1  0.00000000  0.56059500  0.19013600  1

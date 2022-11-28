@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TiCoNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08894240
+_cell_length_b   5.08894240
+_cell_length_c   8.28710500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.16122561
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCoNi2
+_chemical_formula_sum   'Ti4 Co4 Ni8'
+_cell_volume   185.55842896
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.66661600  0.33338400  0.50000000  1
+  Ti  Ti1  1  0.33388300  0.66611700  0.00000000  1
+  Ti  Ti2  1  0.99937100  0.00062900  0.25318100  1
+  Ti  Ti3  1  0.99937100  0.00062900  0.74681900  1
+  Co  Co4  1  0.17248200  0.82751800  0.50000000  1
+  Co  Co5  1  0.65425300  0.82704500  0.50000000  1
+  Co  Co6  1  0.17295500  0.34574700  0.50000000  1
+  Co  Co7  1  0.82783900  0.17216100  0.00000000  1
+  Ni  Ni8  1  0.34398400  0.17138700  0.00000000  1
+  Ni  Ni9  1  0.82861300  0.65601600  0.00000000  1
+  Ni  Ni10  1  0.50068900  0.00048000  0.25000000  1
+  Ni  Ni11  1  0.50010700  0.49989300  0.24999300  1
+  Ni  Ni12  1  0.99952000  0.49931100  0.25000000  1
+  Ni  Ni13  1  0.50068900  0.00048000  0.75000000  1
+  Ni  Ni14  1  0.50010700  0.49989300  0.75000700  1
+  Ni  Ni15  1  0.99952000  0.49931100  0.75000000  1

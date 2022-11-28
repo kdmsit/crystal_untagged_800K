@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       Li8Pr8Sn8
+_chemical_formula_sum              "Li8 Pr8 Sn8"
+_cell_length_a       9.56205
+_cell_length_b       9.56149
+_cell_length_c       7.74044
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.16700  0.83300  0.21200  1.0000
+  Li  Li2       1.0  0.66700  0.83300  0.21200  1.0000
+  Li  Li3       1.0  0.16700  0.33300  0.21200  1.0000
+  Li  Li4       1.0  0.66700  0.33300  0.32400  1.0000
+  Li  Li5       1.0  0.33300  0.16700  0.71200  1.0000
+  Li  Li6       1.0  0.83300  0.16700  0.71200  1.0000
+  Li  Li7       1.0  0.83300  0.66700  0.71200  1.0000
+  Li  Li8       1.0  0.33300  0.66700  0.82400  1.0000
+  Pr  Pr1       1.0  0.00000  0.00000  0.00225  1.0000
+  Pr  Pr2       1.0  0.51100  0.48900  0.00489  1.0000
+  Pr  Pr3       1.0  0.97800  0.48900  0.00489  1.0000
+  Pr  Pr4       1.0  0.51100  0.02240  0.00490  1.0000
+  Pr  Pr5       1.0  0.00000  0.00000  0.50200  1.0000
+  Pr  Pr6       1.0  0.02240  0.51100  0.50500  1.0000
+  Pr  Pr7       1.0  0.48900  0.51100  0.50500  1.0000
+  Pr  Pr8       1.0  0.48900  0.97800  0.50500  1.0000
+  Sn  Sn1       1.0  0.33300  0.66700  0.23500  1.0000
+  Sn  Sn2       1.0  0.33300  0.16700  0.27200  1.0000
+  Sn  Sn3       1.0  0.83300  0.16700  0.27200  1.0000
+  Sn  Sn4       1.0  0.83300  0.66700  0.27200  1.0000
+  Sn  Sn5       1.0  0.66700  0.33300  0.73500  1.0000
+  Sn  Sn6       1.0  0.16700  0.83300  0.77200  1.0000
+  Sn  Sn7       1.0  0.66700  0.83300  0.77200  1.0000
+  Sn  Sn8       1.0  0.16700  0.33300  0.77200  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       HfLi4O6Te
+_chemical_formula_sum              "Hf1 Li4 O6 Te1"
+_cell_length_a       5.42569
+_cell_length_b       5.42569
+_cell_length_c       5.21913
+_cell_angle_alpha    100.001
+_cell_angle_beta     100.001
+_cell_angle_gamma    120.062
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.16600  0.83400  0.00000  1.0000
+  Li  Li1       1.0  0.49800  0.50200  0.00000  1.0000
+  Li  Li2       1.0  0.99900  0.00077  0.50000  1.0000
+  Li  Li3       1.0  0.65400  0.34600  0.50000  1.0000
+  Li  Li4       1.0  0.35000  0.65000  0.50000  1.0000
+  O   O1        1.0  0.92500  0.58800  0.23500  1.0000
+  O   O2        1.0  0.56700  0.91700  0.24000  1.0000
+  O   O3        1.0  0.24600  0.23000  0.24700  1.0000
+  O   O4        1.0  0.77000  0.75400  0.75300  1.0000
+  O   O5        1.0  0.08290  0.43300  0.76000  1.0000
+  O   O6        1.0  0.41200  0.07460  0.76500  1.0000
+  Te  Te1       1.0  0.83000  0.17000  0.00000  1.0000

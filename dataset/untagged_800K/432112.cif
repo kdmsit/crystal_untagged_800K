@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       F2Ga2O2
+_chemical_formula_sum              "F2 Ga2 O2"
+_cell_length_a       3.37127
+_cell_length_b       3.37127
+_cell_length_c       6.11057
+_cell_angle_alpha    90
+_cell_angle_beta     106.013
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.73500  0.36800  0.10300  1.0000
+  F   F2        1.0  0.26500  0.63200  0.89700  1.0000
+  Ga  Ga1       1.0  0.51900  0.75900  0.27800  1.0000
+  Ga  Ga2       1.0  0.48100  0.24100  0.72200  1.0000
+  O   O1        1.0  0.23800  0.11900  0.35800  1.0000
+  O   O2        1.0  0.76200  0.88100  0.64200  1.0000

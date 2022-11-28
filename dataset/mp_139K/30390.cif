@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NbCr3(AgS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21965027
+_cell_length_b   7.21965027
+_cell_length_c   7.28202321
+_cell_angle_alpha   60.76293235
+_cell_angle_beta   60.76293235
+_cell_angle_gamma   60.87686650
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbCr3(AgS4)2
+_chemical_formula_sum   'Nb1 Cr3 Ag2 S8'
+_cell_volume   273.23956351
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.66295200  0.33704800  0.50000000  1
+  Cr  Cr1  1  0.61427900  0.38572100  0.00000000  1
+  Cr  Cr2  1  0.61167900  0.88617100  0.50461700  1
+  Cr  Cr3  1  0.11382900  0.38832100  0.49538300  1
+  Ag  Ag4  1  0.00667800  0.72855200  0.88026400  1
+  Ag  Ag5  1  0.27144800  0.99332200  0.11973600  1
+  S  S6  1  0.38246700  0.15078600  0.26812800  1
+  S  S7  1  0.84656100  0.13349800  0.24723200  1
+  S  S8  1  0.37249500  0.15182500  0.70826600  1
+  S  S9  1  0.38568300  0.58196200  0.26624300  1
+  S  S10  1  0.84921400  0.61753300  0.73187200  1
+  S  S11  1  0.86650200  0.15343900  0.75276800  1
+  S  S12  1  0.84817500  0.62750500  0.29173400  1
+  S  S13  1  0.41803800  0.61431700  0.73375700  1

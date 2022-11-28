@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ba2CuO3
+_chemical_formula_sum              "Ba2 Cu1 O3"
+_cell_length_a       3.82617
+_cell_length_b       4.11833
+_cell_length_c       7.10634
+_cell_angle_alpha    106.844
+_cell_angle_beta     105.617
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.64600  0.14600  0.29100  1.0000
+  Ba  Ba2       1.0  0.35400  0.85400  0.70900  1.0000
+  Cu  Cu1       1.0  0.00000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.00000  0.00000  0.00000  1.0000
+  O   O2        1.0  0.14800  0.64800  0.29700  1.0000
+  O   O3        1.0  0.85200  0.35200  0.70300  1.0000

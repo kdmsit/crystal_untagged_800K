@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_YbTlCd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.61072000
+_cell_length_b   5.08280418
+_cell_length_c   5.08272944
+_cell_angle_alpha   119.99289048
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbTlCd
+_chemical_formula_sum   'Yb1 Tl1 Cd1'
+_cell_volume   80.78968653
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.00000000  0.99988800  0.99991000  1
+  Tl  Tl1  1  0.50000000  0.66664400  0.33342700  1
+  Cd  Cd2  1  0.50000000  0.33336800  0.66666300  1

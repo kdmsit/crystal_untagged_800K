@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_SiO2
+_symmetry_space_group_name_H-M  'Pmma'
+_cell_length_a       5.28522
+_cell_length_b       7.46128
+_cell_length_c       8.22341
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  51
+_chemical_formula_structural  SiO2
+_chemical_formula_sum  Si6O2
+_cell_volume  324.28586535031
+_cell_formula_units_Z  6
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.75000  0.67950  0.72481  1
+ O  O2  1  0.00000  0.26819  0.00000  1
+ O  O3  1  0.50000  0.73181  0.00000  1
+ O  O4  1  0.50000  0.50000  0.50000  1
+ O  O5  1  0.50000  0.26819  0.00000  1
+ O  O6  1  0.00000  0.73181  0.00000  1
+ O  O7  1  0.75000  0.00000  0.85747  1
+ O  O8  1  0.25000  0.32050  0.27519  1
+ O  O9  1  0.00000  0.50000  0.50000  1
+ O  O10  1  0.75000  0.32050  0.72481  1
+ O  O11  1  0.25000  0.67950  0.27519  1
+ O  O12  1  0.25000  0.00000  0.14253  1
+ Si  Si1  1  0.75000  0.50000  0.61277  1
+ Si  Si2  1  0.25000  0.50000  0.38723  1
+ Si  Si3  1  0.25000  0.78632  0.10409  1
+ Si  Si4  1  0.75000  0.21368  0.89591  1
+ Si  Si5  1  0.75000  0.78632  0.89591  1
+ Si  Si6  1  0.25000  0.21368  0.10409  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ti2Nb2Ni2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.17212601
+_cell_length_b   8.17212601
+_cell_length_c   8.17212601
+_cell_angle_alpha   119.63042449
+_cell_angle_beta   119.63042449
+_cell_angle_gamma   90.64132444
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2Nb2Ni2C
+_chemical_formula_sum   'Ti8 Nb8 Ni8 C4'
+_cell_volume   388.04311664
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.87282300  0.12044600  0.24762300  1
+  Ti  Ti1  1  0.87955400  0.12717700  0.75237700  1
+  Ti  Ti2  1  0.37480000  0.12717700  0.24762300  1
+  Ti  Ti3  1  0.87282300  0.62520000  0.75237700  1
+  Ti  Ti4  1  0.31532500  0.68467500  0.00000000  1
+  Ti  Ti5  1  0.68467500  0.31532500  0.00000000  1
+  Ti  Ti6  1  0.68467500  0.68467500  0.36935000  1
+  Ti  Ti7  1  0.31532500  0.31532500  0.63065000  1
+  Nb  Nb8  1  0.68284600  0.68284600  0.00000000  1
+  Nb  Nb9  1  0.31715400  0.31715400  0.00000000  1
+  Nb  Nb10  1  0.43279800  0.56720200  0.50000000  1
+  Nb  Nb11  1  0.06720200  0.93279800  0.50000000  1
+  Nb  Nb12  1  0.06720200  0.56720200  0.13440300  1
+  Nb  Nb13  1  0.43279800  0.93279800  0.86559700  1
+  Nb  Nb14  1  0.06597100  0.56597100  0.50000000  1
+  Nb  Nb15  1  0.43402900  0.93402900  0.50000000  1
+  Ni  Ni16  1  0.07751100  0.91910800  0.84159700  1
+  Ni  Ni17  1  0.08089200  0.92248900  0.15840300  1
+  Ni  Ni18  1  0.76408500  0.92248900  0.84159700  1
+  Ni  Ni19  1  0.07751100  0.23591500  0.15840300  1
+  Ni  Ni20  1  0.66527600  0.32812400  0.66284800  1
+  Ni  Ni21  1  0.67187600  0.33472400  0.33715200  1
+  Ni  Ni22  1  0.99757200  0.33472400  0.66284800  1
+  Ni  Ni23  1  0.66527600  0.00242800  0.33715200  1
+  C  C24  1  0.37879000  0.62732400  0.24853300  1
+  C  C25  1  0.37267600  0.62121000  0.75146700  1
+  C  C26  1  0.86974300  0.62121000  0.24853300  1
+  C  C27  1  0.37879000  0.13025700  0.75146700  1

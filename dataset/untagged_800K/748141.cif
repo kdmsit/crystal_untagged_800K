@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Fe5(GeN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54338029
+_cell_length_b   4.65626139
+_cell_length_c   9.92400687
+_cell_angle_alpha   89.99999888
+_cell_angle_beta   84.37851377
+_cell_angle_gamma   107.97682663
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe5(GeN3)2
+_chemical_formula_sum   'Fe10 Ge4 N12'
+_cell_volume   329.79076400
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.21234200  0.95989500  0.96924200  1
+  Fe  Fe1  1  0.78765800  0.74755400  0.53075800  1
+  Fe  Fe2  1  0.78765800  0.04010500  0.03075800  1
+  Fe  Fe3  1  0.21234200  0.25244600  0.46924200  1
+  Fe  Fe4  1  0.09946400  0.78403300  0.63860500  1
+  Fe  Fe5  1  0.90053600  0.68456900  0.86139500  1
+  Fe  Fe6  1  0.90053600  0.21596700  0.36139500  1
+  Fe  Fe7  1  0.09946400  0.31543100  0.13860500  1
+  Fe  Fe8  1  0.00000000  0.19856600  0.75000000  1
+  Fe  Fe9  1  0.00000000  0.80143400  0.25000000  1
+  Ge  Ge10  1  0.56619100  0.24935800  0.59331400  1
+  Ge  Ge11  1  0.43380900  0.68316800  0.90668600  1
+  Ge  Ge12  1  0.43380900  0.75064200  0.40668600  1
+  Ge  Ge13  1  0.56619100  0.31683200  0.09331400  1
+  N  N14  1  0.85471700  0.82120300  0.69759400  1
+  N  N15  1  0.14528300  0.96648600  0.80240600  1
+  N  N16  1  0.14528300  0.17879700  0.30240600  1
+  N  N17  1  0.85471700  0.03351400  0.19759400  1
+  N  N18  1  0.12784800  0.43061500  0.60602600  1
+  N  N19  1  0.87215200  0.30276800  0.89397400  1
+  N  N20  1  0.87215200  0.56938500  0.39397400  1
+  N  N21  1  0.12784800  0.69723200  0.10602600  1
+  N  N22  1  0.32466000  0.99435600  0.53791400  1
+  N  N23  1  0.67534000  0.66969700  0.96208600  1
+  N  N24  1  0.67534000  0.00564400  0.46208600  1
+  N  N25  1  0.32466000  0.33030300  0.03791400  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Br2La2
+_chemical_formula_sum              "Br2 La2"
+_cell_length_a       4.10788
+_cell_length_b       4.10789
+_cell_length_c       10.6352
+_cell_angle_alpha    78.8647
+_cell_angle_beta     101.135
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.39000  0.61000  0.17100  1.0000
+  Br  Br2       1.0  0.61000  0.39000  0.82900  1.0000
+  La  La1       1.0  0.11900  0.88100  0.35800  1.0000
+  La  La2       1.0  0.88100  0.11900  0.64200  1.0000

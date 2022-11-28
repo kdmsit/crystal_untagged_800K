@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_CuBrO2
+_symmetry_space_group_name_H-M  'C222_1'
+_cell_length_a       3.75326
+_cell_length_b       6.36243
+_cell_length_c       6.36243
+_cell_angle_alpha    112.028
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  20
+_chemical_formula_structural  CuBrO2
+_chemical_formula_sum  Cu2Br2O4
+_cell_volume  140.84338296524865
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.75000  0.64119  0.35881  1
+ Br  Br2  1  0.25000  0.35881  0.64119  1
+ Cu  Cu1  1  0.50000  0.26469  0.26469  1
+ Cu  Cu2  1  0.00000  0.73531  0.73531  1
+ O  O1  1  0.21437  -0.00223  0.18314  1
+ O  O2  1  0.28563  0.81686  0.00223  1
+ O  O3  1  0.78563  0.18314  -0.00223  1
+ O  O4  1  0.71437  0.00223  0.81686  1

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Al4C3
+_chemical_formula_sum              "Al4 C3"
+_cell_length_a       8.57452
+_cell_length_b       8.57452
+_cell_length_c       8.57452
+_cell_angle_alpha    22.5219
+_cell_angle_beta     22.5219
+_cell_angle_gamma    22.5219
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.12900  0.12900  0.12900  1.0000
+  Al  Al2       1.0  0.29300  0.29300  0.29300  1.0000
+  Al  Al3       1.0  0.70600  0.70600  0.70600  1.0000
+  Al  Al4       1.0  0.87000  0.87000  0.87000  1.0000
+  C   C1        1.0  1.00000  0.00000  1.00000  1.0000
+  C   C2        1.0  0.21600  0.21600  0.21600  1.0000
+  C   C3        1.0  0.78300  0.78300  0.78300  1.0000

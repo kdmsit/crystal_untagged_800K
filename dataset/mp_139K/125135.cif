@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Zn2MoWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69012607
+_cell_length_b   5.69012607
+_cell_length_c   5.69012565
+_cell_angle_alpha   56.11099794
+_cell_angle_beta   56.11099794
+_cell_angle_gamma   56.11100586
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2MoWO6
+_chemical_formula_sum   'Zn2 Mo1 W1 O6'
+_cell_volume   118.54071517
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.26597200  0.26597200  0.26597200  1
+  Zn  Zn1  1  0.77504100  0.77504100  0.77504100  1
+  Mo  Mo2  1  0.49843500  0.49843500  0.49843500  1
+  W  W3  1  0.99947500  0.99947500  0.99947500  1
+  O  O4  1  0.09836600  0.75255600  0.37798900  1
+  O  O5  1  0.90095200  0.21696400  0.62099700  1
+  O  O6  1  0.75255600  0.37798900  0.09836600  1
+  O  O7  1  0.37798900  0.09836600  0.75255600  1
+  O  O8  1  0.62099700  0.90095200  0.21696400  1
+  O  O9  1  0.21696400  0.62099700  0.90095200  1

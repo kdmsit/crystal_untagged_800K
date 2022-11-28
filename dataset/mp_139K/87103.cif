@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiAlFe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89819450
+_cell_length_b   4.96473139
+_cell_length_c   8.00153000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.46316572
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAlFe
+_chemical_formula_sum   'Ti4 Al4 Fe4'
+_cell_volume   167.72181332
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.67145400  0.33655000  0.54781500  1
+  Ti  Ti1  1  0.34231300  0.67183200  0.42546800  1
+  Ti  Ti2  1  0.34231300  0.67183200  0.07453200  1
+  Ti  Ti3  1  0.67145400  0.33655000  0.95218500  1
+  Al  Al4  1  0.98309200  0.99058700  0.48963500  1
+  Al  Al5  1  0.98309200  0.99058700  0.01036500  1
+  Al  Al6  1  0.17939700  0.34530700  0.75000000  1
+  Al  Al7  1  0.18228700  0.83524100  0.75000000  1
+  Fe  Fe8  1  0.66949800  0.83271800  0.75000000  1
+  Fe  Fe9  1  0.81789300  0.64576900  0.25000000  1
+  Fe  Fe10  1  0.82003200  0.17432200  0.25000000  1
+  Fe  Fe11  1  0.33717500  0.16870400  0.25000000  1

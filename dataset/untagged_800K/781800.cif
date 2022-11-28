@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_MgCrO4
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       5.0101
+_cell_length_b       5.0101
+_cell_length_c       6.36573
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    112.931
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  MgCrO4
+_chemical_formula_sum  Mg2Cr2O8
+_cell_volume  147.1599119777525
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cr  Cr1  1  0.36029  0.63971  0.75000  1
+ Cr  Cr2  1  0.63971  0.36029  0.25000  1
+ Mg  Mg1  1  0.00000  0.00000  0.00000  1
+ Mg  Mg2  1  0.00000  0.00000  0.50000  1
+ O  O1  1  0.72807  0.77788  0.75000  1
+ O  O2  1  0.27193  0.22212  0.25000  1
+ O  O3  1  0.77788  0.72807  0.25000  1
+ O  O4  1  0.22212  0.27193  0.75000  1
+ O  O5  1  0.24729  0.75271  0.95857  1
+ O  O6  1  0.75271  0.24729  0.45857  1
+ O  O7  1  0.75271  0.24729  0.04143  1
+ O  O8  1  0.24729  0.75271  0.54143  1

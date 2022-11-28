@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pt4Sc2Si2
+_chemical_formula_sum              "Pt4 Sc2 Si2"
+_cell_length_a       3.69792
+_cell_length_b       5.29134
+_cell_length_c       7.03733
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    69.5474
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.63800  0.72400  0.04850  1.0000
+  Pt  Pt2       1.0  0.63800  0.72400  0.45200  1.0000
+  Pt  Pt3       1.0  0.36200  0.27600  0.54800  1.0000
+  Pt  Pt4       1.0  0.36200  0.27600  0.95200  1.0000
+  Sc  Sc1       1.0  0.95300  0.09410  0.25000  1.0000
+  Sc  Sc2       1.0  0.04710  0.90600  0.75000  1.0000
+  Si  Si1       1.0  0.23400  0.53100  0.25000  1.0000
+  Si  Si2       1.0  0.76600  0.46900  0.75000  1.0000

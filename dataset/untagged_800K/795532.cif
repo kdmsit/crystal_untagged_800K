@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Li2FeCuO4
+_symmetry_space_group_name_H-M  'Imma'
+_cell_length_a       6.02276
+_cell_length_b       6.02277
+_cell_length_c       5.5726
+_cell_angle_alpha    117.558
+_cell_angle_beta     117.558
+_cell_angle_gamma    98.3327
+
+_symmetry_Int_Tables_number  74
+_chemical_formula_structural  Li2FeCuO4
+_chemical_formula_sum  Li4Fe2Cu2O8
+_cell_volume  141.33428032248676
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.00000  -0.00000  0.50000  1
+ Cu  Cu2  1  0.00000  0.00000  0.00000  1
+ Fe  Fe1  1  0.00000  0.50000  -0.00000  1
+ Fe  Fe2  1  0.50000  -0.00000  0.50000  1
+ Li  Li1  1  0.00000  0.50000  0.50000  1
+ Li  Li2  1  0.50000  0.50000  0.50000  1
+ Li  Li3  1  0.50000  -0.00000  0.00000  1
+ Li  Li4  1  0.50000  0.50000  0.00000  1
+ O  O1  1  0.26558  0.73438  0.01446  1
+ O  O2  1  0.27472  0.19458  0.48466  1
+ O  O3  1  0.26562  0.73442  0.48554  1
+ O  O4  1  0.80542  0.72528  0.01534  1
+ O  O5  1  0.19458  0.27472  0.98466  1
+ O  O6  1  0.73438  0.26558  0.51446  1
+ O  O7  1  0.72528  0.80542  0.51534  1
+ O  O8  1  0.73442  0.26562  0.98554  1

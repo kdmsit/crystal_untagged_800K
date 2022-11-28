@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HoMn2ZnO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17980300
+_cell_length_b   5.39778700
+_cell_length_c   7.64953400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoMn2ZnO6
+_chemical_formula_sum   'Ho2 Mn4 Zn2 O12'
+_cell_volume   213.87694160
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.01804600  0.68522300  0.00000000  1
+  Ho  Ho1  1  0.51804600  0.31477700  0.50000000  1
+  Mn  Mn2  1  0.99996500  0.24042700  0.74984600  1
+  Mn  Mn3  1  0.99996500  0.24042700  0.25015400  1
+  Mn  Mn4  1  0.49996500  0.75957300  0.24984600  1
+  Mn  Mn5  1  0.49996500  0.75957300  0.75015400  1
+  Zn  Zn6  1  0.49096700  0.20631600  0.00000000  1
+  Zn  Zn7  1  0.99096700  0.79368400  0.50000000  1
+  O  O8  1  0.10599000  0.19524600  0.50000000  1
+  O  O9  1  0.19666700  0.94720500  0.81092000  1
+  O  O10  1  0.19666700  0.94720500  0.18908000  1
+  O  O11  1  0.30886100  0.44103700  0.81140200  1
+  O  O12  1  0.30886100  0.44103700  0.18859800  1
+  O  O13  1  0.37405300  0.71263800  0.50000000  1
+  O  O14  1  0.60599000  0.80475400  0.00000000  1
+  O  O15  1  0.69666700  0.05279500  0.31092000  1
+  O  O16  1  0.69666700  0.05279500  0.68908000  1
+  O  O17  1  0.80886100  0.55896300  0.68859800  1
+  O  O18  1  0.80886100  0.55896300  0.31140200  1
+  O  O19  1  0.87405300  0.28736200  0.00000000  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LaMgS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.00675320
+_cell_length_b   11.55862000
+_cell_length_c   7.95803146
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   129.20672960
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaMgS3
+_chemical_formula_sum   'La4 Mg4 S12'
+_cell_volume   570.68580067
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.05505900  0.00000000  0.26537900  1
+  La  La1  1  0.94494100  0.00000000  0.73462100  1
+  La  La2  1  0.55505900  0.50000000  0.26537900  1
+  La  La3  1  0.44494100  0.50000000  0.73462100  1
+  Mg  Mg4  1  0.00000000  0.34050100  0.00000000  1
+  Mg  Mg5  1  0.00000000  0.65949900  0.00000000  1
+  Mg  Mg6  1  0.50000000  0.84050100  0.00000000  1
+  Mg  Mg7  1  0.50000000  0.15949900  0.00000000  1
+  S  S8  1  0.22679100  0.15538900  0.13905900  1
+  S  S9  1  0.77320900  0.84461100  0.86094100  1
+  S  S10  1  0.77320900  0.15538900  0.86094100  1
+  S  S11  1  0.22679100  0.84461100  0.13905900  1
+  S  S12  1  0.72679100  0.65538900  0.13905900  1
+  S  S13  1  0.27320900  0.34461100  0.86094100  1
+  S  S14  1  0.27320900  0.65538900  0.86094100  1
+  S  S15  1  0.72679100  0.34461100  0.13905900  1
+  S  S16  1  0.29331700  0.00000000  0.72308500  1
+  S  S17  1  0.70668300  0.00000000  0.27691500  1
+  S  S18  1  0.79331700  0.50000000  0.72308500  1
+  S  S19  1  0.20668300  0.50000000  0.27691500  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_MgWO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09357260
+_cell_length_b   4.09357260
+_cell_length_c   4.14933115
+_cell_angle_alpha   84.22692635
+_cell_angle_beta   84.22692635
+_cell_angle_gamma   94.88192269
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgWO3
+_chemical_formula_sum   'Mg1 W1 O3'
+_cell_volume   68.50902686
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.45955900  0.45955900  0.29928900  1
+  W  W1  1  0.02415100  0.02415100  0.03768900  1
+  O  O2  1  0.51504100  0.98310100  0.11038900  1
+  O  O3  1  0.98310100  0.51504100  0.11038900  1
+  O  O4  1  0.08480200  0.08480200  0.55947100  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CdFe(PS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13576199
+_cell_length_b   6.13576199
+_cell_length_c   7.09049621
+_cell_angle_alpha   81.65328736
+_cell_angle_beta   81.65328736
+_cell_angle_gamma   120.03654954
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdFe(PS3)2
+_chemical_formula_sum   'Cd1 Fe1 P2 S6'
+_cell_volume   221.12675634
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.66769800  0.33230200  0.00000000  1
+  Fe  Fe1  1  0.32222000  0.67778000  0.00000000  1
+  P  P2  1  0.05288800  0.05132400  0.83549000  1
+  P  P3  1  0.94867600  0.94711200  0.16451000  1
+  S  S4  1  0.11034800  0.41515800  0.75628500  1
+  S  S5  1  0.38845600  0.04872300  0.75689800  1
+  S  S6  1  0.95127700  0.61154400  0.24310200  1
+  S  S7  1  0.58484200  0.88965200  0.24371500  1
+  S  S8  1  0.74184000  0.76824600  0.76194400  1
+  S  S9  1  0.23175400  0.25816000  0.23805600  1

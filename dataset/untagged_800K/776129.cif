@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_CuSe2Br
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       7.9387
+_cell_length_b       4.89447
+_cell_length_c       11.9179
+_cell_angle_alpha    90
+_cell_angle_beta     116.928
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  CuSe2Br
+_chemical_formula_sum  Cu4Se8Br4
+_cell_volume  412.86698937951536
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.60329  0.42076  0.39439  1
+ Br  Br2  1  0.39671  0.92076  0.10561  1
+ Br  Br3  1  0.39671  0.57924  0.60561  1
+ Br  Br4  1  0.60329  0.07924  0.89439  1
+ Cu  Cu1  1  0.68351  0.33022  0.74743  1
+ Cu  Cu2  1  0.31649  0.83022  0.75257  1
+ Cu  Cu3  1  0.31649  0.66978  0.25257  1
+ Cu  Cu4  1  0.68351  0.16978  0.24743  1
+ Se  Se1  1  0.20147  0.00389  0.34786  1
+ Se  Se2  1  0.79853  0.50389  0.15214  1
+ Se  Se3  1  0.79853  -0.00389  0.65214  1
+ Se  Se4  1  0.20147  0.49611  0.84786  1
+ Se  Se5  1  0.07588  0.16808  0.65743  1
+ Se  Se6  1  0.92412  0.66808  0.84257  1
+ Se  Se7  1  0.92412  0.83192  0.34257  1
+ Se  Se8  1  0.07588  0.33192  0.15743  1

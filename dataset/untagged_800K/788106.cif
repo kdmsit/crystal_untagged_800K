@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_Al3GaN4
+_symmetry_space_group_name_H-M  'P-43m'
+_cell_length_a       4.4379
+_cell_length_b       4.4379
+_cell_length_c       4.4379
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  215
+_chemical_formula_structural  Al3GaN4
+_chemical_formula_sum  Al3GaN4
+_cell_volume  87.40407235065555
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.50000  0.50000  0.00000  1
+ Al  Al2  1  0.50000  0.00000  0.50000  1
+ Al  Al3  1  0.00000  0.50000  0.50000  1
+ Ga  Ga1  1  0.00000  0.00000  0.00000  1
+ N  N1  1  0.74395  0.74395  0.25605  1
+ N  N2  1  0.74395  0.25605  0.74395  1
+ N  N3  1  0.25605  0.74395  0.74395  1
+ N  N4  1  0.25605  0.25605  0.25605  1

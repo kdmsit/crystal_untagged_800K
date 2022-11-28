@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31461400
+_cell_length_b   7.49347900
+_cell_length_c   8.43348198
+_cell_angle_alpha   58.37299303
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeSe2
+_chemical_formula_sum   'Ce4 Se8'
+_cell_volume   393.60101116
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.42253400  0.02321600  0.49379300  1
+  Ce  Ce1  1  0.57746600  0.02321600  0.99379300  1
+  Ce  Ce2  1  0.92667200  0.29165900  0.49391900  1
+  Ce  Ce3  1  0.07332800  0.29165900  0.99391900  1
+  Se  Se4  1  0.77124500  0.39925700  0.74449700  1
+  Se  Se5  1  0.22875500  0.39925700  0.24449700  1
+  Se  Se6  1  0.77193800  0.66482900  0.22777300  1
+  Se  Se7  1  0.22806200  0.66482900  0.72777300  1
+  Se  Se8  1  0.75298100  0.14991900  0.24897400  1
+  Se  Se9  1  0.24701900  0.14991900  0.74897400  1
+  Se  Se10  1  0.72324800  0.91849000  0.73886400  1
+  Se  Se11  1  0.27675200  0.91849000  0.23886400  1

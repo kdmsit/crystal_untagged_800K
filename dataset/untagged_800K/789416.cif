@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Yb3SiO
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       6.52163
+_cell_length_b       6.52194
+_cell_length_c       6.52193
+_cell_angle_alpha    60.0853
+_cell_angle_beta     60.0359
+_cell_angle_gamma    60.0359
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  Yb3SiO
+_chemical_formula_sum  Yb6Si2O2
+_cell_volume  196.38499448652678
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.00002  0.50000  0.50000  1
+ O  O2  1  0.50002  1.00000  -0.00000  1
+ Si  Si1  1  0.75002  0.24992  0.25008  1
+ Si  Si2  1  0.25002  0.75008  0.74992  1
+ Yb  Yb1  1  0.25003  0.26952  0.23048  1
+ Yb  Yb2  1  0.75003  0.73048  0.76952  1
+ Yb  Yb3  1  0.23665  0.76337  0.25623  1
+ Yb  Yb4  1  0.26339  0.24376  0.73664  1
+ Yb  Yb5  1  0.76338  0.23664  0.74376  1
+ Yb  Yb6  1  0.73665  0.75623  0.26337  1

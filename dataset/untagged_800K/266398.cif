@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       CoLi4O6Pd
+_chemical_formula_sum              "Co1 Li4 O6 Pd1"
+_cell_length_a       5.03608
+_cell_length_b       5.03608
+_cell_length_c       5.04083
+_cell_angle_alpha    99.6786
+_cell_angle_beta     99.6786
+_cell_angle_gamma    119.922
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.16800  0.83200  0.00000  1.0000
+  Li  Li1       1.0  0.50000  0.50000  0.00000  1.0000
+  Li  Li2       1.0  0.99900  0.00086  0.50000  1.0000
+  Li  Li3       1.0  0.66100  0.33900  0.50000  1.0000
+  Li  Li4       1.0  0.34000  0.66000  0.50000  1.0000
+  O   O1        1.0  0.93300  0.58700  0.23500  1.0000
+  O   O2        1.0  0.57200  0.92600  0.23700  1.0000
+  O   O3        1.0  0.23400  0.22700  0.23800  1.0000
+  O   O4        1.0  0.77300  0.76600  0.76200  1.0000
+  O   O5        1.0  0.07430  0.42800  0.76300  1.0000
+  O   O6        1.0  0.41300  0.06720  0.76500  1.0000
+  Pd  Pd1       1.0  0.83300  0.16700  0.00000  1.0000

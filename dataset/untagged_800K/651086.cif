@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Mg4Te3S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.45919780
+_cell_length_b   6.25225800
+_cell_length_c   8.98384115
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg4Te3S
+_chemical_formula_sum   'Mg4 Te3 S1'
+_cell_volume   250.46998627
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.01854100  0.97580100  1
+  Mg  Mg1  1  0.50000000  0.50837500  0.25000000  1
+  Mg  Mg2  1  0.00000000  0.01854100  0.52419900  1
+  Mg  Mg3  1  0.50000000  0.45993900  0.75000000  1
+  Te  Te4  1  0.50000000  0.74959900  0.98845300  1
+  Te  Te5  1  0.00000000  0.24265400  0.25000000  1
+  Te  Te6  1  0.50000000  0.74959900  0.51154700  1
+  S  S7  1  0.00000000  0.25275300  0.75000000  1

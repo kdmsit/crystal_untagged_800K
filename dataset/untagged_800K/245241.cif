@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Er2Te6
+_chemical_formula_sum              "Er2 Te6"
+_cell_length_a       4.55608
+_cell_length_b       4.038
+_cell_length_c       14.1435
+_cell_angle_alpha    81.7929
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.25000  0.94900  0.10200  1.0000
+  Er  Er2       1.0  0.75000  0.05110  0.89800  1.0000
+  Te  Te1       1.0  0.75000  0.44700  0.10500  1.0000
+  Te  Te2       1.0  0.25000  0.83600  0.32700  1.0000
+  Te  Te3       1.0  0.75000  0.31400  0.37100  1.0000
+  Te  Te4       1.0  0.25000  0.68600  0.62900  1.0000
+  Te  Te5       1.0  0.75000  0.16400  0.67300  1.0000
+  Te  Te6       1.0  0.25000  0.55300  0.89500  1.0000

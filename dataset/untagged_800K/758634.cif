@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_NdSi2Ni
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       4.0829
+_cell_length_b       4.17094
+_cell_length_c       8.50891
+_cell_angle_alpha    104.187
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  NdSi2Ni
+_chemical_formula_sum  Nd2Si4Ni2
+_cell_volume  140.48307006638322
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Nd  Nd1  1  0.25000  0.89392  0.78783  1
+ Nd  Nd2  1  0.75000  0.10608  0.21217  1
+ Ni  Ni1  1  0.75000  0.31835  0.63669  1
+ Ni  Ni2  1  0.25000  0.68165  0.36331  1
+ Si  Si1  1  0.25000  0.24971  0.49943  1
+ Si  Si2  1  0.75000  0.75029  0.50057  1
+ Si  Si3  1  0.75000  0.45884  0.91768  1
+ Si  Si4  1  0.25000  0.54116  0.08232  1

@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       H2Li2O14Sr2Ta4
+_chemical_formula_sum              "H2 Li2 O14 Sr2 Ta4"
+_cell_length_a       9.58313
+_cell_length_b       5.58245
+_cell_length_c       5.5365
+_cell_angle_alpha    90
+_cell_angle_beta     106.79
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.52400  0.25000  0.69500  1.0000
+  H   H2        1.0  0.52400  0.75000  0.82900  1.0000
+  Li  Li1       1.0  0.53600  0.00000  0.26800  1.0000
+  Li  Li2       1.0  0.53600  0.50000  0.26800  1.0000
+  O   O1        1.0  0.45100  0.25000  0.00692  1.0000
+  O   O2        1.0  0.57100  0.75000  0.01130  1.0000
+  O   O3        1.0  0.20300  0.00000  0.10100  1.0000
+  O   O4        1.0  0.20300  0.50000  0.10100  1.0000
+  O   O5        1.0  0.00321  0.75000  0.28900  1.0000
+  O   O6        1.0  0.77300  0.00000  0.38700  1.0000
+  O   O7        1.0  0.77300  0.50000  0.38700  1.0000
+  O   O8        1.0  0.45100  0.75000  0.44500  1.0000
+  O   O9        1.0  0.57100  0.25000  0.56000  1.0000
+  O   O10       1.0  0.22700  0.00000  0.61400  1.0000
+  O   O11       1.0  0.22700  0.50000  0.61400  1.0000
+  O   O12       1.0  0.00321  0.25000  0.71500  1.0000
+  O   O13       1.0  0.81600  0.00000  0.90800  1.0000
+  O   O14       1.0  0.81600  0.50000  0.90800  1.0000
+  Sr  Sr1       1.0  0.02000  0.25000  0.26100  1.0000
+  Sr  Sr2       1.0  0.02000  0.75000  0.75900  1.0000
+  Ta  Ta1       1.0  0.79000  0.75000  0.14300  1.0000
+  Ta  Ta2       1.0  0.25400  0.75000  0.37700  1.0000
+  Ta  Ta3       1.0  0.79000  0.25000  0.64700  1.0000
+  Ta  Ta4       1.0  0.25400  0.25000  0.87800  1.0000

@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_In4Ag3(GeSe4)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.59495279
+_cell_length_b   12.59495279
+_cell_length_c   12.59495279
+_cell_angle_alpha   141.69210730
+_cell_angle_beta   141.69210730
+_cell_angle_gamma   55.29285994
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In4Ag3(GeSe4)4
+_chemical_formula_sum   'In4 Ag3 Ge4 Se16'
+_cell_volume   762.13371022
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.12707300  0.62260700  0.99491600  1
+  In  In1  1  0.62769000  0.13215700  0.00508400  1
+  In  In2  1  0.37739300  0.37231000  0.50446700  1
+  In  In3  1  0.86784300  0.87292700  0.49553300  1
+  Ag  Ag4  1  0.24975200  0.24975200  0.00000000  1
+  Ag  Ag5  1  0.75024800  0.75024800  0.00000000  1
+  Ag  Ag6  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge7  1  0.75000000  0.25000000  0.50000000  1
+  Ge  Ge8  1  0.25000000  0.75000000  0.50000000  1
+  Ge  Ge9  1  0.50340900  0.00340900  0.50000000  1
+  Ge  Ge10  1  0.99659100  0.49659100  0.50000000  1
+  Se  Se11  1  0.28844200  0.04933500  0.70875400  1
+  Se  Se12  1  0.78796700  0.54859200  0.70702300  1
+  Se  Se13  1  0.34058100  0.57968800  0.29124600  1
+  Se  Se14  1  0.84156900  0.08094400  0.29297700  1
+  Se  Se15  1  0.69415900  0.46300600  0.27297600  1
+  Se  Se16  1  0.20344200  0.96193000  0.29294500  1
+  Se  Se17  1  0.19003000  0.42118300  0.72702400  1
+  Se  Se18  1  0.66898400  0.91049700  0.70705500  1
+  Se  Se19  1  0.45140800  0.15843100  0.23937500  1
+  Se  Se20  1  0.95066500  0.65941900  0.23910700  1
+  Se  Se21  1  0.91905600  0.21203300  0.76062500  1
+  Se  Se22  1  0.42031200  0.71155800  0.76089300  1
+  Se  Se23  1  0.03807000  0.33101600  0.24151300  1
+  Se  Se24  1  0.53699400  0.80997000  0.23115300  1
+  Se  Se25  1  0.08950300  0.79655800  0.75848700  1
+  Se  Se26  1  0.57881700  0.30584100  0.76884700  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LaCrSbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47748800
+_cell_length_b   5.48468778
+_cell_length_c   5.51392959
+_cell_angle_alpha   90.20271225
+_cell_angle_beta   119.45894039
+_cell_angle_gamma   119.79446236
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCrSbO6
+_chemical_formula_sum   'La1 Cr1 Sb1 O6'
+_cell_volume   118.23963392
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.50000300  0.74232500  0.75927400  1
+  Cr  Cr1  1  0.99540300  0.48796000  0.00442200  1
+  Sb  Sb2  1  0.00106000  0.99094400  0.50456500  1
+  O  O3  1  0.50260400  0.74602900  0.32783100  1
+  O  O4  1  0.92325200  0.69959200  0.20396400  1
+  O  O5  1  0.07928500  0.29656600  0.78299700  1
+  O  O6  1  0.93378300  0.19890200  0.19967500  1
+  O  O7  1  0.06550700  0.76680700  0.78764000  1
+  O  O8  1  0.49951600  0.22946500  0.68987000  1

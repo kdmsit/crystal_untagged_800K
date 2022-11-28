@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Co4K6
+_chemical_formula_sum              "Co4 K6"
+_cell_length_a       8.47338
+_cell_length_b       8.47338
+_cell_length_c       8.86651
+_cell_angle_alpha    118.544
+_cell_angle_beta     61.4562
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.65400  0.34600  0.03680  1.0000
+  Co  Co2       1.0  0.84600  0.15400  0.46300  1.0000
+  Co  Co3       1.0  0.15400  0.84600  0.53700  1.0000
+  Co  Co4       1.0  0.34600  0.65400  0.96300  1.0000
+  K   K1        1.0  0.55300  0.75000  0.25000  1.0000
+  K   K2        1.0  0.94700  0.44700  0.25000  1.0000
+  K   K3        1.0  0.25000  0.05310  0.25000  1.0000
+  K   K4        1.0  0.75000  0.94700  0.75000  1.0000
+  K   K5        1.0  0.05310  0.55300  0.75000  1.0000
+  K   K6        1.0  0.44700  0.25000  0.75000  1.0000

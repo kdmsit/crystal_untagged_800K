@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni4Sn4Y4
+_chemical_formula_sum              "Ni4 Sn4 Y4"
+_cell_length_a       7.14888
+_cell_length_b       4.4743
+_cell_length_c       7.69982
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.20000  0.25000  0.08590  1.0000
+  Ni  Ni2       1.0  0.70000  0.25000  0.41400  1.0000
+  Ni  Ni3       1.0  0.30000  0.75000  0.58600  1.0000
+  Ni  Ni4       1.0  0.80000  0.75000  0.91400  1.0000
+  Sn  Sn1       1.0  0.81000  0.25000  0.08650  1.0000
+  Sn  Sn2       1.0  0.31000  0.25000  0.41300  1.0000
+  Sn  Sn3       1.0  0.69000  0.75000  0.58700  1.0000
+  Sn  Sn4       1.0  0.19000  0.75000  0.91300  1.0000
+  Y   Y1        1.0  0.51300  0.75000  0.20200  1.0000
+  Y   Y2        1.0  0.01330  0.75000  0.29800  1.0000
+  Y   Y3        1.0  0.98700  0.25000  0.70200  1.0000
+  Y   Y4        1.0  0.48700  0.25000  0.79800  1.0000

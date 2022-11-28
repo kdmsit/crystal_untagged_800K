@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_TbFeCu
+_symmetry_space_group_name_H-M  'Imma'
+_cell_length_a       5.16216
+_cell_length_b       5.16216
+_cell_length_c       5.16216
+_cell_angle_alpha    93.0123
+_cell_angle_beta     59.4821
+_cell_angle_gamma    123.007
+
+_symmetry_Int_Tables_number  74
+_chemical_formula_structural  TbFeCu
+_chemical_formula_sum  Tb2Fe2Cu2
+_cell_volume  94.4771227522503
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.75000  0.37500  0.87500  1
+ Cu  Cu2  1  0.25000  0.37500  0.37500  1
+ Fe  Fe1  1  0.25000  0.87500  0.37500  1
+ Fe  Fe2  1  0.75000  0.37500  0.37500  1
+ Tb  Tb1  1  0.50000  0.75564  0.74436  1
+ Tb  Tb2  1  -0.00000  0.99436  0.00564  1

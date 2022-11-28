@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       As8Ba4Ge8
+_chemical_formula_sum              "As8 Ba4 Ge8"
+_cell_length_a       7.91625
+_cell_length_b       7.91625
+_cell_length_c       8.79467
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.22900  0.24500  0.25600  1.0000
+  As  As2       1.0  0.77100  0.24500  0.25600  1.0000
+  As  As3       1.0  0.22900  0.75500  0.25600  1.0000
+  As  As4       1.0  0.77100  0.75500  0.25600  1.0000
+  As  As5       1.0  0.24500  0.22900  0.75600  1.0000
+  As  As6       1.0  0.75500  0.22900  0.75600  1.0000
+  As  As7       1.0  0.24500  0.77100  0.75600  1.0000
+  As  As8       1.0  0.75500  0.77100  0.75600  1.0000
+  Ba  Ba1       1.0  0.50000  0.00000  0.02430  1.0000
+  Ba  Ba2       1.0  0.00000  0.00000  0.50000  1.0000
+  Ba  Ba3       1.0  0.00000  0.50000  0.52400  1.0000
+  Ba  Ba4       1.0  0.00000  0.00000  0.00000  1.0000
+  Ge  Ge1       1.0  0.16300  0.50000  0.10700  1.0000
+  Ge  Ge2       1.0  0.83700  0.50000  0.10700  1.0000
+  Ge  Ge3       1.0  0.50000  0.33400  0.36600  1.0000
+  Ge  Ge4       1.0  0.50000  0.66600  0.36600  1.0000
+  Ge  Ge5       1.0  0.50000  0.16300  0.60700  1.0000
+  Ge  Ge6       1.0  0.50000  0.83700  0.60700  1.0000
+  Ge  Ge7       1.0  0.33400  0.50000  0.86600  1.0000
+  Ge  Ge8       1.0  0.66600  0.50000  0.86600  1.0000

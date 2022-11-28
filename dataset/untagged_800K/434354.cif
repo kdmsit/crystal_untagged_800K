@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Bi2Mn2W3
+_chemical_formula_sum              "Bi2 Mn2 W3"
+_cell_length_a       7.49952
+_cell_length_b       7.49952
+_cell_length_c       7.49952
+_cell_angle_alpha    34.7753
+_cell_angle_beta     34.7753
+_cell_angle_gamma    34.7753
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.05550  0.05550  0.05550  1.0000
+  Bi  Bi2       1.0  0.48500  0.48500  0.48500  1.0000
+  Mn  Mn1       1.0  0.21300  0.21300  0.21300  1.0000
+  Mn  Mn2       1.0  0.76100  0.76100  0.76100  1.0000
+  W   W1        1.0  0.32700  0.32700  0.32700  1.0000
+  W   W2        1.0  0.62300  0.62300  0.62300  1.0000
+  W   W3        1.0  0.91100  0.91100  0.91100  1.0000

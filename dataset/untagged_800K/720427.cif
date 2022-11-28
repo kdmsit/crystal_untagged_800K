@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_MnNb2Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.28415839
+_cell_length_b   10.28415839
+_cell_length_c   10.28415839
+_cell_angle_alpha   123.07074042
+_cell_angle_beta   119.58116086
+_cell_angle_gamma   87.74597376
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnNb2Os
+_chemical_formula_sum   'Mn1 Nb2 Os1'
+_cell_volume   752.15027379
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Nb  Nb1  1  0.00000000  0.26319200  0.26319200  1
+  Nb  Nb2  1  0.00000000  0.73680800  0.73680800  1
+  Os  Os3  1  0.00000000  0.50000000  0.50000000  1

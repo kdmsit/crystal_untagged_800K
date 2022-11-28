@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaCO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.40390300
+_cell_length_b   4.58013700
+_cell_length_c   6.98229272
+_cell_angle_alpha   72.64213507
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCO3
+_chemical_formula_sum   'Ba2 C2 O6'
+_cell_volume   164.94600097
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.73419100  0.67836900  0.22781500  1
+  Ba  Ba1  1  0.23419100  0.32163100  0.77218500  1
+  C  C2  1  0.23052700  0.26518400  0.24858000  1
+  C  C3  1  0.73052700  0.73481600  0.75142000  1
+  O  O4  1  0.44616900  0.18364300  0.19917000  1
+  O  O5  1  0.03029700  0.19186300  0.16895300  1
+  O  O6  1  0.21481700  0.43580600  0.36757500  1
+  O  O7  1  0.71481700  0.56419400  0.63242500  1
+  O  O8  1  0.94616900  0.81635700  0.80083000  1
+  O  O9  1  0.53029700  0.80813700  0.83104700  1

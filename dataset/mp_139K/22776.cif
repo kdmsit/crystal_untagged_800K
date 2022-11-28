@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Er2(GePt3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81079378
+_cell_length_b   7.81079378
+_cell_length_c   10.08773752
+_cell_angle_alpha   67.10766358
+_cell_angle_beta   67.10766358
+_cell_angle_gamma   60.21399146
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2(GePt3)3
+_chemical_formula_sum   'Er4 Ge6 Pt18'
+_cell_volume   477.08372246
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.41567200  0.24435100  0.25069000  1
+  Er  Er1  1  0.58432800  0.75564900  0.74931000  1
+  Er  Er2  1  0.75564900  0.58432800  0.24931000  1
+  Er  Er3  1  0.24435100  0.41567200  0.75069000  1
+  Ge  Ge4  1  0.50000000  0.00000000  0.00000000  1
+  Ge  Ge5  1  0.00000000  0.50000000  0.50000000  1
+  Ge  Ge6  1  0.63918500  0.18175000  0.49782600  1
+  Ge  Ge7  1  0.36081500  0.81825000  0.50217400  1
+  Ge  Ge8  1  0.81825000  0.36081500  0.00217400  1
+  Ge  Ge9  1  0.18175000  0.63918500  0.99782600  1
+  Pt  Pt10  1  0.29657500  0.91617300  0.25663800  1
+  Pt  Pt11  1  0.70342500  0.08382700  0.74336200  1
+  Pt  Pt12  1  0.08382700  0.70342500  0.24336200  1
+  Pt  Pt13  1  0.91617300  0.29657500  0.75663800  1
+  Pt  Pt14  1  0.47803700  0.63949800  0.07795900  1
+  Pt  Pt15  1  0.52196300  0.36050200  0.92204100  1
+  Pt  Pt16  1  0.36050200  0.52196300  0.42204100  1
+  Pt  Pt17  1  0.63949800  0.47803700  0.57795900  1
+  Pt  Pt18  1  0.86536100  0.13463900  0.25000000  1
+  Pt  Pt19  1  0.13463900  0.86536100  0.75000000  1
+  Pt  Pt20  1  0.80028700  0.97935300  0.07205600  1
+  Pt  Pt21  1  0.19971300  0.02064700  0.92794400  1
+  Pt  Pt22  1  0.02064700  0.19971300  0.42794400  1
+  Pt  Pt23  1  0.97935300  0.80028700  0.57205600  1
+  Pt  Pt24  1  0.69307100  0.86004700  0.42124300  1
+  Pt  Pt25  1  0.30692900  0.13995300  0.57875700  1
+  Pt  Pt26  1  0.13995300  0.30692900  0.07875700  1
+  Pt  Pt27  1  0.86004700  0.69307100  0.92124300  1

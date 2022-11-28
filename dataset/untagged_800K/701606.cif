@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaNiBO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02700561
+_cell_length_b   8.81908074
+_cell_length_c   5.60011482
+_cell_angle_alpha   90.00507191
+_cell_angle_beta   101.13980032
+_cell_angle_gamma   89.95330106
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaNiBO3
+_chemical_formula_sum   'Na4 Ni4 B4 O12'
+_cell_volume   243.59520247
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.49987400  0.16437600  0.74966800  1
+  Na  Na1  1  0.99987300  0.66437900  0.74966800  1
+  Na  Na2  1  0.49891400  0.83448100  0.24734300  1
+  Na  Na3  1  0.99891400  0.33447800  0.24734300  1
+  Ni  Ni4  1  0.50027000  0.49868000  0.49850700  1
+  Ni  Ni5  1  0.49944900  0.49840100  0.99829000  1
+  Ni  Ni6  1  0.00026700  0.99868000  0.49850700  1
+  Ni  Ni7  1  0.99945000  0.99840100  0.99829000  1
+  B  B8  1  0.00012100  0.33009300  0.74796200  1
+  B  B9  1  0.50012500  0.83009300  0.74796400  1
+  B  B10  1  0.49960300  0.16686500  0.24868000  1
+  B  B11  1  0.99960600  0.66686500  0.24868200  1
+  O  O12  1  0.49749700  0.67271500  0.74835000  1
+  O  O13  1  0.99749900  0.17271700  0.74834900  1
+  O  O14  1  0.00463100  0.82417100  0.24985500  1
+  O  O15  1  0.50463300  0.32417300  0.24985400  1
+  O  O16  1  0.22462200  0.40650700  0.69932800  1
+  O  O17  1  0.72463100  0.90652000  0.69935600  1
+  O  O18  1  0.27862400  0.90946200  0.79679000  1
+  O  O19  1  0.77861900  0.40944400  0.79681400  1
+  O  O20  1  0.22024600  0.58675000  0.19939900  1
+  O  O21  1  0.72024100  0.08673200  0.19942300  1
+  O  O22  1  0.27383500  0.09120400  0.29601100  1
+  O  O23  1  0.77384500  0.59121700  0.29604000  1

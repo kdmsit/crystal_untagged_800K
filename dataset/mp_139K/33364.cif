@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr2CeBiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.03216940
+_cell_length_b   6.22938287
+_cell_length_c   8.65656709
+_cell_angle_alpha   89.98396887
+_cell_angle_beta   89.90805091
+_cell_angle_gamma   90.00080486
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CeBiO6
+_chemical_formula_sum   'Sr4 Ce2 Bi2 O12'
+_cell_volume   325.28473041
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.51368894  0.55065198  0.25006813  1
+  Sr  Sr1  1  0.98639975  0.05068715  0.25004971  1
+  Sr  Sr2  1  0.48631106  0.44934802  0.74993187  1
+  Sr  Sr3  1  0.01360025  0.94931285  0.74995029  1
+  Ce  Ce4  1  0.50000000  -0.00000000  -0.00000000  1
+  Ce  Ce5  1  0.00000000  0.50000000  0.50000000  1
+  Bi  Bi6  1  0.00000000  0.50000000  -0.00000000  1
+  Bi  Bi7  1  0.50000000  -0.00000000  0.50000000  1
+  O  O8  1  0.20027557  0.19986640  0.94561282  1
+  O  O9  1  0.29952178  0.69968431  0.55452109  1
+  O  O10  1  0.79972443  0.80013360  0.05438718  1
+  O  O11  1  0.70047822  0.30031569  0.44547891  1
+  O  O12  1  0.30200274  0.70236788  0.94340802  1
+  O  O13  1  0.19787034  0.20262374  0.55672427  1
+  O  O14  1  0.69799726  0.29763212  0.05659198  1
+  O  O15  1  0.80212966  0.79737626  0.44327573  1
+  O  O16  1  0.39635540  0.95793917  0.24895275  1
+  O  O17  1  0.10354116  0.45797646  0.25083213  1
+  O  O18  1  0.60364460  0.04206083  0.75104725  1
+  O  O19  1  0.89645884  0.54202354  0.74916787  1

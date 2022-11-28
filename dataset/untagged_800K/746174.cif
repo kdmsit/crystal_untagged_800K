@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CaBi2Br2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05872400
+_cell_length_b   4.05872400
+_cell_length_c   21.20787600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaBi2Br2O3
+_chemical_formula_sum   'Ca2 Bi4 Br4 O6'
+_cell_volume   349.36244202
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.50000000  0.26403800  1
+  Ca  Ca1  1  0.50000000  0.00000000  0.73596200  1
+  Bi  Bi2  1  0.00000000  0.50000000  0.05637900  1
+  Bi  Bi3  1  0.50000000  0.00000000  0.94362100  1
+  Bi  Bi4  1  0.00000000  0.50000000  0.63887900  1
+  Bi  Bi5  1  0.50000000  0.00000000  0.36112100  1
+  Br  Br6  1  0.00000000  0.50000000  0.43968400  1
+  Br  Br7  1  0.50000000  0.00000000  0.56031600  1
+  Br  Br8  1  0.00000000  0.50000000  0.86318800  1
+  Br  Br9  1  0.50000000  0.00000000  0.13681200  1
+  O  O10  1  0.50000000  0.50000000  0.30574000  1
+  O  O11  1  0.00000000  0.00000000  0.69426000  1
+  O  O12  1  0.50000000  0.50000000  0.69426000  1
+  O  O13  1  0.00000000  0.00000000  0.30574000  1
+  O  O14  1  0.50000000  0.50000000  0.00000000  1
+  O  O15  1  0.00000000  0.00000000  0.00000000  1

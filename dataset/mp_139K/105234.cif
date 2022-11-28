@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Na4CO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31948920
+_cell_length_b   5.31948920
+_cell_length_c   5.31948911
+_cell_angle_alpha   72.04147760
+_cell_angle_beta   72.04147760
+_cell_angle_gamma   72.04148255
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4CO4
+_chemical_formula_sum   'Na4 C1 O4'
+_cell_volume   132.37886376
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.57323400  0.05544800  0.57323400  1
+  Na  Na1  1  0.57323400  0.57323400  0.05544800  1
+  Na  Na2  1  0.05544800  0.57323400  0.57323400  1
+  Na  Na3  1  0.17713900  0.17713900  0.17713900  1
+  C  C4  1  0.96020300  0.96020300  0.96020300  1
+  O  O5  1  0.84308700  0.84308700  0.84308700  1
+  O  O6  1  0.75246900  0.12841200  0.12841200  1
+  O  O7  1  0.12841200  0.12841200  0.75246900  1
+  O  O8  1  0.12841200  0.75246900  0.12841200  1

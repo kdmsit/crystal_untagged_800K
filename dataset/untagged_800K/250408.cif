@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ba4F6
+_chemical_formula_sum              "Ba4 F6"
+_cell_length_a       6.82656
+_cell_length_b       6.82656
+_cell_length_c       6.91245
+_cell_angle_alpha    119.59
+_cell_angle_beta     60.4102
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.63300  0.36700  0.09960  1.0000
+  Ba  Ba2       1.0  0.86700  0.13300  0.40000  1.0000
+  Ba  Ba3       1.0  0.13300  0.86700  0.60000  1.0000
+  Ba  Ba4       1.0  0.36700  0.63300  0.90000  1.0000
+  F   F1        1.0  0.98100  0.48100  0.25000  1.0000
+  F   F2        1.0  0.51900  0.75000  0.25000  1.0000
+  F   F3        1.0  0.25000  0.01860  0.25000  1.0000
+  F   F4        1.0  0.75000  0.98100  0.75000  1.0000
+  F   F5        1.0  0.48100  0.25000  0.75000  1.0000
+  F   F6        1.0  0.01860  0.51900  0.75000  1.0000

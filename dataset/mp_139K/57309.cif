@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na2Bi4O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.52151069
+_cell_length_b   10.52151069
+_cell_length_c   5.97496823
+_cell_angle_alpha   74.93551060
+_cell_angle_beta   74.93551060
+_cell_angle_gamma   114.83510334
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Bi4O7
+_chemical_formula_sum   'Na4 Bi8 O14'
+_cell_volume   525.73064857
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.49218700  0.66636400  0.42277100  1
+  Na  Na1  1  0.33363600  0.50781300  0.07722900  1
+  Na  Na2  1  0.66636400  0.49218700  0.92277100  1
+  Na  Na3  1  0.50781300  0.33363600  0.57722900  1
+  Bi  Bi4  1  0.60604900  0.12050800  0.17444600  1
+  Bi  Bi5  1  0.26823000  0.12801900  0.24713700  1
+  Bi  Bi6  1  0.12050800  0.60604900  0.67444600  1
+  Bi  Bi7  1  0.12801900  0.26823000  0.74713700  1
+  Bi  Bi8  1  0.87198100  0.73177000  0.25286300  1
+  Bi  Bi9  1  0.87949200  0.39395100  0.32555400  1
+  Bi  Bi10  1  0.73177000  0.87198100  0.75286300  1
+  Bi  Bi11  1  0.39395100  0.87949200  0.82555400  1
+  O  O12  1  0.49243500  0.22001200  0.97740900  1
+  O  O13  1  0.37307500  0.99579000  0.46031300  1
+  O  O14  1  0.71937100  0.68681600  0.07730900  1
+  O  O15  1  0.67954000  0.32046000  0.25000000  1
+  O  O16  1  0.22001200  0.49243500  0.47740900  1
+  O  O17  1  0.99579000  0.37307500  0.96031200  1
+  O  O18  1  0.31318400  0.28062900  0.42269100  1
+  O  O19  1  0.68681600  0.71937100  0.57730900  1
+  O  O20  1  0.00421000  0.62692500  0.03968800  1
+  O  O21  1  0.77998800  0.50756500  0.52259100  1
+  O  O22  1  0.32046000  0.67954000  0.75000000  1
+  O  O23  1  0.28062900  0.31318400  0.92269100  1
+  O  O24  1  0.62692500  0.00421000  0.53968800  1
+  O  O25  1  0.50756500  0.77998800  0.02259100  1

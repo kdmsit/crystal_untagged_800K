@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Mg4Nb6
+_chemical_formula_sum              "Mg4 Nb6"
+_cell_length_a       6.86377
+_cell_length_b       6.86377
+_cell_length_c       6.46448
+_cell_angle_alpha    122.065
+_cell_angle_beta     57.9348
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.58700  0.41300  0.24000  1.0000
+  Mg  Mg2       1.0  0.91300  0.08660  0.26000  1.0000
+  Mg  Mg3       1.0  0.08660  0.91300  0.74000  1.0000
+  Mg  Mg4       1.0  0.41300  0.58700  0.76000  1.0000
+  Nb  Nb1       1.0  0.46800  0.75000  0.25000  1.0000
+  Nb  Nb2       1.0  0.03180  0.53200  0.25000  1.0000
+  Nb  Nb3       1.0  0.25000  0.96800  0.25000  1.0000
+  Nb  Nb4       1.0  0.96800  0.46800  0.75000  1.0000
+  Nb  Nb5       1.0  0.53200  0.25000  0.75000  1.0000
+  Nb  Nb6       1.0  0.75000  0.03180  0.75000  1.0000

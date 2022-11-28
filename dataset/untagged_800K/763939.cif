@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_AuCClO
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       3.89168
+_cell_length_b       5.36389
+_cell_length_c       8.30102
+_cell_angle_alpha    90
+_cell_angle_beta     103.557
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  AuCClO
+_chemical_formula_sum  Au2C2Cl2O2
+_cell_volume  168.45169303738626
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Au  Au1  1  0.76219  0.25000  0.52438  1
+ Au  Au2  1  0.23781  0.75000  0.47562  1
+ C  C1  1  0.88066  0.25000  0.76133  1
+ C  C2  1  0.11934  0.75000  0.23867  1
+ Cl  Cl1  1  0.37879  0.75000  0.75757  1
+ Cl  Cl2  1  0.62121  0.25000  0.24243  1
+ O  O1  1  0.95144  0.25000  0.90288  1
+ O  O2  1  0.04856  0.75000  0.09712  1

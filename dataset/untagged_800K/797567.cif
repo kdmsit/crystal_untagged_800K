@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_LuAgPb
+_symmetry_space_group_name_H-M  'P-62m'
+_cell_length_a       7.46019
+_cell_length_b       7.46019
+_cell_length_c       4.43922
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  189
+_chemical_formula_structural  LuAgPb
+_chemical_formula_sum  Lu3Ag3Pb3
+_cell_volume  213.9620313437771
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.25021  -0.00000  0.00000  1
+ Ag  Ag2  1  0.74979  0.74979  0.00000  1
+ Ag  Ag3  1  -0.00000  0.25021  0.00000  1
+ Lu  Lu1  1  -0.00000  0.57412  0.50000  1
+ Lu  Lu2  1  0.57412  -0.00000  0.50000  1
+ Lu  Lu3  1  0.42588  0.42588  0.50000  1
+ Pb  Pb1  1  0.00000  0.00000  0.50000  1
+ Pb  Pb2  1  0.33333  0.66667  0.00000  1
+ Pb  Pb3  1  0.66667  0.33333  0.00000  1

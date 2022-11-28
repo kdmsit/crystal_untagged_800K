@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_La3SmCr2(FeO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93203000
+_cell_length_b   7.86447700
+_cell_length_c   7.86543700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3SmCr2(FeO6)2
+_chemical_formula_sum   'La3 Sm1 Cr2 Fe2 O12'
+_cell_volume   243.22573596
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.50000000  0.00000000  0.25122100  1
+  La  La1  1  0.50000000  0.00000000  0.74883200  1
+  La  La2  1  0.50000000  0.50000000  0.74881000  1
+  Sm  Sm3  1  0.50000000  0.50000000  0.25130500  1
+  Cr  Cr4  1  0.00000000  0.74954800  0.49960100  1
+  Cr  Cr5  1  0.00000000  0.25045200  0.49960100  1
+  Fe  Fe6  1  0.00000000  0.74930300  0.00071900  1
+  Fe  Fe7  1  0.00000000  0.25069700  0.00071900  1
+  O  O8  1  0.00000000  0.00000000  0.00025600  1
+  O  O9  1  0.00000000  0.00000000  0.49982800  1
+  O  O10  1  0.00000000  0.50000000  0.00271300  1
+  O  O11  1  0.00000000  0.50000000  0.49683000  1
+  O  O12  1  0.00000000  0.74711200  0.25114000  1
+  O  O13  1  0.00000000  0.74979600  0.74883000  1
+  O  O14  1  0.00000000  0.25288800  0.25114000  1
+  O  O15  1  0.00000000  0.25020400  0.74883000  1
+  O  O16  1  0.50000000  0.74855700  0.00151300  1
+  O  O17  1  0.50000000  0.74830300  0.49829900  1
+  O  O18  1  0.50000000  0.25144300  0.00151300  1
+  O  O19  1  0.50000000  0.25169700  0.49829900  1

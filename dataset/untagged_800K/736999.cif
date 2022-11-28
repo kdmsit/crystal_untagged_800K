@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr(TlHg)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.94689200
+_cell_length_b   10.94689200
+_cell_length_c   5.03129300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(TlHg)2
+_chemical_formula_sum   'Sr4 Tl8 Hg8'
+_cell_volume   602.92220157
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.35350700  0.35350700  0.00000000  1
+  Sr  Sr1  1  0.64649300  0.64649300  0.00000000  1
+  Sr  Sr2  1  0.85350700  0.14649300  0.50000000  1
+  Sr  Sr3  1  0.14649300  0.85350700  0.50000000  1
+  Tl  Tl4  1  0.64331400  0.02808400  0.00000000  1
+  Tl  Tl5  1  0.35668600  0.97191600  0.00000000  1
+  Tl  Tl6  1  0.52808400  0.85668600  0.50000000  1
+  Tl  Tl7  1  0.14331400  0.47191600  0.50000000  1
+  Tl  Tl8  1  0.47191600  0.14331400  0.50000000  1
+  Tl  Tl9  1  0.85668600  0.52808400  0.50000000  1
+  Tl  Tl10  1  0.02808400  0.64331400  0.00000000  1
+  Tl  Tl11  1  0.97191600  0.35668600  0.00000000  1
+  Hg  Hg12  1  0.68895000  0.31105000  0.00000000  1
+  Hg  Hg13  1  0.31105000  0.68895000  0.00000000  1
+  Hg  Hg14  1  0.81105000  0.81105000  0.50000000  1
+  Hg  Hg15  1  0.18895000  0.18895000  0.50000000  1
+  Hg  Hg16  1  0.09431300  0.09431300  0.00000000  1
+  Hg  Hg17  1  0.90568700  0.90568700  0.00000000  1
+  Hg  Hg18  1  0.59431300  0.40568700  0.50000000  1
+  Hg  Hg19  1  0.40568700  0.59431300  0.50000000  1

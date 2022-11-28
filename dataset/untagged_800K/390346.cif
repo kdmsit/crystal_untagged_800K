@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cd4Co6
+_chemical_formula_sum              "Cd4 Co6"
+_cell_length_a       6.34347
+_cell_length_b       6.34347
+_cell_length_c       6.02931
+_cell_angle_alpha    121.739
+_cell_angle_beta     58.2609
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.59200  0.40800  0.22400  1.0000
+  Cd  Cd2       1.0  0.90800  0.09210  0.27600  1.0000
+  Cd  Cd3       1.0  0.09210  0.90800  0.72400  1.0000
+  Cd  Cd4       1.0  0.40800  0.59200  0.77600  1.0000
+  Co  Co1       1.0  0.25000  0.96100  0.25000  1.0000
+  Co  Co2       1.0  0.46100  0.75000  0.25000  1.0000
+  Co  Co3       1.0  0.03900  0.53900  0.25000  1.0000
+  Co  Co4       1.0  0.96100  0.46100  0.75000  1.0000
+  Co  Co5       1.0  0.53900  0.25000  0.75000  1.0000
+  Co  Co6       1.0  0.75000  0.03900  0.75000  1.0000

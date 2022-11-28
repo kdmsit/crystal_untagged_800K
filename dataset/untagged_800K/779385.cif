@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_LiErSe2
+_symmetry_space_group_name_H-M  'I4_1/amd'
+_cell_length_a       5.62226
+_cell_length_b       5.62208
+_cell_length_c       6.9651
+_cell_angle_alpha    113.803
+_cell_angle_beta     113.804
+_cell_angle_gamma    89.9992
+
+_symmetry_Int_Tables_number  141
+_chemical_formula_structural  LiErSe2
+_chemical_formula_sum  Li2Er2Se4
+_cell_volume  180.77342442318812
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Er  Er1  1  0.37498  0.62500  0.24998  1
+ Er  Er2  1  0.62502  0.37500  0.75002  1
+ Li  Li1  1  0.12500  0.87502  0.75001  1
+ Li  Li2  1  0.87500  0.12498  0.24999  1
+ Se  Se1  1  0.37836  0.12837  0.25672  1
+ Se  Se2  1  0.12834  0.37835  0.75668  1
+ Se  Se3  1  0.87166  0.62165  0.24332  1
+ Se  Se4  1  0.62164  0.87163  0.74328  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaBe2Tl3F8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86269852
+_cell_length_b   5.86269852
+_cell_length_c   7.57358100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000584
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaBe2Tl3F8
+_chemical_formula_sum   'Na1 Be2 Tl3 F8'
+_cell_volume   225.43793831
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.50000000  1
+  Be  Be1  1  0.33333300  0.66666700  0.23296500  1
+  Be  Be2  1  0.66666700  0.33333300  0.76703500  1
+  Tl  Tl3  1  0.33333300  0.66666700  0.68770500  1
+  Tl  Tl4  1  0.66666700  0.33333300  0.31229500  1
+  Tl  Tl5  1  0.00000000  0.00000000  0.00000000  1
+  F  F6  1  0.33333300  0.66666700  0.02913000  1
+  F  F7  1  0.66666700  0.33333300  0.97087000  1
+  F  F8  1  0.18658100  0.81341900  0.30663200  1
+  F  F9  1  0.81341900  0.18658100  0.69336800  1
+  F  F10  1  0.18658100  0.37316300  0.30663200  1
+  F  F11  1  0.81341900  0.62683700  0.69336800  1
+  F  F12  1  0.62683700  0.81341900  0.30663200  1
+  F  F13  1  0.37316300  0.18658100  0.69336800  1

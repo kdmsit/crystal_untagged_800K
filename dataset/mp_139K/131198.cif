@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SrTiFe3(BiO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.87098326
+_cell_length_b   9.87098326
+_cell_length_c   9.87098321
+_cell_angle_alpha   33.16073306
+_cell_angle_beta   33.16073306
+_cell_angle_gamma   33.16072792
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrTiFe3(BiO4)3
+_chemical_formula_sum   'Sr1 Ti1 Fe3 Bi3 O12'
+_cell_volume   256.15369126
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.36575000  0.36575000  0.36575000  1
+  Ti  Ti1  1  0.98953400  0.98953400  0.98953400  1
+  Fe  Fe2  1  0.74162000  0.74162000  0.74162000  1
+  Fe  Fe3  1  0.24565800  0.24565800  0.24565800  1
+  Fe  Fe4  1  0.49383300  0.49383300  0.49383300  1
+  Bi  Bi5  1  0.85383800  0.85383800  0.85383800  1
+  Bi  Bi6  1  0.10341500  0.10341500  0.10341500  1
+  Bi  Bi7  1  0.60386400  0.60386400  0.60386400  1
+  O  O8  1  0.62565700  0.19189600  0.05623300  1
+  O  O9  1  0.11275400  0.70032300  0.56304700  1
+  O  O10  1  0.05623300  0.62565700  0.19189600  1
+  O  O11  1  0.56304700  0.11275400  0.70032300  1
+  O  O12  1  0.19189600  0.05623300  0.62565700  1
+  O  O13  1  0.70032300  0.56304700  0.11275400  1
+  O  O14  1  0.46136000  0.85986500  0.31036500  1
+  O  O15  1  0.93930900  0.35516900  0.83248900  1
+  O  O16  1  0.31036500  0.46136000  0.85986500  1
+  O  O17  1  0.83248900  0.93930900  0.35516900  1
+  O  O18  1  0.85986500  0.31036500  0.46136000  1
+  O  O19  1  0.35516900  0.83248900  0.93930900  1

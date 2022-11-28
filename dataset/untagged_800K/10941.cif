@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La2Ni2Si2
+_chemical_formula_sum              "La2 Ni2 Si2"
+_cell_length_a       4.17792
+_cell_length_b       4.17792
+_cell_length_c       7.60465
+_cell_angle_alpha    105.944
+_cell_angle_beta     105.944
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.99900  0.99900  0.99800  1.0000
+  La  La2       1.0  0.24900  0.74900  0.49800  1.0000
+  Ni  Ni1       1.0  0.58700  0.58700  0.17400  1.0000
+  Ni  Ni2       1.0  0.83700  0.33700  0.67400  1.0000
+  Si  Si1       1.0  0.66800  0.16800  0.33600  1.0000
+  Si  Si2       1.0  0.41800  0.41800  0.83600  1.0000

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LuMn4(CuO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38408986
+_cell_length_b   6.38408986
+_cell_length_c   6.38408986
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuMn4(CuO4)3
+_chemical_formula_sum   'Lu1 Mn4 Cu3 O12'
+_cell_volume   200.29729470
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn1  1  0.00000000  0.00000000  0.50000000  1
+  Mn  Mn2  1  0.50000000  0.00000000  0.00000000  1
+  Mn  Mn3  1  0.00000000  0.50000000  0.00000000  1
+  Mn  Mn4  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu5  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu6  1  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu7  1  0.50000000  0.50000000  0.00000000  1
+  O  O8  1  0.17223200  0.87549700  0.70326500  1
+  O  O9  1  0.82776800  0.12450300  0.29673500  1
+  O  O10  1  0.82776800  0.53103300  0.70326500  1
+  O  O11  1  0.17223200  0.46896700  0.29673500  1
+  O  O12  1  0.87549700  0.70326500  0.17223200  1
+  O  O13  1  0.12450300  0.29673500  0.82776800  1
+  O  O14  1  0.53103300  0.70326500  0.82776800  1
+  O  O15  1  0.46896700  0.29673500  0.17223200  1
+  O  O16  1  0.70326500  0.17223200  0.87549700  1
+  O  O17  1  0.29673500  0.82776800  0.12450300  1
+  O  O18  1  0.70326500  0.82776800  0.53103300  1
+  O  O19  1  0.29673500  0.17223200  0.46896700  1

@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_AgHgO2
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       5.79018
+_cell_length_b       3.68582
+_cell_length_c       6.10539
+_cell_angle_alpha    90
+_cell_angle_beta     109.157
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  AgHgO2
+_chemical_formula_sum  Ag2Hg2O4
+_cell_volume  123.08264250943246
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.50000  0.50000  -0.00000  1
+ Ag  Ag2  1  0.50000  0.00000  0.50000  1
+ Hg  Hg1  1  0.00000  0.50000  0.50000  1
+ Hg  Hg2  1  0.00000  0.00000  0.00000  1
+ O  O1  1  0.28328  0.68504  0.20411  1
+ O  O2  1  0.71672  0.31496  0.79589  1
+ O  O3  1  0.28328  0.81496  0.70411  1
+ O  O4  1  0.71672  0.18504  0.29589  1

@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_YInCu
+_symmetry_space_group_name_H-M  'P-62m'
+_cell_length_a       3.90575
+_cell_length_b       7.50034
+_cell_length_c       7.50023
+_cell_angle_alpha    120
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  189
+_chemical_formula_structural  YInCu
+_chemical_formula_sum  Y3In3Cu3
+_cell_volume  190.27798860511916
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.00000  0.33332  0.66666  1
+ Cu  Cu2  1  0.00000  0.66666  0.33334  1
+ Cu  Cu3  1  0.50000  0.99999  0.00000  1
+ In  In1  1  0.00000  0.25682  0.00000  1
+ In  In2  1  0.00000  0.74317  0.74318  1
+ In  In3  1  0.00000  0.99998  0.25682  1
+ Y  Y1  1  0.50000  0.59173  0.00000  1
+ Y  Y2  1  0.50000  0.40825  0.40826  1
+ Y  Y3  1  0.50000  0.99999  0.59174  1

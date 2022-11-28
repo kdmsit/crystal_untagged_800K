@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_SmGePt
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.42927
+_cell_length_b       7.19219
+_cell_length_c       7.69344
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  SmGePt
+_chemical_formula_sum  Sm4Ge4Pt4
+_cell_volume  245.08313131533123
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.25000  0.68857  0.58783  1
+ Ge  Ge2  1  0.25000  0.18857  0.91217  1
+ Ge  Ge3  1  0.75000  0.31143  0.41217  1
+ Ge  Ge4  1  0.75000  0.81143  0.08783  1
+ Pt  Pt1  1  0.25000  0.79416  0.91574  1
+ Pt  Pt2  1  0.25000  0.29416  0.58426  1
+ Pt  Pt3  1  0.75000  0.70584  0.41574  1
+ Pt  Pt4  1  0.75000  0.20584  0.08426  1
+ Sm  Sm1  1  0.75000  0.49641  0.79643  1
+ Sm  Sm2  1  0.25000  0.00359  0.29643  1
+ Sm  Sm3  1  0.75000  0.99641  0.70357  1
+ Sm  Sm4  1  0.25000  0.50359  0.20357  1

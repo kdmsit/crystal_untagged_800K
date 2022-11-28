@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_VFe2(CuO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.06262744
+_cell_length_b   3.06262744
+_cell_length_c   17.32389400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998783
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VFe2(CuO2)3
+_chemical_formula_sum   'V1 Fe2 Cu3 O6'
+_cell_volume   140.72282352
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe1  1  0.66666700  0.33333300  0.33337700  1
+  Fe  Fe2  1  0.33333300  0.66666700  0.66662300  1
+  Cu  Cu3  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu4  1  0.66666700  0.33333300  0.83322700  1
+  Cu  Cu5  1  0.33333300  0.66666700  0.16677300  1
+  O  O6  1  0.66666700  0.33333300  0.72654100  1
+  O  O7  1  0.33333300  0.66666700  0.06035100  1
+  O  O8  1  0.00000000  0.00000000  0.39340100  1
+  O  O9  1  0.00000000  0.00000000  0.60659900  1
+  O  O10  1  0.66666700  0.33333300  0.93964900  1
+  O  O11  1  0.33333300  0.66666700  0.27345900  1

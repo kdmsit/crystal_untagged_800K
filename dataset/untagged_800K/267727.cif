@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       C4Cl3CoO4Sn
+_chemical_formula_sum              "C4 Cl3 Co1 O4 Sn1"
+_cell_length_a       6.57032
+_cell_length_b       6.57032
+_cell_length_c       6.57032
+_cell_angle_alpha    99.9956
+_cell_angle_beta     99.9956
+_cell_angle_gamma    99.9956
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.39600  0.30400  0.05610  1.0000
+  C   C2        1.0  0.05610  0.39600  0.30400  1.0000
+  C   C3        1.0  0.30400  0.05610  0.39600  1.0000
+  C   C4        1.0  0.46100  0.46100  0.46100  1.0000
+  Cl  Cl1       1.0  0.68300  0.88500  0.10700  1.0000
+  Cl  Cl2       1.0  0.88500  0.10700  0.68300  1.0000
+  Cl  Cl3       1.0  0.10700  0.68300  0.88500  1.0000
+  Co  Co1       1.0  0.26900  0.26900  0.26900  1.0000
+  O   O1        1.0  0.92000  0.48100  0.33100  1.0000
+  O   O2        1.0  0.33100  0.92000  0.48100  1.0000
+  O   O3        1.0  0.58600  0.58600  0.58600  1.0000
+  O   O4        1.0  0.48100  0.33100  0.92000  1.0000
+  Sn  Sn1       1.0  0.99800  0.99800  0.99800  1.0000

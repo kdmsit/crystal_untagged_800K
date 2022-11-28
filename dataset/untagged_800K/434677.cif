@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       F2O2Th2
+_chemical_formula_sum              "F2 O2 Th2"
+_cell_length_a       4.04027
+_cell_length_b       4.04027
+_cell_length_c       6.94014
+_cell_angle_alpha    73.0774
+_cell_angle_beta     106.923
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.36400  0.63600  0.09200  1.0000
+  F   F2        1.0  0.63600  0.36400  0.90800  1.0000
+  O   O1        1.0  0.10800  0.89200  0.32500  1.0000
+  O   O2        1.0  0.89200  0.10800  0.67500  1.0000
+  Th  Th1       1.0  0.76300  0.23700  0.28900  1.0000
+  Th  Th2       1.0  0.23700  0.76300  0.71100  1.0000

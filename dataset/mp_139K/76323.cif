@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TbMn3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95107960
+_cell_length_b   5.95107960
+_cell_length_c   4.57960200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999557
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbMn3
+_chemical_formula_sum   'Tb2 Mn6'
+_cell_volume   140.45910808
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.33333300  0.66666700  0.75000000  1
+  Tb  Tb1  1  0.66666700  0.33333300  0.25000000  1
+  Mn  Mn2  1  0.14903000  0.29806000  0.25000000  1
+  Mn  Mn3  1  0.70194000  0.85097000  0.25000000  1
+  Mn  Mn4  1  0.14903000  0.85097000  0.25000000  1
+  Mn  Mn5  1  0.85097000  0.70194000  0.75000000  1
+  Mn  Mn6  1  0.29806000  0.14903000  0.75000000  1
+  Mn  Mn7  1  0.85097000  0.14903000  0.75000000  1

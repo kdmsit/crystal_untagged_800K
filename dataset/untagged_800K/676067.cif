@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Co(RhO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18299401
+_cell_length_b   5.18299401
+_cell_length_c   10.64786196
+_cell_angle_alpha   85.25356964
+_cell_angle_beta   85.25356964
+_cell_angle_gamma   120.06133791
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co(RhO3)2
+_chemical_formula_sum   'Co1 Rh2 O6'
+_cell_volume   244.14297018
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.00000000  0.00000000  1
+  Rh  Rh1  1  0.66695000  0.33305000  0.00000000  1
+  Rh  Rh2  1  0.33305000  0.66695000  0.00000000  1
+  O  O3  1  0.96859300  0.28908900  0.09090100  1
+  O  O4  1  0.28908900  0.96859300  0.09090100  1
+  O  O5  1  0.64978000  0.64978000  0.09094100  1
+  O  O6  1  0.03140700  0.71091100  0.90909900  1
+  O  O7  1  0.35022000  0.35022000  0.90905900  1
+  O  O8  1  0.71091100  0.03140700  0.90909900  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ce2VFeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82351900
+_cell_length_b   5.45895000
+_cell_length_c   9.45446940
+_cell_angle_alpha   55.89261687
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2VFeO6
+_chemical_formula_sum   'Ce4 V2 Fe2 O12'
+_cell_volume   248.86043750
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.57560000  0.72759800  0.75156800  1
+  Ce  Ce1  1  0.07560000  0.27240200  0.74843200  1
+  Ce  Ce2  1  0.42440000  0.27240200  0.24843200  1
+  Ce  Ce3  1  0.92440000  0.72759800  0.25156800  1
+  V  V4  1  0.00000000  0.00000000  0.50000000  1
+  V  V5  1  0.50000000  0.00000000  0.00000000  1
+  Fe  Fe6  1  0.00000000  0.50000000  0.00000000  1
+  Fe  Fe7  1  0.50000000  0.50000000  0.50000000  1
+  O  O8  1  0.95623900  0.87593700  0.74805600  1
+  O  O9  1  0.45623900  0.12406300  0.75194400  1
+  O  O10  1  0.04376100  0.12406300  0.25194400  1
+  O  O11  1  0.54376100  0.87593700  0.24805600  1
+  O  O12  1  0.80189000  0.24228500  0.93617400  1
+  O  O13  1  0.30189000  0.75771500  0.56382600  1
+  O  O14  1  0.17885200  0.36043900  0.44062100  1
+  O  O15  1  0.67885200  0.63956100  0.05937900  1
+  O  O16  1  0.19811000  0.75771500  0.06382600  1
+  O  O17  1  0.69811000  0.24228500  0.43617400  1
+  O  O18  1  0.82114800  0.63956100  0.55937900  1
+  O  O19  1  0.32114800  0.36043900  0.94062100  1

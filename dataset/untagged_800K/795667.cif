@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_FeNiO3
+_symmetry_space_group_name_H-M  'R-3'
+_cell_length_a       5.24733
+_cell_length_b       5.24733
+_cell_length_c       5.24733
+_cell_angle_alpha    55.0184
+_cell_angle_beta     55.0184
+_cell_angle_gamma    55.0183
+
+_symmetry_Int_Tables_number  148
+_chemical_formula_structural  FeNiO3
+_chemical_formula_sum  Fe2Ni2O6
+_cell_volume  90.32381734787153
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.15338  0.15338  0.15338  1
+ Fe  Fe2  1  0.84662  0.84662  0.84662  1
+ Ni  Ni1  1  0.35337  0.35337  0.35337  1
+ Ni  Ni2  1  0.64663  0.64663  0.64663  1
+ O  O1  1  0.05383  0.76526  0.44166  1
+ O  O2  1  0.55834  0.94617  0.23474  1
+ O  O3  1  0.23474  0.55834  0.94617  1
+ O  O4  1  0.76526  0.44166  0.05383  1
+ O  O5  1  0.44166  0.05383  0.76526  1
+ O  O6  1  0.94617  0.23474  0.55834  1

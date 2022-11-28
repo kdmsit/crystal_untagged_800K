@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Al2Hf4Pd4Sb2
+_chemical_formula_sum              "Al2 Hf4 Pd4 Sb2"
+_cell_length_a       7.66207
+_cell_length_b       7.66207
+_cell_length_c       6.25496
+_cell_angle_alpha    114.09
+_cell_angle_beta     114.09
+_cell_angle_gamma    109.485
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.00000  0.00000  0.00000  1.0000
+  Al  Al2       1.0  0.25000  0.75000  0.50000  1.0000
+  Hf  Hf1       1.0  0.75500  0.24500  0.00000  1.0000
+  Hf  Hf2       1.0  0.24500  0.75500  0.00000  1.0000
+  Hf  Hf3       1.0  0.49500  0.50500  0.50000  1.0000
+  Hf  Hf4       1.0  0.00458  0.99500  0.50000  1.0000
+  Pd  Pd1       1.0  0.88300  0.63300  0.00787  1.0000
+  Pd  Pd2       1.0  0.12500  0.37500  0.49200  1.0000
+  Pd  Pd3       1.0  0.62500  0.87500  0.50800  1.0000
+  Pd  Pd4       1.0  0.36700  0.11700  0.99200  1.0000
+  Sb  Sb1       1.0  0.50000  0.50000  0.00000  1.0000
+  Sb  Sb2       1.0  0.75000  0.25000  0.50000  1.0000

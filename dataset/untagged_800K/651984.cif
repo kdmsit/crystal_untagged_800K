@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ca5(RhN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.03200238
+_cell_length_b   6.53416600
+_cell_length_c   12.56296786
+_cell_angle_alpha   89.99999660
+_cell_angle_beta   101.24822169
+_cell_angle_gamma   122.79432838
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca5(RhN3)2
+_chemical_formula_sum   'Ca10 Rh4 N12'
+_cell_volume   404.87891286
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.35917900  0.75000000  1
+  Ca  Ca1  1  0.00000000  0.64082100  0.25000000  1
+  Ca  Ca2  1  0.10986500  0.79655500  0.00052100  1
+  Ca  Ca3  1  0.89013500  0.68669000  0.49947900  1
+  Ca  Ca4  1  0.89013500  0.20344500  0.99947900  1
+  Ca  Ca5  1  0.10986500  0.31331000  0.50052100  1
+  Ca  Ca6  1  0.32086100  0.03558300  0.72628200  1
+  Ca  Ca7  1  0.67913900  0.71472200  0.77371800  1
+  Ca  Ca8  1  0.67913900  0.96441700  0.27371800  1
+  Ca  Ca9  1  0.32086100  0.28527800  0.22628200  1
+  Rh  Rh10  1  0.53846800  0.84624900  0.55630500  1
+  Rh  Rh11  1  0.46153200  0.30778200  0.94369500  1
+  Rh  Rh12  1  0.46153200  0.15375100  0.44369500  1
+  Rh  Rh13  1  0.53846800  0.69221800  0.05630500  1
+  N  N14  1  0.27394700  0.66550600  0.64474800  1
+  N  N15  1  0.72605300  0.39155900  0.85525200  1
+  N  N16  1  0.72605300  0.33449400  0.35525200  1
+  N  N17  1  0.27394700  0.60844100  0.14474800  1
+  N  N18  1  0.58619800  0.25688900  0.59070900  1
+  N  N19  1  0.41380200  0.67069000  0.90929100  1
+  N  N20  1  0.41380200  0.74311100  0.40929100  1
+  N  N21  1  0.58619800  0.32931000  0.09070900  1
+  N  N22  1  0.91377700  0.98821100  0.62852500  1
+  N  N23  1  0.08622300  0.07443400  0.87147500  1
+  N  N24  1  0.08622300  0.01178900  0.37147500  1
+  N  N25  1  0.91377700  0.92556600  0.12852500  1

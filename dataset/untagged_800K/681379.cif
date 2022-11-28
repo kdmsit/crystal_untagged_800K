@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaSrPrTiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02601736
+_cell_length_b   6.04663988
+_cell_length_c   8.51540270
+_cell_angle_alpha   90.53946678
+_cell_angle_beta   90.56348525
+_cell_angle_gamma   89.99569417
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrPrTiO6
+_chemical_formula_sum   'Ba2 Sr2 Pr2 Ti2 O12'
+_cell_volume   310.24830681
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50585967  0.52699629  0.25015661  1
+  Ba  Ba1  1  0.49414033  0.47300371  0.74984339  1
+  Sr  Sr2  1  0.99152472  0.03573248  0.25525340  1
+  Sr  Sr3  1  0.00847528  0.96426752  0.74474660  1
+  Pr  Pr4  1  -0.00000000  0.50000000  -0.00000000  1
+  Pr  Pr5  1  0.50000000  -0.00000000  0.50000000  1
+  Ti  Ti6  1  0.50000000  -0.00000000  -0.00000000  1
+  Ti  Ti7  1  -0.00000000  0.50000000  0.50000000  1
+  O  O8  1  0.23890981  0.19464909  0.95391822  1
+  O  O9  1  0.25924883  0.69774857  0.53210404  1
+  O  O10  1  0.76109019  0.80535091  0.04608178  1
+  O  O11  1  0.74075117  0.30225143  0.46789596  1
+  O  O12  1  0.30455861  0.74124447  0.96198595  1
+  O  O13  1  0.18777207  0.23257199  0.54262662  1
+  O  O14  1  0.69544139  0.25875553  0.03801405  1
+  O  O15  1  0.81222793  0.76742801  0.45737338  1
+  O  O16  1  0.41506737  0.99288528  0.22668564  1
+  O  O17  1  0.06496230  0.46611479  0.27267654  1
+  O  O18  1  0.58493263  0.00711472  0.77331436  1
+  O  O19  1  0.93503770  0.53388521  0.72732346  1

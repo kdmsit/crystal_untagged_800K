@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Nd2Fe20Mo4N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.80018400
+_cell_length_b   6.56120312
+_cell_length_c   12.23416013
+_cell_angle_alpha   90.01564273
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   111.45686094
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd2Fe20Mo4N
+_chemical_formula_sum   'Nd2 Fe20 Mo4 N1'
+_cell_volume   358.60973410
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.00000000  0.00000000  0.00000000  1
+  Nd  Nd1  1  0.50000000  0.00000000  0.50000000  1
+  Fe  Fe2  1  0.38973800  0.77947600  0.11092400  1
+  Fe  Fe3  1  0.88764800  0.77529500  0.61124500  1
+  Fe  Fe4  1  0.11235200  0.22470500  0.38875500  1
+  Fe  Fe5  1  0.61026200  0.22052400  0.88907600  1
+  Fe  Fe6  1  0.88472800  0.76945600  0.38519500  1
+  Fe  Fe7  1  0.38917700  0.77835400  0.88794800  1
+  Fe  Fe8  1  0.61082300  0.22164600  0.11205200  1
+  Fe  Fe9  1  0.11527200  0.23054400  0.61480500  1
+  Fe  Fe10  1  0.24946900  0.99999300  0.25284900  1
+  Fe  Fe11  1  0.75053100  0.00000700  0.74715100  1
+  Fe  Fe12  1  0.75052500  0.99999300  0.25284900  1
+  Fe  Fe13  1  0.24947500  0.00000700  0.74715100  1
+  Fe  Fe14  1  0.00000000  0.50000000  0.00000000  1
+  Fe  Fe15  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe16  1  0.50000000  0.50000000  0.00000000  1
+  Fe  Fe17  1  0.00000000  0.50000000  0.50000000  1
+  Fe  Fe18  1  0.68025200  0.36050400  0.31989200  1
+  Fe  Fe19  1  0.18048500  0.36097000  0.81960500  1
+  Fe  Fe20  1  0.81951500  0.63903000  0.18039500  1
+  Fe  Fe21  1  0.31974800  0.63949600  0.68010800  1
+  Mo  Mo22  1  0.17947900  0.35895900  0.17972600  1
+  Mo  Mo23  1  0.67989500  0.35979000  0.67965800  1
+  Mo  Mo24  1  0.32010500  0.64021000  0.32034200  1
+  Mo  Mo25  1  0.82052000  0.64104100  0.82027400  1
+  N  N26  1  0.50000000  0.00000000  0.00000000  1

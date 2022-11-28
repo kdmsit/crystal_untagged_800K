@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Ba3Y4(NiO5)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44170320
+_cell_length_b   6.44170320
+_cell_length_c   11.48366539
+_cell_angle_alpha   73.24149344
+_cell_angle_beta   73.24149344
+_cell_angle_gamma   52.44925959
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Y4(NiO5)3
+_chemical_formula_sum   'Ba3 Y4 Ni3 O15'
+_cell_volume   357.74511949
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00644900  0.00644900  0.82533000  1
+  Ba  Ba1  1  0.99355100  0.99355100  0.17467000  1
+  Ba  Ba2  1  0.00000000  0.00000000  0.50000000  1
+  Y  Y3  1  0.70835700  0.70835700  0.09900200  1
+  Y  Y4  1  0.70766700  0.70766700  0.42679000  1
+  Y  Y5  1  0.29164300  0.29164300  0.90099800  1
+  Y  Y6  1  0.29233300  0.29233300  0.57321000  1
+  Ni  Ni7  1  0.50000000  0.50000000  0.00000000  1
+  Ni  Ni8  1  0.48936900  0.48936900  0.33464700  1
+  Ni  Ni9  1  0.51063100  0.51063100  0.66535300  1
+  O  O10  1  0.39218900  0.87212800  0.97569200  1
+  O  O11  1  0.40808800  0.84033100  0.28896400  1
+  O  O12  1  0.40274400  0.87747600  0.60498300  1
+  O  O13  1  0.60781100  0.12787200  0.02430800  1
+  O  O14  1  0.59725600  0.12252400  0.39501700  1
+  O  O15  1  0.59191200  0.15966900  0.71103600  1
+  O  O16  1  0.12787200  0.60781100  0.02430800  1
+  O  O17  1  0.12252400  0.59725600  0.39501700  1
+  O  O18  1  0.15966900  0.59191200  0.71103600  1
+  O  O19  1  0.87212800  0.39218900  0.97569200  1
+  O  O20  1  0.84033100  0.40808800  0.28896400  1
+  O  O21  1  0.87747600  0.40274400  0.60498300  1
+  O  O22  1  0.50078800  0.50078800  0.83215300  1
+  O  O23  1  0.49921200  0.49921200  0.16784700  1
+  O  O24  1  0.50000000  0.50000000  0.50000000  1

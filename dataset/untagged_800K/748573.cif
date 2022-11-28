@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Mg2FeW3S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.26824272
+_cell_length_b   7.26906283
+_cell_length_c   7.26955369
+_cell_angle_alpha   57.84632956
+_cell_angle_beta   57.84581569
+_cell_angle_gamma   57.88920119
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2FeW3S8
+_chemical_formula_sum   'Mg2 Fe1 W3 S8'
+_cell_volume   258.24276214
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.90739800  0.90779800  0.90746700  1
+  Mg  Mg1  1  0.14460600  0.14439500  0.14434700  1
+  Fe  Fe2  1  0.45690000  0.45612200  0.45631900  1
+  W  W3  1  0.53167000  0.53176500  0.95169300  1
+  W  W4  1  0.95151700  0.53173200  0.53170400  1
+  W  W5  1  0.53159900  0.95163100  0.53169600  1
+  S  S6  1  0.76361100  0.76378100  0.76380700  1
+  S  S7  1  0.23264700  0.23261600  0.73959800  1
+  S  S8  1  0.23283700  0.73948100  0.23265500  1
+  S  S9  1  0.73976500  0.23249800  0.23236000  1
+  S  S10  1  0.71879300  0.29434700  0.71891400  1
+  S  S11  1  0.29404500  0.71898700  0.71907100  1
+  S  S12  1  0.27570800  0.27582600  0.27598800  1
+  S  S13  1  0.71890800  0.71901500  0.29438200  1

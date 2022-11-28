@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       As4Nd4Se4
+_chemical_formula_sum              "As4 Nd4 Se4"
+_cell_length_a       4.02905
+_cell_length_b       4.03003
+_cell_length_c       18.0385
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90.3972
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.22200  0.27800  0.00000  1.0000
+  As  As2       1.0  0.77800  0.72200  0.00000  1.0000
+  As  As3       1.0  0.27800  0.22200  0.50000  1.0000
+  As  As4       1.0  0.72200  0.77800  0.50000  1.0000
+  Nd  Nd1       1.0  0.74400  0.24300  0.14000  1.0000
+  Nd  Nd2       1.0  0.24400  0.74300  0.36000  1.0000
+  Nd  Nd3       1.0  0.75600  0.25700  0.64000  1.0000
+  Nd  Nd4       1.0  0.25600  0.75700  0.86000  1.0000
+  Se  Se1       1.0  0.24600  0.74500  0.18800  1.0000
+  Se  Se2       1.0  0.74600  0.24500  0.31200  1.0000
+  Se  Se3       1.0  0.25400  0.75500  0.68800  1.0000
+  Se  Se4       1.0  0.75400  0.25500  0.81200  1.0000

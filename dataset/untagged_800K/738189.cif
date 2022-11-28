@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_LaFe8Si5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.02477592
+_cell_length_b   8.02477592
+_cell_length_c   8.02477592
+_cell_angle_alpha   121.01973191
+_cell_angle_beta   121.01973191
+_cell_angle_gamma   88.24266443
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaFe8Si5
+_chemical_formula_sum   'La2 Fe16 Si10'
+_cell_volume   359.59699286
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.25000000  0.25000000  0.00000000  1
+  La  La1  1  0.75000000  0.75000000  0.00000000  1
+  Fe  Fe2  1  0.28787400  0.78787400  0.72659000  1
+  Fe  Fe3  1  0.71212600  0.21212600  0.27341000  1
+  Fe  Fe4  1  0.06128500  0.56128500  0.27341000  1
+  Fe  Fe5  1  0.78787400  0.06128500  0.50000000  1
+  Fe  Fe6  1  0.43871500  0.71212600  0.50000000  1
+  Fe  Fe7  1  0.93871500  0.43871500  0.72659000  1
+  Fe  Fe8  1  0.21212600  0.93871500  0.50000000  1
+  Fe  Fe9  1  0.56128500  0.28787400  0.50000000  1
+  Fe  Fe10  1  0.20246500  0.05999500  0.26246100  1
+  Fe  Fe11  1  0.79753500  0.94000500  0.73753900  1
+  Fe  Fe12  1  0.05999500  0.79753500  0.85753000  1
+  Fe  Fe13  1  0.70246500  0.44000500  0.14247000  1
+  Fe  Fe14  1  0.94000500  0.20246500  0.14247000  1
+  Fe  Fe15  1  0.29753500  0.55999500  0.85753000  1
+  Fe  Fe16  1  0.55999500  0.70246500  0.26246100  1
+  Fe  Fe17  1  0.44000500  0.29753500  0.73753900  1
+  Si  Si18  1  0.81038300  0.31038300  0.86452500  1
+  Si  Si19  1  0.18961700  0.68961700  0.13547500  1
+  Si  Si20  1  0.44585800  0.94585800  0.13547500  1
+  Si  Si21  1  0.31038300  0.44585800  0.50000000  1
+  Si  Si22  1  0.05414200  0.18961700  0.50000000  1
+  Si  Si23  1  0.55414200  0.05414200  0.86452500  1
+  Si  Si24  1  0.68961700  0.55414200  0.50000000  1
+  Si  Si25  1  0.94585800  0.81038300  0.50000000  1
+  Si  Si26  1  0.50000000  0.00000000  0.50000000  1
+  Si  Si27  1  0.00000000  0.50000000  0.50000000  1

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba3Cd2W2
+_chemical_formula_sum              "Ba3 Cd2 W2"
+_cell_length_a       12.1612
+_cell_length_b       12.1612
+_cell_length_c       12.1612
+_cell_angle_alpha    22.1881
+_cell_angle_beta     22.1881
+_cell_angle_gamma    22.1881
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.36000  0.36000  0.36000  1.0000
+  Ba  Ba2       1.0  0.62400  0.62400  0.62400  1.0000
+  Ba  Ba3       1.0  0.84600  0.84600  0.84600  1.0000
+  Cd  Cd1       1.0  0.23700  0.23700  0.23700  1.0000
+  Cd  Cd2       1.0  0.74800  0.74800  0.74800  1.0000
+  W   W1        1.0  0.11200  0.11200  0.11200  1.0000
+  W   W2        1.0  0.44800  0.44800  0.44800  1.0000

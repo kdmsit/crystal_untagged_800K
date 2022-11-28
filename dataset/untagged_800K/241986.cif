@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       C2Cr10Si6
+_chemical_formula_sum              "C2 Cr10 Si6"
+_cell_length_a       6.9241
+_cell_length_b       6.9241
+_cell_length_c       4.77922
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.00000  0.00000  0.00000  1.0000
+  C   C2        1.0  0.00000  0.00000  0.50000  1.0000
+  Cr  Cr1       1.0  0.66700  0.33300  0.00000  1.0000
+  Cr  Cr2       1.0  0.33300  0.66700  0.00000  1.0000
+  Cr  Cr3       1.0  0.23000  1.00000  0.25000  1.0000
+  Cr  Cr4       1.0  0.00000  0.23000  0.25000  1.0000
+  Cr  Cr5       1.0  0.77000  0.77000  0.25000  1.0000
+  Cr  Cr6       1.0  0.66700  0.33300  0.50000  1.0000
+  Cr  Cr7       1.0  0.33300  0.66700  0.50000  1.0000
+  Cr  Cr8       1.0  0.77000  0.00000  0.75000  1.0000
+  Cr  Cr9       1.0  0.23000  0.23000  0.75000  1.0000
+  Cr  Cr10      1.0  0.00000  0.77000  0.75000  1.0000
+  Si  Si1       1.0  0.59500  0.00000  0.25000  1.0000
+  Si  Si2       1.0  1.00000  0.59500  0.25000  1.0000
+  Si  Si3       1.0  0.40500  0.40500  0.25000  1.0000
+  Si  Si4       1.0  0.40500  0.00002  0.75000  1.0000
+  Si  Si5       1.0  0.00001  0.40500  0.75000  1.0000
+  Si  Si6       1.0  0.59500  0.59500  0.75000  1.0000

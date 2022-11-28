@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cr3Te4
+_chemical_formula_sum              "Cr3 Te4"
+_cell_length_a       3.9799
+_cell_length_b       6.94579
+_cell_length_c       7.27756
+_cell_angle_alpha    116.986
+_cell_angle_beta     105.869
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cr  Cr2       1.0  0.74100  0.72000  0.48100  1.0000
+  Cr  Cr3       1.0  0.25900  0.28000  0.51900  1.0000
+  Te  Te1       1.0  0.11900  0.45100  0.23800  1.0000
+  Te  Te2       1.0  0.63300  0.97300  0.26700  1.0000
+  Te  Te3       1.0  0.36700  0.02650  0.73300  1.0000
+  Te  Te4       1.0  0.88100  0.54900  0.76200  1.0000

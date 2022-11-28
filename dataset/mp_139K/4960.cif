@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_NaMg2Tl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.35455243
+_cell_length_b   12.35455243
+_cell_length_c   12.35455243
+_cell_angle_alpha   120.70218489
+_cell_angle_beta   120.57155281
+_cell_angle_gamma   88.90044347
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMg2Tl
+_chemical_formula_sum   'Na1 Mg2 Tl1'
+_cell_volume   1320.31547586
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.00000000  1
+  Mg  Mg1  1  0.00000000  0.25488300  0.25488300  1
+  Mg  Mg2  1  0.00000000  0.74511700  0.74511700  1
+  Tl  Tl3  1  0.00000000  0.50000000  0.50000000  1

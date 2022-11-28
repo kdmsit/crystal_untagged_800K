@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ho5Pt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.15157900
+_cell_length_b   8.42389469
+_cell_length_c   8.42333597
+_cell_angle_alpha   120.00219392
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho5Pt3
+_chemical_formula_sum   'Ho10 Pt6'
+_cell_volume   378.01121770
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.50000200  0.33333300  0.66672700  1
+  Ho  Ho1  1  0.50000200  0.66660600  0.33327300  1
+  Ho  Ho2  1  0.00000200  0.66666700  0.33327300  1
+  Ho  Ho3  1  0.00000200  0.33339400  0.66672700  1
+  Ho  Ho4  1  0.75000400  0.24460600  0.00000000  1
+  Ho  Ho5  1  0.74999400  0.75536800  0.75536000  1
+  Ho  Ho6  1  0.74999400  0.00000800  0.24464000  1
+  Ho  Ho7  1  0.25000400  0.75539400  0.00000000  1
+  Ho  Ho8  1  0.24999400  0.24463200  0.24464000  1
+  Ho  Ho9  1  0.24999400  0.99999200  0.75536000  1
+  Pt  Pt10  1  0.74999800  0.60743700  0.00000000  1
+  Pt  Pt11  1  0.75000300  0.39253500  0.39252600  1
+  Pt  Pt12  1  0.75000300  0.00000900  0.60747400  1
+  Pt  Pt13  1  0.24999800  0.39256300  0.00000000  1
+  Pt  Pt14  1  0.25000300  0.60746500  0.60747400  1
+  Pt  Pt15  1  0.25000300  0.99999100  0.39252600  1

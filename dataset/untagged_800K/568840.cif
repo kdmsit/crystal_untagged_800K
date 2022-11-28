@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ag2Mg2O12S4
+_chemical_formula_sum              "Ag2 Mg2 O12 S4"
+_cell_length_a       4.59583
+_cell_length_b       4.59583
+_cell_length_c       13.6181
+_cell_angle_alpha    101.876
+_cell_angle_beta     101.876
+_cell_angle_gamma    70.1189
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ag  Ag2       1.0  0.00000  0.00000  0.50000  1.0000
+  Mg  Mg1       1.0  0.98200  0.01800  0.25000  1.0000
+  Mg  Mg2       1.0  0.01800  0.98200  0.75000  1.0000
+  O   O1        1.0  0.63900  0.20700  0.12800  1.0000
+  O   O2        1.0  0.16700  0.66900  0.12800  1.0000
+  O   O3        1.0  0.23700  0.26400  0.22600  1.0000
+  O   O4        1.0  0.73600  0.76300  0.27400  1.0000
+  O   O5        1.0  0.33100  0.83300  0.37200  1.0000
+  O   O6        1.0  0.79300  0.36100  0.37200  1.0000
+  O   O7        1.0  0.20700  0.63900  0.62800  1.0000
+  O   O8        1.0  0.66900  0.16700  0.62800  1.0000
+  O   O9        1.0  0.26400  0.23700  0.72600  1.0000
+  O   O10       1.0  0.76300  0.73600  0.77400  1.0000
+  O   O11       1.0  0.83300  0.33100  0.87200  1.0000
+  O   O12       1.0  0.36100  0.79300  0.87200  1.0000
+  S   S1        1.0  0.28900  0.31800  0.12800  1.0000
+  S   S2        1.0  0.68200  0.71100  0.37200  1.0000
+  S   S3        1.0  0.31800  0.28900  0.62800  1.0000
+  S   S4        1.0  0.71100  0.68200  0.87200  1.0000

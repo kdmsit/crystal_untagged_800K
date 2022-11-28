@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       Ag2Ge2La6S14
+_chemical_formula_sum              "Ag2 Ge2 La6 S14"
+_cell_length_a       10.472
+_cell_length_b       10.4718
+_cell_length_c       5.88735
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.00000  0.00000  0.40000  1.0000
+  Ag  Ag2       1.0  0.00000  0.00000  0.90000  1.0000
+  Ge  Ge1       1.0  0.33300  0.66700  0.03960  1.0000
+  Ge  Ge2       1.0  0.66700  0.33300  0.54000  1.0000
+  La  La1       1.0  0.64100  0.76500  0.45700  1.0000
+  La  La2       1.0  0.12400  0.35900  0.45700  1.0000
+  La  La3       1.0  0.23500  0.87600  0.45700  1.0000
+  La  La4       1.0  0.35900  0.23500  0.95700  1.0000
+  La  La5       1.0  0.76500  0.12400  0.95700  1.0000
+  La  La6       1.0  0.87600  0.64100  0.95700  1.0000
+  S   S1        1.0  0.66700  0.33300  0.16500  1.0000
+  S   S2        1.0  0.10900  0.58800  0.19300  1.0000
+  S   S3        1.0  0.41200  0.52100  0.19300  1.0000
+  S   S4        1.0  0.47900  0.89100  0.19300  1.0000
+  S   S5        1.0  0.82500  0.09210  0.44100  1.0000
+  S   S6        1.0  0.26700  0.17500  0.44100  1.0000
+  S   S7        1.0  0.90800  0.73300  0.44100  1.0000
+  S   S8        1.0  0.33300  0.66700  0.66500  1.0000
+  S   S9        1.0  0.89100  0.41200  0.69300  1.0000
+  S   S10       1.0  0.58800  0.47900  0.69300  1.0000
+  S   S11       1.0  0.52100  0.10900  0.69300  1.0000
+  S   S12       1.0  0.09210  0.26700  0.94100  1.0000
+  S   S13       1.0  0.17500  0.90800  0.94100  1.0000
+  S   S14       1.0  0.73300  0.82500  0.94100  1.0000

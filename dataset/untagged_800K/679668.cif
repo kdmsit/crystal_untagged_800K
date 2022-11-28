@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Al2(CuSe2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   17.27815202
+_cell_length_b   17.27815202
+_cell_length_c   17.27815202
+_cell_angle_alpha   161.75207559
+_cell_angle_beta   161.75207559
+_cell_angle_gamma   25.91794348
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2(CuSe2)3
+_chemical_formula_sum   'Al4 Cu6 Se12'
+_cell_volume   505.58601943
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.91910000  0.41910000  0.50000000  1
+  Al  Al1  1  0.58090000  0.08090000  0.50000000  1
+  Al  Al2  1  0.16910000  0.16910000  0.00000000  1
+  Al  Al3  1  0.83090000  0.83090000  0.00000000  1
+  Cu  Cu4  1  0.75000000  0.25000000  0.50000000  1
+  Cu  Cu5  1  0.41857900  0.91857900  0.50000000  1
+  Cu  Cu6  1  0.08142100  0.58142100  0.50000000  1
+  Cu  Cu7  1  0.66857900  0.66857900  0.00000000  1
+  Cu  Cu8  1  0.33142100  0.33142100  0.00000000  1
+  Cu  Cu9  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se10  1  0.96532800  0.46903900  0.01455600  1
+  Se  Se11  1  0.61865500  0.12500000  0.99365500  1
+  Se  Se12  1  0.29551600  0.78096100  0.99628900  1
+  Se  Se13  1  0.53096100  0.54551600  0.49628900  1
+  Se  Se14  1  0.21903900  0.21532800  0.51455600  1
+  Se  Se15  1  0.87500000  0.86865500  0.49365500  1
+  Se  Se16  1  0.04922800  0.03467200  0.50371100  1
+  Se  Se17  1  0.70077200  0.70448400  0.48544400  1
+  Se  Se18  1  0.37500000  0.38134500  0.50634500  1
+  Se  Se19  1  0.45448400  0.95077200  0.98544400  1
+  Se  Se20  1  0.13134500  0.62500000  0.00634500  1
+  Se  Se21  1  0.78467200  0.29922800  0.00371100  1

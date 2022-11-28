@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_As4INO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37257797
+_cell_length_b   5.37257797
+_cell_length_c   10.00533100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999966
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   As4INO6
+_chemical_formula_sum   'As4 I1 N1 O6'
+_cell_volume   250.10797972
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.66666700  0.33333300  0.78041700  1
+  As  As1  1  0.33333300  0.66666700  0.78041700  1
+  As  As2  1  0.33333300  0.66666700  0.21958300  1
+  As  As3  1  0.66666700  0.33333300  0.21958300  1
+  I  I4  1  0.00000000  0.00000000  0.00000000  1
+  N  N5  1  0.00000000  0.00000000  0.50000000  1
+  O  O6  1  0.50000000  0.50000000  0.68665500  1
+  O  O7  1  0.50000000  0.00000000  0.68665500  1
+  O  O8  1  0.00000000  0.50000000  0.68665500  1
+  O  O9  1  0.50000000  0.50000000  0.31334500  1
+  O  O10  1  0.50000000  0.00000000  0.31334500  1
+  O  O11  1  0.00000000  0.50000000  0.31334500  1

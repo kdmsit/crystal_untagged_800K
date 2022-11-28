@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CdFeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37915513
+_cell_length_b   5.50600509
+_cell_length_c   7.66956810
+_cell_angle_alpha   89.99227199
+_cell_angle_beta   90.26211392
+_cell_angle_gamma   89.98123974
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdFeO3
+_chemical_formula_sum   'Cd4 Fe4 O12'
+_cell_volume   227.15223466
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.01228300  0.95189800  0.75135100  1
+  Cd  Cd1  1  0.48766800  0.45192800  0.74869300  1
+  Cd  Cd2  1  0.51245500  0.54809600  0.25131700  1
+  Cd  Cd3  1  0.98760600  0.04812800  0.24862200  1
+  Fe  Fe4  1  0.00008700  0.50000500  0.49999300  1
+  Fe  Fe5  1  0.49990500  0.99997700  0.00000500  1
+  Fe  Fe6  1  0.99996900  0.50000200  0.99999100  1
+  Fe  Fe7  1  0.50003300  0.00001600  0.49999300  1
+  O  O8  1  0.10258400  0.45996900  0.25522200  1
+  O  O9  1  0.39742600  0.95981700  0.24469500  1
+  O  O10  1  0.60248200  0.04016700  0.75531500  1
+  O  O11  1  0.89751100  0.54004400  0.74476500  1
+  O  O12  1  0.19240900  0.20920400  0.55655000  1
+  O  O13  1  0.20442900  0.20162200  0.94693600  1
+  O  O14  1  0.29567600  0.70172300  0.55300600  1
+  O  O15  1  0.30751600  0.70907700  0.94347600  1
+  O  O16  1  0.69237800  0.29086600  0.05652300  1
+  O  O17  1  0.70444500  0.29831200  0.44703500  1
+  O  O18  1  0.79543100  0.79834300  0.05305600  1
+  O  O19  1  0.80770800  0.79080600  0.44345800  1

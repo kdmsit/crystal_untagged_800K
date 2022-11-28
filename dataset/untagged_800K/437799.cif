@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pb2Pd3Sr2
+_chemical_formula_sum              "Pb2 Pd3 Sr2"
+_cell_length_a       8.64374
+_cell_length_b       8.64374
+_cell_length_c       8.64374
+_cell_angle_alpha    33.6594
+_cell_angle_beta     33.6594
+_cell_angle_gamma    33.6594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.50300  0.50300  0.50300  1.0000
+  Pb  Pb2       1.0  0.99900  0.99900  0.99900  1.0000
+  Pd  Pd1       1.0  0.37000  0.37000  0.37000  1.0000
+  Pd  Pd2       1.0  0.62500  0.62500  0.62500  1.0000
+  Pd  Pd3       1.0  0.87900  0.87900  0.87900  1.0000
+  Sr  Sr1       1.0  0.24600  0.24600  0.24600  1.0000
+  Sr  Sr2       1.0  0.75400  0.75400  0.75400  1.0000

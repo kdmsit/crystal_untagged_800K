@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ni2As3Pd4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.72149400
+_cell_length_b   6.33057748
+_cell_length_c   6.66316009
+_cell_angle_alpha   121.75911825
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni2As3Pd4
+_chemical_formula_sum   'Ni2 As3 Pd4'
+_cell_volume   133.47409181
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.00000000  0.25471600  0.99512000  1
+  Ni  Ni1  1  0.00000000  0.74542700  0.74025300  1
+  As  As2  1  0.50000000  0.99998000  0.98159300  1
+  As  As3  1  0.00000000  0.34275700  0.68442900  1
+  As  As4  1  0.00000000  0.65718600  0.34163700  1
+  Pd  Pd5  1  0.00000000  0.99996300  0.25596600  1
+  Pd  Pd6  1  0.50000000  0.59303900  0.99544500  1
+  Pd  Pd7  1  0.50000000  0.40691500  0.40246000  1
+  Pd  Pd8  1  0.50000000  0.99991800  0.60309600  1

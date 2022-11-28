@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Te2Au
+_symmetry_space_group_name_H-M  'P2/c'
+_cell_length_a       4.41096
+_cell_length_b       8.97385
+_cell_length_c       8.95436
+_cell_angle_alpha    109.48
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  13
+_chemical_formula_structural  Te2Au
+_chemical_formula_sum  Te8Au4
+_cell_volume  334.155259108106
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Au  Au1  1  0.48085  0.37625  0.12320  1
+ Au  Au2  1  -0.00003  0.62628  0.87324  1
+ Au  Au3  1  0.00003  0.12628  0.37324  1
+ Au  Au4  1  0.51915  0.87625  0.62320  1
+ Te  Te1  1  0.43577  0.36391  0.42196  1
+ Te  Te2  1  -0.02305  0.13567  0.07087  1
+ Te  Te3  1  0.02305  0.63567  0.57087  1
+ Te  Te4  1  0.43574  0.38861  0.82444  1
+ Te  Te5  1  0.56426  0.88861  0.32444  1
+ Te  Te6  1  0.56423  0.86391  0.92196  1
+ Te  Te7  1  0.02344  0.11688  0.67559  1
+ Te  Te8  1  0.97656  0.61688  0.17559  1

@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Li2ZrO3
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       5.27384
+_cell_length_b       5.27384
+_cell_length_c       5.41003
+_cell_angle_alpha    100.87
+_cell_angle_beta     100.87
+_cell_angle_gamma    118.762
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  Li2ZrO3
+_chemical_formula_sum  Li4Zr2O6
+_cell_volume  122.53309432490045
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.74124  0.25876  0.25000  1
+ Li  Li2  1  0.25876  0.74124  0.75000  1
+ Li  Li3  1  0.42517  0.57483  0.25000  1
+ Li  Li4  1  0.57483  0.42517  0.75000  1
+ O  O1  1  0.00000  0.50000  0.00000  1
+ O  O2  1  0.69141  0.84353  0.98863  1
+ O  O3  1  0.84353  0.69141  0.48863  1
+ O  O4  1  0.30859  0.15647  0.01137  1
+ O  O5  1  0.15647  0.30859  0.51137  1
+ O  O6  1  0.50000  -0.00000  0.50000  1
+ Zr  Zr1  1  0.09146  0.90854  0.25000  1
+ Zr  Zr2  1  0.90854  0.09146  0.75000  1

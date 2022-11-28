@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrMnCr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04616640
+_cell_length_b   5.04616640
+_cell_length_c   8.10322100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.31986211
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrMnCr
+_chemical_formula_sum   'Zr4 Mn4 Cr4'
+_cell_volume   178.11586897
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.33350800  0.66649200  0.19046200  1
+  Zr  Zr1  1  0.66692300  0.33307700  0.31398200  1
+  Zr  Zr2  1  0.66692300  0.33307700  0.68601800  1
+  Zr  Zr3  1  0.33350800  0.66649200  0.80953800  1
+  Mn  Mn4  1  0.83301500  0.16698500  0.00000000  1
+  Mn  Mn5  1  0.17131800  0.34038000  0.50000000  1
+  Mn  Mn6  1  0.65962000  0.82868200  0.50000000  1
+  Mn  Mn7  1  0.17021900  0.82978100  0.50000000  1
+  Cr  Cr8  1  0.99922600  0.00077400  0.25954000  1
+  Cr  Cr9  1  0.99922600  0.00077400  0.74046000  1
+  Cr  Cr10  1  0.83359300  0.66502800  0.00000000  1
+  Cr  Cr11  1  0.33497200  0.16640700  0.00000000  1

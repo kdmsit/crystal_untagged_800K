@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Na2Pt(ClO)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98709800
+_cell_length_b   7.22861037
+_cell_length_c   7.58652055
+_cell_angle_alpha   103.52367950
+_cell_angle_beta   87.27873953
+_cell_angle_gamma   112.10658212
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Pt(ClO)6
+_chemical_formula_sum   'Na2 Pt1 Cl6 O6'
+_cell_volume   344.81113755
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.74895900  0.43998400  0.72637500  1
+  Na  Na1  1  0.25104100  0.56001600  0.27362500  1
+  Pt  Pt2  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl3  1  0.21280500  0.83495200  0.06431000  1
+  Cl  Cl4  1  0.78719500  0.16504800  0.93569000  1
+  Cl  Cl5  1  0.00647700  0.85703800  0.68870300  1
+  Cl  Cl6  1  0.99352300  0.14296200  0.31129700  1
+  Cl  Cl7  1  0.69654500  0.71631700  0.01514100  1
+  Cl  Cl8  1  0.30345500  0.28368300  0.98485900  1
+  O  O9  1  0.50263900  0.93696500  0.43049500  1
+  O  O10  1  0.49736100  0.06303500  0.56950500  1
+  O  O11  1  0.69798500  0.49752500  0.37968900  1
+  O  O12  1  0.30201500  0.50247500  0.62031100  1
+  O  O13  1  0.15195800  0.47860200  0.71786600  1
+  O  O14  1  0.84804200  0.52139800  0.28213400  1

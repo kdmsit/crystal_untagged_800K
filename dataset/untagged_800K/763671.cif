@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_HoSi2Ni
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       3.97034
+_cell_length_b       3.97857
+_cell_length_c       8.48731
+_cell_angle_alpha    103.555
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  HoSi2Ni
+_chemical_formula_sum  Ho2Si4Ni2
+_cell_volume  130.3330817675419
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ho  Ho1  1  0.25000  0.89472  0.78944  1
+ Ho  Ho2  1  0.75000  0.10528  0.21056  1
+ Ni  Ni1  1  0.75000  0.32294  0.64588  1
+ Ni  Ni2  1  0.25000  0.67706  0.35412  1
+ Si  Si1  1  0.25000  0.25022  0.50044  1
+ Si  Si2  1  0.75000  0.74978  0.49956  1
+ Si  Si3  1  0.75000  0.45989  0.91978  1
+ Si  Si4  1  0.25000  0.54011  0.08022  1

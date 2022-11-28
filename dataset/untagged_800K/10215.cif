@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       B4Fe2Mo4
+_chemical_formula_sum              "B4 Fe2 Mo4"
+_cell_length_a       6.36874
+_cell_length_b       6.36874
+_cell_length_c       2.81956
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.34300  0.15700  0.50000  1.0000
+  B   B2        1.0  0.84300  0.34300  0.50000  1.0000
+  B   B3        1.0  0.15700  0.65700  0.50000  1.0000
+  B   B4        1.0  0.65700  0.84300  0.50000  1.0000
+  Fe  Fe1       1.0  0.00000  0.00000  0.00000  1.0000
+  Fe  Fe2       1.0  0.50000  0.50000  0.00000  1.0000
+  Mo  Mo1       1.0  0.64300  0.14300  0.00000  1.0000
+  Mo  Mo2       1.0  0.14300  0.35700  0.00000  1.0000
+  Mo  Mo3       1.0  0.85700  0.64300  0.00000  1.0000
+  Mo  Mo4       1.0  0.35700  0.85700  0.00000  1.0000

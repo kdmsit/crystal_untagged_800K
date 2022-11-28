@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Br2H2O2Sr2
+_chemical_formula_sum              "Br2 H2 O2 Sr2"
+_cell_length_a       4.27906
+_cell_length_b       5.8723
+_cell_length_c       7.31086
+_cell_angle_alpha    105.591
+_cell_angle_beta     90
+_cell_angle_gamma    111.367
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.39100  0.78100  0.17700  1.0000
+  Br  Br2       1.0  0.60900  0.21900  0.82300  1.0000
+  H   H1        1.0  0.05260  0.10500  0.38100  1.0000
+  H   H2        1.0  0.94700  0.89500  0.61900  1.0000
+  O   O1        1.0  0.14500  0.29000  0.40400  1.0000
+  O   O2        1.0  0.85500  0.71000  0.59600  1.0000
+  Sr  Sr1       1.0  0.69800  0.39600  0.27300  1.0000
+  Sr  Sr2       1.0  0.30200  0.60400  0.72700  1.0000

@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_LiAl
+_symmetry_space_group_name_H-M  'Fd-3m'
+_cell_length_a       4.50289
+_cell_length_b       4.50289
+_cell_length_c       4.50327
+_cell_angle_alpha    119.997
+_cell_angle_beta     119.997
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  227
+_chemical_formula_structural  LiAl
+_chemical_formula_sum  Li2Al2
+_cell_volume  64.57033920769834
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.87500  0.12500  0.75000  1
+ Al  Al2  1  0.12500  0.87500  0.25000  1
+ Li  Li1  1  0.37500  0.62500  0.75000  1
+ Li  Li2  1  0.62500  0.37500  0.25000  1

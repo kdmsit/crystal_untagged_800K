@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_HoSnGe
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       4.0662
+_cell_length_b       4.26346
+_cell_length_c       8.42029
+_cell_angle_alpha    104.665
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  HoSnGe
+_chemical_formula_sum  Ho2Sn2Ge2
+_cell_volume  141.21958423575873
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.75000  0.44600  0.89200  1
+ Ge  Ge2  1  0.25000  0.55400  0.10800  1
+ Ho  Ho1  1  0.75000  0.09440  0.18880  1
+ Ho  Ho2  1  0.25000  0.90560  0.81120  1
+ Sn  Sn1  1  0.75000  0.74465  0.48930  1
+ Sn  Sn2  1  0.25000  0.25535  0.51070  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_HoFeGe2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.92960245
+_cell_length_b   6.92960245
+_cell_length_c   6.72954743
+_cell_angle_alpha   69.13355566
+_cell_angle_beta   69.13355566
+_cell_angle_gamma   77.17696813
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoFeGe2O7
+_chemical_formula_sum   'Ho2 Fe2 Ge4 O14'
+_cell_volume   280.47277056
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.70730000  0.29270000  0.50000000  1
+  Ho  Ho1  1  0.29270000  0.70730000  0.50000000  1
+  Fe  Fe2  1  0.19488500  0.80511500  0.00000000  1
+  Fe  Fe3  1  0.80511500  0.19488500  0.00000000  1
+  Ge  Ge4  1  0.28180600  0.28180600  0.01441500  1
+  Ge  Ge5  1  0.71819400  0.71819400  0.98558500  1
+  Ge  Ge6  1  0.80152200  0.80152200  0.42726000  1
+  Ge  Ge7  1  0.19847800  0.19847800  0.57274000  1
+  O  O8  1  0.81477800  0.81477800  0.68805600  1
+  O  O9  1  0.18522200  0.18522200  0.31194400  1
+  O  O10  1  0.86711700  0.86711700  0.03754200  1
+  O  O11  1  0.13288300  0.13288300  0.96245800  1
+  O  O12  1  0.36953300  0.36953300  0.53311400  1
+  O  O13  1  0.63046700  0.63046700  0.46688600  1
+  O  O14  1  0.55452400  0.22441500  0.90007400  1
+  O  O15  1  0.44547600  0.77558500  0.09992600  1
+  O  O16  1  0.77558500  0.44547600  0.09992600  1
+  O  O17  1  0.22441500  0.55452400  0.90007400  1
+  O  O18  1  0.06777700  0.71203100  0.33045700  1
+  O  O19  1  0.93222300  0.28796900  0.66954300  1
+  O  O20  1  0.28796900  0.93222300  0.66954300  1
+  O  O21  1  0.71203100  0.06777700  0.33045700  1

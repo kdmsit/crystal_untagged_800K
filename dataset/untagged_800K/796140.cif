@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_NaHCO2
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       4.6033
+_cell_length_b       4.6033
+_cell_length_c       6.07742
+_cell_angle_alpha    108.289
+_cell_angle_beta     108.289
+_cell_angle_gamma    94.1438
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  NaHCO2
+_chemical_formula_sum  Na2H2C2O4
+_cell_volume  114.00004740499027
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.28037  0.71963  0.25000  1
+ C  C2  1  0.71963  0.28037  0.75000  1
+ H  H1  1  0.44551  0.55449  0.25000  1
+ H  H2  1  0.55449  0.44551  0.75000  1
+ Na  Na1  1  0.86376  0.13624  0.25000  1
+ Na  Na2  1  0.13624  0.86376  0.75000  1
+ O  O1  1  0.33671  0.95025  0.18782  1
+ O  O2  1  0.04975  0.66329  0.31218  1
+ O  O3  1  0.95025  0.33671  0.68782  1
+ O  O4  1  0.66329  0.04975  0.81218  1

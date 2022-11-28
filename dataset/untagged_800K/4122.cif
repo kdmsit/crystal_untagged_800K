@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Cs2PtTe2
+_chemical_formula_sum              "Cs2 Pt1 Te2"
+_cell_length_a       4.09952
+_cell_length_b       7.35464
+_cell_length_c       7.35464
+_cell_angle_alpha    100.433
+_cell_angle_beta     106.183
+_cell_angle_gamma    106.183
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.50000  0.69900  0.30100  1.0000
+  Cs  Cs2       1.0  0.50000  0.30100  0.69900  1.0000
+  Pt  Pt1       1.0  0.00000  0.00000  0.00000  1.0000
+  Te  Te1       1.0  0.70400  0.20400  0.20400  1.0000
+  Te  Te2       1.0  0.29600  0.79600  0.79600  1.0000

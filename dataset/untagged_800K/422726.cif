@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Hg2Mg3Mo2
+_chemical_formula_sum              "Hg2 Mg3 Mo2"
+_cell_length_a       8.17782
+_cell_length_b       8.17782
+_cell_length_c       8.17782
+_cell_angle_alpha    32.4121
+_cell_angle_beta     32.4121
+_cell_angle_gamma    32.4121
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.23400  0.23400  0.23400  1.0000
+  Hg  Hg2       1.0  0.73200  0.73200  0.73200  1.0000
+  Mg  Mg1       1.0  0.35400  0.35400  0.35400  1.0000
+  Mg  Mg2       1.0  0.61000  0.61000  0.61000  1.0000
+  Mg  Mg3       1.0  0.85500  0.85500  0.85500  1.0000
+  Mo  Mo1       1.0  0.11500  0.11500  0.11500  1.0000
+  Mo  Mo2       1.0  0.47500  0.47500  0.47500  1.0000

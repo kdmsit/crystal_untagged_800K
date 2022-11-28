@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba3Os2Pt2
+_chemical_formula_sum              "Ba3 Os2 Pt2"
+_cell_length_a       10.4236
+_cell_length_b       10.4236
+_cell_length_c       10.4236
+_cell_angle_alpha    25.3078
+_cell_angle_beta     25.3078
+_cell_angle_gamma    25.3078
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.39800  0.39800  0.39800  1.0000
+  Ba  Ba2       1.0  0.63200  0.63200  0.63200  1.0000
+  Ba  Ba3       1.0  0.89400  0.89400  0.89400  1.0000
+  Os  Os1       1.0  0.14100  0.14100  0.14100  1.0000
+  Os  Os2       1.0  0.80000  0.80000  0.80000  1.0000
+  Pt  Pt1       1.0  0.00883  0.00883  0.00883  1.0000
+  Pt  Pt2       1.0  0.50200  0.50200  0.50200  1.0000

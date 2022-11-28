@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ti4Zr6
+_chemical_formula_sum              "Ti4 Zr6"
+_cell_length_a       6.15517
+_cell_length_b       6.15517
+_cell_length_c       7.33114
+_cell_angle_alpha    114.822
+_cell_angle_beta     65.1783
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.30500  0.69500  0.08580  1.0000
+  Ti  Ti2       1.0  0.19500  0.80500  0.41400  1.0000
+  Ti  Ti3       1.0  0.80500  0.19500  0.58600  1.0000
+  Ti  Ti4       1.0  0.69500  0.30500  0.91400  1.0000
+  Zr  Zr1       1.0  0.25000  0.25000  0.25000  1.0000
+  Zr  Zr2       1.0  0.75000  0.25000  0.25000  1.0000
+  Zr  Zr3       1.0  0.75000  0.75000  0.25000  1.0000
+  Zr  Zr4       1.0  0.25000  0.25000  0.75000  1.0000
+  Zr  Zr5       1.0  0.25000  0.75000  0.75000  1.0000
+  Zr  Zr6       1.0  0.75000  0.75000  0.75000  1.0000

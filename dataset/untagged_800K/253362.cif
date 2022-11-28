@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Er4S6
+_chemical_formula_sum              "Er4 S6"
+_cell_length_a       6.83479
+_cell_length_b       6.83478
+_cell_length_c       7.27474
+_cell_angle_alpha    118.019
+_cell_angle_beta     61.9812
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.65000  0.35000  0.05010  1.0000
+  Er  Er2       1.0  0.85000  0.15000  0.45000  1.0000
+  Er  Er3       1.0  0.15000  0.85000  0.55000  1.0000
+  Er  Er4       1.0  0.35000  0.65000  0.95000  1.0000
+  S   S1        1.0  0.25000  0.05170  0.25000  1.0000
+  S   S2        1.0  0.94800  0.44800  0.25000  1.0000
+  S   S3        1.0  0.55200  0.75000  0.25000  1.0000
+  S   S4        1.0  0.44800  0.25000  0.75000  1.0000
+  S   S5        1.0  0.05170  0.55200  0.75000  1.0000
+  S   S6        1.0  0.75000  0.94800  0.75000  1.0000

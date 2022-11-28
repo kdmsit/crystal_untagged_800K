@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       O6Sn
+_chemical_formula_sum              "O6 Sn1"
+_cell_length_a       3.83805
+_cell_length_b       3.83805
+_cell_length_c       5.82737
+_cell_angle_alpha    70.773
+_cell_angle_beta     109.227
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.50300  0.32900  0.25900  1.0000
+  O   O2        1.0  0.67100  0.91500  0.25900  1.0000
+  O   O3        1.0  0.08520  0.49700  0.25900  1.0000
+  O   O4        1.0  0.91500  0.50300  0.74100  1.0000
+  O   O5        1.0  0.32900  0.08520  0.74100  1.0000
+  O   O6        1.0  0.49700  0.67100  0.74100  1.0000
+  Sn  Sn1       1.0  0.00000  0.00000  0.00000  1.0000

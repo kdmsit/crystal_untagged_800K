@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CsHCO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.78310340
+_cell_length_b   8.40554180
+_cell_length_c   11.26524000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   110.85160772
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsHCO3
+_chemical_formula_sum   'Cs4 H4 C4 O12'
+_cell_volume   423.25077841
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.65370500  0.08517500  0.82421100  1
+  Cs  Cs1  1  0.15370500  0.58517500  0.67578900  1
+  Cs  Cs2  1  0.34629500  0.91482500  0.17578900  1
+  Cs  Cs3  1  0.84629500  0.41482500  0.32421100  1
+  H  H4  1  0.50025400  0.49706400  0.90266300  1
+  H  H5  1  0.00025400  0.99706400  0.59733700  1
+  H  H6  1  0.49974600  0.50293600  0.09733700  1
+  H  H7  1  0.99974600  0.00293600  0.40266300  1
+  C  C8  1  0.86213100  0.69084900  0.95243000  1
+  C  C9  1  0.36213100  0.19084900  0.54757000  1
+  C  C10  1  0.13786900  0.30915100  0.04757000  1
+  C  C11  1  0.63786900  0.80915100  0.45243000  1
+  O  O12  1  0.09587400  0.80800400  0.91708500  1
+  O  O13  1  0.59587400  0.30800400  0.58291500  1
+  O  O14  1  0.90412600  0.19199600  0.08291500  1
+  O  O15  1  0.40412600  0.69199600  0.41708500  1
+  O  O16  1  0.78288900  0.65625400  0.06106500  1
+  O  O17  1  0.28288900  0.15625400  0.43893500  1
+  O  O18  1  0.21711100  0.34374600  0.93893500  1
+  O  O19  1  0.71711100  0.84374600  0.56106500  1
+  O  O20  1  0.67809100  0.59324700  0.86571500  1
+  O  O21  1  0.17809100  0.09324700  0.63428500  1
+  O  O22  1  0.32190900  0.40675300  0.13428500  1
+  O  O23  1  0.82190900  0.90675300  0.36571500  1

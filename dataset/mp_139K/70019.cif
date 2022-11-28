@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_U(NO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.34090293
+_cell_length_b   7.34090293
+_cell_length_c   7.76458727
+_cell_angle_alpha   78.89493697
+_cell_angle_beta   78.89493697
+_cell_angle_gamma   61.02457064
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U(NO5)2
+_chemical_formula_sum   'U1 N2 O10'
+_cell_volume   356.78411666
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.99590300  0.99590300  0.00861300  1
+  N  N1  1  0.22351900  0.22351900  0.79841300  1
+  N  N2  1  0.27150900  0.27150900  0.39851600  1
+  O  O3  1  0.05159500  0.05159500  0.20221000  1
+  O  O4  1  0.94568000  0.94568000  0.80952800  1
+  O  O5  1  0.35259000  0.35259000  0.45295900  1
+  O  O6  1  0.17549200  0.17549200  0.45456500  1
+  O  O7  1  0.63292500  0.26246200  0.05427600  1
+  O  O8  1  0.26246200  0.63292500  0.05427600  1
+  O  O9  1  0.03104900  0.31889100  0.84956600  1
+  O  O10  1  0.31889100  0.03104900  0.84956600  1
+  O  O11  1  0.08715400  0.64123100  0.13875600  1
+  O  O12  1  0.64123100  0.08715400  0.13875600  1

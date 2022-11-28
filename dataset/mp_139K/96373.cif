@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LiTbPrNiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10137762
+_cell_length_b   5.10137762
+_cell_length_c   8.92695987
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   88.64383278
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTbPrNiO6
+_chemical_formula_sum   'Li2 Tb2 Pr2 Ni2 O12'
+_cell_volume   232.25060820
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  -0.00000000  0.50000000  -0.00000000  1
+  Li  Li1  1  0.50000000  0.00000000  0.50000000  1
+  Tb  Tb2  1  0.50000000  0.50000000  0.25000000  1
+  Tb  Tb3  1  0.50000000  0.50000000  0.75000000  1
+  Pr  Pr4  1  -0.00000000  0.00000000  0.25000000  1
+  Pr  Pr5  1  -0.00000000  0.00000000  0.75000000  1
+  Ni  Ni6  1  -0.00000000  0.50000000  0.50000000  1
+  Ni  Ni7  1  0.50000000  0.00000000  -0.00000000  1
+  O  O8  1  -0.00000000  0.50000000  0.25872237  1
+  O  O9  1  0.50000000  0.00000000  0.24127763  1
+  O  O10  1  -0.00000000  0.50000000  0.74127763  1
+  O  O11  1  0.50000000  0.00000000  0.75872237  1
+  O  O12  1  0.38995622  0.60465614  -0.00000000  1
+  O  O13  1  0.61004378  0.39534386  -0.00000000  1
+  O  O14  1  0.85710877  0.84972333  -0.00000000  1
+  O  O15  1  0.14289123  0.15027667  -0.00000000  1
+  O  O16  1  0.84972333  0.85710877  0.50000000  1
+  O  O17  1  0.15027667  0.14289123  0.50000000  1
+  O  O18  1  0.39534386  0.61004378  0.50000000  1
+  O  O19  1  0.60465614  0.38995622  0.50000000  1

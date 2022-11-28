@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_U3Ga2Si3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.66831291
+_cell_length_b   7.54099054
+_cell_length_c   7.35388262
+_cell_angle_alpha   61.95699475
+_cell_angle_beta   60.22020161
+_cell_angle_gamma   57.82280364
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U3Ga2Si3
+_chemical_formula_sum   'U6 Ga4 Si6'
+_cell_volume   299.91264913
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.14997600  0.55176600  0.85002400  1
+  U  U1  1  0.44823400  0.85002400  0.55176600  1
+  U  U2  1  0.02551900  0.97448100  0.66273600  1
+  U  U3  1  0.33726400  0.66273600  0.97448100  1
+  U  U4  1  0.81584700  0.48805400  0.18415300  1
+  U  U5  1  0.51194600  0.18415300  0.48805400  1
+  Ga  Ga6  1  0.50740600  0.99259400  0.99259400  1
+  Ga  Ga7  1  0.00740600  0.49259400  0.49259400  1
+  Ga  Ga8  1  0.01100100  0.98899900  0.26458900  1
+  Ga  Ga9  1  0.73541100  0.26458900  0.98899900  1
+  Si  Si10  1  0.33204500  0.66795500  0.37251400  1
+  Si  Si11  1  0.62748600  0.37251400  0.66795500  1
+  Si  Si12  1  0.14098800  0.16665300  0.85901200  1
+  Si  Si13  1  0.83334700  0.85901200  0.16665300  1
+  Si  Si14  1  0.25806300  0.24193700  0.24193700  1
+  Si  Si15  1  0.75806300  0.74193700  0.74193700  1

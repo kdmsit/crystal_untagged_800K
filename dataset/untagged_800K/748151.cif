@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZnAgN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51676277
+_cell_length_b   6.47777700
+_cell_length_c   7.10591583
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   130.07833679
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnAgN
+_chemical_formula_sum   'Zn4 Ag4 N4'
+_cell_volume   194.30563364
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.50019400  0.37202100  0.83424500  1
+  Zn  Zn1  1  0.49980600  0.87202100  0.66575500  1
+  Zn  Zn2  1  0.49980600  0.62797900  0.16575500  1
+  Zn  Zn3  1  0.50019400  0.12797900  0.33424500  1
+  Ag  Ag4  1  0.00027300  0.24990300  0.84378700  1
+  Ag  Ag5  1  0.99972700  0.74990300  0.65621300  1
+  Ag  Ag6  1  0.99972700  0.75009700  0.15621300  1
+  Ag  Ag7  1  0.00027300  0.25009700  0.34378700  1
+  N  N8  1  0.49978400  0.67781900  0.87601900  1
+  N  N9  1  0.50021600  0.17781900  0.62398100  1
+  N  N10  1  0.50021600  0.32218100  0.12398100  1
+  N  N11  1  0.49978400  0.82218100  0.37601900  1

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       CoLi4O6Ru
+_chemical_formula_sum              "Co1 Li4 O6 Ru1"
+_cell_length_a       4.97426
+_cell_length_b       4.97426
+_cell_length_c       5.01266
+_cell_angle_alpha    99.6136
+_cell_angle_beta     99.6136
+_cell_angle_gamma    119.946
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.83300  0.16700  0.00000  1.0000
+  Li  Li1       1.0  0.50000  0.50000  0.00000  1.0000
+  Li  Li2       1.0  0.99600  0.00396  0.50000  1.0000
+  Li  Li3       1.0  0.66200  0.33800  0.50000  1.0000
+  Li  Li4       1.0  0.34100  0.65900  0.50000  1.0000
+  O   O1        1.0  0.58400  0.93100  0.23100  1.0000
+  O   O2        1.0  0.92600  0.57200  0.23200  1.0000
+  O   O3        1.0  0.22500  0.23100  0.23400  1.0000
+  O   O4        1.0  0.76900  0.77500  0.76600  1.0000
+  O   O5        1.0  0.42800  0.07420  0.76800  1.0000
+  O   O6        1.0  0.06860  0.41600  0.76900  1.0000
+  Ru  Ru1       1.0  0.16700  0.83300  0.00000  1.0000

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MgNiWS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.23827388
+_cell_length_b   7.30511150
+_cell_length_c   7.30469836
+_cell_angle_alpha   56.12141547
+_cell_angle_beta   60.33858865
+_cell_angle_gamma   60.34202183
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgNiWS4
+_chemical_formula_sum   'Mg2 Ni2 W2 S8'
+_cell_volume   265.50621061
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.86628500  0.88419700  0.88396900  1
+  Mg  Mg1  1  0.13360000  0.11592600  0.11614900  1
+  Ni  Ni2  1  0.49994700  0.49999100  0.49997900  1
+  Ni  Ni3  1  0.00007900  0.49998400  0.49999100  1
+  W  W4  1  0.50000700  0.50074500  0.99923700  1
+  W  W5  1  0.50000600  0.99923400  0.50075000  1
+  S  S6  1  0.75043000  0.73741900  0.73731900  1
+  S  S7  1  0.27054200  0.26116200  0.69750800  1
+  S  S8  1  0.27052900  0.69757600  0.26111400  1
+  S  S9  1  0.72473100  0.26262200  0.26271500  1
+  S  S10  1  0.72947200  0.30254000  0.73875400  1
+  S  S11  1  0.27478300  0.73734100  0.73725600  1
+  S  S12  1  0.25012200  0.26254500  0.26265600  1
+  S  S13  1  0.72947100  0.73871300  0.30260400  1

@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       Cu2O14Si4Sr4
+_chemical_formula_sum              "Cu2 O14 Si4 Sr4"
+_cell_length_a       8.09887
+_cell_length_b       8.09887
+_cell_length_c       5.03322
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.00000  0.00000  0.50000  1.0000
+  Cu  Cu2       1.0  0.50000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.13600  0.36400  0.21700  1.0000
+  O   O2        1.0  0.86400  0.63600  0.21700  1.0000
+  O   O3        1.0  0.80800  0.08140  0.31700  1.0000
+  O   O4        1.0  0.58100  0.30800  0.31700  1.0000
+  O   O5        1.0  0.41900  0.69200  0.31700  1.0000
+  O   O6        1.0  0.19200  0.91900  0.31700  1.0000
+  O   O7        1.0  0.50000  0.00000  0.34700  1.0000
+  O   O8        1.0  0.00000  0.50000  0.65300  1.0000
+  O   O9        1.0  0.08140  0.19200  0.68300  1.0000
+  O   O10       1.0  0.30800  0.41900  0.68300  1.0000
+  O   O11       1.0  0.69200  0.58100  0.68300  1.0000
+  O   O12       1.0  0.91900  0.80800  0.68300  1.0000
+  O   O13       1.0  0.63600  0.13600  0.78300  1.0000
+  O   O14       1.0  0.36400  0.86400  0.78300  1.0000
+  Si  Si1       1.0  0.63700  0.13700  0.46300  1.0000
+  Si  Si2       1.0  0.36300  0.86300  0.46300  1.0000
+  Si  Si3       1.0  0.13700  0.36300  0.53700  1.0000
+  Si  Si4       1.0  0.86300  0.63700  0.53700  1.0000
+  Sr  Sr1       1.0  0.83400  0.33400  0.00748  1.0000
+  Sr  Sr2       1.0  0.16600  0.66600  0.00748  1.0000
+  Sr  Sr3       1.0  0.33400  0.16600  0.99300  1.0000
+  Sr  Sr4       1.0  0.66600  0.83400  0.99300  1.0000

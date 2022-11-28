@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaSr3Ca2(MoO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.26947275
+_cell_length_b   10.26947275
+_cell_length_c   10.26947283
+_cell_angle_alpha   33.56352073
+_cell_angle_beta   33.56352073
+_cell_angle_gamma   33.56351675
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSr3Ca2(MoO6)2
+_chemical_formula_sum   'Ba1 Sr3 Ca2 Mo2 O12'
+_cell_volume   294.86545407
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.62502700  0.62502700  0.62502700  1
+  Sr  Sr1  1  0.12496300  0.12496300  0.12496300  1
+  Sr  Sr2  1  0.87479100  0.87479100  0.87479100  1
+  Sr  Sr3  1  0.37520800  0.37520800  0.37520800  1
+  Ca  Ca4  1  0.24987000  0.24987000  0.24987000  1
+  Ca  Ca5  1  0.75012200  0.75012200  0.75012200  1
+  Mo  Mo6  1  0.00029500  0.00029500  0.00029500  1
+  Mo  Mo7  1  0.49970300  0.49970300  0.49970300  1
+  O  O8  1  0.11563000  0.11563000  0.65346000  1
+  O  O9  1  0.61567900  0.61567900  0.15265400  1
+  O  O10  1  0.38320900  0.84772600  0.38320900  1
+  O  O11  1  0.88547300  0.34620000  0.88547300  1
+  O  O12  1  0.65346000  0.11563000  0.11563000  1
+  O  O13  1  0.15265400  0.61567900  0.61567900  1
+  O  O14  1  0.38320900  0.38320900  0.84772600  1
+  O  O15  1  0.88547300  0.88547300  0.34620000  1
+  O  O16  1  0.11563000  0.65346000  0.11563000  1
+  O  O17  1  0.61567900  0.15265400  0.61567900  1
+  O  O18  1  0.84772600  0.38320900  0.38320900  1
+  O  O19  1  0.34620000  0.88547300  0.88547300  1

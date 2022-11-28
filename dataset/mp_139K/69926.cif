@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_RbCu2(SeO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81420736
+_cell_length_b   5.81420736
+_cell_length_c   8.33993524
+_cell_angle_alpha   98.85092101
+_cell_angle_beta   104.38230885
+_cell_angle_gamma   115.02433295
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCu2(SeO5)2
+_chemical_formula_sum   'Rb1 Cu2 Se2 O10'
+_cell_volume   236.44684968
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu1  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu2  1  0.50000000  0.00000000  0.00000000  1
+  Se  Se3  1  0.79744100  0.93725100  0.73469100  1
+  Se  Se4  1  0.20255900  0.06274900  0.26530900  1
+  O  O5  1  0.00060700  0.82812400  0.82873000  1
+  O  O6  1  0.99939300  0.17187600  0.17127000  1
+  O  O7  1  0.68794900  0.83447300  0.52242300  1
+  O  O8  1  0.31205100  0.16552700  0.47757700  1
+  O  O9  1  0.51410200  0.82668300  0.79375100  1
+  O  O10  1  0.96706800  0.27964900  0.79375100  1
+  O  O11  1  0.48589800  0.17331700  0.20624900  1
+  O  O12  1  0.03293200  0.72035100  0.20624900  1
+  O  O13  1  0.64105300  0.31487200  0.95592500  1
+  O  O14  1  0.35894700  0.68512800  0.04407500  1

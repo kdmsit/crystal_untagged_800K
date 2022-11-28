@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Mg2Cr3WS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31572244
+_cell_length_b   7.31514638
+_cell_length_c   7.31525343
+_cell_angle_alpha   59.49594098
+_cell_angle_beta   59.50048062
+_cell_angle_gamma   59.49892217
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2Cr3WS8
+_chemical_formula_sum   'Mg2 Cr3 W1 S8'
+_cell_volume   273.66059065
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.87415500  0.87416200  0.87413200  1
+  Mg  Mg1  1  0.12588700  0.12589200  0.12583500  1
+  Cr  Cr2  1  0.49978400  0.50003700  0.99999300  1
+  Cr  Cr3  1  0.00008300  0.49987500  0.50005700  1
+  Cr  Cr4  1  0.49985200  0.99973200  0.50013300  1
+  W  W5  1  0.50003100  0.50005100  0.49997100  1
+  S  S6  1  0.73658900  0.73661200  0.73657100  1
+  S  S7  1  0.26029200  0.26031300  0.71166900  1
+  S  S8  1  0.26030100  0.71170700  0.26024400  1
+  S  S9  1  0.71170500  0.26030500  0.26023900  1
+  S  S10  1  0.73974400  0.28835100  0.73970800  1
+  S  S11  1  0.28835900  0.73974200  0.73972900  1
+  S  S12  1  0.26345000  0.26345000  0.26341300  1
+  S  S13  1  0.73977400  0.73976600  0.28830700  1

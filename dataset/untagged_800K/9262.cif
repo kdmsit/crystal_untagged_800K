@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Na4Ni2O4
+_chemical_formula_sum              "Na4 Ni2 O4"
+_cell_length_a       2.81348
+_cell_length_b       5.22507
+_cell_length_c       8.17574
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    74.3816
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.60400  0.79100  0.15300  1.0000
+  Na  Na2       1.0  0.85100  0.29900  0.33000  1.0000
+  Na  Na3       1.0  0.39600  0.20900  0.65300  1.0000
+  Na  Na4       1.0  0.14900  0.70100  0.83000  1.0000
+  Ni  Ni1       1.0  0.87800  0.24400  0.99800  1.0000
+  Ni  Ni2       1.0  0.12200  0.75600  0.49800  1.0000
+  O   O1        1.0  0.27800  0.44300  0.09410  1.0000
+  O   O2        1.0  0.52000  0.96100  0.41000  1.0000
+  O   O3        1.0  0.72200  0.55700  0.59400  1.0000
+  O   O4        1.0  0.48000  0.03950  0.91000  1.0000

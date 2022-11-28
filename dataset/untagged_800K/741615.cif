@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Sr3Fe2TeO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64438513
+_cell_length_b   5.64433705
+_cell_length_c   6.94942028
+_cell_angle_alpha   90.00002338
+_cell_angle_beta   90.00010521
+_cell_angle_gamma   59.99946126
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Fe2TeO9
+_chemical_formula_sum   'Sr3 Fe2 Te1 O9'
+_cell_volume   191.73722133
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.33333700  0.33332100  0.33335100  1
+  Sr  Sr1  1  0.66666200  0.66667300  0.65451500  1
+  Sr  Sr2  1  0.99999500  0.00001000  0.01219800  1
+  Fe  Fe3  1  0.99999800  0.00000200  0.48377400  1
+  Fe  Fe4  1  0.66667700  0.66665000  0.18280400  1
+  Te  Te5  1  0.33333500  0.33333600  0.83332100  1
+  O  O6  1  0.83331200  0.83330400  0.33330500  1
+  O  O7  1  0.83330400  0.33338800  0.33331100  1
+  O  O8  1  0.33338600  0.83331000  0.33330700  1
+  O  O9  1  0.17065800  0.17065300  0.67244100  1
+  O  O10  1  0.49598800  0.49599800  0.99426400  1
+  O  O11  1  0.17065600  0.65868100  0.67244200  1
+  O  O12  1  0.49599200  0.00801600  0.99426700  1
+  O  O13  1  0.65868100  0.17066000  0.67244100  1
+  O  O14  1  0.00801800  0.49599800  0.99426000  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na3Ag(TeS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.24200200
+_cell_length_b   5.84802200
+_cell_length_c   8.38481770
+_cell_angle_alpha   87.32104235
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Ag(TeS3)2
+_chemical_formula_sum   'Na6 Ag2 Te4 S12'
+_cell_volume   599.62560838
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.08190200  0.74576600  0.38650200  1
+  Na  Na1  1  0.58190200  0.25423400  0.61349800  1
+  Na  Na2  1  0.91734200  0.25451500  0.11475800  1
+  Na  Na3  1  0.41734200  0.74548500  0.88524200  1
+  Na  Na4  1  0.26376700  0.24207200  0.12149200  1
+  Na  Na5  1  0.76376700  0.75792800  0.87850800  1
+  Ag  Ag6  1  0.72945100  0.72652300  0.37994200  1
+  Ag  Ag7  1  0.22945100  0.27347700  0.62005800  1
+  Te  Te8  1  0.09219800  0.79156000  0.93060000  1
+  Te  Te9  1  0.59219800  0.20844000  0.06940000  1
+  Te  Te10  1  0.91092500  0.21199500  0.56705100  1
+  Te  Te11  1  0.41092500  0.78800500  0.43294900  1
+  S  S12  1  0.23765000  0.73867400  0.11902800  1
+  S  S13  1  0.73765000  0.26132600  0.88097200  1
+  S  S14  1  0.76503900  0.28214600  0.38073100  1
+  S  S15  1  0.26503900  0.71785400  0.61926900  1
+  S  S16  1  0.10265100  0.19740900  0.87250300  1
+  S  S17  1  0.60265100  0.80259100  0.12749700  1
+  S  S18  1  0.89313000  0.80451700  0.59365300  1
+  S  S19  1  0.39313000  0.19548300  0.40634700  1
+  S  S20  1  0.93903100  0.75705300  0.10336700  1
+  S  S21  1  0.43903100  0.24294700  0.89663300  1
+  S  S22  1  0.06691400  0.24888100  0.39902000  1
+  S  S23  1  0.56691400  0.75111900  0.60098000  1

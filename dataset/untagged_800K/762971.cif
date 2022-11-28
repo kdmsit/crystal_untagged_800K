@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_TbFeGe2
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       4.21623
+_cell_length_b       4.15782
+_cell_length_c       8.5378
+_cell_angle_alpha    104.093
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  TbFeGe2
+_chemical_formula_sum  Tb2Fe2Ge4
+_cell_volume  145.165669705301
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.75000  0.31819  0.63638  1
+ Fe  Fe2  1  0.25000  0.68181  0.36362  1
+ Ge  Ge1  1  0.75000  0.45463  0.90926  1
+ Ge  Ge2  1  0.25000  0.54537  0.09074  1
+ Ge  Ge3  1  0.75000  0.74920  0.49841  1
+ Ge  Ge4  1  0.25000  0.25080  0.50159  1
+ Tb  Tb1  1  0.75000  0.10883  0.21766  1
+ Tb  Tb2  1  0.25000  0.89117  0.78234  1

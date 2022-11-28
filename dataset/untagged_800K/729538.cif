@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Zr3Co2Si3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39595466
+_cell_length_b   5.39595466
+_cell_length_c   12.96169400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   138.02147754
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr3Co2Si3
+_chemical_formula_sum   'Zr6 Co4 Si6'
+_cell_volume   252.42267858
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.92464000  0.07536000  0.38359200  1
+  Zr  Zr1  1  0.07536000  0.92464000  0.61640800  1
+  Zr  Zr2  1  0.92464000  0.07536000  0.11640800  1
+  Zr  Zr3  1  0.07536000  0.92464000  0.88359200  1
+  Zr  Zr4  1  0.63590900  0.36409100  0.25000000  1
+  Zr  Zr5  1  0.36409100  0.63590900  0.75000000  1
+  Co  Co6  1  0.78031100  0.21968900  0.91971400  1
+  Co  Co7  1  0.21968900  0.78031100  0.08028600  1
+  Co  Co8  1  0.78031100  0.21968900  0.58028600  1
+  Co  Co9  1  0.21968900  0.78031100  0.41971400  1
+  Si  Si10  1  0.61114800  0.38885200  0.45816500  1
+  Si  Si11  1  0.38885200  0.61114800  0.54183500  1
+  Si  Si12  1  0.61114800  0.38885200  0.04183500  1
+  Si  Si13  1  0.38885200  0.61114800  0.95816500  1
+  Si  Si14  1  0.33412300  0.66587700  0.25000000  1
+  Si  Si15  1  0.66587700  0.33412300  0.75000000  1

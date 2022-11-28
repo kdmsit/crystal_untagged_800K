@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Zr(GaCo)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09072000
+_cell_length_b   6.38650956
+_cell_length_c   6.38650956
+_cell_angle_alpha   102.77779740
+_cell_angle_beta   113.48772573
+_cell_angle_gamma   66.51227427
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr(GaCo)6
+_chemical_formula_sum   'Zr1 Ga6 Co6'
+_cell_volume   174.17560383
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.00000000  0.00000000  0.00000000  1
+  Ga  Ga1  1  0.50000000  0.00000000  0.50000000  1
+  Ga  Ga2  1  0.00000000  0.00000000  0.50000000  1
+  Ga  Ga3  1  0.50000000  0.50000000  0.00000000  1
+  Ga  Ga4  1  0.00000000  0.50000000  0.00000000  1
+  Ga  Ga5  1  0.50000000  0.79001500  0.79001500  1
+  Ga  Ga6  1  0.50000000  0.20998500  0.20998500  1
+  Co  Co7  1  0.64381400  0.35618600  0.64381400  1
+  Co  Co8  1  0.35618600  0.64381400  0.35618600  1
+  Co  Co9  1  0.00000000  0.34690200  0.34690200  1
+  Co  Co10  1  0.00000000  0.65309800  0.65309800  1
+  Co  Co11  1  0.71925700  0.78074300  0.21925700  1
+  Co  Co12  1  0.28074300  0.21925700  0.78074300  1

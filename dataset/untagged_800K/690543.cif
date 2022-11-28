@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_BaSrMg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.32496046
+_cell_length_b   14.32496046
+_cell_length_c   14.32496046
+_cell_angle_alpha   121.91067409
+_cell_angle_beta   114.34208798
+_cell_angle_gamma   93.39502938
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrMg2
+_chemical_formula_sum   'Ba1 Sr1 Mg2'
+_cell_volume   2122.54344965
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.00000000  0.50000000  1
+  Sr  Sr1  1  0.00000000  0.00000000  0.00000000  1
+  Mg  Mg2  1  0.74988200  0.00000000  0.74988200  1
+  Mg  Mg3  1  0.25011800  0.00000000  0.25011800  1

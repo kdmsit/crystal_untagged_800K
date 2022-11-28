@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       As6Sr6
+_chemical_formula_sum              "As6 Sr6"
+_cell_length_a       8.34014
+_cell_length_b       8.34014
+_cell_length_c       6.21782
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.66700  0.33300  0.20900  1.0000
+  As  As2       1.0  0.33300  0.66700  0.20900  1.0000
+  As  As3       1.0  0.00001  0.00001  0.29600  1.0000
+  As  As4       1.0  0.00001  0.00001  0.70400  1.0000
+  As  As5       1.0  0.66700  0.33300  0.79100  1.0000
+  As  As6       1.0  0.33300  0.66700  0.79100  1.0000
+  Sr  Sr1       1.0  0.31300  0.00002  0.00000  1.0000
+  Sr  Sr2       1.0  0.00002  0.31300  0.00000  1.0000
+  Sr  Sr3       1.0  0.68700  0.68700  0.00000  1.0000
+  Sr  Sr4       1.0  0.64700  0.00002  0.50000  1.0000
+  Sr  Sr5       1.0  0.35300  0.35300  0.50000  1.0000
+  Sr  Sr6       1.0  0.00002  0.64700  0.50000  1.0000

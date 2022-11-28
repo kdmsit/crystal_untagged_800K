@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_TmGa6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.01715600
+_cell_length_b   6.01715600
+_cell_length_c   7.54207600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmGa6
+_chemical_formula_sum   'Tm2 Ga12'
+_cell_volume   273.06965812
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.50000000  0.00000000  0.00000000  1
+  Tm  Tm1  1  0.00000000  0.50000000  0.00000000  1
+  Ga  Ga2  1  0.50000000  0.50000000  0.16005300  1
+  Ga  Ga3  1  0.00000000  0.00000000  0.16005300  1
+  Ga  Ga4  1  0.00000000  0.00000000  0.83994700  1
+  Ga  Ga5  1  0.50000000  0.50000000  0.83994700  1
+  Ga  Ga6  1  0.80829800  0.69170200  0.34714800  1
+  Ga  Ga7  1  0.30829800  0.80829800  0.34714800  1
+  Ga  Ga8  1  0.69170200  0.19170200  0.34714800  1
+  Ga  Ga9  1  0.19170200  0.30829800  0.34714800  1
+  Ga  Ga10  1  0.69170200  0.80829800  0.65285200  1
+  Ga  Ga11  1  0.19170200  0.69170200  0.65285200  1
+  Ga  Ga12  1  0.80829800  0.30829800  0.65285200  1
+  Ga  Ga13  1  0.30829800  0.19170200  0.65285200  1

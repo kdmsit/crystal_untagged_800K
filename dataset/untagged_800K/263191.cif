@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GaInMnS4
+_chemical_formula_sum              "Ga1 In1 Mn1 S4"
+_cell_length_a       3.85723
+_cell_length_b       3.85723
+_cell_length_c       12.6293
+_cell_angle_alpha    81.2161
+_cell_angle_beta     98.784
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.07080  0.92900  0.21300  1.0000
+  In  In1       1.0  0.84000  0.16000  0.52000  1.0000
+  Mn  Mn1       1.0  0.60900  0.39100  0.82700  1.0000
+  S   S1        1.0  0.71500  0.28500  0.14400  1.0000
+  S   S2        1.0  0.13200  0.86800  0.39700  1.0000
+  S   S3        1.0  0.54300  0.45700  0.62800  1.0000
+  S   S4        1.0  0.96100  0.03850  0.88400  1.0000

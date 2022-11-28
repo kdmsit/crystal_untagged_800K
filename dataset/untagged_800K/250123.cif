@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cl4Tc6
+_chemical_formula_sum              "Cl4 Tc6"
+_cell_length_a       6.88016
+_cell_length_b       6.88016
+_cell_length_c       5.38749
+_cell_angle_alpha    129.682
+_cell_angle_beta     50.3177
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.62500  0.37500  0.12400  1.0000
+  Cl  Cl2       1.0  0.87500  0.12500  0.37600  1.0000
+  Cl  Cl3       1.0  0.12500  0.87500  0.62400  1.0000
+  Cl  Cl4       1.0  0.37500  0.62500  0.87600  1.0000
+  Tc  Tc1       1.0  0.25000  0.08730  0.25000  1.0000
+  Tc  Tc2       1.0  0.91300  0.41300  0.25000  1.0000
+  Tc  Tc3       1.0  0.58700  0.75000  0.25000  1.0000
+  Tc  Tc4       1.0  0.41300  0.25000  0.75000  1.0000
+  Tc  Tc5       1.0  0.08730  0.58700  0.75000  1.0000
+  Tc  Tc6       1.0  0.75000  0.91300  0.75000  1.0000

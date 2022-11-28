@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Li4Ti6
+_chemical_formula_sum              "Li4 Ti6"
+_cell_length_a       6.66967
+_cell_length_b       6.66967
+_cell_length_c       5.70081
+_cell_angle_alpha    125.801
+_cell_angle_beta     54.1987
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.58300  0.41700  0.25000  1.0000
+  Li  Li2       1.0  0.91700  0.08340  0.25000  1.0000
+  Li  Li3       1.0  0.08340  0.91700  0.75000  1.0000
+  Li  Li4       1.0  0.41700  0.58300  0.75000  1.0000
+  Ti  Ti1       1.0  0.49600  0.75000  0.25000  1.0000
+  Ti  Ti2       1.0  0.00424  0.50400  0.25000  1.0000
+  Ti  Ti3       1.0  0.25000  0.99600  0.25000  1.0000
+  Ti  Ti4       1.0  0.75000  0.00424  0.75000  1.0000
+  Ti  Ti5       1.0  0.99600  0.49600  0.75000  1.0000
+  Ti  Ti6       1.0  0.50400  0.25000  0.75000  1.0000

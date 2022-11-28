@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_KPAuSe3
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       7.07674
+_cell_length_b       7.07674
+_cell_length_c       8.17869
+_cell_angle_alpha    111.326
+_cell_angle_beta     111.326
+_cell_angle_gamma    61.8875
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  KPAuSe3
+_chemical_formula_sum  K2P2Au2Se6
+_cell_volume  327.1840934398887
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Au  Au1  1  0.73885  0.26115  0.00000  1
+ Au  Au2  1  0.26115  0.73885  -0.00000  1
+ K  K1  1  0.30171  0.30171  0.25332  1
+ K  K2  1  0.69829  0.69829  0.74668  1
+ P  P1  1  0.97740  0.97740  0.35004  1
+ P  P2  1  0.02259  0.02259  0.64996  1
+ Se  Se1  1  0.78194  0.78194  0.19477  1
+ Se  Se2  1  0.82454  0.33248  0.32860  1
+ Se  Se3  1  0.33248  0.82454  0.32860  1
+ Se  Se4  1  0.66752  0.17546  0.67140  1
+ Se  Se5  1  0.17546  0.66752  0.67140  1
+ Se  Se6  1  0.21806  0.21806  0.80523  1

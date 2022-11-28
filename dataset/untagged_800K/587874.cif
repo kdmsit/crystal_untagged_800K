@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Be2Mo3Pd2
+_chemical_formula_sum              "Be2 Mo3 Pd2"
+_cell_length_a       4.22533
+_cell_length_b       4.22533
+_cell_length_c       6.67426
+_cell_angle_alpha    71.5462
+_cell_angle_beta     71.5462
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.23600  0.23600  0.29200  1.0000
+  Be  Be2       1.0  0.80400  0.80400  0.58700  1.0000
+  Mo  Mo1       1.0  0.66500  0.66500  0.00586  1.0000
+  Mo  Mo2       1.0  0.09210  0.09210  0.72400  1.0000
+  Mo  Mo3       1.0  0.37600  0.37600  0.87300  1.0000
+  Pd  Pd1       1.0  0.93300  0.93300  0.20000  1.0000
+  Pd  Pd2       1.0  0.51900  0.51900  0.44300  1.0000

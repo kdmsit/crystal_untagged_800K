@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       Cu2Ho6S14Si2
+_chemical_formula_sum              "Cu2 Ho6 S14 Si2"
+_cell_length_a       9.85394
+_cell_length_b       9.85392
+_cell_length_c       5.66375
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.00000  0.00000  0.28300  1.0000
+  Cu  Cu2       1.0  0.00000  0.00000  0.78300  1.0000
+  Ho  Ho1       1.0  0.12700  0.35700  0.25000  1.0000
+  Ho  Ho2       1.0  0.64300  0.77000  0.25000  1.0000
+  Ho  Ho3       1.0  0.23000  0.87300  0.25000  1.0000
+  Ho  Ho4       1.0  0.35700  0.23000  0.75000  1.0000
+  Ho  Ho5       1.0  0.87300  0.64300  0.75000  1.0000
+  Ho  Ho6       1.0  0.77000  0.12700  0.75000  1.0000
+  S   S1        1.0  0.89400  0.41600  0.00917  1.0000
+  S   S2        1.0  0.52100  0.10600  0.00917  1.0000
+  S   S3        1.0  0.58400  0.47900  0.00917  1.0000
+  S   S4        1.0  0.33300  0.66700  0.03300  1.0000
+  S   S5        1.0  0.83400  0.09340  0.27300  1.0000
+  S   S6        1.0  0.90700  0.74100  0.27300  1.0000
+  S   S7        1.0  0.25900  0.16600  0.27300  1.0000
+  S   S8        1.0  0.10600  0.58400  0.50900  1.0000
+  S   S9        1.0  0.47900  0.89400  0.50900  1.0000
+  S   S10       1.0  0.41600  0.52100  0.50900  1.0000
+  S   S11       1.0  0.66700  0.33300  0.53300  1.0000
+  S   S12       1.0  0.09340  0.25900  0.77300  1.0000
+  S   S13       1.0  0.74100  0.83400  0.77300  1.0000
+  S   S14       1.0  0.16600  0.90700  0.77300  1.0000
+  Si  Si1       1.0  0.66700  0.33300  0.16100  1.0000
+  Si  Si2       1.0  0.33300  0.66700  0.66100  1.0000

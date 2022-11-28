@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca2TeWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60159100
+_cell_length_b   5.92196737
+_cell_length_c   6.02798019
+_cell_angle_alpha   69.14162203
+_cell_angle_beta   66.37150405
+_cell_angle_gamma   66.76548112
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2TeWO6
+_chemical_formula_sum   'Ca2 Te1 W1 O6'
+_cell_volume   163.62135675
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.68448500  0.69954100  0.91480200  1
+  Ca  Ca1  1  0.21426400  0.14093200  0.34845500  1
+  Te  Te2  1  0.45850300  0.42454300  0.66788400  1
+  W  W3  1  0.99945600  0.03233600  0.96049500  1
+  O  O4  1  0.93895100  0.30833400  0.08567000  1
+  O  O5  1  0.06760200  0.85192400  0.71755900  1
+  O  O6  1  0.66808400  0.96545100  0.13579500  1
+  O  O7  1  0.21771100  0.79629800  0.14874900  1
+  O  O8  1  0.84728100  0.34346100  0.66746600  1
+  O  O9  1  0.38727500  0.10345100  0.69257000  1

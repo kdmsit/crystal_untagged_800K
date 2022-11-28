@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ca2CoN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.40169304
+_cell_length_b   8.40169304
+_cell_length_c   8.40169304
+_cell_angle_alpha   120.41678037
+_cell_angle_beta   120.41678037
+_cell_angle_gamma   89.27961848
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2CoN2
+_chemical_formula_sum   'Ca8 Co4 N8'
+_cell_volume   416.68097381
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.20245900  0.99698900  0.50000000  1
+  Ca  Ca1  1  0.79754100  0.00301100  0.50000000  1
+  Ca  Ca2  1  0.70245900  0.20245900  0.20547000  1
+  Ca  Ca3  1  0.00301100  0.50301100  0.20547000  1
+  Ca  Ca4  1  0.50301100  0.29754100  0.50000000  1
+  Ca  Ca5  1  0.49698900  0.70245900  0.50000000  1
+  Ca  Ca6  1  0.29754100  0.79754100  0.79453000  1
+  Ca  Ca7  1  0.99698900  0.49698900  0.79453000  1
+  Co  Co8  1  0.85323300  0.64676700  0.50000000  1
+  Co  Co9  1  0.14676700  0.35323300  0.50000000  1
+  Co  Co10  1  0.64676700  0.14676700  0.79353400  1
+  Co  Co11  1  0.35323300  0.85323300  0.20646600  1
+  N  N12  1  0.20889400  0.70889400  0.20745400  1
+  N  N13  1  0.99856000  0.79110600  0.50000000  1
+  N  N14  1  0.79110600  0.29110600  0.79254600  1
+  N  N15  1  0.49856000  0.99856000  0.20745400  1
+  N  N16  1  0.50144000  0.00144000  0.79254600  1
+  N  N17  1  0.29110600  0.49856000  0.50000000  1
+  N  N18  1  0.00144000  0.20889400  0.50000000  1
+  N  N19  1  0.70889400  0.50144000  0.50000000  1

@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_LiBIr
+_symmetry_space_group_name_H-M  'Fddd'
+_cell_length_a       7.0012
+_cell_length_b       6.09445
+_cell_length_c       5.55612
+_cell_angle_alpha    73.7103
+_cell_angle_beta     56.6722
+_cell_angle_gamma    49.6175
+
+_symmetry_Int_Tables_number  70
+_chemical_formula_structural  LiBIr
+_chemical_formula_sum  Li4B4Ir4
+_cell_volume  149.82196014814278
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.19844  0.05156  0.69844  1
+ B  B2  1  0.55156  0.69844  0.05156  1
+ B  B3  1  0.80156  0.94844  0.30156  1
+ B  B4  1  0.44844  0.30156  0.94844  1
+ Ir  Ir1  1  0.50855  0.00855  0.74145  1
+ Ir  Ir2  1  0.24145  0.74145  0.00855  1
+ Ir  Ir3  1  0.49145  0.99145  0.25855  1
+ Ir  Ir4  1  0.75855  0.25855  0.99145  1
+ Li  Li1  1  0.50000  0.50000  0.50000  1
+ Li  Li2  1  0.00000  0.50000  0.50000  1
+ Li  Li3  1  0.00000  0.50000  -0.00000  1
+ Li  Li4  1  -0.00000  0.00000  0.50000  1

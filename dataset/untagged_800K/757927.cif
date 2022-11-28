@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_SrSi
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       4.05968
+_cell_length_b       4.81603
+_cell_length_c       6.15499
+_cell_angle_alpha    113.031
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  SrSi
+_chemical_formula_sum  Sr2Si2
+_cell_volume  110.74771241773122
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Si  Si1  1  0.25000  0.93442  0.86885  1
+ Si  Si2  1  0.75000  0.06558  0.13115  1
+ Sr  Sr1  1  0.25000  0.63943  0.27885  1
+ Sr  Sr2  1  0.75000  0.36057  0.72115  1

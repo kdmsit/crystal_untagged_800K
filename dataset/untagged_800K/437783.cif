@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Hg3K2Mg2
+_chemical_formula_sum              "Hg3 K2 Mg2"
+_cell_length_a       11.6253
+_cell_length_b       11.6253
+_cell_length_c       11.6253
+_cell_angle_alpha    24.7071
+_cell_angle_beta     24.7071
+_cell_angle_gamma    24.7071
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.35500  0.35500  0.35500  1.0000
+  Hg  Hg2       1.0  0.65100  0.65100  0.65100  1.0000
+  Hg  Hg3       1.0  0.85500  0.85500  0.85500  1.0000
+  K   K1        1.0  0.25100  0.25100  0.25100  1.0000
+  K   K2        1.0  0.75400  0.75400  0.75400  1.0000
+  Mg  Mg1       1.0  0.00101  0.00101  0.00101  1.0000
+  Mg  Mg2       1.0  0.50800  0.50800  0.50800  1.0000

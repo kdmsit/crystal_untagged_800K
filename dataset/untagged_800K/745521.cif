@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Cr2(NiB2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.17262470
+_cell_length_b   10.17262470
+_cell_length_c   2.94205700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   163.27680993
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2(NiB2)3
+_chemical_formula_sum   'Cr2 Ni3 B6'
+_cell_volume   87.60516165
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.00052600  0.99947400  0.00000000  1
+  Cr  Cr1  1  0.38411300  0.61588700  0.00000000  1
+  Ni  Ni2  1  0.61809200  0.38190800  0.00000000  1
+  Ni  Ni3  1  0.19457100  0.80542900  0.50000000  1
+  Ni  Ni4  1  0.80183600  0.19816400  0.50000000  1
+  B  B5  1  0.45790900  0.54209100  0.50000000  1
+  B  B6  1  0.54371500  0.45628500  0.50000000  1
+  B  B7  1  0.27531500  0.72468500  0.00000000  1
+  B  B8  1  0.72469000  0.27531000  0.00000000  1
+  B  B9  1  0.08909900  0.91090100  0.50000000  1
+  B  B10  1  0.91013400  0.08986600  0.50000000  1

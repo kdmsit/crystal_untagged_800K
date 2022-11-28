@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Be2Cd3Li2
+_chemical_formula_sum              "Be2 Cd3 Li2"
+_cell_length_a       7.28378
+_cell_length_b       7.28378
+_cell_length_c       7.28378
+_cell_angle_alpha    34.2422
+_cell_angle_beta     34.2422
+_cell_angle_gamma    34.2422
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.02160  0.02160  0.02160  1.0000
+  Be  Be2       1.0  0.51300  0.51300  0.51300  1.0000
+  Cd  Cd1       1.0  0.39000  0.39000  0.39000  1.0000
+  Cd  Cd2       1.0  0.63700  0.63700  0.63700  1.0000
+  Cd  Cd3       1.0  0.89400  0.89400  0.89400  1.0000
+  Li  Li1       1.0  0.15200  0.15200  0.15200  1.0000
+  Li  Li2       1.0  0.76800  0.76800  0.76800  1.0000

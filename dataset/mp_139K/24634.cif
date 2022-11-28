@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ti2CrIn3O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82231329
+_cell_length_b   5.82231329
+_cell_length_c   6.42585692
+_cell_angle_alpha   81.43048100
+_cell_angle_beta   81.43048100
+_cell_angle_gamma   120.10300568
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2CrIn3O6
+_chemical_formula_sum   'Ti2 Cr1 In3 O6'
+_cell_volume   179.86152797
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.16794400  0.83205600  0.50000000  1
+  Ti  Ti1  1  0.83205600  0.16794400  0.50000000  1
+  Cr  Cr2  1  0.50000000  0.50000000  0.50000000  1
+  In  In3  1  0.00000000  0.00000000  0.00000000  1
+  In  In4  1  0.33628700  0.66371300  0.00000000  1
+  In  In5  1  0.66371300  0.33628700  0.00000000  1
+  O  O6  1  0.72606300  0.06394900  0.81834100  1
+  O  O7  1  0.06394900  0.72606300  0.81834100  1
+  O  O8  1  0.38439700  0.38439700  0.83123000  1
+  O  O9  1  0.93605100  0.27393700  0.18165900  1
+  O  O10  1  0.27393700  0.93605100  0.18165900  1
+  O  O11  1  0.61560300  0.61560300  0.16877000  1

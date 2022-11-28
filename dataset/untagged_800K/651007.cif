@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Na4Eu2GeAs4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.61708843
+_cell_length_b   9.61708843
+_cell_length_c   7.35238859
+_cell_angle_alpha   89.66773291
+_cell_angle_beta   89.66773291
+_cell_angle_gamma   119.53001103
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4Eu2GeAs4
+_chemical_formula_sum   'Na8 Eu4 Ge2 As8'
+_cell_volume   591.63637100
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.47688800  0.95320300  0.37981500  1
+  Na  Na1  1  0.95320300  0.47688800  0.87981500  1
+  Na  Na2  1  0.85742400  0.71241500  0.19905000  1
+  Na  Na3  1  0.28921500  0.14083900  0.20456100  1
+  Na  Na4  1  0.85252300  0.14235900  0.20298400  1
+  Na  Na5  1  0.14083900  0.28921500  0.70456100  1
+  Na  Na6  1  0.71241500  0.85742400  0.69905000  1
+  Na  Na7  1  0.14235900  0.85252300  0.70298400  1
+  Eu  Eu8  1  0.04590300  0.52437900  0.37977200  1
+  Eu  Eu9  1  0.47881800  0.52582300  0.38001600  1
+  Eu  Eu10  1  0.52437900  0.04590300  0.87977200  1
+  Eu  Eu11  1  0.52582300  0.47881800  0.88001600  1
+  Ge  Ge12  1  0.66541000  0.33025100  0.50203500  1
+  Ge  Ge13  1  0.33025100  0.66541000  0.00203500  1
+  As  As14  1  0.66465900  0.33562500  0.15719600  1
+  As  As15  1  0.33562500  0.66465900  0.65719600  1
+  As  As16  1  0.19364200  0.38160100  0.10827200  1
+  As  As17  1  0.61787800  0.80750400  0.10052200  1
+  As  As18  1  0.19273000  0.81049900  0.10374200  1
+  As  As19  1  0.80750400  0.61787800  0.60052200  1
+  As  As20  1  0.38160100  0.19364200  0.60827200  1
+  As  As21  1  0.81049900  0.19273000  0.60374200  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TbAs2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02588606
+_cell_length_b   4.02588606
+_cell_length_c   20.62030900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.79997911
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbAs2Au
+_chemical_formula_sum   'Tb4 As8 Au4'
+_cell_volume   334.20695413
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.23481800  0.73481800  0.61612600  1
+  Tb  Tb1  1  0.76518200  0.26518200  0.38387400  1
+  Tb  Tb2  1  0.73481800  0.23481800  0.88387400  1
+  Tb  Tb3  1  0.26518200  0.76518200  0.11612600  1
+  As  As4  1  0.73681000  0.23681000  0.65266200  1
+  As  As5  1  0.26319000  0.76319000  0.34733800  1
+  As  As6  1  0.23681000  0.73681000  0.84733800  1
+  As  As7  1  0.76319000  0.26319000  0.15266200  1
+  As  As8  1  0.26878900  0.23121100  0.50000000  1
+  As  As9  1  0.23121100  0.26878900  0.00000000  1
+  As  As10  1  0.73121100  0.76878900  0.50000000  1
+  As  As11  1  0.76878900  0.73121100  0.00000000  1
+  Au  Au12  1  0.19681900  0.19681900  0.75000000  1
+  Au  Au13  1  0.30318100  0.30318100  0.25000000  1
+  Au  Au14  1  0.80318100  0.80318100  0.25000000  1
+  Au  Au15  1  0.69681900  0.69681900  0.75000000  1

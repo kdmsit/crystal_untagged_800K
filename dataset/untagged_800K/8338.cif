@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Fe2Na2S4
+_chemical_formula_sum              "Fe2 Na2 S4"
+_cell_length_a       5.31473
+_cell_length_b       6.78147
+_cell_length_c       7.07719
+_cell_angle_alpha    118.627
+_cell_angle_beta     112.054
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.00000  0.00000  0.00000  1.0000
+  Fe  Fe2       1.0  0.50000  0.00000  0.00000  1.0000
+  Na  Na1       1.0  0.70100  0.70100  0.40200  1.0000
+  Na  Na2       1.0  0.29900  0.29900  0.59800  1.0000
+  S   S1        1.0  0.86200  0.29500  0.22000  1.0000
+  S   S2        1.0  0.35800  0.92500  0.22000  1.0000
+  S   S3        1.0  0.13800  0.07520  0.78000  1.0000
+  S   S4        1.0  0.64200  0.70500  0.78000  1.0000

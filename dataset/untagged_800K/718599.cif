@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_MnRe(PbO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77049976
+_cell_length_b   5.77097775
+_cell_length_c   5.77101098
+_cell_angle_alpha   59.99812338
+_cell_angle_beta   59.99649371
+_cell_angle_gamma   59.99755164
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnRe(PbO3)2
+_chemical_formula_sum   'Mn1 Re1 Pb2 O6'
+_cell_volume   135.88578413
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.50000000  0.50000000  1
+  Re  Re1  1  0.00000000  0.00000000  0.00000000  1
+  Pb  Pb2  1  0.24996500  0.25001200  0.25000900  1
+  Pb  Pb3  1  0.75003500  0.74998800  0.74999100  1
+  O  O4  1  0.76360200  0.23641800  0.23641700  1
+  O  O5  1  0.76359200  0.23642400  0.76355900  1
+  O  O6  1  0.76360000  0.76356300  0.23641600  1
+  O  O7  1  0.23639800  0.76358200  0.76358300  1
+  O  O8  1  0.23640800  0.76357600  0.23644100  1
+  O  O9  1  0.23640000  0.23643700  0.76358400  1

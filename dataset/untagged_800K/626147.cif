@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NdCO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.82809600
+_cell_length_b   6.52059800
+_cell_length_c   10.69732500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdCO4
+_chemical_formula_sum   'Nd4 C4 O16'
+_cell_volume   336.77396785
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.75000000  0.31923700  0.39369700  1
+  Nd  Nd1  1  0.75000000  0.81923700  0.10630300  1
+  Nd  Nd2  1  0.25000000  0.68076300  0.60630300  1
+  Nd  Nd3  1  0.25000000  0.18076300  0.89369700  1
+  C  C4  1  0.75000000  0.27307500  0.10706200  1
+  C  C5  1  0.75000000  0.77307500  0.39293800  1
+  C  C6  1  0.25000000  0.72692500  0.89293800  1
+  C  C7  1  0.25000000  0.22692500  0.60706200  1
+  O  O8  1  0.75000000  0.73481100  0.63802600  1
+  O  O9  1  0.75000000  0.23481100  0.86197400  1
+  O  O10  1  0.25000000  0.26518900  0.36197400  1
+  O  O11  1  0.25000000  0.76518900  0.13802600  1
+  O  O12  1  0.75000000  0.45130500  0.16087000  1
+  O  O13  1  0.75000000  0.95130500  0.33913000  1
+  O  O14  1  0.25000000  0.54869500  0.83913000  1
+  O  O15  1  0.25000000  0.04869500  0.66087000  1
+  O  O16  1  0.52076300  0.17474900  0.08765500  1
+  O  O17  1  0.97923700  0.67474900  0.41234500  1
+  O  O18  1  0.02076300  0.82525100  0.91234500  1
+  O  O19  1  0.47923700  0.32525100  0.58765500  1
+  O  O20  1  0.47923700  0.82525100  0.91234500  1
+  O  O21  1  0.02076300  0.32525100  0.58765500  1
+  O  O22  1  0.97923700  0.17474900  0.08765500  1
+  O  O23  1  0.52076300  0.67474900  0.41234500  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Sm(Fe5Si)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.30085558
+_cell_length_b   6.37654671
+_cell_length_c   6.30372531
+_cell_angle_alpha   81.78064960
+_cell_angle_beta   49.48965725
+_cell_angle_gamma   48.72969315
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm(Fe5Si)2
+_chemical_formula_sum   'Sm1 Fe10 Si2'
+_cell_volume   165.16204805
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe1  1  0.99579800  0.35993500  0.64006500  1
+  Fe  Fe2  1  0.00420200  0.64006500  0.35993500  1
+  Fe  Fe3  1  0.35993500  0.99579800  0.00420200  1
+  Fe  Fe4  1  0.64006500  0.00420200  0.99579800  1
+  Fe  Fe5  1  0.00000000  0.50000000  0.00000000  1
+  Fe  Fe6  1  0.50000000  0.00000000  0.50000000  1
+  Fe  Fe7  1  0.50097200  0.27378400  0.72621600  1
+  Fe  Fe8  1  0.49902800  0.72621600  0.27378400  1
+  Fe  Fe9  1  0.27378400  0.50097200  0.49902800  1
+  Fe  Fe10  1  0.72621600  0.49902800  0.50097200  1
+  Si  Si11  1  0.50000000  0.50000000  0.00000000  1
+  Si  Si12  1  0.00000000  0.00000000  0.50000000  1

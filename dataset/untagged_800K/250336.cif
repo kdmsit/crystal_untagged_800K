@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       I4Ta6
+_chemical_formula_sum              "I4 Ta6"
+_cell_length_a       7.12421
+_cell_length_b       7.12421
+_cell_length_c       6.72034
+_cell_angle_alpha    122.009
+_cell_angle_beta     57.9912
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.59900  0.40100  0.20400  1.0000
+  I   I2        1.0  0.90100  0.09860  0.29600  1.0000
+  I   I3        1.0  0.09860  0.90100  0.70400  1.0000
+  I   I4        1.0  0.40100  0.59900  0.79600  1.0000
+  Ta  Ta1       1.0  0.47300  0.75000  0.25000  1.0000
+  Ta  Ta2       1.0  0.02720  0.52700  0.25000  1.0000
+  Ta  Ta3       1.0  0.25000  0.97300  0.25000  1.0000
+  Ta  Ta4       1.0  0.75000  0.02720  0.75000  1.0000
+  Ta  Ta5       1.0  0.97300  0.47300  0.75000  1.0000
+  Ta  Ta6       1.0  0.52700  0.25000  0.75000  1.0000

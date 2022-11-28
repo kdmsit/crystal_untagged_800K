@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiAlCr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95993949
+_cell_length_b   4.98171569
+_cell_length_c   8.26897400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.14388398
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAlCr
+_chemical_formula_sum   'Ti4 Al4 Cr4'
+_cell_volume   176.68760190
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.66987500  0.33489200  0.55734200  1
+  Ti  Ti1  1  0.34266600  0.67136800  0.42864700  1
+  Ti  Ti2  1  0.34266600  0.67136800  0.07135300  1
+  Ti  Ti3  1  0.66987500  0.33489200  0.94265800  1
+  Al  Al4  1  0.98510100  0.99262400  0.49255500  1
+  Al  Al5  1  0.98510100  0.99262400  0.00744500  1
+  Al  Al6  1  0.17488800  0.34250700  0.75000000  1
+  Al  Al7  1  0.17480600  0.83234600  0.75000000  1
+  Cr  Cr8  1  0.66443100  0.83232300  0.75000000  1
+  Cr  Cr9  1  0.81960400  0.63974400  0.25000000  1
+  Cr  Cr10  1  0.81934000  0.17965800  0.25000000  1
+  Cr  Cr11  1  0.35164800  0.17565500  0.25000000  1

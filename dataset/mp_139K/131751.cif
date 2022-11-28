@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_InCuS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92421226
+_cell_length_b   3.92496100
+_cell_length_c   6.51025206
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.01475606
+_cell_angle_gamma   59.99367973
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InCuS2
+_chemical_formula_sum   'In1 Cu1 S2'
+_cell_volume   86.83375648
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.33327200  0.33336400  0.97253900  1
+  Cu  Cu1  1  0.66658000  0.66671000  0.52012500  1
+  S  S2  1  0.66669400  0.66665300  0.15685900  1
+  S  S3  1  0.33345300  0.33327400  0.60047600  1

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Fe2I2N6O6
+_chemical_formula_sum              "Fe2 I2 N6 O6"
+_cell_length_a       7.25982
+_cell_length_b       7.25926
+_cell_length_c       6.1919
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.003
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.66700  0.33300  0.04480  1.0000
+  Fe  Fe2       1.0  0.33300  0.66700  0.54500  1.0000
+  I   I1        1.0  0.33300  0.66700  0.12900  1.0000
+  I   I2        1.0  0.66700  0.33300  0.62900  1.0000
+  N   N1        1.0  0.40700  0.20400  0.13000  1.0000
+  N   N2        1.0  0.79600  0.20400  0.13000  1.0000
+  N   N3        1.0  0.79600  0.59300  0.13000  1.0000
+  N   N4        1.0  0.20400  0.79600  0.63000  1.0000
+  N   N5        1.0  0.59300  0.79600  0.63000  1.0000
+  N   N6        1.0  0.20400  0.40700  0.63000  1.0000
+  O   O1        1.0  0.87400  0.74800  0.23400  1.0000
+  O   O2        1.0  0.25200  0.12600  0.23400  1.0000
+  O   O3        1.0  0.87400  0.12600  0.23400  1.0000
+  O   O4        1.0  0.12600  0.25200  0.73400  1.0000
+  O   O5        1.0  0.12600  0.87400  0.73400  1.0000
+  O   O6        1.0  0.74800  0.87400  0.73400  1.0000

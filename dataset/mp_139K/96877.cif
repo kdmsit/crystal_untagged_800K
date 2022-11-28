@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KNa(BiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.92526487
+_cell_length_b   5.94643321
+_cell_length_c   8.38192932
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNa(BiO3)2
+_chemical_formula_sum   'K2 Na2 Bi4 O12'
+_cell_volume   295.33050532
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.49442156  0.78005596  -0.00000000  1
+  K  K1  1  0.99442156  0.21994404  0.50000000  1
+  Na  Na2  1  0.51013997  0.70571015  0.50000000  1
+  Na  Na3  1  0.01013997  0.29428985  -0.00000000  1
+  Bi  Bi4  1  0.00032018  0.75168197  0.25053835  1
+  Bi  Bi5  1  0.50032018  0.24831803  0.24946165  1
+  Bi  Bi6  1  0.00032018  0.75168197  0.74946165  1
+  Bi  Bi7  1  0.50032018  0.24831803  0.75053835  1
+  O  O8  1  0.43041625  0.28572134  0.50000000  1
+  O  O9  1  0.93041625  0.71427866  -0.00000000  1
+  O  O10  1  0.60119165  0.24177955  -0.00000000  1
+  O  O11  1  0.10119165  0.75822045  0.50000000  1
+  O  O12  1  0.19681981  0.05023194  0.20096295  1
+  O  O13  1  0.69681981  0.94976806  0.29903705  1
+  O  O14  1  0.78477529  0.46795112  0.70881797  1
+  O  O15  1  0.28477529  0.53204888  0.79118203  1
+  O  O16  1  0.78477529  0.46795112  0.29118203  1
+  O  O17  1  0.28477529  0.53204888  0.20881797  1
+  O  O18  1  0.19681981  0.05023194  0.79903705  1
+  O  O19  1  0.69681981  0.94976806  0.70096295  1

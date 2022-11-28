@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ge4Ho4InNi2
+_chemical_formula_sum              "Ge4 Ho4 In1 Ni2"
+_cell_length_a       4.22537
+_cell_length_b       7.03059
+_cell_length_c       8.01103
+_cell_angle_alpha    107.943
+_cell_angle_beta     105.291
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.06550  0.66300  0.13100  1.0000
+  Ge  Ge2       1.0  0.20300  0.27000  0.40600  1.0000
+  Ge  Ge3       1.0  0.79700  0.73000  0.59400  1.0000
+  Ge  Ge4       1.0  0.93500  0.33700  0.86900  1.0000
+  Ho  Ho1       1.0  0.59200  0.39100  0.18300  1.0000
+  Ho  Ho2       1.0  0.65600  0.93700  0.31100  1.0000
+  Ho  Ho3       1.0  0.34400  0.06280  0.68900  1.0000
+  Ho  Ho4       1.0  0.40800  0.60900  0.81700  1.0000
+  In  In1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni1       1.0  0.21700  0.64300  0.43400  1.0000
+  Ni  Ni2       1.0  0.78300  0.35700  0.56600  1.0000

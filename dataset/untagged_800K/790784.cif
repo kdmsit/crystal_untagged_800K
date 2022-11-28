@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_ErCoSn2
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       4.37081
+_cell_length_b       4.28435
+_cell_length_c       9.61907
+_cell_angle_alpha    102.868
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  ErCoSn2
+_chemical_formula_sum  Er2Co2Sn4
+_cell_volume  175.60413008732374
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.75000  0.32327  0.64655  1
+ Co  Co2  1  0.25000  0.67673  0.35345  1
+ Er  Er1  1  0.25000  0.88260  0.76520  1
+ Er  Er2  1  0.75000  0.11740  0.23480  1
+ Sn  Sn1  1  0.25000  0.25116  0.50232  1
+ Sn  Sn2  1  0.75000  0.74884  0.49768  1
+ Sn  Sn3  1  0.75000  0.45210  0.90421  1
+ Sn  Sn4  1  0.25000  0.54790  0.09579  1

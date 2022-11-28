@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ti(Mo3Se4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.66988613
+_cell_length_b   6.66988613
+_cell_length_c   6.66988569
+_cell_angle_alpha   90.94010123
+_cell_angle_beta   90.94010123
+_cell_angle_gamma   90.94010261
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti(Mo3Se4)2
+_chemical_formula_sum   'Ti1 Mo6 Se8'
+_cell_volume   296.60459570
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo1  1  0.44784300  0.77325200  0.57829200  1
+  Mo  Mo2  1  0.55215700  0.22674800  0.42170800  1
+  Mo  Mo3  1  0.77325200  0.57829200  0.44784300  1
+  Mo  Mo4  1  0.22674800  0.42170800  0.55215700  1
+  Mo  Mo5  1  0.57829200  0.44784300  0.77325200  1
+  Mo  Mo6  1  0.42170800  0.55215700  0.22674800  1
+  Se  Se7  1  0.63948000  0.87466200  0.24185600  1
+  Se  Se8  1  0.36052000  0.12533800  0.75814400  1
+  Se  Se9  1  0.77760100  0.77760100  0.77760100  1
+  Se  Se10  1  0.22239900  0.22239900  0.22239900  1
+  Se  Se11  1  0.24185600  0.63948000  0.87466200  1
+  Se  Se12  1  0.75814400  0.36052000  0.12533800  1
+  Se  Se13  1  0.87466200  0.24185600  0.63948000  1
+  Se  Se14  1  0.12533800  0.75814400  0.36052000  1

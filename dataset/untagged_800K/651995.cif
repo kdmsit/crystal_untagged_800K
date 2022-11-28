@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Sr(FeN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.42492802
+_cell_length_b   3.42495381
+_cell_length_c   6.20520203
+_cell_angle_alpha   90.00258091
+_cell_angle_beta   89.98988433
+_cell_angle_gamma   119.99523227
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(FeN)2
+_chemical_formula_sum   'Sr1 Fe2 N2'
+_cell_volume   63.03961896
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000300  0.00000100  0.50001800  1
+  Fe  Fe1  1  0.66657400  0.33332600  0.11062200  1
+  Fe  Fe2  1  0.33342500  0.66667200  0.88935600  1
+  N  N3  1  0.66664200  0.33333900  0.79840400  1
+  N  N4  1  0.33335600  0.66666200  0.20160000  1

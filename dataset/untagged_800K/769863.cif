@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_Li3Y
+_symmetry_space_group_name_H-M  'P6_3/mmc'
+_cell_length_a       6.50513
+_cell_length_b       6.50513
+_cell_length_c       5.00442
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  194
+_chemical_formula_structural  Li3Y
+_chemical_formula_sum  Li6Y2
+_cell_volume  183.39881195437067
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.15229  0.30457  0.25000  1
+ Li  Li2  1  0.69543  0.84771  0.25000  1
+ Li  Li3  1  0.15229  0.84771  0.25000  1
+ Li  Li4  1  0.84771  0.69543  0.75000  1
+ Li  Li5  1  0.30457  0.15229  0.75000  1
+ Li  Li6  1  0.84771  0.15229  0.75000  1
+ Y  Y1  1  0.33333  0.66667  0.75000  1
+ Y  Y2  1  0.66667  0.33333  0.25000  1

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cd4O2Te2
+_chemical_formula_sum              "Cd4 O2 Te2"
+_cell_length_a       3.59965
+_cell_length_b       5.90799
+_cell_length_c       7.75901
+_cell_angle_alpha    90
+_cell_angle_beta     76.5871
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.44900  0.75000  0.10200  1.0000
+  Cd  Cd2       1.0  0.87200  0.25000  0.25600  1.0000
+  Cd  Cd3       1.0  0.12800  0.75000  0.74400  1.0000
+  Cd  Cd4       1.0  0.55100  0.25000  0.89800  1.0000
+  O   O1        1.0  0.00000  0.00000  0.00000  1.0000
+  O   O2        1.0  0.00000  0.50000  0.00000  1.0000
+  Te  Te1       1.0  0.79100  0.75000  0.41700  1.0000
+  Te  Te2       1.0  0.20900  0.25000  0.58300  1.0000

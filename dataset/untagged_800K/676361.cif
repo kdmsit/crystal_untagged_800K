@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CaNdCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57102574
+_cell_length_b   6.57102574
+_cell_length_c   5.59375625
+_cell_angle_alpha   89.76219295
+_cell_angle_beta   89.76219295
+_cell_angle_gamma   49.13602836
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaNdCrO4
+_chemical_formula_sum   'Ca2 Nd2 Cr2 O8'
+_cell_volume   182.65828302
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.85728800  0.85728800  0.51433900  1
+  Ca  Ca1  1  0.14271200  0.14271200  0.48566100  1
+  Nd  Nd2  1  0.64155400  0.64155400  0.02062600  1
+  Nd  Nd3  1  0.35844600  0.35844600  0.97937400  1
+  Cr  Cr4  1  0.50000000  0.50000000  0.50000000  1
+  Cr  Cr5  1  0.00000000  0.00000000  0.00000000  1
+  O  O6  1  0.66992300  0.66992300  0.43476300  1
+  O  O7  1  0.33007700  0.33007700  0.56523700  1
+  O  O8  1  0.82998700  0.82998700  0.94078200  1
+  O  O9  1  0.17001300  0.17001300  0.05921800  1
+  O  O10  1  0.72400500  0.23358000  0.24430600  1
+  O  O11  1  0.76642000  0.27599500  0.75569400  1
+  O  O12  1  0.27599500  0.76642000  0.75569400  1
+  O  O13  1  0.23358000  0.72400500  0.24430600  1

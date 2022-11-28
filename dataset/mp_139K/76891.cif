@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Y3MnAu5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.86042948
+_cell_length_b   7.86042948
+_cell_length_c   7.86042939
+_cell_angle_alpha   66.13222266
+_cell_angle_beta   66.13222266
+_cell_angle_gamma   66.13221424
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y3MnAu5
+_chemical_formula_sum   'Y6 Mn2 Au10'
+_cell_volume   388.93545435
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.89072300  0.19171700  0.62093400  1
+  Y  Y1  1  0.62093400  0.89072300  0.19171700  1
+  Y  Y2  1  0.19171700  0.62093400  0.89072300  1
+  Y  Y3  1  0.10927700  0.80828300  0.37906600  1
+  Y  Y4  1  0.37906600  0.10927700  0.80828300  1
+  Y  Y5  1  0.80828300  0.37906600  0.10927700  1
+  Mn  Mn6  1  0.65475500  0.65475500  0.65475500  1
+  Mn  Mn7  1  0.34524500  0.34524500  0.34524500  1
+  Au  Au8  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au9  1  0.50000000  0.50000000  0.50000000  1
+  Au  Au10  1  0.80210500  0.80210500  0.80210500  1
+  Au  Au11  1  0.19789500  0.19789500  0.19789500  1
+  Au  Au12  1  0.94142200  0.55201500  0.31717900  1
+  Au  Au13  1  0.31717900  0.94142200  0.55201500  1
+  Au  Au14  1  0.55201500  0.31717900  0.94142200  1
+  Au  Au15  1  0.05857800  0.44798500  0.68282100  1
+  Au  Au16  1  0.68282100  0.05857800  0.44798500  1
+  Au  Au17  1  0.44798500  0.68282100  0.05857800  1

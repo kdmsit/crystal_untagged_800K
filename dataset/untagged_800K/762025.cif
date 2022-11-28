@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_CuS2
+_symmetry_space_group_name_H-M  'Pa-3'
+_cell_length_a       5.82526
+_cell_length_b       5.82507
+_cell_length_c       5.82575
+_cell_angle_alpha    90
+_cell_angle_beta     89.9967
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  205
+_chemical_formula_structural  CuS2
+_chemical_formula_sum  Cu4S8
+_cell_volume  197.68243850011245
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.00000  0.50000  0.50000  1
+ Cu  Cu2  1  0.00000  0.00000  0.00000  1
+ Cu  Cu3  1  0.50000  0.50000  0.00000  1
+ Cu  Cu4  1  0.50000  0.00000  0.50000  1
+ S  S1  1  0.10087  0.60088  0.89913  1
+ S  S2  1  0.89913  0.39912  0.10087  1
+ S  S3  1  0.39913  0.10088  0.89914  1
+ S  S4  1  0.89913  0.10088  0.60087  1
+ S  S5  1  0.60087  0.60088  0.60086  1
+ S  S6  1  0.39913  0.39912  0.39914  1
+ S  S7  1  0.10087  0.89912  0.39913  1
+ S  S8  1  0.60087  0.89912  0.10086  1

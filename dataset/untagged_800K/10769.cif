@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       B4Rh5Sr2
+_chemical_formula_sum              "B4 Rh5 Sr2"
+_cell_length_a       5.57261
+_cell_length_b       5.78204
+_cell_length_c       6.30851
+_cell_angle_alpha    102.289
+_cell_angle_beta     116.211
+_cell_angle_gamma    61.1911
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.46400  0.32900  0.25700  1.0000
+  B   B2        1.0  0.79300  0.67100  0.25700  1.0000
+  B   B3        1.0  0.20700  0.32900  0.74300  1.0000
+  B   B4        1.0  0.53600  0.67100  0.74300  1.0000
+  Rh  Rh1       1.0  0.50000  0.00000  0.00000  1.0000
+  Rh  Rh2       1.0  0.00000  0.50000  0.00000  1.0000
+  Rh  Rh3       1.0  0.50000  0.50000  0.00000  1.0000
+  Rh  Rh4       1.0  0.25000  0.50000  0.50000  1.0000
+  Rh  Rh5       1.0  0.75000  0.50000  0.50000  1.0000
+  Sr  Sr1       1.0  0.14400  0.00000  0.28800  1.0000
+  Sr  Sr2       1.0  0.85600  0.00000  0.71200  1.0000

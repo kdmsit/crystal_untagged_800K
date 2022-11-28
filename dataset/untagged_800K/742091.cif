@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_SiPb7(ClO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.81248359
+_cell_length_b   11.81248359
+_cell_length_c   5.71698400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   151.98683683
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiPb7(ClO4)2
+_chemical_formula_sum   'Si1 Pb7 Cl2 O8'
+_cell_volume   374.66774072
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.14389900  0.85610100  0.50000000  1
+  Pb  Pb1  1  0.91002200  0.08997800  0.00000000  1
+  Pb  Pb2  1  0.40958600  0.59041400  0.50000000  1
+  Pb  Pb3  1  0.58331600  0.41668400  0.50000000  1
+  Pb  Pb4  1  0.08331900  0.91668100  0.00000000  1
+  Pb  Pb5  1  0.68998300  0.31001700  0.00000000  1
+  Pb  Pb6  1  0.30491800  0.69508200  0.00000000  1
+  Pb  Pb7  1  0.80479300  0.19520700  0.50000000  1
+  Cl  Cl8  1  0.52800600  0.47199400  0.00000000  1
+  Cl  Cl9  1  0.03239400  0.96760600  0.50000000  1
+  O  O10  1  0.60629900  0.89475600  0.75022800  1
+  O  O11  1  0.10524400  0.39370100  0.24977200  1
+  O  O12  1  0.10524400  0.39370100  0.75022800  1
+  O  O13  1  0.60629900  0.89475600  0.24977200  1
+  O  O14  1  0.93139900  0.63805900  0.71538200  1
+  O  O15  1  0.36194100  0.06860100  0.28461800  1
+  O  O16  1  0.36194100  0.06860100  0.71538200  1
+  O  O17  1  0.93139900  0.63805900  0.28461800  1

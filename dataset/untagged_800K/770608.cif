@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_SiNi
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.37198
+_cell_length_b       5.20939
+_cell_length_c       5.6635
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  SiNi
+_chemical_formula_sum  Si4Ni4
+_cell_volume  99.48492296135747
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ni  Ni1  1  0.25000  0.50677  0.69032  1
+ Ni  Ni2  1  0.75000  0.49323  0.30968  1
+ Ni  Ni3  1  0.25000  0.00677  0.80968  1
+ Ni  Ni4  1  0.75000  0.99323  0.19032  1
+ Si  Si1  1  0.75000  0.81790  0.58295  1
+ Si  Si2  1  0.25000  0.18210  0.41705  1
+ Si  Si3  1  0.75000  0.31790  0.91705  1
+ Si  Si4  1  0.25000  0.68210  0.08295  1

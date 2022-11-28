@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Bi4Fe6
+_chemical_formula_sum              "Bi4 Fe6"
+_cell_length_a       6.61974
+_cell_length_b       6.61974
+_cell_length_c       6.69757
+_cell_angle_alpha    119.616
+_cell_angle_beta     60.3837
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.60300  0.39700  0.19200  1.0000
+  Bi  Bi2       1.0  0.89700  0.10300  0.30800  1.0000
+  Bi  Bi3       1.0  0.10300  0.89700  0.69200  1.0000
+  Bi  Bi4       1.0  0.39700  0.60300  0.80800  1.0000
+  Fe  Fe1       1.0  0.45700  0.75000  0.25000  1.0000
+  Fe  Fe2       1.0  0.04330  0.54300  0.25000  1.0000
+  Fe  Fe3       1.0  0.25000  0.95700  0.25000  1.0000
+  Fe  Fe4       1.0  0.95700  0.45700  0.75000  1.0000
+  Fe  Fe5       1.0  0.54300  0.25000  0.75000  1.0000
+  Fe  Fe6       1.0  0.75000  0.04330  0.75000  1.0000

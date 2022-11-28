@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LaZnFeNiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46406100
+_cell_length_b   5.30349500
+_cell_length_c   9.29999798
+_cell_angle_alpha   55.42829954
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaZnFeNiO6
+_chemical_formula_sum   'La2 Zn2 Fe2 Ni2 O12'
+_cell_volume   221.91172427
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.21825300  0.74179700  0.24978600  1
+  La  La1  1  0.78174700  0.74179700  0.74978600  1
+  Zn  Zn2  1  0.71094700  0.27571700  0.24830800  1
+  Zn  Zn3  1  0.28905300  0.27571700  0.74830800  1
+  Fe  Fe4  1  0.74561200  0.00047300  0.00149700  1
+  Fe  Fe5  1  0.25438800  0.00047300  0.50149700  1
+  Ni  Ni6  1  0.74975000  0.50111500  0.49929700  1
+  Ni  Ni7  1  0.25025000  0.50111500  0.99929700  1
+  O  O8  1  0.23172500  0.88826900  0.74582600  1
+  O  O9  1  0.04530800  0.25138900  0.94190300  1
+  O  O10  1  0.05014600  0.64137800  0.55644400  1
+  O  O11  1  0.94985400  0.64137800  0.05644400  1
+  O  O12  1  0.95469200  0.25138900  0.44190300  1
+  O  O13  1  0.76827500  0.88826900  0.24582600  1
+  O  O14  1  0.70840200  0.17433500  0.75361700  1
+  O  O15  1  0.50992400  0.70768800  0.55654300  1
+  O  O16  1  0.51160200  0.31783800  0.94677800  1
+  O  O17  1  0.48839800  0.31783800  0.44677800  1
+  O  O18  1  0.49007600  0.70768800  0.05654300  1
+  O  O19  1  0.29159800  0.17433500  0.25361700  1

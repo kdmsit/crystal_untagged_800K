@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Sr2FeBiPbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.24289222
+_cell_length_b   12.24289222
+_cell_length_c   12.24289222
+_cell_angle_alpha   162.15520204
+_cell_angle_beta   162.15520204
+_cell_angle_gamma   25.34050911
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2FeBiPbO6
+_chemical_formula_sum   'Sr2 Fe1 Bi1 Pb1 O6'
+_cell_volume   172.27015564
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.08100100  0.08100100  0.00000000  1
+  Sr  Sr1  1  0.92348500  0.92348500  0.00000000  1
+  Fe  Fe2  1  0.50748600  0.50748600  0.00000000  1
+  Bi  Bi3  1  0.30831000  0.30831000  0.00000000  1
+  Pb  Pb4  1  0.69150300  0.69150300  0.00000000  1
+  O  O5  1  0.19079700  0.19079700  0.00000000  1
+  O  O6  1  0.81261200  0.81261200  0.00000000  1
+  O  O7  1  0.59228600  0.59228600  0.00000000  1
+  O  O8  1  0.39667200  0.39667200  0.00000000  1
+  O  O9  1  0.99792400  0.49792400  0.50000000  1
+  O  O10  1  0.49792400  0.99792400  0.50000000  1

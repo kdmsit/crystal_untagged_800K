@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Ba6N6ORe2
+_chemical_formula_sum              "Ba6 N6 O1 Re2"
+_cell_length_a       7.48009
+_cell_length_b       7.48009
+_cell_length_c       7.48009
+_cell_angle_alpha    65.9441
+_cell_angle_beta     114.056
+_cell_angle_gamma    114.056
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.66500  0.73800  0.18200  1.0000
+  Ba  Ba2       1.0  0.18200  0.66500  0.26200  1.0000
+  Ba  Ba3       1.0  0.26200  0.18200  0.33500  1.0000
+  Ba  Ba4       1.0  0.73800  0.81800  0.66500  1.0000
+  Ba  Ba5       1.0  0.81800  0.33500  0.73800  1.0000
+  Ba  Ba6       1.0  0.33500  0.26200  0.81800  1.0000
+  N   N1        1.0  0.75800  0.48200  0.03220  1.0000
+  N   N2        1.0  0.51800  0.03220  0.24200  1.0000
+  N   N3        1.0  0.96800  0.24200  0.48200  1.0000
+  N   N4        1.0  0.03230  0.75800  0.51800  1.0000
+  N   N5        1.0  0.48200  0.96800  0.75800  1.0000
+  N   N6        1.0  0.24200  0.51800  0.96800  1.0000
+  O   O1        1.0  0.50000  0.50000  0.50000  1.0000
+  Re  Re1       1.0  0.75000  0.25000  0.25000  1.0000
+  Re  Re2       1.0  0.25000  0.75000  0.75000  1.0000

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ba3SiF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.76907940
+_cell_length_b   8.29591744
+_cell_length_c   9.07432174
+_cell_angle_alpha   117.20074889
+_cell_angle_beta   112.63574624
+_cell_angle_gamma   32.65158307
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3SiF12
+_chemical_formula_sum   'Ba3 Si1 F12'
+_cell_volume   280.65007891
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.00000000  0.00000000  1
+  Ba  Ba1  1  0.00000000  0.50000000  0.50000000  1
+  Ba  Ba2  1  0.00000000  0.00000000  0.50000000  1
+  Si  Si3  1  0.00000000  0.00000000  0.00000000  1
+  F  F4  1  0.76193500  0.49559300  0.78376100  1
+  F  F5  1  0.23806500  0.50440700  0.21623900  1
+  F  F6  1  0.64889200  0.05899400  0.58027900  1
+  F  F7  1  0.23806500  0.28816800  0.78376100  1
+  F  F8  1  0.35110800  0.94100600  0.41972100  1
+  F  F9  1  0.76193500  0.71183200  0.21623900  1
+  F  F10  1  0.08662300  0.99348700  0.86031600  1
+  F  F11  1  0.35110800  0.52128500  0.58027900  1
+  F  F12  1  0.91337700  0.00651300  0.13968400  1
+  F  F13  1  0.64889200  0.47871500  0.41972100  1
+  F  F14  1  0.91337700  0.86682900  0.86031600  1
+  F  F15  1  0.08662300  0.13317100  0.13968400  1

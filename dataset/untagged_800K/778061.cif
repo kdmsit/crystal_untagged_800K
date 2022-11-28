@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_Ag2Te
+_symmetry_space_group_name_H-M  'Cmce'
+_cell_length_a       4.50557
+_cell_length_b       4.50556
+_cell_length_c       9.17178
+_cell_angle_alpha    108.13
+_cell_angle_beta     108.13
+_cell_angle_gamma    111.503
+
+_symmetry_Int_Tables_number  64
+_chemical_formula_structural  Ag2Te
+_chemical_formula_sum  Ag4Te2
+_cell_volume  144.33979462218952
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.49680  0.21451  0.85566  1
+ Ag  Ag2  1  0.21451  0.49680  0.35566  1
+ Ag  Ag3  1  0.78549  0.50320  0.64434  1
+ Ag  Ag4  1  0.50320  0.78549  0.14434  1
+ Te  Te1  1  0.00000  -0.00000  0.50000  1
+ Te  Te2  1  0.00000  0.00000  0.00000  1

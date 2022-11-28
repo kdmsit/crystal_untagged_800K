@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Ir2Na2O12Sr6
+_chemical_formula_sum              "Ir2 Na2 O12 Sr6"
+_cell_length_a       6.75254
+_cell_length_b       6.75254
+_cell_length_c       6.75254
+_cell_angle_alpha    90.8212
+_cell_angle_beta     90.8212
+_cell_angle_gamma    90.8212
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ir  Ir2       1.0  0.50000  0.50000  0.50000  1.0000
+  Na  Na1       1.0  0.25000  0.25000  0.25000  1.0000
+  Na  Na2       1.0  0.75000  0.75000  0.75000  1.0000
+  O   O1        1.0  0.71900  0.92200  0.05550  1.0000
+  O   O2        1.0  0.94400  0.28100  0.07840  1.0000
+  O   O3        1.0  0.55600  0.42200  0.21900  1.0000
+  O   O4        1.0  0.07840  0.94400  0.28100  1.0000
+  O   O5        1.0  0.21900  0.55600  0.42200  1.0000
+  O   O6        1.0  0.57800  0.78100  0.44400  1.0000
+  O   O7        1.0  0.42200  0.21900  0.55600  1.0000
+  O   O8        1.0  0.78100  0.44400  0.57800  1.0000
+  O   O9        1.0  0.92200  0.05550  0.71900  1.0000
+  O   O10       1.0  0.44400  0.57800  0.78100  1.0000
+  O   O11       1.0  0.05550  0.71900  0.92200  1.0000
+  O   O12       1.0  0.28100  0.07840  0.94400  1.0000
+  Sr  Sr1       1.0  0.39100  0.75000  0.10900  1.0000
+  Sr  Sr2       1.0  0.89100  0.60900  0.25000  1.0000
+  Sr  Sr3       1.0  0.75000  0.10900  0.39100  1.0000
+  Sr  Sr4       1.0  0.25000  0.89100  0.60900  1.0000
+  Sr  Sr5       1.0  0.10900  0.39100  0.75000  1.0000
+  Sr  Sr6       1.0  0.60900  0.25000  0.89100  1.0000

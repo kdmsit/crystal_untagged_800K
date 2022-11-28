@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_HgTe
+_symmetry_space_group_name_H-M  'Fm-3m'
+_cell_length_a       4.33995
+_cell_length_b       4.33995
+_cell_length_c       6.13515
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90.0431
+
+_symmetry_Int_Tables_number  225
+_chemical_formula_structural  HgTe
+_chemical_formula_sum  Hg2Te2
+_cell_volume  115.5566301702843
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Hg  Hg1  1  0.25015  0.74985  0.25000  1
+ Hg  Hg2  1  0.74985  0.25015  0.75000  1
+ Te  Te1  1  0.75013  0.24987  0.25000  1
+ Te  Te2  1  0.24987  0.75013  0.75000  1

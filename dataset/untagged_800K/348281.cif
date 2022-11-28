@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FeO4Se
+_chemical_formula_sum              "Fe1 O4 Se1"
+_cell_length_a       3.50063
+_cell_length_b       5.12665
+_cell_length_c       4.69394
+_cell_angle_alpha    74.343
+_cell_angle_beta     85.1758
+_cell_angle_gamma    85.0706
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.41700  0.97200  0.84800  1.0000
+  O   O1        1.0  0.44000  0.59900  0.08860  1.0000
+  O   O2        1.0  0.44500  0.87100  0.47600  1.0000
+  O   O3        1.0  0.35000  0.34900  0.65000  1.0000
+  O   O4        1.0  0.90200  0.99900  0.93400  1.0000
+  Se  Se1       1.0  0.66200  0.57100  0.41700  1.0000

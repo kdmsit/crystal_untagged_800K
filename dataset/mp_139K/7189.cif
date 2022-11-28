@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Yb4(FeB2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53192511
+_cell_length_b   5.53192511
+_cell_length_c   8.02590192
+_cell_angle_alpha   69.84082094
+_cell_angle_beta   69.84082094
+_cell_angle_gamma   59.99998670
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb4(FeB2)3
+_chemical_formula_sum   'Yb4 Fe3 B6'
+_cell_volume   195.13733827
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.23714700  0.23714700  0.28855800  1
+  Yb  Yb1  1  0.76285300  0.76285300  0.71144200  1
+  Yb  Yb2  1  0.42558700  0.42558700  0.72323900  1
+  Yb  Yb3  1  0.57441300  0.57441300  0.27676100  1
+  Fe  Fe4  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe5  1  0.10582300  0.10582300  0.68253100  1
+  Fe  Fe6  1  0.89417700  0.89417700  0.31746900  1
+  B  B7  1  0.64607200  0.35392800  0.00000000  1
+  B  B8  1  0.35392800  0.00000000  0.00000000  1
+  B  B9  1  0.00000000  0.64607200  0.00000000  1
+  B  B10  1  0.64607200  0.00000000  0.00000000  1
+  B  B11  1  0.00000000  0.35392800  0.00000000  1
+  B  B12  1  0.35392800  0.64607200  0.00000000  1

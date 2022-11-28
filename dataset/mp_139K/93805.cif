@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Co2AgN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.84322187
+_cell_length_b   2.84322234
+_cell_length_c   26.00388255
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000600
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2AgN3
+_chemical_formula_sum   'Co6 Ag3 N9'
+_cell_volume   182.04987113
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.34097946  0.02875113  0.11660935  1
+  Co  Co1  1  0.68777167  0.65902054  0.78327535  1
+  Co  Co2  1  0.97124887  0.31222833  0.44994235  1
+  Co  Co3  1  0.65902054  0.68777167  0.21672465  1
+  Co  Co4  1  0.02875113  0.34097946  0.88339065  1
+  Co  Co5  1  0.31222833  0.97124887  0.55005765  1
+  Ag  Ag6  1  0.00000000  0.32809684  0.66666700  1
+  Ag  Ag7  1  0.32809684  1.00000000  0.33333300  1
+  Ag  Ag8  1  0.67190316  0.67190316  -0.00000000  1
+  N  N9  1  0.00000000  0.27866145  0.16666700  1
+  N  N10  1  0.27866145  0.00000000  0.83333300  1
+  N  N11  1  0.72133855  0.72133855  0.50000000  1
+  N  N12  1  0.32096779  0.99255604  0.41647771  1
+  N  N13  1  0.67158825  0.67903221  0.08314371  1
+  N  N14  1  0.00744396  0.32841175  0.74981071  1
+  N  N15  1  0.67903221  0.67158825  0.91685629  1
+  N  N16  1  0.99255604  0.32096779  0.58352229  1
+  N  N17  1  0.32841175  0.00744396  0.25018929  1

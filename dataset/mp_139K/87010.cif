@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_U2MnCoSe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89247000
+_cell_length_b   6.12686479
+_cell_length_c   9.29834915
+_cell_angle_alpha   90.73026575
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   71.47877478
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2MnCoSe6
+_chemical_formula_sum   'U2 Mn1 Co1 Se6'
+_cell_volume   210.24849901
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.73354300  0.53291400  0.25497000  1
+  U  U1  1  0.26645700  0.46708600  0.74503000  1
+  Mn  Mn2  1  0.50000000  0.00000000  0.00000000  1
+  Co  Co3  1  0.50000000  0.00000000  0.50000000  1
+  Se  Se4  1  0.14476400  0.71047300  0.05484900  1
+  Se  Se5  1  0.85523600  0.28952700  0.94515100  1
+  Se  Se6  1  0.13487900  0.73024200  0.45364600  1
+  Se  Se7  1  0.86512100  0.26975800  0.54635400  1
+  Se  Se8  1  0.41523800  0.16952400  0.26037300  1
+  Se  Se9  1  0.58476200  0.83047600  0.73962700  1

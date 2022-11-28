@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TaMnOs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.42460943
+_cell_length_b   10.42460943
+_cell_length_c   10.42460943
+_cell_angle_alpha   124.75620006
+_cell_angle_beta   118.46504918
+_cell_angle_gamma   87.32283991
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaMnOs2
+_chemical_formula_sum   'Ta1 Mn1 Os2'
+_cell_volume   777.50940278
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.00000000  0.50000000  0.50000000  1
+  Mn  Mn1  1  0.00000000  0.00000000  0.00000000  1
+  Os  Os2  1  0.00000000  0.26612500  0.26612500  1
+  Os  Os3  1  0.00000000  0.73387500  0.73387500  1

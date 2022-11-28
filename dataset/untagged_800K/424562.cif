@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ag2Hf3Ti2
+_chemical_formula_sum              "Ag2 Hf3 Ti2"
+_cell_length_a       7.29532
+_cell_length_b       7.29532
+_cell_length_c       7.29532
+_cell_angle_alpha    38.3496
+_cell_angle_beta     38.3496
+_cell_angle_gamma    38.3496
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.05480  0.05480  0.05480  1.0000
+  Ag  Ag2       1.0  0.48200  0.48200  0.48200  1.0000
+  Hf  Hf1       1.0  0.34100  0.34100  0.34100  1.0000
+  Hf  Hf2       1.0  0.61900  0.61900  0.61900  1.0000
+  Hf  Hf3       1.0  0.91200  0.91200  0.91200  1.0000
+  Ti  Ti1       1.0  0.19700  0.19700  0.19700  1.0000
+  Ti  Ti2       1.0  0.77000  0.77000  0.77000  1.0000

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_YTi4(CuO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46893610
+_cell_length_b   6.46893610
+_cell_length_c   6.46893610
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YTi4(CuO4)3
+_chemical_formula_sum   'Y1 Ti4 Cu3 O12'
+_cell_volume   208.38991299
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.00000000  0.00000000  0.00000000  1
+  Ti  Ti1  1  0.00000000  0.00000000  0.50000000  1
+  Ti  Ti2  1  0.00000000  0.50000000  0.00000000  1
+  Ti  Ti3  1  0.50000000  0.00000000  0.00000000  1
+  Ti  Ti4  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu5  1  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu6  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu7  1  0.50000000  0.50000000  0.00000000  1
+  O  O8  1  0.29560100  0.11944400  0.82384300  1
+  O  O9  1  0.70439900  0.88055600  0.17615700  1
+  O  O10  1  0.70439900  0.52824100  0.82384300  1
+  O  O11  1  0.47175900  0.17615700  0.29560100  1
+  O  O12  1  0.17615700  0.29560100  0.47175900  1
+  O  O13  1  0.82384300  0.29560100  0.11944400  1
+  O  O14  1  0.88055600  0.17615700  0.70439900  1
+  O  O15  1  0.82384300  0.70439900  0.52824100  1
+  O  O16  1  0.29560100  0.47175900  0.17615700  1
+  O  O17  1  0.52824100  0.82384300  0.70439900  1
+  O  O18  1  0.17615700  0.70439900  0.88055600  1
+  O  O19  1  0.11944400  0.82384300  0.29560100  1

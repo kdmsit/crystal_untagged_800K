@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li3SbN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.29413404
+_cell_length_b   6.98405707
+_cell_length_c   18.06440263
+_cell_angle_alpha   90.00000159
+_cell_angle_beta   151.33178318
+_cell_angle_gamma   109.82967208
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3SbN2
+_chemical_formula_sum   'Li12 Sb4 N8'
+_cell_volume   440.56431316
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.50000000  0.34500400  1
+  Li  Li1  1  0.00000000  0.00000000  0.90499600  1
+  Li  Li2  1  0.00000000  0.50000000  0.15499600  1
+  Li  Li3  1  0.00000000  0.00000000  0.09500400  1
+  Li  Li4  1  0.44549700  0.50000000  0.47274800  1
+  Li  Li5  1  0.55450300  0.50000000  0.02725200  1
+  Li  Li6  1  0.44549700  0.00000000  0.22274800  1
+  Li  Li7  1  0.55450300  0.00000000  0.77725200  1
+  Li  Li8  1  0.55450300  0.05450300  0.02725200  1
+  Li  Li9  1  0.44549700  0.94549700  0.47274800  1
+  Li  Li10  1  0.55450300  0.55450300  0.77725200  1
+  Li  Li11  1  0.44549700  0.44549700  0.22274800  1
+  Sb  Sb12  1  0.00000000  0.50000000  0.62322900  1
+  Sb  Sb13  1  0.00000000  0.00000000  0.62677100  1
+  Sb  Sb14  1  0.00000000  0.50000000  0.87677100  1
+  Sb  Sb15  1  0.00000000  0.00000000  0.37322900  1
+  N  N16  1  0.53421800  0.26710900  0.32910500  1
+  N  N17  1  0.46578200  0.73289100  0.79488800  1
+  N  N18  1  0.53421800  0.76710900  0.45511200  1
+  N  N19  1  0.46578200  0.23289100  0.92089500  1
+  N  N20  1  0.00000000  0.73289100  0.93800400  1
+  N  N21  1  0.00000000  0.26710900  0.93800400  1
+  N  N22  1  0.00000000  0.23289100  0.31199600  1
+  N  N23  1  0.00000000  0.76710900  0.31199600  1

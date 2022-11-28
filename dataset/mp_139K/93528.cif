@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaCuN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.76991000
+_cell_length_b   3.55194900
+_cell_length_c   5.87457100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCuN
+_chemical_formula_sum   'Na4 Cu4 N4'
+_cell_volume   182.99449073
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.66244800  0.25000000  0.06703400  1
+  Na  Na1  1  0.16244800  0.25000000  0.43296600  1
+  Na  Na2  1  0.33755200  0.75000000  0.93296600  1
+  Na  Na3  1  0.83755200  0.75000000  0.56703400  1
+  Cu  Cu4  1  0.54771700  0.25000000  0.61669900  1
+  Cu  Cu5  1  0.04771700  0.25000000  0.88330100  1
+  Cu  Cu6  1  0.45228300  0.75000000  0.38330100  1
+  Cu  Cu7  1  0.95228300  0.75000000  0.11669900  1
+  N  N8  1  0.92810700  0.25000000  0.19935400  1
+  N  N9  1  0.42810700  0.25000000  0.30064600  1
+  N  N10  1  0.07189300  0.75000000  0.80064600  1
+  N  N11  1  0.57189300  0.75000000  0.69935400  1

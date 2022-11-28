@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrNbSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50674378
+_cell_length_b   5.50979135
+_cell_length_c   8.36761000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.01735407
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrNbSi
+_chemical_formula_sum   'Zr4 Nb4 Si4'
+_cell_volume   219.82957129
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.66633600  0.33310600  0.55133500  1
+  Zr  Zr1  1  0.32839300  0.66420700  0.43792800  1
+  Zr  Zr2  1  0.32839300  0.66420700  0.06207200  1
+  Zr  Zr3  1  0.66633600  0.33310600  0.94866500  1
+  Nb  Nb4  1  0.00055900  0.00030000  0.47573300  1
+  Nb  Nb5  1  0.00055900  0.00030000  0.02426700  1
+  Nb  Nb6  1  0.16765900  0.33677000  0.75000000  1
+  Nb  Nb7  1  0.16769000  0.83087600  0.75000000  1
+  Si  Si8  1  0.66725700  0.83362200  0.75000000  1
+  Si  Si9  1  0.81572700  0.62927600  0.25000000  1
+  Si  Si10  1  0.81571900  0.18651300  0.25000000  1
+  Si  Si11  1  0.37537300  0.18771900  0.25000000  1

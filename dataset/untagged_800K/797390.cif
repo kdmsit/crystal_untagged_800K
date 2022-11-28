@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_CaSiPt
+_symmetry_space_group_name_H-M  'P2_13'
+_cell_length_a       6.36941
+_cell_length_b       6.36941
+_cell_length_c       6.36941
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  198
+_chemical_formula_structural  CaSiPt
+_chemical_formula_sum  Ca4Si4Pt4
+_cell_volume  258.4027215480207
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.62481  0.37519  0.87519  1
+ Ca  Ca2  1  0.37519  0.87519  0.62481  1
+ Ca  Ca3  1  0.12481  0.12481  0.12481  1
+ Ca  Ca4  1  0.87519  0.62481  0.37519  1
+ Pt  Pt1  1  0.57690  0.92310  0.07690  1
+ Pt  Pt2  1  0.07690  0.57690  0.92310  1
+ Pt  Pt3  1  0.42310  0.42310  0.42310  1
+ Pt  Pt4  1  0.92310  0.07690  0.57690  1
+ Si  Si1  1  0.17056  0.32944  0.67056  1
+ Si  Si2  1  0.67056  0.17056  0.32944  1
+ Si  Si3  1  0.32944  0.67056  0.17056  1
+ Si  Si4  1  0.82944  0.82944  0.82944  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Mg2TaFeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.61816200
+_cell_length_b   5.19045800
+_cell_length_c   5.42053994
+_cell_angle_alpha   89.33696360
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2TaFeO6
+_chemical_formula_sum   'Mg4 Ta2 Fe2 O12'
+_cell_volume   214.32328334
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.75000000  0.99311200  0.04246000  1
+  Mg  Mg1  1  0.75000000  0.51292400  0.56945800  1
+  Mg  Mg2  1  0.25000000  0.48707600  0.43054200  1
+  Mg  Mg3  1  0.25000000  0.00688800  0.95754000  1
+  Ta  Ta4  1  0.00000000  0.00000000  0.50000000  1
+  Ta  Ta5  1  0.50000000  0.00000000  0.50000000  1
+  Fe  Fe6  1  0.00000000  0.50000000  0.00000000  1
+  Fe  Fe7  1  0.50000000  0.50000000  0.00000000  1
+  O  O8  1  0.43132200  0.17516400  0.18904900  1
+  O  O9  1  0.56966100  0.68635200  0.32051200  1
+  O  O10  1  0.56867800  0.82483600  0.81095100  1
+  O  O11  1  0.06966100  0.31364800  0.67948800  1
+  O  O12  1  0.25000000  0.86714000  0.55908300  1
+  O  O13  1  0.43033900  0.31364800  0.67948800  1
+  O  O14  1  0.93033900  0.68635200  0.32051200  1
+  O  O15  1  0.06867800  0.17516400  0.18904900  1
+  O  O16  1  0.75000000  0.36922500  0.93184800  1
+  O  O17  1  0.93132200  0.82483600  0.81095100  1
+  O  O18  1  0.25000000  0.63077500  0.06815200  1
+  O  O19  1  0.75000000  0.13286000  0.44091700  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_C2BrNO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28480700
+_cell_length_b   6.59438311
+_cell_length_c   8.63561246
+_cell_angle_alpha   107.75279858
+_cell_angle_beta   95.31485540
+_cell_angle_gamma   95.74918385
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   C2BrNO
+_chemical_formula_sum   'C4 Br2 N2 O2'
+_cell_volume   229.25505290
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  1  0.81349100  0.36071200  0.69076000  1
+  C  C1  1  0.18650900  0.63928800  0.30924000  1
+  C  C2  1  0.63378900  0.23914700  0.77531100  1
+  C  C3  1  0.36621100  0.76085300  0.22468900  1
+  Br  Br4  1  0.74821300  0.65793700  0.76620900  1
+  Br  Br5  1  0.25178700  0.34206300  0.23379100  1
+  N  N6  1  0.48883000  0.14018200  0.84258700  1
+  N  N7  1  0.51117000  0.85981800  0.15741300  1
+  O  O8  1  0.98149400  0.28597000  0.58939300  1
+  O  O9  1  0.01850600  0.71403000  0.41060700  1

@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_ErSi2Ni
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       3.95373
+_cell_length_b       3.95436
+_cell_length_c       8.50435
+_cell_angle_alpha    103.444
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  ErSi2Ni
+_chemical_formula_sum  Er2Si4Ni2
+_cell_volume  129.31793446400613
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Er  Er1  1  0.25000  0.89484  0.78968  1
+ Er  Er2  1  0.75000  0.10516  0.21032  1
+ Ni  Ni1  1  0.75000  0.32367  0.64735  1
+ Ni  Ni2  1  0.25000  0.67633  0.35265  1
+ Si  Si1  1  0.25000  0.25030  0.50060  1
+ Si  Si2  1  0.75000  0.74970  0.49940  1
+ Si  Si3  1  0.75000  0.45995  0.91991  1
+ Si  Si4  1  0.25000  0.54005  0.08009  1

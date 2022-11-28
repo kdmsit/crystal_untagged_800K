@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       O4Os6
+_chemical_formula_sum              "O4 Os6"
+_cell_length_a       6.35574
+_cell_length_b       6.35574
+_cell_length_c       4.95205
+_cell_angle_alpha    129.921
+_cell_angle_beta     50.0792
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.62400  0.37600  0.12900  1.0000
+  O   O2        1.0  0.87600  0.12400  0.37100  1.0000
+  O   O3        1.0  0.12400  0.87600  0.62900  1.0000
+  O   O4        1.0  0.37600  0.62400  0.87100  1.0000
+  Os  Os1       1.0  0.89700  0.39700  0.25000  1.0000
+  Os  Os2       1.0  0.25000  0.10300  0.25000  1.0000
+  Os  Os3       1.0  0.60300  0.75000  0.25000  1.0000
+  Os  Os4       1.0  0.39700  0.25000  0.75000  1.0000
+  Os  Os5       1.0  0.75000  0.89700  0.75000  1.0000
+  Os  Os6       1.0  0.10300  0.60300  0.75000  1.0000

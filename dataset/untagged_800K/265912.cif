@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       AsLi4O6Sc
+_chemical_formula_sum              "As1 Li4 O6 Sc1"
+_cell_length_a       5.1363
+_cell_length_b       5.1363
+_cell_length_c       5.06553
+_cell_angle_alpha    99.6118
+_cell_angle_beta     99.6118
+_cell_angle_gamma    120.195
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.16700  0.83300  0.00000  1.0000
+  Li  Li1       1.0  0.49900  0.50100  0.00000  1.0000
+  Li  Li2       1.0  0.65500  0.34500  0.50000  1.0000
+  Li  Li3       1.0  0.33100  0.66900  0.50000  1.0000
+  Li  Li4       1.0  0.01930  0.98100  0.50000  1.0000
+  O   O1        1.0  0.94300  0.60600  0.22200  1.0000
+  O   O2        1.0  0.54200  0.91500  0.23100  1.0000
+  O   O3        1.0  0.23600  0.20600  0.23100  1.0000
+  O   O4        1.0  0.79400  0.76400  0.76900  1.0000
+  O   O5        1.0  0.08470  0.45800  0.76900  1.0000
+  O   O6        1.0  0.39400  0.05710  0.77800  1.0000
+  Sc  Sc1       1.0  0.83400  0.16600  0.00000  1.0000

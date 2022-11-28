@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ce2Fe(SeO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04669590
+_cell_length_b   6.04669590
+_cell_length_c   7.15850255
+_cell_angle_alpha   60.21391306
+_cell_angle_beta   60.21391306
+_cell_angle_gamma   37.82728097
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Fe(SeO)2
+_chemical_formula_sum   'Ce2 Fe1 Se2 O2'
+_cell_volume   136.60449663
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.30885900  0.30885900  0.24181300  1
+  Ce  Ce1  1  0.69114100  0.69114100  0.75818700  1
+  Fe  Fe2  1  0.50000000  0.50000000  0.50000000  1
+  Se  Se3  1  0.06020100  0.06020100  0.17619700  1
+  Se  Se4  1  0.93979900  0.93979900  0.82380300  1
+  O  O5  1  0.30240900  0.30240900  0.58082100  1
+  O  O6  1  0.69759100  0.69759100  0.41917900  1

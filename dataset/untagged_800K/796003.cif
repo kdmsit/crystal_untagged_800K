@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_FeGe2
+_symmetry_space_group_name_H-M  'I4/mcm'
+_cell_length_a       4.86637
+_cell_length_b       4.86636
+_cell_length_c       4.86636
+_cell_angle_alpha    105.176
+_cell_angle_beta     105.176
+_cell_angle_gamma    118.452
+
+_symmetry_Int_Tables_number  140
+_chemical_formula_structural  FeGe2
+_chemical_formula_sum  Fe2Ge4
+_cell_volume  87.05608900840798
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.25000  0.25000  -0.00000  1
+ Fe  Fe2  1  0.75000  0.75000  -0.00000  1
+ Ge  Ge1  1  0.65640  0.15640  0.81281  1
+ Ge  Ge2  1  0.15640  0.34360  0.50000  1
+ Ge  Ge3  1  0.84360  0.65640  0.50000  1
+ Ge  Ge4  1  0.34360  0.84360  0.18719  1

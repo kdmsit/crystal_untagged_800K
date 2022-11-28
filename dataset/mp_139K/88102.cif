@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_ScMn6GaGe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10664539
+_cell_length_b   5.10698328
+_cell_length_c   8.16467600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99329355
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScMn6GaGe5
+_chemical_formula_sum   'Sc1 Mn6 Ga1 Ge5'
+_cell_volume   184.41620020
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.99998200  0.00000100  0.00000000  1
+  Mn  Mn1  1  0.00073400  0.50037300  0.24666300  1
+  Mn  Mn2  1  0.49961700  0.99924800  0.24666600  1
+  Mn  Mn3  1  0.49961900  0.50037200  0.24665700  1
+  Mn  Mn4  1  0.00073400  0.50037300  0.75333700  1
+  Mn  Mn5  1  0.49961700  0.99924800  0.75333400  1
+  Mn  Mn6  1  0.49961900  0.50037200  0.75334300  1
+  Ga  Ga7  1  0.66661900  0.33331600  0.50000000  1
+  Ge  Ge8  1  0.33332000  0.66667400  0.00000000  1
+  Ge  Ge9  1  0.66664000  0.33333700  0.00000000  1
+  Ge  Ge10  1  0.99999000  0.00000100  0.33754500  1
+  Ge  Ge11  1  0.99999000  0.00000100  0.66245500  1
+  Ge  Ge12  1  0.33332000  0.66668200  0.50000000  1

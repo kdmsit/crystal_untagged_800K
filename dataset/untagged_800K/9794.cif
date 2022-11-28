@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ba2BiNdO6
+_chemical_formula_sum              "Ba2 Bi1 Nd1 O6"
+_cell_length_a       6.15444
+_cell_length_b       6.15444
+_cell_length_c       6.18508
+_cell_angle_alpha    119.52
+_cell_angle_beta     90.3647
+_cell_angle_gamma    119.896
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.24800  0.99300  0.24200  1.0000
+  Ba  Ba2       1.0  0.75200  0.00677  0.75800  1.0000
+  Bi  Bi1       1.0  0.50000  0.50000  0.00000  1.0000
+  Nd  Nd1       1.0  0.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.21900  0.49700  0.19700  1.0000
+  O   O2        1.0  0.70000  0.97800  0.19700  1.0000
+  O   O3        1.0  0.73800  0.57300  0.31100  1.0000
+  O   O4        1.0  0.26200  0.42700  0.68900  1.0000
+  O   O5        1.0  0.30000  0.02220  0.80300  1.0000
+  O   O6        1.0  0.78100  0.50300  0.80300  1.0000

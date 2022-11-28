@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_GeNCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.49764812
+_cell_length_b   6.49764812
+_cell_length_c   6.49764843
+_cell_angle_alpha   95.38146972
+_cell_angle_beta   95.38146972
+_cell_angle_gamma   95.38145965
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GeNCl3
+_chemical_formula_sum   'Ge1 N1 Cl3'
+_cell_volume   270.45396341
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.52967200  0.52967200  0.52967200  1
+  N  N1  1  0.99977900  0.99977900  0.99977900  1
+  Cl  Cl2  1  0.48134100  0.84986600  0.48134100  1
+  Cl  Cl3  1  0.48134100  0.48134100  0.84986600  1
+  Cl  Cl4  1  0.84986600  0.48134100  0.48134100  1

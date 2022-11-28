@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_MgTi7H16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.28442142
+_cell_length_b   6.28442142
+_cell_length_c   6.28442142
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTi7H16
+_chemical_formula_sum   'Mg1 Ti7 H16'
+_cell_volume   175.50152810
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.00000000  0.00000000  1
+  Ti  Ti1  1  0.50000000  0.50000000  0.50000000  1
+  Ti  Ti2  1  0.00000000  0.00000000  0.50000000  1
+  Ti  Ti3  1  0.50000000  0.00000000  0.50000000  1
+  Ti  Ti4  1  0.00000000  0.50000000  0.50000000  1
+  Ti  Ti5  1  0.50000000  0.50000000  0.00000000  1
+  Ti  Ti6  1  0.00000000  0.50000000  0.00000000  1
+  Ti  Ti7  1  0.50000000  0.00000000  0.00000000  1
+  H  H8  1  0.87196300  0.87196300  0.38411200  1
+  H  H9  1  0.87196300  0.38411200  0.87196300  1
+  H  H10  1  0.38411200  0.87196300  0.87196300  1
+  H  H11  1  0.87196300  0.87196300  0.87196300  1
+  H  H12  1  0.12803700  0.12803700  0.61588800  1
+  H  H13  1  0.12803700  0.61588800  0.12803700  1
+  H  H14  1  0.61588800  0.12803700  0.12803700  1
+  H  H15  1  0.12803700  0.12803700  0.12803700  1
+  H  H16  1  0.62450600  0.62450600  0.12648300  1
+  H  H17  1  0.62450600  0.12648300  0.62450600  1
+  H  H18  1  0.12648300  0.62450600  0.62450600  1
+  H  H19  1  0.62450600  0.62450600  0.62450600  1
+  H  H20  1  0.37549400  0.37549400  0.87351700  1
+  H  H21  1  0.37549400  0.87351700  0.37549400  1
+  H  H22  1  0.87351700  0.37549400  0.37549400  1
+  H  H23  1  0.37549400  0.37549400  0.37549400  1

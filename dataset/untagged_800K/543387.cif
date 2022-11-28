@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       O2Sm2Te2Tl2
+_chemical_formula_sum              "O2 Sm2 Te2 Tl2"
+_cell_length_a       4.95714
+_cell_length_b       8.26064
+_cell_length_c       6.8896
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.50000  0.08250  0.21400  1.0000
+  O   O2        1.0  0.50000  0.91800  0.71400  1.0000
+  Sm  Sm1       1.0  0.50000  0.87600  0.02380  1.0000
+  Sm  Sm2       1.0  0.50000  0.12400  0.52400  1.0000
+  Te  Te1       1.0  0.00000  0.68000  0.13100  1.0000
+  Te  Te2       1.0  0.00000  0.32000  0.63100  1.0000
+  Tl  Tl1       1.0  0.00000  0.27600  0.12300  1.0000
+  Tl  Tl2       1.0  0.00000  0.72400  0.62300  1.0000

@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_CeNiGe2
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       4.243
+_cell_length_b       4.22915
+_cell_length_c       8.5578
+_cell_angle_alpha    104.306
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  CeNiGe2
+_chemical_formula_sum  Ce2Ni2Ge4
+_cell_volume  148.80173705339968
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ce  Ce1  1  0.25000  0.89187  0.78373  1
+ Ce  Ce2  1  0.75000  0.10813  0.21627  1
+ Ge  Ge1  1  0.75000  0.45801  0.91602  1
+ Ge  Ge2  1  0.25000  0.54199  0.08398  1
+ Ge  Ge3  1  0.75000  0.75010  0.50020  1
+ Ge  Ge4  1  0.25000  0.24990  0.49980  1
+ Ni  Ni1  1  0.25000  0.68170  0.36341  1
+ Ni  Ni2  1  0.75000  0.31830  0.63659  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CsNa2Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.46425535
+_cell_length_b   14.46425535
+_cell_length_c   14.46425535
+_cell_angle_alpha   121.79882245
+_cell_angle_beta   119.11557469
+_cell_angle_gamma   89.22584125
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNa2Sb
+_chemical_formula_sum   'Cs1 Na2 Sb1'
+_cell_volume   2123.32170733
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.00000000  0.50000000  0.50000000  1
+  Na  Na1  1  0.00000000  0.21221300  0.21221300  1
+  Na  Na2  1  0.00000000  0.78778700  0.78778700  1
+  Sb  Sb3  1  0.00000000  0.00000000  0.00000000  1

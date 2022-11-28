@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_K4Sb2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.49125425
+_cell_length_b   9.49125425
+_cell_length_c   6.47568600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   156.09707871
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4Sb2O5
+_chemical_formula_sum   'K4 Sb2 O5'
+_cell_volume   236.36860194
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.90202300  0.09797700  0.50000000  1
+  K  K1  1  0.09720200  0.90279800  0.00000000  1
+  K  K2  1  0.23734800  0.76265200  0.50000000  1
+  K  K3  1  0.76369400  0.23630600  0.00000000  1
+  Sb  Sb4  1  0.58717500  0.41282500  0.50000000  1
+  Sb  Sb5  1  0.41688500  0.58311500  0.00000000  1
+  O  O6  1  0.65267600  0.34732400  0.26897100  1
+  O  O7  1  0.34792700  0.65207300  0.22809800  1
+  O  O8  1  0.65267600  0.34732400  0.73102900  1
+  O  O9  1  0.34792700  0.65207300  0.77190200  1
+  O  O10  1  0.04866800  0.95133200  0.50000000  1

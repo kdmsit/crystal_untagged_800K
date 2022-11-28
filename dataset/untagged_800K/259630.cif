@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Cr4Ga12Zr6
+_chemical_formula_sum              "Cr4 Ga12 Zr6"
+_cell_length_a       8.77335
+_cell_length_b       5.35128
+_cell_length_c       7.77282
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.00000  0.00000  0.50000  1.0000
+  Cr  Cr2       1.0  0.50000  0.00000  0.50000  1.0000
+  Cr  Cr3       1.0  0.00000  0.50000  0.50000  1.0000
+  Cr  Cr4       1.0  0.50000  0.50000  0.50000  1.0000
+  Ga  Ga1       1.0  0.25000  0.00984  0.03970  1.0000
+  Ga  Ga2       1.0  0.25000  0.49000  0.03970  1.0000
+  Ga  Ga3       1.0  0.06420  0.75000  0.23600  1.0000
+  Ga  Ga4       1.0  0.43600  0.75000  0.23600  1.0000
+  Ga  Ga5       1.0  0.25000  0.25000  0.36700  1.0000
+  Ga  Ga6       1.0  0.75000  0.25000  0.43900  1.0000
+  Ga  Ga7       1.0  0.25000  0.75000  0.56100  1.0000
+  Ga  Ga8       1.0  0.75000  0.75000  0.63300  1.0000
+  Ga  Ga9       1.0  0.56400  0.25000  0.76400  1.0000
+  Ga  Ga10      1.0  0.93600  0.25000  0.76400  1.0000
+  Ga  Ga11      1.0  0.75000  0.51000  0.96000  1.0000
+  Ga  Ga12      1.0  0.75000  0.99000  0.96000  1.0000
+  Zr  Zr1       1.0  0.52800  0.25000  0.15500  1.0000
+  Zr  Zr2       1.0  0.97200  0.25000  0.15500  1.0000
+  Zr  Zr3       1.0  0.75000  0.75000  0.28400  1.0000
+  Zr  Zr4       1.0  0.25000  0.25000  0.71600  1.0000
+  Zr  Zr5       1.0  0.02820  0.75000  0.84500  1.0000
+  Zr  Zr6       1.0  0.47200  0.75000  0.84500  1.0000

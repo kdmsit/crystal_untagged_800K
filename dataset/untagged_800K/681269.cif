@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KLaTi4O12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50150492
+_cell_length_b   5.50150492
+_cell_length_c   7.87581330
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.07048197
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLaTi4O12
+_chemical_formula_sum   'K1 La1 Ti4 O12'
+_cell_volume   238.37356698
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00108709  0.99891291  0.50000000  1
+  La  La1  1  0.49930846  0.50069154  -0.00000000  1
+  Ti  Ti2  1  0.49966657  0.00132907  0.26026588  1
+  Ti  Ti3  1  0.49966657  0.00132907  0.73973412  1
+  Ti  Ti4  1  0.99867093  0.50033343  0.73973412  1
+  Ti  Ti5  1  0.99867093  0.50033343  0.26026588  1
+  O  O6  1  0.26052822  0.26033316  0.23455333  1
+  O  O7  1  0.73966684  0.73947178  0.23455333  1
+  O  O8  1  0.73966684  0.73947178  0.76544667  1
+  O  O9  1  0.26052822  0.26033316  0.76544667  1
+  O  O10  1  0.25570113  0.74429887  0.22803848  1
+  O  O11  1  0.74681198  0.25318802  0.24078354  1
+  O  O12  1  0.74681198  0.25318802  0.75921646  1
+  O  O13  1  0.25570113  0.74429887  0.77196152  1
+  O  O14  1  0.50594140  0.01156078  -0.00000000  1
+  O  O15  1  0.49524420  0.99501172  0.50000000  1
+  O  O16  1  0.98843922  0.49405860  -0.00000000  1
+  O  O17  1  0.00498828  0.50475580  0.50000000  1

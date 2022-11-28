@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Cu2PbO2
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       5.87575
+_cell_length_b       5.87575
+_cell_length_c       6.10609
+_cell_angle_alpha    118.335
+_cell_angle_beta     118.335
+_cell_angle_gamma    91.1611
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  Cu2PbO2
+_chemical_formula_sum  Cu4Pb2O4
+_cell_volume  154.90127058700776
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.50000  -0.00000  0.00000  1
+ Cu  Cu2  1  -0.00000  0.50000  0.50000  1
+ Cu  Cu3  1  -0.00000  -0.00000  0.50000  1
+ Cu  Cu4  1  0.00000  0.00000  0.00000  1
+ O  O1  1  0.00619  0.64658  0.29088  1
+ O  O2  1  0.35342  0.99381  0.20912  1
+ O  O3  1  0.99381  0.35342  0.70912  1
+ O  O4  1  0.64658  0.00619  0.79088  1
+ Pb  Pb1  1  0.37762  0.62238  0.25000  1
+ Pb  Pb2  1  0.62238  0.37762  0.75000  1

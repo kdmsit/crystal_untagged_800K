@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AgCu4Dy
+_chemical_formula_sum              "Ag1 Cu4 Dy1"
+_cell_length_a       5.03578
+_cell_length_b       5.03578
+_cell_length_c       5.03578
+_cell_angle_alpha    120
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.75000  0.50000  0.25000  1.0000
+  Cu  Cu1       1.0  0.37600  0.75200  0.12800  1.0000
+  Cu  Cu2       1.0  0.87200  0.24800  0.62400  1.0000
+  Cu  Cu3       1.0  0.37600  0.24800  0.62400  1.0000
+  Cu  Cu4       1.0  0.37600  0.75200  0.62400  1.0000
+  Dy  Dy1       1.0  0.00000  0.00000  0.00000  1.0000

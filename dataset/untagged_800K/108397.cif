@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Al2H8Na2
+_chemical_formula_sum              "Al2 H8 Na2"
+_cell_length_a       6.32278
+_cell_length_b       4.82372
+_cell_length_c       4.82372
+_cell_angle_alpha    90
+_cell_angle_beta     112.424
+_cell_angle_gamma    112.424
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.75000  0.37500  0.12500  1.0000
+  Al  Al2       1.0  0.25000  0.62500  0.87500  1.0000
+  H   H1        1.0  0.91800  0.21800  0.05910  1.0000
+  H   H2        1.0  0.41800  0.55900  0.19900  1.0000
+  H   H3        1.0  0.58200  0.14100  0.28200  1.0000
+  H   H4        1.0  0.91800  0.69900  0.35900  1.0000
+  H   H5        1.0  0.08220  0.30100  0.64100  1.0000
+  H   H6        1.0  0.41800  0.85900  0.71800  1.0000
+  H   H7        1.0  0.58200  0.44100  0.80100  1.0000
+  H   H8        1.0  0.08220  0.78200  0.94100  1.0000
+  Na  Na1       1.0  0.25000  0.12500  0.37500  1.0000
+  Na  Na2       1.0  0.75000  0.87500  0.62500  1.0000

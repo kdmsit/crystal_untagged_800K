@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_MgCdTe2
+_symmetry_space_group_name_H-M  'I-42d'
+_cell_length_a       7.99541
+_cell_length_b       7.99541
+_cell_length_c       7.9954
+_cell_angle_alpha    131.901
+_cell_angle_beta     131.901
+_cell_angle_gamma    70.386
+
+_symmetry_Int_Tables_number  122
+_chemical_formula_structural  MgCdTe2
+_chemical_formula_sum  Mg2Cd2Te4
+_cell_volume  277.4813995264916
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cd  Cd1  1  0.25000  0.75000  0.50000  1
+ Cd  Cd2  1  0.50000  0.50000  -0.00000  1
+ Mg  Mg1  1  0.75000  0.25000  0.50000  1
+ Mg  Mg2  1  0.00000  0.00000  0.00000  1
+ Te  Te1  1  0.63254  0.62500  0.50754  1
+ Te  Te2  1  0.11746  0.12500  0.49246  1
+ Te  Te3  1  0.87500  0.36746  0.99246  1
+ Te  Te4  1  0.37500  0.88254  0.00754  1

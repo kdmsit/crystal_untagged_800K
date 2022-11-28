@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaCuN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.91002813
+_cell_length_b   3.83720951
+_cell_length_c   6.75468917
+_cell_angle_alpha   89.99999430
+_cell_angle_beta   110.05152283
+_cell_angle_gamma   77.56503889
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCuN
+_chemical_formula_sum   'Ca4 Cu4 N4'
+_cell_volume   211.16543956
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.51416900  0.74291600  0.81343700  1
+  Ca  Ca1  1  0.48583200  0.25708400  0.18656300  1
+  Ca  Ca2  1  0.10740100  0.44629900  0.83720000  1
+  Ca  Ca3  1  0.89259900  0.55370100  0.16280000  1
+  Cu  Cu4  1  0.72898500  0.63550700  0.48895500  1
+  Cu  Cu5  1  0.27101500  0.36449300  0.51104500  1
+  Cu  Cu6  1  0.18811700  0.90594200  0.22474600  1
+  Cu  Cu7  1  0.81188300  0.09405800  0.77525400  1
+  N  N8  1  0.80518200  0.59740900  0.78671800  1
+  N  N9  1  0.19481800  0.40259100  0.21328200  1
+  N  N10  1  0.35884400  0.32057800  0.80138500  1
+  N  N11  1  0.64115600  0.67942200  0.19861600  1

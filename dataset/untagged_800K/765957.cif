@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_DyCoSi2
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       3.98734
+_cell_length_b       4.03058
+_cell_length_c       8.39573
+_cell_angle_alpha    103.889
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  DyCoSi2
+_chemical_formula_sum  Dy2Co2Si4
+_cell_volume  130.9852324061298
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.25000  0.67909  0.35818  1
+ Co  Co2  1  0.75000  0.32091  0.64182  1
+ Dy  Dy1  1  0.25000  0.89236  0.78472  1
+ Dy  Dy2  1  0.75000  0.10764  0.21528  1
+ Si  Si1  1  0.75000  0.75010  0.50021  1
+ Si  Si2  1  0.25000  0.24990  0.49979  1
+ Si  Si3  1  0.75000  0.45718  0.91436  1
+ Si  Si4  1  0.25000  0.54282  0.08564  1

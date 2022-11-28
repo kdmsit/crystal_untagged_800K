@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       As2Cl2Hg6S8
+_chemical_formula_sum              "As2 Cl2 Hg6 S8"
+_cell_length_a       7.58198
+_cell_length_b       7.58209
+_cell_length_c       9.37417
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.00000  0.00000  0.22800  1.0000
+  As  As2       1.0  0.00000  0.00001  0.72800  1.0000
+  Cl  Cl1       1.0  0.66700  0.33300  0.03640  1.0000
+  Cl  Cl2       1.0  0.33300  0.66700  0.53600  1.0000
+  Hg  Hg1       1.0  0.49700  0.99400  0.24400  1.0000
+  Hg  Hg2       1.0  0.00553  0.50300  0.24400  1.0000
+  Hg  Hg3       1.0  0.49700  0.50300  0.24400  1.0000
+  Hg  Hg4       1.0  0.50300  0.00554  0.74400  1.0000
+  Hg  Hg5       1.0  0.50300  0.49700  0.74400  1.0000
+  Hg  Hg6       1.0  0.99400  0.49700  0.74400  1.0000
+  S   S1        1.0  0.33300  0.66700  0.11000  1.0000
+  S   S2        1.0  0.29700  0.14800  0.36000  1.0000
+  S   S3        1.0  0.85200  0.14800  0.36000  1.0000
+  S   S4        1.0  0.85200  0.70300  0.36000  1.0000
+  S   S5        1.0  0.66700  0.33300  0.61000  1.0000
+  S   S6        1.0  0.14800  0.85200  0.86000  1.0000
+  S   S7        1.0  0.70300  0.85200  0.86000  1.0000
+  S   S8        1.0  0.14800  0.29700  0.86000  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Au2Mg2O12Se4
+_chemical_formula_sum              "Au2 Mg2 O12 Se4"
+_cell_length_a       4.86933
+_cell_length_b       4.86933
+_cell_length_c       13.2093
+_cell_angle_alpha    86.6171
+_cell_angle_beta     86.6171
+_cell_angle_gamma    68.0286
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.00000  0.00000  0.00000  1.0000
+  Au  Au2       1.0  0.00000  0.00000  0.50000  1.0000
+  Mg  Mg1       1.0  0.99900  0.00056  0.25000  1.0000
+  Mg  Mg2       1.0  0.00055  0.99900  0.75000  1.0000
+  O   O1        1.0  0.74000  0.25100  0.12600  1.0000
+  O   O2        1.0  0.24700  0.73800  0.12600  1.0000
+  O   O3        1.0  0.25300  0.24500  0.22900  1.0000
+  O   O4        1.0  0.75500  0.74700  0.27100  1.0000
+  O   O5        1.0  0.26200  0.75300  0.37400  1.0000
+  O   O6        1.0  0.74900  0.26000  0.37400  1.0000
+  O   O7        1.0  0.25100  0.74000  0.62600  1.0000
+  O   O8        1.0  0.73800  0.24700  0.62600  1.0000
+  O   O9        1.0  0.24500  0.25300  0.72900  1.0000
+  O   O10       1.0  0.74700  0.75500  0.77100  1.0000
+  O   O11       1.0  0.75300  0.26200  0.87400  1.0000
+  O   O12       1.0  0.26000  0.74900  0.87400  1.0000
+  Se  Se1       1.0  0.35300  0.35000  0.11600  1.0000
+  Se  Se2       1.0  0.65000  0.64700  0.38400  1.0000
+  Se  Se3       1.0  0.35000  0.35300  0.61600  1.0000
+  Se  Se4       1.0  0.64700  0.65000  0.88400  1.0000

@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_CoP
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.29353
+_cell_length_b       5.09128
+_cell_length_c       5.58084
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  CoP
+_chemical_formula_sum  Co4P4
+_cell_volume  93.58091658574965
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.25000  0.49924  0.69819  1
+ Co  Co2  1  0.75000  0.50076  0.30181  1
+ Co  Co3  1  0.25000  -0.00076  0.80181  1
+ Co  Co4  1  0.75000  0.00076  0.19819  1
+ P  P1  1  0.25000  0.69512  0.08344  1
+ P  P2  1  0.75000  0.30488  0.91656  1
+ P  P3  1  0.25000  0.19512  0.41656  1
+ P  P4  1  0.75000  0.80488  0.58344  1

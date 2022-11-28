@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_Pa3Mo
+_symmetry_space_group_name_H-M  'P6_3/mmc'
+_cell_length_a       6.15986
+_cell_length_b       6.15986
+_cell_length_c       5.66515
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  194
+_chemical_formula_structural  Pa3Mo
+_chemical_formula_sum  Pa6Mo2
+_cell_volume  186.15824682882987
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mo  Mo1  1  0.66667  0.33333  0.75000  1
+ Mo  Mo2  1  0.33333  0.66667  0.25000  1
+ Pa  Pa1  1  0.82779  0.65558  0.25000  1
+ Pa  Pa2  1  0.34442  0.17221  0.25000  1
+ Pa  Pa3  1  0.82779  0.17221  0.25000  1
+ Pa  Pa4  1  0.17221  0.34442  0.75000  1
+ Pa  Pa5  1  0.65558  0.82779  0.75000  1
+ Pa  Pa6  1  0.17221  0.82779  0.75000  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Mg(NiO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.93979515
+_cell_length_b   7.31995403
+_cell_length_c   7.29760047
+_cell_angle_alpha   77.80577811
+_cell_angle_beta   77.65232508
+_cell_angle_gamma   76.84851200
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(NiO2)2
+_chemical_formula_sum   'Mg2 Ni4 O8'
+_cell_volume   147.18437941
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.31704900  0.14812300  0.20497000  1
+  Mg  Mg1  1  0.67003500  0.82830300  0.82428000  1
+  Ni  Ni2  1  0.62213600  0.17377800  0.55916100  1
+  Ni  Ni3  1  0.15269900  0.51294100  0.19693900  1
+  Ni  Ni4  1  0.83198700  0.46304200  0.83352700  1
+  Ni  Ni5  1  0.36380600  0.80286100  0.47053000  1
+  O  O6  1  0.86296300  0.66327100  0.61146200  1
+  O  O7  1  0.43640600  0.30930600  0.77338900  1
+  O  O8  1  0.54684200  0.66532000  0.25917000  1
+  O  O9  1  0.12312900  0.31285000  0.41820000  1
+  O  O10  1  0.15371200  0.98872900  0.68102300  1
+  O  O11  1  0.76758000  0.33607300  0.09483500  1
+  O  O12  1  0.83430500  0.98644900  0.34626300  1
+  O  O13  1  0.21866800  0.64190100  0.93614000  1

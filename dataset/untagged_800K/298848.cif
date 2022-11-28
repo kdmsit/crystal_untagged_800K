@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Na3O6Zr2
+_chemical_formula_sum              "Na3 O6 Zr2"
+_cell_length_a       5.63693
+_cell_length_b       5.63693
+_cell_length_c       5.77889
+_cell_angle_alpha    100.552
+_cell_angle_beta     100.552
+_cell_angle_gamma    118.819
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.50300  0.49700  0.00000  1.0000
+  Na  Na2       1.0  0.00286  0.99700  0.50000  1.0000
+  Na  Na3       1.0  0.35200  0.64800  0.50000  1.0000
+  O   O1        1.0  0.57400  0.93500  0.20400  1.0000
+  O   O2        1.0  0.95200  0.58500  0.21000  1.0000
+  O   O3        1.0  0.19200  0.20100  0.21500  1.0000
+  O   O4        1.0  0.79900  0.80800  0.78500  1.0000
+  O   O5        1.0  0.41500  0.04760  0.79000  1.0000
+  O   O6        1.0  0.06540  0.42600  0.79600  1.0000
+  Zr  Zr1       1.0  0.82700  0.17300  0.00000  1.0000
+  Zr  Zr2       1.0  0.16500  0.83500  0.00000  1.0000

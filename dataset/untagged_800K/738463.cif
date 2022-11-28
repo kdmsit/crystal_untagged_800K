@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_HoCu5Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99688800
+_cell_length_b   8.21311900
+_cell_length_c   10.57952900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoCu5Sn
+_chemical_formula_sum   'Ho4 Cu20 Sn4'
+_cell_volume   434.18424863
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.25000000  0.75103200  0.06278100  1
+  Ho  Ho1  1  0.75000000  0.24896800  0.93721900  1
+  Ho  Ho2  1  0.75000000  0.74896800  0.56278100  1
+  Ho  Ho3  1  0.25000000  0.25103200  0.43721900  1
+  Cu  Cu4  1  0.25000000  0.81399000  0.74457200  1
+  Cu  Cu5  1  0.75000000  0.18601000  0.25542800  1
+  Cu  Cu6  1  0.75000000  0.68601000  0.24457200  1
+  Cu  Cu7  1  0.25000000  0.31399000  0.75542800  1
+  Cu  Cu8  1  0.50175600  0.56584800  0.81302300  1
+  Cu  Cu9  1  0.49824400  0.43415200  0.18697700  1
+  Cu  Cu10  1  0.49824400  0.93415200  0.31302300  1
+  Cu  Cu11  1  0.00175600  0.43415200  0.18697700  1
+  Cu  Cu12  1  0.50175600  0.06584800  0.68697700  1
+  Cu  Cu13  1  0.99824400  0.56584800  0.81302300  1
+  Cu  Cu14  1  0.99824400  0.06584800  0.68697700  1
+  Cu  Cu15  1  0.00175600  0.93415200  0.31302300  1
+  Cu  Cu16  1  0.25000000  0.91332300  0.51755800  1
+  Cu  Cu17  1  0.75000000  0.08667700  0.48244200  1
+  Cu  Cu18  1  0.75000000  0.58667700  0.01755800  1
+  Cu  Cu19  1  0.25000000  0.41332300  0.98244200  1
+  Cu  Cu20  1  0.25000000  0.55870900  0.60172000  1
+  Cu  Cu21  1  0.75000000  0.44129100  0.39828000  1
+  Cu  Cu22  1  0.75000000  0.94129100  0.10172000  1
+  Cu  Cu23  1  0.25000000  0.05870900  0.89828000  1
+  Sn  Sn24  1  0.25000000  0.63961900  0.36105100  1
+  Sn  Sn25  1  0.75000000  0.36038100  0.63894900  1
+  Sn  Sn26  1  0.75000000  0.86038100  0.86105100  1
+  Sn  Sn27  1  0.25000000  0.13961900  0.13894900  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ho2Si2
+_chemical_formula_sum              "Ho2 Si2"
+_cell_length_a       3.82028
+_cell_length_b       4.2499
+_cell_length_c       5.66307
+_cell_angle_alpha    67.9615
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.25000  0.85900  0.28200  1.0000
+  Ho  Ho2       1.0  0.75000  0.14100  0.71800  1.0000
+  Si  Si1       1.0  0.75000  0.42300  0.15400  1.0000
+  Si  Si2       1.0  0.25000  0.57700  0.84600  1.0000

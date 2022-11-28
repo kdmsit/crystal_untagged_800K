@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_BC2N
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       4.18709
+_cell_length_b       3.63607
+_cell_length_c       3.63607
+_cell_angle_alpha    89.8083
+_cell_angle_beta     78.0888
+_cell_angle_gamma    78.0887
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  BC2N
+_chemical_formula_sum  B2C4N2
+_cell_volume  52.95482803012541
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.03744  0.57551  0.57551  1
+ B  B2  1  0.71256  0.17449  0.17449  1
+ C  C1  1  0.49035  0.48141  0.96707  1
+ C  C2  1  0.25965  0.26859  0.78293  1
+ C  C3  1  0.49035  0.96707  0.48141  1
+ C  C4  1  0.25965  0.78293  0.26859  1
+ N  N1  1  0.06567  0.08029  0.08030  1
+ N  N2  1  0.68433  0.66971  0.66970  1

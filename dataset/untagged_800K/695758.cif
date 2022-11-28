@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_FeSbPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23219398
+_cell_length_b   6.23219398
+_cell_length_c   6.23219415
+_cell_angle_alpha   89.03850975
+_cell_angle_beta   89.03850975
+_cell_angle_gamma   89.03850769
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeSbPt
+_chemical_formula_sum   'Fe4 Sb4 Pt4'
+_cell_volume   241.95881073
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.38359100  0.38359100  0.38359100  1
+  Fe  Fe1  1  0.62083200  0.87503200  0.12349000  1
+  Fe  Fe2  1  0.87503200  0.12349000  0.62083200  1
+  Fe  Fe3  1  0.12349000  0.62083200  0.87503200  1
+  Sb  Sb4  1  0.87588700  0.37544900  0.12685000  1
+  Sb  Sb5  1  0.37544900  0.12685000  0.87588700  1
+  Sb  Sb6  1  0.61276600  0.61276600  0.61276600  1
+  Sb  Sb7  1  0.12685000  0.87588700  0.37544900  1
+  Pt  Pt8  1  0.52107900  0.02830700  0.47700500  1
+  Pt  Pt9  1  0.02830700  0.47700500  0.52107900  1
+  Pt  Pt10  1  0.97921400  0.97921400  0.97921400  1
+  Pt  Pt11  1  0.47700500  0.52107900  0.02830700  1

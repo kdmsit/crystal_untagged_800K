@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cs2Lu2O2Te2
+_chemical_formula_sum              "Cs2 Lu2 O2 Te2"
+_cell_length_a       4.75232
+_cell_length_b       9.00554
+_cell_length_c       7.12645
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.00000  0.29100  0.10600  1.0000
+  Cs  Cs2       1.0  0.00000  0.70900  0.60600  1.0000
+  Lu  Lu1       1.0  0.50000  0.90200  0.03220  1.0000
+  Lu  Lu2       1.0  0.50000  0.09850  0.53200  1.0000
+  O   O1        1.0  0.50000  0.05660  0.24500  1.0000
+  O   O2        1.0  0.50000  0.94300  0.74500  1.0000
+  Te  Te1       1.0  0.00000  0.71700  0.10700  1.0000
+  Te  Te2       1.0  0.00000  0.28300  0.60700  1.0000

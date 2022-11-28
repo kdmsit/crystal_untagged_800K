@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_LaSe2
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       4.26957
+_cell_length_b       8.54174
+_cell_length_c       8.62
+_cell_angle_alpha    89.8506
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  LaSe2
+_chemical_formula_sum  La4Se8
+_cell_volume  314.36663286041096
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ La  La1  1  0.22102  0.87283  0.27616  1
+ La  La2  1  0.27898  0.37283  0.27616  1
+ La  La3  1  0.77898  0.12717  0.72384  1
+ La  La4  1  0.72102  0.62717  0.72384  1
+ Se  Se1  1  0.68223  0.88227  0.00196  1
+ Se  Se2  1  0.18223  0.61773  0.99804  1
+ Se  Se3  1  0.81777  0.38227  0.00196  1
+ Se  Se4  1  0.75735  0.12512  0.36573  1
+ Se  Se5  1  0.25735  0.37488  0.63427  1
+ Se  Se6  1  0.31777  0.11773  0.99804  1
+ Se  Se7  1  0.74265  0.62512  0.36573  1
+ Se  Se8  1  0.24265  0.87488  0.63427  1

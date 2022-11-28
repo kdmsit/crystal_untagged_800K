@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       K2Ni3V2
+_chemical_formula_sum              "K2 Ni3 V2"
+_cell_length_a       10.7291
+_cell_length_b       10.7291
+_cell_length_c       10.7291
+_cell_angle_alpha    21.8281
+_cell_angle_beta     21.8281
+_cell_angle_gamma    21.8281
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.17700  0.17700  0.17700  1.0000
+  K   K2        1.0  0.74900  0.74900  0.74900  1.0000
+  Ni  Ni1       1.0  0.29400  0.29400  0.29400  1.0000
+  Ni  Ni2       1.0  0.66200  0.66200  0.66200  1.0000
+  Ni  Ni3       1.0  0.91400  0.91400  0.91400  1.0000
+  V   V1        1.0  0.59200  0.59200  0.59200  1.0000
+  V   V2        1.0  0.98600  0.98600  0.98600  1.0000

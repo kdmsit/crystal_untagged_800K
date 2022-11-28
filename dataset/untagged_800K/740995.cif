@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ti4CrTe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63638176
+_cell_length_b   7.63638176
+_cell_length_c   9.31536126
+_cell_angle_alpha   52.52201548
+_cell_angle_beta   52.52201548
+_cell_angle_gamma   60.48587044
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4CrTe8
+_chemical_formula_sum   'Ti4 Cr1 Te8'
+_cell_volume   335.58331679
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.24828100  0.24828100  0.00895900  1
+  Ti  Ti1  1  0.75171900  0.75171900  0.99104100  1
+  Ti  Ti2  1  0.76488600  0.23511400  0.50000000  1
+  Ti  Ti3  1  0.23511400  0.76488600  0.50000000  1
+  Cr  Cr4  1  0.50000000  0.50000000  0.00000000  1
+  Te  Te5  1  0.54368600  0.54368600  0.66281000  1
+  Te  Te6  1  0.04822500  0.04822500  0.66842700  1
+  Te  Te7  1  0.03965300  0.55061500  0.16932700  1
+  Te  Te8  1  0.55061500  0.03965300  0.16932700  1
+  Te  Te9  1  0.44938500  0.96034700  0.83067300  1
+  Te  Te10  1  0.96034700  0.44938500  0.83067300  1
+  Te  Te11  1  0.95177500  0.95177500  0.33157300  1
+  Te  Te12  1  0.45631400  0.45631400  0.33719000  1

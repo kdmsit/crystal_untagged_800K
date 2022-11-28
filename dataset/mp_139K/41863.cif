@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_CaYbInSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.06405500
+_cell_length_b   8.32109900
+_cell_length_c   14.53052200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaYbInSe4
+_chemical_formula_sum   'Ca4 Yb4 In4 Se16'
+_cell_volume   854.11426900
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00382200  0.75000000  0.26602500  1
+  Ca  Ca1  1  0.50382200  0.25000000  0.23397500  1
+  Ca  Ca2  1  0.99617800  0.25000000  0.73397500  1
+  Ca  Ca3  1  0.49617800  0.75000000  0.76602500  1
+  Yb  Yb4  1  0.50000000  0.00000000  0.50000000  1
+  Yb  Yb5  1  0.00000000  0.00000000  0.00000000  1
+  Yb  Yb6  1  0.50000000  0.50000000  0.50000000  1
+  Yb  Yb7  1  0.00000000  0.50000000  0.00000000  1
+  In  In8  1  0.59024200  0.75000000  0.08761800  1
+  In  In9  1  0.09024200  0.25000000  0.41238200  1
+  In  In10  1  0.40975800  0.25000000  0.91238200  1
+  In  In11  1  0.90975800  0.75000000  0.58761800  1
+  Se  Se12  1  0.22510300  0.75000000  0.09047100  1
+  Se  Se13  1  0.72510300  0.25000000  0.40952900  1
+  Se  Se14  1  0.77489700  0.25000000  0.90952900  1
+  Se  Se15  1  0.27489700  0.75000000  0.59047100  1
+  Se  Se16  1  0.74594300  0.75000000  0.42410600  1
+  Se  Se17  1  0.24594300  0.25000000  0.07589400  1
+  Se  Se18  1  0.25405700  0.25000000  0.57589400  1
+  Se  Se19  1  0.75405700  0.75000000  0.92410600  1
+  Se  Se20  1  0.76249400  0.99264500  0.16688400  1
+  Se  Se21  1  0.26249400  0.00735500  0.33311600  1
+  Se  Se22  1  0.23750600  0.49264500  0.83311600  1
+  Se  Se23  1  0.73750600  0.50735500  0.66688400  1
+  Se  Se24  1  0.23750600  0.00735500  0.83311600  1
+  Se  Se25  1  0.73750600  0.99264500  0.66688400  1
+  Se  Se26  1  0.76249400  0.50735500  0.16688400  1
+  Se  Se27  1  0.26249400  0.49264500  0.33311600  1

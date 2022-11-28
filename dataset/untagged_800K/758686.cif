@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_EuP3
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.2335
+_cell_length_b       5.64541
+_cell_length_c       5.64541
+_cell_angle_alpha    78.778
+_cell_angle_beta     73.8032
+_cell_angle_gamma    73.8032
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  EuP3
+_chemical_formula_sum  Eu2P6
+_cell_volume  152.57882322246965
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Eu  Eu1  1  0.65408  0.16776  0.16776  1
+ Eu  Eu2  1  0.34592  0.83224  0.83224  1
+ P  P1  1  0.19899  0.35673  0.91484  1
+ P  P2  1  0.19899  0.91484  0.35673  1
+ P  P3  1  0.80101  0.64327  0.08516  1
+ P  P4  1  0.80101  0.08516  0.64327  1
+ P  P5  1  0.22027  0.50136  0.50136  1
+ P  P6  1  0.77973  0.49864  0.49864  1

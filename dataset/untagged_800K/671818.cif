@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Tb2In3Cu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.61132100
+_cell_length_b   4.78494486
+_cell_length_c   8.32880102
+_cell_angle_alpha   89.99450611
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2In3Cu
+_chemical_formula_sum   'Tb2 In3 Cu1'
+_cell_volume   143.92144654
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00000000  0.99996700  0.00779200  1
+  Tb  Tb1  1  0.00000000  0.49999000  0.49573800  1
+  In  In2  1  0.50000000  0.49996500  0.83704300  1
+  In  In3  1  0.50000000  0.49995600  0.18285500  1
+  In  In4  1  0.50000000  0.99998900  0.64684000  1
+  Cu  Cu5  1  0.50000000  0.99993300  0.32973300  1

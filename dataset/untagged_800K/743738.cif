@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li3NdGa8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34562283
+_cell_length_b   4.33966336
+_cell_length_c   13.77142100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   59.95457538
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3NdGa8
+_chemical_formula_sum   'Li3 Nd1 Ga8'
+_cell_volume   224.81148116
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.99997000  0.00000000  0.25521200  1
+  Li  Li1  1  0.99997100  0.00000000  0.50000000  1
+  Li  Li2  1  0.99997000  0.00000000  0.74478800  1
+  Nd  Nd3  1  0.99997100  0.00000000  0.00000000  1
+  Ga  Ga4  1  0.66665100  0.66661200  0.14543600  1
+  Ga  Ga5  1  0.66710300  0.66573800  0.37113200  1
+  Ga  Ga6  1  0.66710300  0.66573800  0.62886800  1
+  Ga  Ga7  1  0.66665100  0.66661200  0.85456400  1
+  Ga  Ga8  1  0.33326300  0.33338800  0.14543600  1
+  Ga  Ga9  1  0.33284100  0.33426200  0.37113200  1
+  Ga  Ga10  1  0.33284100  0.33426200  0.62886800  1
+  Ga  Ga11  1  0.33326300  0.33338800  0.85456400  1

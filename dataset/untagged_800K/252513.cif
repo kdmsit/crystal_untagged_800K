@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Bi4Pb12Pt4
+_chemical_formula_sum              "Bi4 Pb12 Pt4"
+_cell_length_a       11.5563
+_cell_length_b       11.5563
+_cell_length_c       4.14023
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.70600  0.29400  0.00000  1.0000
+  Bi  Bi2       1.0  0.29400  0.70600  0.00000  1.0000
+  Bi  Bi3       1.0  0.20600  0.20600  0.50000  1.0000
+  Bi  Bi4       1.0  0.79400  0.79400  0.50000  1.0000
+  Pb  Pb1       1.0  0.33000  0.00278  0.00000  1.0000
+  Pb  Pb2       1.0  0.00278  0.33000  0.00000  1.0000
+  Pb  Pb3       1.0  0.39600  0.39600  0.00000  1.0000
+  Pb  Pb4       1.0  0.60400  0.60400  0.00000  1.0000
+  Pb  Pb5       1.0  0.99700  0.67000  0.00000  1.0000
+  Pb  Pb6       1.0  0.67000  0.99700  0.00000  1.0000
+  Pb  Pb7       1.0  0.89600  0.10400  0.50000  1.0000
+  Pb  Pb8       1.0  0.50300  0.17000  0.50000  1.0000
+  Pb  Pb9       1.0  0.83000  0.49700  0.50000  1.0000
+  Pb  Pb10      1.0  0.17000  0.50300  0.50000  1.0000
+  Pb  Pb11      1.0  0.49700  0.83000  0.50000  1.0000
+  Pb  Pb12      1.0  0.10400  0.89600  0.50000  1.0000
+  Pt  Pt1       1.0  0.08660  0.08660  0.00000  1.0000
+  Pt  Pt2       1.0  0.91300  0.91300  0.00000  1.0000
+  Pt  Pt3       1.0  0.58700  0.41300  0.50000  1.0000
+  Pt  Pt4       1.0  0.41300  0.58700  0.50000  1.0000

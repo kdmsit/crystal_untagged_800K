@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       La4Ni3Pb4
+_chemical_formula_sum              "La4 Ni3 Pb4"
+_cell_length_a       6.70494
+_cell_length_b       6.70494
+_cell_length_c       6.70494
+_cell_angle_alpha    96.4218
+_cell_angle_beta     96.4218
+_cell_angle_gamma    96.4218
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.44600  0.68400  0.17000  1.0000
+  La  La2       1.0  0.68400  0.17000  0.44600  1.0000
+  La  La3       1.0  0.17000  0.44600  0.68400  1.0000
+  La  La4       1.0  0.87200  0.87200  0.87200  1.0000
+  Ni  Ni1       1.0  0.75000  0.60800  0.46500  1.0000
+  Ni  Ni2       1.0  0.46500  0.75000  0.60800  1.0000
+  Ni  Ni3       1.0  0.60800  0.46500  0.75000  1.0000
+  Pb  Pb1       1.0  0.86100  0.43300  0.08240  1.0000
+  Pb  Pb2       1.0  0.22800  0.22800  0.22800  1.0000
+  Pb  Pb3       1.0  0.08240  0.86100  0.43300  1.0000
+  Pb  Pb4       1.0  0.43300  0.08240  0.86100  1.0000

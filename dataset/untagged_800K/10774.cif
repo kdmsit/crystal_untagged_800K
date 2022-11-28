@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       H3Li4MgN3
+_chemical_formula_sum              "H3 Li4 Mg1 N3"
+_cell_length_a       3.64115
+_cell_length_b       4.72034
+_cell_length_c       6.07123
+_cell_angle_alpha    112.877
+_cell_angle_beta     107.45
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.50000  0.95100  0.00000  1.0000
+  H   H2        1.0  0.10500  0.19700  0.21000  1.0000
+  H   H3        1.0  0.89500  0.98700  0.79000  1.0000
+  Li  Li1       1.0  0.67300  0.67400  0.34500  1.0000
+  Li  Li2       1.0  0.68000  0.18000  0.36000  1.0000
+  Li  Li3       1.0  0.32000  0.82000  0.64000  1.0000
+  Li  Li4       1.0  0.32700  0.32900  0.65500  1.0000
+  Mg  Mg1       1.0  0.00000  0.52700  0.00000  1.0000
+  N   N1        1.0  0.50000  0.73300  0.00000  1.0000
+  N   N2        1.0  0.16600  0.43000  0.33300  1.0000
+  N   N3        1.0  0.83400  0.09710  0.66700  1.0000

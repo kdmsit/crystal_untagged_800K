@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MnFe4SiB2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53049600
+_cell_length_b   5.53049600
+_cell_length_c   6.45754465
+_cell_angle_alpha   115.35463243
+_cell_angle_beta   115.35463243
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnFe4SiB2
+_chemical_formula_sum   'Mn2 Fe8 Si2 B4'
+_cell_volume   157.17560757
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.50000000  0.00000000  1
+  Mn  Mn1  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe2  1  0.03255000  0.53255000  0.72772900  1
+  Fe  Fe3  1  0.69517900  0.19517900  0.72772900  1
+  Fe  Fe4  1  0.19517900  0.03255000  0.72772900  1
+  Fe  Fe5  1  0.53255000  0.69517900  0.72772900  1
+  Fe  Fe6  1  0.96745000  0.46745000  0.27227100  1
+  Fe  Fe7  1  0.30482100  0.80482100  0.27227100  1
+  Fe  Fe8  1  0.80482100  0.96745000  0.27227100  1
+  Fe  Fe9  1  0.46745000  0.30482100  0.27227100  1
+  Si  Si10  1  0.25000000  0.25000000  0.50000000  1
+  Si  Si11  1  0.75000000  0.75000000  0.50000000  1
+  B  B12  1  0.38078500  0.88078500  0.00000000  1
+  B  B13  1  0.61921500  0.11921500  0.00000000  1
+  B  B14  1  0.11921500  0.38078500  0.00000000  1
+  B  B15  1  0.88078500  0.61921500  0.00000000  1

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cr3Fe2Sn2
+_chemical_formula_sum              "Cr3 Fe2 Sn2"
+_cell_length_a       4.17576
+_cell_length_b       4.17576
+_cell_length_c       6.89877
+_cell_angle_alpha    72.3834
+_cell_angle_beta     72.3834
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.08970  0.08970  0.73100  1.0000
+  Cr  Cr2       1.0  0.37400  0.37400  0.87900  1.0000
+  Cr  Cr3       1.0  0.67400  0.67400  0.97900  1.0000
+  Fe  Fe1       1.0  0.23600  0.23600  0.29200  1.0000
+  Fe  Fe2       1.0  0.78900  0.78900  0.63200  1.0000
+  Sn  Sn1       1.0  0.95000  0.95000  0.14900  1.0000
+  Sn  Sn2       1.0  0.51200  0.51200  0.46300  1.0000

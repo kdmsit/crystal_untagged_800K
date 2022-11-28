@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_PrAu
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.82772
+_cell_length_b       5.89827
+_cell_length_c       7.4977
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  PrAu
+_chemical_formula_sum  Pr4Au4
+_cell_volume  213.4981572888234
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Au  Au1  1  0.25000  0.84650  0.54196  1
+ Au  Au2  1  0.25000  0.65350  0.04196  1
+ Au  Au3  1  0.75000  0.15350  0.45804  1
+ Au  Au4  1  0.75000  0.34650  0.95804  1
+ Pr  Pr1  1  0.25000  0.35486  0.68485  1
+ Pr  Pr2  1  0.25000  0.14514  0.18485  1
+ Pr  Pr3  1  0.75000  0.64514  0.31515  1
+ Pr  Pr4  1  0.75000  0.85486  0.81515  1

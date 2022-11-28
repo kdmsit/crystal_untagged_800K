@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_TiS2
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.41243
+_cell_length_b       3.41269
+_cell_length_c       11.8146
+_cell_angle_alpha    81.6947
+_cell_angle_beta     81.8214
+_cell_angle_gamma    59.9953
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  TiS2
+_chemical_formula_sum  Ti2S4
+_cell_volume  117.50460651551418
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ S  S1  1  0.78729  0.29042  0.63228  1
+ S  S2  1  0.21271  0.70958  0.36772  1
+ S  S3  1  0.37501  0.87462  0.87610  1
+ S  S4  1  0.62499  0.12538  0.12390  1
+ Ti  Ti1  1  0.08105  0.58249  0.75429  1
+ Ti  Ti2  1  -0.08105  0.41751  0.24571  1

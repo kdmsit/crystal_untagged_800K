@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_RbBa2Fe2F9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85690776
+_cell_length_b   7.85690776
+_cell_length_c   7.85690744
+_cell_angle_alpha   44.83252087
+_cell_angle_beta   44.83252087
+_cell_angle_gamma   44.83251759
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbBa2Fe2F9
+_chemical_formula_sum   'Rb1 Ba2 Fe2 F9'
+_cell_volume   219.35721600
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.21339200  0.21339200  0.21339200  1
+  Ba  Ba1  1  0.99916500  0.99916500  0.99916500  1
+  Ba  Ba2  1  0.79312200  0.79312200  0.79312200  1
+  Fe  Fe3  1  0.39156000  0.39156000  0.39156000  1
+  Fe  Fe4  1  0.60434300  0.60434300  0.60434300  1
+  F  F5  1  0.26554200  0.78217000  0.26554200  1
+  F  F6  1  0.78217000  0.26554200  0.26554200  1
+  F  F7  1  0.26554200  0.26554200  0.78217000  1
+  F  F8  1  0.73494700  0.21025600  0.73494700  1
+  F  F9  1  0.21025600  0.73494700  0.73494700  1
+  F  F10  1  0.73494700  0.73494700  0.21025600  1
+  F  F11  1  0.99265900  0.50617800  0.50617800  1
+  F  F12  1  0.50617800  0.50617800  0.99265900  1
+  F  F13  1  0.50617800  0.99265900  0.50617800  1

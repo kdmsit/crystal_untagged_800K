@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Li4N6Si2Sr3
+_chemical_formula_sum              "Li4 N6 Si2 Sr3"
+_cell_length_a       5.72156
+_cell_length_b       5.72156
+_cell_length_c       6.19658
+_cell_angle_alpha    90.1464
+_cell_angle_beta     90.1464
+_cell_angle_gamma    115.338
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.68600  0.03750  0.12100  1.0000
+  Li  Li2       1.0  0.03750  0.68600  0.12100  1.0000
+  Li  Li3       1.0  0.96300  0.31400  0.87900  1.0000
+  Li  Li4       1.0  0.31400  0.96300  0.87900  1.0000
+  N   N1        1.0  0.35100  0.04950  0.20400  1.0000
+  N   N2        1.0  0.04950  0.35100  0.20400  1.0000
+  N   N3        1.0  0.81700  0.81700  0.37700  1.0000
+  N   N4        1.0  0.18300  0.18300  0.62300  1.0000
+  N   N5        1.0  0.95100  0.64900  0.79600  1.0000
+  N   N6        1.0  0.64900  0.95100  0.79600  1.0000
+  Si  Si1       1.0  0.11100  0.11100  0.32700  1.0000
+  Si  Si2       1.0  0.88900  0.88900  0.67300  1.0000
+  Sr  Sr1       1.0  0.50000  0.50000  0.00000  1.0000
+  Sr  Sr2       1.0  0.69100  0.30900  0.50000  1.0000
+  Sr  Sr3       1.0  0.30900  0.69100  0.50000  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ho2O8P2
+_chemical_formula_sum              "Ho2 O8 P2"
+_cell_length_a       5.69439
+_cell_length_b       5.69439
+_cell_length_c       5.69439
+_cell_angle_alpha    106.112
+_cell_angle_beta     116.42
+_cell_angle_gamma    106.112
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.87500  0.75000  0.12500  1.0000
+  Ho  Ho2       1.0  0.12500  0.25000  0.87500  1.0000
+  O   O1        1.0  0.28800  0.07320  0.21400  1.0000
+  O   O2        1.0  0.64100  0.42700  0.21400  1.0000
+  O   O3        1.0  0.21400  0.57300  0.28800  1.0000
+  O   O4        1.0  0.78600  0.07320  0.35900  1.0000
+  O   O5        1.0  0.21400  0.92700  0.64100  1.0000
+  O   O6        1.0  0.78600  0.42700  0.71200  1.0000
+  O   O7        1.0  0.35900  0.57300  0.78600  1.0000
+  O   O8        1.0  0.71200  0.92700  0.78600  1.0000
+  P   P1        1.0  0.62500  0.25000  0.37500  1.0000
+  P   P2        1.0  0.37500  0.75000  0.62500  1.0000

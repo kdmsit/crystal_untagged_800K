@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Np2InNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35017200
+_cell_length_b   7.35017200
+_cell_length_c   3.61201100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Np2InNi2
+_chemical_formula_sum   'Np4 In2 Ni4'
+_cell_volume   195.13899696
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Np  Np0  1  0.67109200  0.17109200  0.50000000  1
+  Np  Np1  1  0.17109200  0.32890800  0.50000000  1
+  Np  Np2  1  0.32890800  0.82890800  0.50000000  1
+  Np  Np3  1  0.82890800  0.67109200  0.50000000  1
+  In  In4  1  0.00000000  0.00000000  0.00000000  1
+  In  In5  1  0.50000000  0.50000000  0.00000000  1
+  Ni  Ni6  1  0.62653700  0.87346300  0.00000000  1
+  Ni  Ni7  1  0.87346300  0.37346300  0.00000000  1
+  Ni  Ni8  1  0.12653700  0.62653700  0.00000000  1
+  Ni  Ni9  1  0.37346300  0.12653700  0.00000000  1

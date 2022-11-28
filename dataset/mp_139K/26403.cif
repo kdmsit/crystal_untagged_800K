@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2PrO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.20879479
+_cell_length_b   6.20879479
+_cell_length_c   11.47525190
+_cell_angle_alpha   95.11764636
+_cell_angle_beta   95.11764636
+_cell_angle_gamma   120.23855318
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2PrO3
+_chemical_formula_sum   'Na8 Pr4 O12'
+_cell_volume   375.99588828
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.18313800  0.83530900  0.50093000  1
+  Na  Na1  1  0.66469100  0.31686200  0.99907000  1
+  Na  Na2  1  0.81686200  0.16469100  0.49907000  1
+  Na  Na3  1  0.33530900  0.68313800  0.00093000  1
+  Na  Na4  1  0.50000000  0.50000000  0.50000000  1
+  Na  Na5  1  0.00000000  0.00000000  0.00000000  1
+  Na  Na6  1  0.41766100  0.08233900  0.25000000  1
+  Na  Na7  1  0.58233900  0.91766100  0.75000000  1
+  Pr  Pr8  1  0.75172200  0.74827800  0.25000000  1
+  Pr  Pr9  1  0.24827800  0.25172200  0.75000000  1
+  Pr  Pr10  1  0.08504100  0.41495900  0.25000000  1
+  Pr  Pr11  1  0.91495900  0.58504100  0.75000000  1
+  O  O12  1  0.45393800  0.76060200  0.36716300  1
+  O  O13  1  0.73939800  0.04606200  0.13283700  1
+  O  O14  1  0.54606200  0.23939800  0.63283700  1
+  O  O15  1  0.26060200  0.95393800  0.86716300  1
+  O  O16  1  0.81229000  0.47222600  0.36431400  1
+  O  O17  1  0.02777400  0.68771000  0.13568600  1
+  O  O18  1  0.18771000  0.52777400  0.63568600  1
+  O  O19  1  0.97222600  0.31229000  0.86431400  1
+  O  O20  1  0.09849300  0.12204500  0.36663900  1
+  O  O21  1  0.37795500  0.40150700  0.13336100  1
+  O  O22  1  0.90150700  0.87795500  0.63336100  1
+  O  O23  1  0.62204500  0.59849300  0.86663900  1

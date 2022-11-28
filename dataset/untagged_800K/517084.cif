@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Gd2Mg2O2S2
+_chemical_formula_sum              "Gd2 Mg2 O2 S2"
+_cell_length_a       4.31656
+_cell_length_b       4.31656
+_cell_length_c       10.6521
+_cell_angle_alpha    101.69
+_cell_angle_beta     101.69
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.77100  0.77100  0.31400  1.0000
+  Gd  Gd2       1.0  0.22900  0.22900  0.68600  1.0000
+  Mg  Mg1       1.0  0.36300  0.36300  0.08930  1.0000
+  Mg  Mg2       1.0  0.63700  0.63700  0.91100  1.0000
+  O   O1        1.0  0.70000  0.70000  0.09870  1.0000
+  O   O2        1.0  0.30000  0.30000  0.90100  1.0000
+  S   S1        1.0  0.12900  0.12900  0.38700  1.0000
+  S   S2        1.0  0.87100  0.87100  0.61300  1.0000

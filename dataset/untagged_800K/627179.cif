@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_YbCuS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92469400
+_cell_length_b   6.20760800
+_cell_length_c   13.99684800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbCuS2
+_chemical_formula_sum   'Yb4 Cu4 S8'
+_cell_volume   341.00467415
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.73214000  0.77232600  0.13623900  1
+  Yb  Yb1  1  0.26786000  0.27232600  0.36376100  1
+  Yb  Yb2  1  0.23214000  0.72767400  0.86376100  1
+  Yb  Yb3  1  0.76786000  0.22767400  0.63623900  1
+  Cu  Cu4  1  0.23288300  0.38520500  0.05210300  1
+  Cu  Cu5  1  0.26711700  0.61479500  0.55210300  1
+  Cu  Cu6  1  0.73288300  0.11479500  0.94789700  1
+  Cu  Cu7  1  0.76711700  0.88520500  0.44789700  1
+  S  S8  1  0.76865000  0.51480400  0.47024200  1
+  S  S9  1  0.26865000  0.98519600  0.52975800  1
+  S  S10  1  0.23135000  0.01480400  0.02975800  1
+  S  S11  1  0.23332700  0.51239400  0.20010500  1
+  S  S12  1  0.73135000  0.48519600  0.97024200  1
+  S  S13  1  0.73332700  0.98760600  0.79989500  1
+  S  S14  1  0.26667300  0.48760600  0.70010500  1
+  S  S15  1  0.76667300  0.01239400  0.29989500  1

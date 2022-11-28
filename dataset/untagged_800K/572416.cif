@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Na4Nb4O4Se4
+_chemical_formula_sum              "Na4 Nb4 O4 Se4"
+_cell_length_a       7.40577
+_cell_length_b       6.27697
+_cell_length_c       5.7838
+_cell_angle_alpha    90
+_cell_angle_beta     104.401
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.10600  0.75000  0.03300  1.0000
+  Na  Na2       1.0  0.89400  0.25000  0.46700  1.0000
+  Na  Na3       1.0  0.10600  0.75000  0.53300  1.0000
+  Na  Na4       1.0  0.89400  0.25000  0.96700  1.0000
+  Nb  Nb1       1.0  0.48700  0.12000  0.23300  1.0000
+  Nb  Nb2       1.0  0.51300  0.62000  0.26700  1.0000
+  Nb  Nb3       1.0  0.48700  0.38000  0.73300  1.0000
+  Nb  Nb4       1.0  0.51300  0.88000  0.76700  1.0000
+  O   O1        1.0  0.64500  0.36900  0.11800  1.0000
+  O   O2        1.0  0.35500  0.86900  0.38200  1.0000
+  O   O3        1.0  0.64500  0.13100  0.61800  1.0000
+  O   O4        1.0  0.35500  0.63100  0.88200  1.0000
+  Se  Se1       1.0  0.77100  0.88500  0.16900  1.0000
+  Se  Se2       1.0  0.22900  0.38500  0.33100  1.0000
+  Se  Se3       1.0  0.77100  0.61500  0.66900  1.0000
+  Se  Se4       1.0  0.22900  0.11500  0.83100  1.0000

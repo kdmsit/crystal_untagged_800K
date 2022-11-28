@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_H2C2S
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       4.60034
+_cell_length_b       4.62069
+_cell_length_c       6.16327
+_cell_angle_alpha    88.1154
+_cell_angle_beta     111.509
+_cell_angle_gamma    96.562
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  H2C2S
+_chemical_formula_sum  H4C4S2
+_cell_volume  121.08296840446597
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.02647  0.92696  0.43329  1
+ C  C2  1  0.90107  0.61066  0.42696  1
+ C  C3  1  0.99562  0.11303  0.61887  1
+ C  C4  1  0.11479  0.42917  0.61267  1
+ H  H1  1  0.27839  0.94791  0.45626  1
+ H  H2  1  0.34395  0.44957  0.58950  1
+ H  H3  1  0.90515  0.02863  0.26455  1
+ H  H4  1  0.16001  0.53474  0.78156  1
+ S  S1  1  0.56074  0.48519  0.23473  1
+ S  S2  1  0.84345  -0.00795  0.81039  1

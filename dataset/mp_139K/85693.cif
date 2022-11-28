@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CdGa(AgSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.10374000
+_cell_length_b   7.48249500
+_cell_length_c   8.15865900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdGa(AgSe2)2
+_chemical_formula_sum   'Cd2 Ga2 Ag4 Se8'
+_cell_volume   433.66290499
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.50828900  0.34996900  0.00000000  1
+  Cd  Cd1  1  0.00828900  0.65003100  0.50000000  1
+  Ga  Ga2  1  0.99740100  0.66953200  0.00000000  1
+  Ga  Ga3  1  0.49740100  0.33046800  0.50000000  1
+  Ag  Ag4  1  0.51657200  0.82657500  0.75221800  1
+  Ag  Ag5  1  0.01657200  0.17342500  0.74778200  1
+  Ag  Ag6  1  0.01657200  0.17342500  0.25221800  1
+  Ag  Ag7  1  0.51657200  0.82657500  0.24778200  1
+  Se  Se8  1  0.88899600  0.35786900  0.00000000  1
+  Se  Se9  1  0.38899600  0.64213100  0.50000000  1
+  Se  Se10  1  0.88865100  0.83524000  0.76099700  1
+  Se  Se11  1  0.38865100  0.16476000  0.73900300  1
+  Se  Se12  1  0.38865100  0.16476000  0.26099700  1
+  Se  Se13  1  0.88865100  0.83524000  0.23900300  1
+  Se  Se14  1  0.34736800  0.67402800  0.00000000  1
+  Se  Se15  1  0.84736800  0.32597200  0.50000000  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ca2FeCuSO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87717203
+_cell_length_b   3.87472426
+_cell_length_c   14.90745591
+_cell_angle_alpha   90.03974904
+_cell_angle_beta   90.00472766
+_cell_angle_gamma   89.98749329
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2FeCuSO3
+_chemical_formula_sum   'Ca4 Fe2 Cu2 S2 O6'
+_cell_volume   223.95424013
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.74988000  0.75005900  0.18819100  1
+  Ca  Ca1  1  0.25015400  0.24990900  0.81181500  1
+  Ca  Ca2  1  0.75003800  0.74992400  0.41384700  1
+  Ca  Ca3  1  0.25000400  0.25000400  0.58615300  1
+  Fe  Fe4  1  0.24996300  0.24997300  0.30793800  1
+  Fe  Fe5  1  0.74994200  0.75000000  0.69202200  1
+  Cu  Cu6  1  0.25089300  0.75066800  0.00016600  1
+  Cu  Cu7  1  0.74901400  0.24955200  0.99985500  1
+  S  S8  1  0.75052100  0.74970800  0.90354000  1
+  S  S9  1  0.24948900  0.25033600  0.09647500  1
+  O  O10  1  0.75003000  0.74996100  0.56347100  1
+  O  O11  1  0.25001100  0.24998300  0.43652400  1
+  O  O12  1  0.75003500  0.24999000  0.71405200  1
+  O  O13  1  0.25007300  0.74998700  0.71404100  1
+  O  O14  1  0.25000000  0.74999100  0.28595000  1
+  O  O15  1  0.74995300  0.24995500  0.28596100  1

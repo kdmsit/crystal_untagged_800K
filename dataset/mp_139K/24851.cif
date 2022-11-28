@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tb2TiCuO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.65654800
+_cell_length_b   3.65654796
+_cell_length_c   11.34544500
+_cell_angle_alpha   90.00002392
+_cell_angle_beta   90.00005659
+_cell_angle_gamma   60.00098958
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2TiCuO6
+_chemical_formula_sum   'Tb2 Ti1 Cu1 O6'
+_cell_volume   131.37086211
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00000700  0.00000600  0.27215000  1
+  Tb  Tb1  1  0.99999600  0.99999600  0.72374300  1
+  Ti  Ti2  1  0.33333200  0.33333000  0.99835800  1
+  Cu  Cu3  1  0.66664800  0.66664800  0.49790600  1
+  O  O4  1  0.33334000  0.33334100  0.16215500  1
+  O  O5  1  0.66665900  0.66666000  0.66664900  1
+  O  O6  1  0.00000000  0.00000200  0.99796000  1
+  O  O7  1  0.00001500  0.00001400  0.49804000  1
+  O  O8  1  0.66667000  0.66667100  0.32952000  1
+  O  O9  1  0.33333200  0.33333200  0.83351800  1

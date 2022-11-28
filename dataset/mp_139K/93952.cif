@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Fe2IrN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31001601
+_cell_length_b   5.47429511
+_cell_length_c   4.86861300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.02878618
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2IrN3
+_chemical_formula_sum   'Fe4 Ir2 N6'
+_cell_volume   121.27288405
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.37388000  0.35421100  0.49236900  1
+  Fe  Fe1  1  0.62612000  0.98032900  0.49236900  1
+  Fe  Fe2  1  0.62612000  0.64578900  0.99236900  1
+  Fe  Fe3  1  0.37388000  0.01967100  0.99236900  1
+  Ir  Ir4  1  0.00000000  0.60838000  0.49031800  1
+  Ir  Ir5  1  0.00000000  0.39162000  0.99031800  1
+  N  N6  1  0.31441000  0.30458000  0.86667300  1
+  N  N7  1  0.68559000  0.99017000  0.86667300  1
+  N  N8  1  0.68559000  0.69542000  0.36667300  1
+  N  N9  1  0.31441000  0.00983000  0.36667300  1
+  N  N10  1  0.00000000  0.74075600  0.87959900  1
+  N  N11  1  0.00000000  0.25924400  0.37959900  1

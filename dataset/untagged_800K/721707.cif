@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_UBr4(NO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80936962
+_cell_length_b   5.36311246
+_cell_length_c   7.64113441
+_cell_angle_alpha   82.65989256
+_cell_angle_beta   101.93300234
+_cell_angle_gamma   114.14166184
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UBr4(NO2)2
+_chemical_formula_sum   'U1 Br4 N2 O4'
+_cell_volume   248.84869841
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.00000000  0.50000000  0.00000000  1
+  Br  Br1  1  0.63095600  0.29924200  0.14909700  1
+  Br  Br2  1  0.36904400  0.70075800  0.85090300  1
+  Br  Br3  1  0.77713700  0.31160800  0.67229300  1
+  Br  Br4  1  0.22286300  0.68839200  0.32770700  1
+  N  N5  1  0.81072100  0.88370100  0.34948800  1
+  N  N6  1  0.18927900  0.11629900  0.65051200  1
+  O  O7  1  0.01839500  0.12901700  0.03273700  1
+  O  O8  1  0.98160500  0.87098300  0.96726300  1
+  O  O9  1  0.78033600  0.82949300  0.49394700  1
+  O  O10  1  0.21966400  0.17050700  0.50605300  1

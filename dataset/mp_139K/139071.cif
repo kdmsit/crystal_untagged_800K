@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ca(FeS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.02426913
+_cell_length_b   7.02426913
+_cell_length_c   7.02426913
+_cell_angle_alpha   121.65683425
+_cell_angle_beta   117.76852563
+_cell_angle_gamma   90.53107325
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(FeS2)2
+_chemical_formula_sum   'Ca2 Fe4 S8'
+_cell_volume   245.77156641
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.00000000  1
+  Ca  Ca1  1  0.50000000  0.00000000  0.50000000  1
+  Fe  Fe2  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe3  1  0.00000000  0.50000000  0.50000000  1
+  Fe  Fe4  1  0.50000000  0.00000000  0.00000000  1
+  Fe  Fe5  1  0.50000000  0.50000000  0.00000000  1
+  S  S6  1  0.69349500  0.72821300  0.96528200  1
+  S  S7  1  0.26339900  0.30495000  0.54155100  1
+  S  S8  1  0.26293000  0.72821300  0.53471800  1
+  S  S9  1  0.73660100  0.27815200  0.04155100  1
+  S  S10  1  0.73707000  0.27178700  0.46528200  1
+  S  S11  1  0.73660100  0.69505000  0.45844900  1
+  S  S12  1  0.26339900  0.72184800  0.95844900  1
+  S  S13  1  0.30650500  0.27178700  0.03471800  1

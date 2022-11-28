@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_GeTe
+_symmetry_space_group_name_H-M  'Ibam'
+_cell_length_a       4.0724
+_cell_length_b       13.3885
+_cell_length_c       10.7851
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  72
+_chemical_formula_structural  GeTe
+_chemical_formula_sum  Ge8Te8
+_cell_volume  588.037239330323
+_cell_formula_units_Z  8
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.50014  0.74318  0.89422  1
+ Ge  Ge2  1  0.49986  0.25682  0.10578  1
+ Ge  Ge3  1  0.00014  0.74318  0.10578  1
+ Ge  Ge4  1  0.00014  0.75682  0.60578  1
+ Ge  Ge5  1  -0.00014  0.25682  0.89422  1
+ Ge  Ge6  1  0.49986  0.24318  0.60578  1
+ Ge  Ge7  1  0.50014  0.75682  0.39422  1
+ Ge  Ge8  1  -0.00014  0.24318  0.39422  1
+ Te  Te1  1  0.49988  0.37528  0.32743  1
+ Te  Te2  1  0.00012  0.62472  0.32743  1
+ Te  Te3  1  0.50012  0.87528  0.17257  1
+ Te  Te4  1  -0.00012  0.12472  0.17257  1
+ Te  Te5  1  0.50012  0.62472  0.67257  1
+ Te  Te6  1  -0.00012  0.37528  0.67257  1
+ Te  Te7  1  0.00012  0.87528  0.82743  1
+ Te  Te8  1  0.49988  0.12472  0.82743  1

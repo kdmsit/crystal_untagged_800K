@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ge4InNi2Tm4
+_chemical_formula_sum              "Ge4 In1 Ni2 Tm4"
+_cell_length_a       4.19124
+_cell_length_b       6.98251
+_cell_length_c       7.94886
+_cell_angle_alpha    107.88
+_cell_angle_beta     105.286
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.06620  0.66300  0.13200  1.0000
+  Ge  Ge2       1.0  0.20200  0.26400  0.40300  1.0000
+  Ge  Ge3       1.0  0.79800  0.73600  0.59700  1.0000
+  Ge  Ge4       1.0  0.93400  0.33700  0.86800  1.0000
+  In  In1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni1       1.0  0.21800  0.63800  0.43600  1.0000
+  Ni  Ni2       1.0  0.78200  0.36200  0.56400  1.0000
+  Tm  Tm1       1.0  0.59100  0.39000  0.18200  1.0000
+  Tm  Tm2       1.0  0.65600  0.93700  0.31200  1.0000
+  Tm  Tm3       1.0  0.34400  0.06330  0.68800  1.0000
+  Tm  Tm4       1.0  0.40900  0.61000  0.81800  1.0000

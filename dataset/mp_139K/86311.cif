@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrFeMo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21232007
+_cell_length_b   5.20261881
+_cell_length_c   8.48620600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.88371915
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrFeMo
+_chemical_formula_sum   'Zr4 Fe4 Mo4'
+_cell_volume   199.52851303
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.66307900  0.33141700  0.56809100  1
+  Zr  Zr1  1  0.32473600  0.66252500  0.44774900  1
+  Zr  Zr2  1  0.32473600  0.66252500  0.05225100  1
+  Zr  Zr3  1  0.66307900  0.33141700  0.93190900  1
+  Fe  Fe4  1  0.00263800  0.00130500  0.51415400  1
+  Fe  Fe5  1  0.00263800  0.00130500  0.98584600  1
+  Fe  Fe6  1  0.17536500  0.34013100  0.75000000  1
+  Fe  Fe7  1  0.17545900  0.83513900  0.75000000  1
+  Mo  Mo8  1  0.67156300  0.83575800  0.75000000  1
+  Mo  Mo9  1  0.83085500  0.66520500  0.25000000  1
+  Mo  Mo10  1  0.83086800  0.16574100  0.25000000  1
+  Mo  Mo11  1  0.33498300  0.16753400  0.25000000  1

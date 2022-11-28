@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TePOs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.21330700
+_cell_length_b   6.23441551
+_cell_length_c   6.37334763
+_cell_angle_alpha   112.83472613
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TePOs
+_chemical_formula_sum   'Te4 P4 Os4'
+_cell_volume   227.53168230
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.62589800  0.83388400  0.69469000  1
+  Te  Te1  1  0.37410200  0.16611600  0.30531000  1
+  Te  Te2  1  0.12589800  0.16611600  0.80531000  1
+  Te  Te3  1  0.87410200  0.83388400  0.19469000  1
+  P  P4  1  0.36646600  0.63769300  0.89290500  1
+  P  P5  1  0.63353400  0.36230700  0.10709500  1
+  P  P6  1  0.86646600  0.36230700  0.60709500  1
+  P  P7  1  0.13353400  0.63769300  0.39290500  1
+  Os  Os8  1  0.01919000  0.75027100  0.78677700  1
+  Os  Os9  1  0.98081000  0.24972900  0.21322300  1
+  Os  Os10  1  0.51919000  0.24972900  0.71322300  1
+  Os  Os11  1  0.48081000  0.75027100  0.28677700  1

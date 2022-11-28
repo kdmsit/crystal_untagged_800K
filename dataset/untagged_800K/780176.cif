@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_CrAs
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.6037
+_cell_length_b       5.67112
+_cell_length_c       6.2824
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  CrAs
+_chemical_formula_sum  Cr4As4
+_cell_volume  128.39365308612582
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.25000  0.72185  0.08181  1
+ As  As2  1  0.75000  0.27815  0.91819  1
+ As  As3  1  0.25000  0.22185  0.41819  1
+ As  As4  1  0.75000  0.77815  0.58181  1
+ Cr  Cr1  1  0.25000  0.50119  0.72236  1
+ Cr  Cr2  1  0.75000  0.49881  0.27764  1
+ Cr  Cr3  1  0.25000  0.00119  0.77764  1
+ Cr  Cr4  1  0.75000  0.99881  0.22236  1

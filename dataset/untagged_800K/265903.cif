@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       AlBiLi4O6
+_chemical_formula_sum              "Al1 Bi1 Li4 O6"
+_cell_length_a       5.19314
+_cell_length_b       5.19314
+_cell_length_c       5.14398
+_cell_angle_alpha    99.4471
+_cell_angle_beta     99.4471
+_cell_angle_gamma    120.229
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.83300  0.16700  0.00000  1.0000
+  Bi  Bi1       1.0  0.16700  0.83300  0.00000  1.0000
+  Li  Li1       1.0  0.50000  0.50000  0.00000  1.0000
+  Li  Li2       1.0  0.98200  0.01800  0.50000  1.0000
+  Li  Li3       1.0  0.66500  0.33500  0.50000  1.0000
+  Li  Li4       1.0  0.34700  0.65300  0.50000  1.0000
+  O   O1        1.0  0.60100  0.94000  0.23000  1.0000
+  O   O2        1.0  0.91900  0.55100  0.23400  1.0000
+  O   O3        1.0  0.21300  0.23600  0.23500  1.0000
+  O   O4        1.0  0.76400  0.78700  0.76500  1.0000
+  O   O5        1.0  0.44900  0.08130  0.76600  1.0000
+  O   O6        1.0  0.05990  0.39900  0.77000  1.0000

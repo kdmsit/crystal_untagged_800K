@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_ThGeO4
+_symmetry_space_group_name_H-M  'I4_1/amd'
+_cell_length_a       6.12887
+_cell_length_b       6.12887
+_cell_length_c       6.12888
+_cell_angle_alpha    106.975
+_cell_angle_beta     106.975
+_cell_angle_gamma    114.588
+
+_symmetry_Int_Tables_number  141
+_chemical_formula_structural  ThGeO4
+_chemical_formula_sum  Th2Ge2O8
+_cell_volume  176.15320808559747
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.37500  0.62500  0.75000  1
+ Ge  Ge2  1  0.62500  0.37500  0.25000  1
+ O  O1  1  0.80382  0.73622  0.43240  1
+ O  O2  1  0.37142  0.80382  0.56760  1
+ O  O3  1  0.73622  0.80382  0.93240  1
+ O  O4  1  0.80382  0.37142  0.06760  1
+ O  O5  1  0.62858  0.19618  0.43240  1
+ O  O6  1  0.19618  0.26378  0.56760  1
+ O  O7  1  0.19618  0.62858  0.93240  1
+ O  O8  1  0.26378  0.19618  0.06760  1
+ Th  Th1  1  0.12500  0.87500  0.25000  1
+ Th  Th2  1  0.87500  0.12500  0.75000  1

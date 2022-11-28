@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Gd4Ti6
+_chemical_formula_sum              "Gd4 Ti6"
+_cell_length_a       7.11835
+_cell_length_b       7.11835
+_cell_length_c       6.86887
+_cell_angle_alpha    121.209
+_cell_angle_beta     58.7911
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.59100  0.40900  0.22700  1.0000
+  Gd  Gd2       1.0  0.90900  0.09110  0.27300  1.0000
+  Gd  Gd3       1.0  0.09110  0.90900  0.72700  1.0000
+  Gd  Gd4       1.0  0.40900  0.59100  0.77300  1.0000
+  Ti  Ti1       1.0  0.04340  0.54300  0.25000  1.0000
+  Ti  Ti2       1.0  0.45700  0.75000  0.25000  1.0000
+  Ti  Ti3       1.0  0.25000  0.95700  0.25000  1.0000
+  Ti  Ti4       1.0  0.75000  0.04330  0.75000  1.0000
+  Ti  Ti5       1.0  0.54300  0.25000  0.75000  1.0000
+  Ti  Ti6       1.0  0.95700  0.45700  0.75000  1.0000

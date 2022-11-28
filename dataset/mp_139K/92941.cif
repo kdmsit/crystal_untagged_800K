@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Li3IrF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55275170
+_cell_length_b   5.98294567
+_cell_length_c   7.00524325
+_cell_angle_alpha   58.40810288
+_cell_angle_beta   137.52038001
+_cell_angle_gamma   119.29523738
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3IrF6
+_chemical_formula_sum   'Li3 Ir1 F6'
+_cell_volume   131.71356759
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.50000000  1
+  Li  Li1  1  0.50000000  0.50000000  0.00000000  1
+  Li  Li2  1  0.00000000  0.50000000  0.00000000  1
+  Ir  Ir3  1  0.00000000  0.00000000  0.00000000  1
+  F  F4  1  0.97905200  0.39579700  0.77120400  1
+  F  F5  1  0.02094800  0.60420300  0.22879600  1
+  F  F6  1  0.85972900  0.84012400  0.72763000  1
+  F  F7  1  0.14027100  0.15987600  0.27237000  1
+  F  F8  1  0.48313800  0.86919200  0.85261700  1
+  F  F9  1  0.51686200  0.13080800  0.14738300  1

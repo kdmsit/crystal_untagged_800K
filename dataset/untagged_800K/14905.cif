@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       CsMo2O8V
+_chemical_formula_sum              "Cs1 Mo2 O8 V1"
+_cell_length_a       5.70084
+_cell_length_b       5.69743
+_cell_length_c       7.80407
+_cell_angle_alpha    90
+_cell_angle_beta     89.955
+_cell_angle_gamma    119.98
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.00000  0.00000  0.00000  1.0000
+  Mo  Mo1       1.0  0.66600  0.33300  0.27300  1.0000
+  Mo  Mo2       1.0  0.33400  0.66700  0.72700  1.0000
+  O   O1        1.0  0.66700  0.33300  0.04910  1.0000
+  O   O2        1.0  0.83800  0.16100  0.34500  1.0000
+  O   O3        1.0  0.83800  0.67700  0.34500  1.0000
+  O   O4        1.0  0.32200  0.16100  0.34800  1.0000
+  O   O5        1.0  0.67800  0.83900  0.65200  1.0000
+  O   O6        1.0  0.16200  0.83900  0.65500  1.0000
+  O   O7        1.0  0.16200  0.32300  0.65500  1.0000
+  O   O8        1.0  0.33300  0.66700  0.95100  1.0000
+  V   V1        1.0  0.00000  0.00000  0.50000  1.0000

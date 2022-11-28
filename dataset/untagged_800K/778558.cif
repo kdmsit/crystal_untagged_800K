@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_PbIBr
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.45497
+_cell_length_b       8.73163
+_cell_length_c       10.5676
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  PbIBr
+_chemical_formula_sum  Pb4I4Br4
+_cell_volume  411.06887911110806
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.75000  0.34165  0.55347  1
+ Br  Br2  1  0.25000  0.65835  0.44653  1
+ Br  Br3  1  0.75000  0.84165  0.94653  1
+ Br  Br4  1  0.25000  0.15835  0.05348  1
+ I  I1  1  0.25000  0.99800  0.67013  1
+ I  I2  1  0.75000  0.50200  0.17013  1
+ I  I3  1  0.75000  0.00200  0.32987  1
+ I  I4  1  0.25000  0.49800  0.82987  1
+ Pb  Pb1  1  0.75000  0.16359  0.84464  1
+ Pb  Pb2  1  0.25000  0.83641  0.15536  1
+ Pb  Pb3  1  0.25000  0.33641  0.34464  1
+ Pb  Pb4  1  0.75000  0.66359  0.65536  1

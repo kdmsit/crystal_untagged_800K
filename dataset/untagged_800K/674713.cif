@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K5Br4Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.13030720
+_cell_length_b   8.13030720
+_cell_length_c   8.13030720
+_cell_angle_alpha   99.63019117
+_cell_angle_beta   99.63019117
+_cell_angle_gamma   131.71481881
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K5Br4Cl
+_chemical_formula_sum   'K5 Br4 Cl1'
+_cell_volume   366.08193459
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.59857200  0.20400300  0.80257500  1
+  K  K1  1  0.40142800  0.79599700  0.19742500  1
+  K  K2  1  0.79599700  0.59857200  0.39456900  1
+  K  K3  1  0.00000000  0.00000000  0.00000000  1
+  K  K4  1  0.20400300  0.40142800  0.60543100  1
+  Br  Br5  1  0.90021700  0.29994900  0.20016600  1
+  Br  Br6  1  0.29994900  0.09978300  0.39973300  1
+  Br  Br7  1  0.70005100  0.90021700  0.60026700  1
+  Br  Br8  1  0.09978300  0.70005100  0.79983400  1
+  Cl  Cl9  1  0.50000000  0.50000000  0.00000000  1

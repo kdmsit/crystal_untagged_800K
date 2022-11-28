@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LiSnN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.27673300
+_cell_length_b   3.27674276
+_cell_length_c   10.04568900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99991157
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSnN
+_chemical_formula_sum   'Li2 Sn2 N2'
+_cell_volume   93.41016753
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.66667600  0.33335300  0.72995100  1
+  Li  Li1  1  0.33332400  0.66664700  0.22995100  1
+  Sn  Sn2  1  0.99999600  0.99999200  0.49888500  1
+  Sn  Sn3  1  0.00000400  0.00000800  0.99888500  1
+  N  N4  1  0.33333000  0.66665900  0.61580400  1
+  N  N5  1  0.66667000  0.33334100  0.11580400  1

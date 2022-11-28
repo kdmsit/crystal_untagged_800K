@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Li2TiO3
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       5.72767
+_cell_length_b       8.86526
+_cell_length_c       5.16549
+_cell_angle_alpha    29.0729
+_cell_angle_beta     55.091
+_cell_angle_gamma    59.9888
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  Li2TiO3
+_chemical_formula_sum  Li4Ti2O6
+_cell_volume  104.51927671787737
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.00000  0.00565  0.99152  1
+ Li  Li2  1  -0.00000  0.65345  0.01983  1
+ Li  Li3  1  0.50000  0.32768  0.00848  1
+ Li  Li4  1  0.50000  0.67989  0.98017  1
+ O  O1  1  0.26127  0.01755  0.43702  1
+ O  O2  1  0.23873  0.31579  0.56298  1
+ O  O3  1  0.73873  0.01755  0.51034  1
+ O  O4  1  0.25000  0.66667  0.50000  1
+ O  O5  1  0.76127  0.31579  0.48966  1
+ O  O6  1  0.75000  0.66667  0.50000  1
+ Ti  Ti1  1  -0.00000  0.34568  0.98148  1
+ Ti  Ti2  1  0.50000  0.98765  0.01852  1

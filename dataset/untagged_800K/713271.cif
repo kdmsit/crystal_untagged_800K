@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ca2Ta2NiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.93640746
+_cell_length_b   9.93640746
+_cell_length_c   5.44023915
+_cell_angle_alpha   88.56840632
+_cell_angle_beta   88.56840632
+_cell_angle_gamma   37.17356399
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Ta2NiO8
+_chemical_formula_sum   'Ca4 Ta4 Ni2 O16'
+_cell_volume   324.43615551
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.88122500  0.53465400  0.25790800  1
+  Ca  Ca1  1  0.46534600  0.11877500  0.24209200  1
+  Ca  Ca2  1  0.11877500  0.46534600  0.74209200  1
+  Ca  Ca3  1  0.53465400  0.88122500  0.75790800  1
+  Ta  Ta4  1  0.03987200  0.74033300  0.25002200  1
+  Ta  Ta5  1  0.25966700  0.96012800  0.24997800  1
+  Ta  Ta6  1  0.96012800  0.25966700  0.74997800  1
+  Ta  Ta7  1  0.74033300  0.03987200  0.75002200  1
+  Ni  Ni8  1  0.63342900  0.36657100  0.25000000  1
+  Ni  Ni9  1  0.36657100  0.63342900  0.75000000  1
+  O  O10  1  0.05794500  0.80621300  0.58694100  1
+  O  O11  1  0.19378700  0.94205500  0.91305900  1
+  O  O12  1  0.94205500  0.19378700  0.41305900  1
+  O  O13  1  0.80621300  0.05794500  0.08694100  1
+  O  O14  1  0.30203600  0.58532300  0.08242500  1
+  O  O15  1  0.41467700  0.69796400  0.41757500  1
+  O  O16  1  0.69796400  0.41467700  0.91757500  1
+  O  O17  1  0.58532300  0.30203600  0.58242500  1
+  O  O18  1  0.88261000  0.75900900  0.98991700  1
+  O  O19  1  0.24099100  0.11739000  0.51008300  1
+  O  O20  1  0.47070500  0.15912500  0.83919600  1
+  O  O21  1  0.84087500  0.52929500  0.66080400  1
+  O  O22  1  0.52929500  0.84087500  0.16080400  1
+  O  O23  1  0.15912500  0.47070500  0.33919600  1
+  O  O24  1  0.75900900  0.88261000  0.48991700  1
+  O  O25  1  0.11739000  0.24099100  0.01008300  1

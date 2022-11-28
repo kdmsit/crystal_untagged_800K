@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       B6Ni12Sr
+_chemical_formula_sum              "B6 Ni12 Sr1"
+_cell_length_a       6.0786
+_cell_length_b       6.0786
+_cell_length_c       6.0786
+_cell_angle_alpha    104.48
+_cell_angle_beta     104.48
+_cell_angle_gamma    104.48
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.65900  0.23400  0.23400  1.0000
+  B   B2        1.0  0.23400  0.65900  0.23400  1.0000
+  B   B3        1.0  0.76600  0.76600  0.34100  1.0000
+  B   B4        1.0  0.23400  0.23400  0.65900  1.0000
+  B   B5        1.0  0.76600  0.34100  0.76600  1.0000
+  B   B6        1.0  0.34100  0.76600  0.76600  1.0000
+  Ni  Ni1       1.0  0.86800  0.50000  0.13200  1.0000
+  Ni  Ni2       1.0  0.50000  0.86800  0.13200  1.0000
+  Ni  Ni3       1.0  0.46000  0.46000  0.18800  1.0000
+  Ni  Ni4       1.0  0.46000  0.18800  0.46000  1.0000
+  Ni  Ni5       1.0  0.18800  0.46000  0.46000  1.0000
+  Ni  Ni6       1.0  0.86800  0.13200  0.50000  1.0000
+  Ni  Ni7       1.0  0.13200  0.86800  0.50000  1.0000
+  Ni  Ni8       1.0  0.81200  0.54000  0.54000  1.0000
+  Ni  Ni9       1.0  0.54000  0.81200  0.54000  1.0000
+  Ni  Ni10      1.0  0.54000  0.54000  0.81200  1.0000
+  Ni  Ni11      1.0  0.50000  0.13200  0.86800  1.0000
+  Ni  Ni12      1.0  0.13200  0.50000  0.86800  1.0000
+  Sr  Sr1       1.0  0.00000  0.00000  0.00000  1.0000

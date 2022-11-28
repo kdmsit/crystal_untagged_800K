@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_SnS
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.0336
+_cell_length_b       4.39449
+_cell_length_c       11.4243
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  SnS
+_chemical_formula_sum  Sn4S4
+_cell_volume  202.50331858154576
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ S  S1  1  0.25000  0.02787  0.35089  1
+ S  S2  1  0.75000  0.97213  0.64911  1
+ S  S3  1  0.75000  0.52787  0.14911  1
+ S  S4  1  0.25000  0.47213  0.85089  1
+ Sn  Sn1  1  0.25000  0.37272  0.62101  1
+ Sn  Sn2  1  0.75000  0.62728  0.37899  1
+ Sn  Sn3  1  0.75000  0.87272  0.87899  1
+ Sn  Sn4  1  0.25000  0.12728  0.12101  1

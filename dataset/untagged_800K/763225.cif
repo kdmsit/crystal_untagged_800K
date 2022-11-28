@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_YSiAg
+_symmetry_space_group_name_H-M  'P-62m'
+_cell_length_a       4.18403
+_cell_length_b       7.07487
+_cell_length_c       7.07489
+_cell_angle_alpha    120
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  189
+_chemical_formula_structural  YSiAg
+_chemical_formula_sum  Y3Si3Ag3
+_cell_volume  181.3695989225941
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.00000  0.25148  -0.00000  1
+ Ag  Ag2  1  0.00000  0.74847  0.74848  1
+ Ag  Ag3  1  0.00000  -0.00000  0.25152  1
+ Si  Si1  1  0.00000  0.33333  0.66667  1
+ Si  Si2  1  0.00000  0.66666  0.33333  1
+ Si  Si3  1  0.50000  -0.00002  0.00000  1
+ Y  Y1  1  0.50000  0.58394  -0.00000  1
+ Y  Y2  1  0.50000  0.41604  0.41605  1
+ Y  Y3  1  0.50000  -0.00001  0.58395  1

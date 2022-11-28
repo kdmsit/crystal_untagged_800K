@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SmGePd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71315865
+_cell_length_b   5.71315865
+_cell_length_c   7.23555094
+_cell_angle_alpha   51.66901923
+_cell_angle_beta   51.66901923
+_cell_angle_gamma   45.84128885
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmGePd
+_chemical_formula_sum   'Sm2 Ge2 Pd2'
+_cell_volume   125.26156747
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.54292100  0.54292100  0.69633000  1
+  Sm  Sm1  1  0.45707900  0.45707900  0.30367000  1
+  Ge  Ge2  1  0.84064400  0.84064400  0.10342800  1
+  Ge  Ge3  1  0.15935600  0.15935600  0.89657200  1
+  Pd  Pd4  1  0.17979500  0.17979500  0.27254300  1
+  Pd  Pd5  1  0.82020500  0.82020500  0.72745700  1

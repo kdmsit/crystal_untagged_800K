@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_Si3H
+_symmetry_space_group_name_H-M  'P-3m1'
+_cell_length_a       3.87821
+_cell_length_b       3.87825
+_cell_length_c       11.3746
+_cell_angle_alpha    89.9997
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  164
+_chemical_formula_structural  Si3H
+_chemical_formula_sum  Si6H2
+_cell_volume  148.1611287969671
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ H  H1  1  0.33334  0.66667  0.05411  1
+ H  H2  1  0.66666  0.33333  0.94589  1
+ Si  Si1  1  0.66667  0.33333  0.46455  1
+ Si  Si2  1  0.33333  0.66667  0.53545  1
+ Si  Si3  1  0.66666  0.33333  0.25430  1
+ Si  Si4  1  0.33334  0.66667  0.74570  1
+ Si  Si5  1  0.33332  0.66665  0.18663  1
+ Si  Si6  1  0.66668  0.33335  0.81337  1

@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Ho6Mn(GeS7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.78901554
+_cell_length_b   9.78901554
+_cell_length_c   5.80354500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999687
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho6Mn(GeS7)2
+_chemical_formula_sum   'Ho6 Mn1 Ge2 S14'
+_cell_volume   481.61725414
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.19743900  0.88815600  0.95681900  1
+  Ho  Ho1  1  0.69071800  0.80256100  0.95681900  1
+  Ho  Ho2  1  0.11184400  0.30928200  0.95681900  1
+  Ho  Ho3  1  0.46994700  0.44443200  0.45835200  1
+  Ho  Ho4  1  0.97448600  0.53005300  0.45835200  1
+  Ho  Ho5  1  0.55556800  0.02551400  0.45835200  1
+  Mn  Mn6  1  0.33333300  0.66666700  0.24549200  1
+  Ge  Ge7  1  0.00000000  0.00000000  0.37853600  1
+  Ge  Ge8  1  0.66666700  0.33333300  0.88093700  1
+  S  S9  1  0.23772000  0.14772000  0.21573700  1
+  S  S10  1  0.91000000  0.76228000  0.21573700  1
+  S  S11  1  0.85228000  0.09000000  0.21573700  1
+  S  S12  1  0.42882700  0.18514400  0.71836900  1
+  S  S13  1  0.75631800  0.57117300  0.71836900  1
+  S  S14  1  0.81485600  0.24368200  0.71836900  1
+  S  S15  1  0.00000000  0.00000000  0.75895100  1
+  S  S16  1  0.66666700  0.33333300  0.26064100  1
+  S  S17  1  0.08272500  0.56790500  0.01285700  1
+  S  S18  1  0.48518100  0.91727500  0.01285700  1
+  S  S19  1  0.43209500  0.51481900  0.01285700  1
+  S  S20  1  0.58437300  0.76409700  0.49676900  1
+  S  S21  1  0.17972400  0.41562700  0.49676900  1
+  S  S22  1  0.23590300  0.82027600  0.49676900  1

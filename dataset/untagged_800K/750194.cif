@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MgMn2O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.10794518
+_cell_length_b   5.28121531
+_cell_length_c   9.34200901
+_cell_angle_alpha   90.00142466
+_cell_angle_beta   90.00176583
+_cell_angle_gamma   107.30099592
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgMn2O4
+_chemical_formula_sum   'Mg2 Mn4 O8'
+_cell_volume   146.39954689
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.40420000  0.81392000  0.75099600  1
+  Mg  Mg1  1  0.59550200  0.18618000  0.25092300  1
+  Mn  Mn2  1  0.76182300  0.72616800  0.07087600  1
+  Mn  Mn3  1  0.03447100  0.27340200  0.92904600  1
+  Mn  Mn4  1  0.96548000  0.72670000  0.42905600  1
+  Mn  Mn5  1  0.23849600  0.27366800  0.57085400  1
+  O  O6  1  0.40466100  0.45114800  0.38474300  1
+  O  O7  1  0.95506400  0.54882600  0.61499600  1
+  O  O8  1  0.59542600  0.54885700  0.88474400  1
+  O  O9  1  0.04508000  0.45113100  0.11501600  1
+  O  O10  1  0.96149200  0.92132300  0.24987500  1
+  O  O11  1  0.03828400  0.07872200  0.74994000  1
+  O  O12  1  0.49925700  0.99892700  0.99946000  1
+  O  O13  1  0.50076400  0.00102600  0.49947600  1

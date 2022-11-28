@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sr5(CrN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.11570386
+_cell_length_b   6.60973710
+_cell_length_c   13.62294299
+_cell_angle_alpha   90.00000163
+_cell_angle_beta   99.69244271
+_cell_angle_gamma   122.71022254
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5(CrN3)2
+_chemical_formula_sum   'Sr10 Cr4 N12'
+_cell_volume   453.98226839
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.13873500  0.80680300  0.99483200  1
+  Sr  Sr1  1  0.86126500  0.66806800  0.50516800  1
+  Sr  Sr2  1  0.86126500  0.19319700  0.00516800  1
+  Sr  Sr3  1  0.13873500  0.33193200  0.49483200  1
+  Sr  Sr4  1  0.31441700  0.07322400  0.71858500  1
+  Sr  Sr5  1  0.68558300  0.75880700  0.78141500  1
+  Sr  Sr6  1  0.68558300  0.92677600  0.28141500  1
+  Sr  Sr7  1  0.31441700  0.24119300  0.21858500  1
+  Sr  Sr8  1  0.00000000  0.39195700  0.75000000  1
+  Sr  Sr9  1  0.00000000  0.60804300  0.25000000  1
+  Cr  Cr10  1  0.55056200  0.91449500  0.57170300  1
+  Cr  Cr11  1  0.44943800  0.36393200  0.92829700  1
+  Cr  Cr12  1  0.44943800  0.08550500  0.42829700  1
+  Cr  Cr13  1  0.55056200  0.63606800  0.07170300  1
+  N  N14  1  0.87496800  0.99516100  0.62611200  1
+  N  N15  1  0.12503200  0.12019200  0.87388800  1
+  N  N16  1  0.12503200  0.00483900  0.37388800  1
+  N  N17  1  0.87496800  0.87980800  0.12611200  1
+  N  N18  1  0.30509100  0.69938900  0.63825200  1
+  N  N19  1  0.69490900  0.39429700  0.86174800  1
+  N  N20  1  0.69490900  0.30061100  0.36174800  1
+  N  N21  1  0.30509100  0.60570300  0.13825200  1
+  N  N22  1  0.54693400  0.20142100  0.56416500  1
+  N  N23  1  0.45306600  0.65448800  0.93583500  1
+  N  N24  1  0.45306600  0.79857900  0.43583500  1
+  N  N25  1  0.54693400  0.34551200  0.06416500  1

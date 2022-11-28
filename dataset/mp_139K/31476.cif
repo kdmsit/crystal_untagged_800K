@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LuMgMoS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.61076042
+_cell_length_b   7.58467893
+_cell_length_c   7.58482713
+_cell_angle_alpha   60.08447237
+_cell_angle_beta   59.88727701
+_cell_angle_gamma   59.88876311
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuMgMoS4
+_chemical_formula_sum   'Lu2 Mg2 Mo2 S8'
+_cell_volume   309.26753275
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.49999900  0.50002000  0.49997500  1
+  Lu  Lu1  1  0.00000000  0.49998900  0.50001100  1
+  Mg  Mg2  1  0.87360700  0.87639400  0.87640400  1
+  Mg  Mg3  1  0.12638700  0.12362800  0.12361000  1
+  Mo  Mo4  1  0.49999900  0.49999500  0.99999400  1
+  Mo  Mo5  1  0.49999800  0.99999500  0.50000600  1
+  S  S6  1  0.72427200  0.74970900  0.74971700  1
+  S  S7  1  0.26369400  0.24299300  0.72963100  1
+  S  S8  1  0.26369300  0.72962400  0.24299400  1
+  S  S9  1  0.72371100  0.25028600  0.25028100  1
+  S  S10  1  0.73629600  0.27037200  0.75699400  1
+  S  S11  1  0.27628500  0.74970700  0.74972100  1
+  S  S12  1  0.27573700  0.25028100  0.25028800  1
+  S  S13  1  0.73632600  0.75700200  0.27037400  1

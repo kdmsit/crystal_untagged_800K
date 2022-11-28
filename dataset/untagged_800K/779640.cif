@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_LiBeN
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       4.51707
+_cell_length_b       4.73356
+_cell_length_c       5.8198
+_cell_angle_alpha    90
+_cell_angle_beta     125.328
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  LiBeN
+_chemical_formula_sum  Li4Be4N4
+_cell_volume  101.52379275642436
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Be  Be1  1  0.91655  0.60634  0.60658  1
+ Be  Be2  1  0.08345  0.10634  0.89342  1
+ Be  Be3  1  0.08345  0.39366  0.39342  1
+ Be  Be4  1  0.91655  0.89366  0.10658  1
+ Li  Li1  1  0.67581  0.45701  0.91186  1
+ Li  Li2  1  0.32419  0.95701  0.58814  1
+ Li  Li3  1  0.32419  0.54299  0.08814  1
+ Li  Li4  1  0.67581  0.04299  0.41186  1
+ N  N1  1  0.84676  0.80277  0.80070  1
+ N  N2  1  0.15324  0.30277  0.69930  1
+ N  N3  1  0.15324  0.19723  0.19930  1
+ N  N4  1  0.84676  0.69723  0.30070  1

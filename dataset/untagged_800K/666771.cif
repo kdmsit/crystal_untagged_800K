@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_ZrCu(O2F3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.83444300
+_cell_length_b   5.46636200
+_cell_length_c   7.30781632
+_cell_angle_alpha   84.19965213
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCu(O2F3)2
+_chemical_formula_sum   'Zr2 Cu2 O8 F12'
+_cell_volume   351.10412089
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.50000000  0.00000000  0.50000000  1
+  Zr  Zr1  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu2  1  0.50000000  0.50000000  0.00000000  1
+  Cu  Cu3  1  0.00000000  0.50000000  0.50000000  1
+  O  O4  1  0.88689700  0.74229600  0.57887600  1
+  O  O5  1  0.11310300  0.25770400  0.42112400  1
+  O  O6  1  0.38689700  0.25770400  0.92112400  1
+  O  O7  1  0.61310300  0.74229600  0.07887600  1
+  O  O8  1  0.16629200  0.61387500  0.60660700  1
+  O  O9  1  0.83370800  0.38612500  0.39339300  1
+  O  O10  1  0.66629200  0.38612500  0.89339300  1
+  O  O11  1  0.33370800  0.61387500  0.10660700  1
+  F  F12  1  0.32973300  0.23534200  0.57069900  1
+  F  F13  1  0.67026700  0.76465800  0.42930100  1
+  F  F14  1  0.82973300  0.76465800  0.92930100  1
+  F  F15  1  0.17026700  0.23534200  0.07069900  1
+  F  F16  1  0.14752800  0.80956200  0.85163300  1
+  F  F17  1  0.85247200  0.19043800  0.14836700  1
+  F  F18  1  0.64752800  0.19043800  0.64836700  1
+  F  F19  1  0.35247200  0.80956200  0.35163300  1
+  F  F20  1  0.46415200  0.77147700  0.73113100  1
+  F  F21  1  0.53584800  0.22852300  0.26886900  1
+  F  F22  1  0.96415200  0.22852300  0.76886900  1
+  F  F23  1  0.03584800  0.77147700  0.23113100  1

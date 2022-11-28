@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CaFeClO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.62387700
+_cell_length_b   4.14204248
+_cell_length_c   12.63314602
+_cell_angle_alpha   86.54096351
+_cell_angle_beta   82.13190858
+_cell_angle_gamma   88.69248549
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaFeClO2
+_chemical_formula_sum   'Ca2 Fe2 Cl2 O4'
+_cell_volume   187.47900006
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.63083300  0.39890200  0.84516200  1
+  Ca  Ca1  1  0.22123800  0.80064600  0.48591200  1
+  Fe  Fe2  1  0.72992400  0.07142500  0.26127400  1
+  Fe  Fe3  1  0.05906100  0.85922100  0.00370600  1
+  Cl  Cl4  1  0.35188000  0.56382600  0.27315200  1
+  Cl  Cl5  1  0.69944300  0.42318800  0.61687200  1
+  O  O6  1  0.98350100  0.09504600  0.13083400  1
+  O  O7  1  0.56977200  0.68507600  0.99106700  1
+  O  O8  1  0.12554600  0.10712900  0.87056100  1
+  O  O9  1  0.75748900  0.00727600  0.40592800  1

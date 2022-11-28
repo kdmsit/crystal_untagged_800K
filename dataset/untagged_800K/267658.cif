@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cd2Cs2Ho2Te6
+_chemical_formula_sum              "Cd2 Cs2 Ho2 Te6"
+_cell_length_a       8.86054
+_cell_length_b       4.51356
+_cell_length_c       11.8103
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    104.756
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.08040  0.04020  0.25000  1.0000
+  Cd  Cd2       1.0  0.92000  0.96000  0.75000  1.0000
+  Cs  Cs1       1.0  0.50100  0.75100  0.25000  1.0000
+  Cs  Cs2       1.0  0.49900  0.24900  0.75000  1.0000
+  Ho  Ho1       1.0  0.00000  0.50000  0.00000  1.0000
+  Ho  Ho2       1.0  0.00000  0.50000  0.50000  1.0000
+  Te  Te1       1.0  0.24400  0.12200  0.04380  1.0000
+  Te  Te2       1.0  0.87200  0.43600  0.25000  1.0000
+  Te  Te3       1.0  0.24400  0.12200  0.45600  1.0000
+  Te  Te4       1.0  0.75600  0.87800  0.54400  1.0000
+  Te  Te5       1.0  0.12800  0.56400  0.75000  1.0000
+  Te  Te6       1.0  0.75600  0.87800  0.95600  1.0000

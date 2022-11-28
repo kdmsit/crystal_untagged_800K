@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Cr(GeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.60664368
+_cell_length_b   6.60664368
+_cell_length_c   5.52194374
+_cell_angle_alpha   77.00642866
+_cell_angle_beta   77.00642866
+_cell_angle_gamma   83.20239106
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr(GeO3)2
+_chemical_formula_sum   'Cr2 Ge4 O12'
+_cell_volume   228.25151346
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.09606400  0.90393600  0.75000000  1
+  Cr  Cr1  1  0.90393600  0.09606400  0.25000000  1
+  Ge  Ge2  1  0.20381800  0.38541600  0.77293000  1
+  Ge  Ge3  1  0.61458400  0.79618200  0.72707000  1
+  Ge  Ge4  1  0.79618200  0.61458400  0.22707000  1
+  Ge  Ge5  1  0.38541600  0.20381800  0.27293000  1
+  O  O6  1  0.39167100  0.33923200  0.50912800  1
+  O  O7  1  0.66076800  0.60832900  0.99087200  1
+  O  O8  1  0.60832900  0.66076800  0.49087200  1
+  O  O9  1  0.33923200  0.39167100  0.00912800  1
+  O  O10  1  0.63890300  0.08382100  0.19772100  1
+  O  O11  1  0.91617900  0.36109700  0.30227900  1
+  O  O12  1  0.36109700  0.91617900  0.80227900  1
+  O  O13  1  0.08382100  0.63890300  0.69772100  1
+  O  O14  1  0.02868400  0.18216800  0.87784300  1
+  O  O15  1  0.81783200  0.97131600  0.62215700  1
+  O  O16  1  0.97131600  0.81783200  0.12215700  1
+  O  O17  1  0.18216800  0.02868400  0.37784300  1

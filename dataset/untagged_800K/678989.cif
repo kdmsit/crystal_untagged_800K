@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Sn2SeN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.64954201
+_cell_length_b   3.64955005
+_cell_length_c   7.11657701
+_cell_angle_alpha   90.00557306
+_cell_angle_beta   89.99317312
+_cell_angle_gamma   120.00219961
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sn2SeN2
+_chemical_formula_sum   'Sn2 Se1 N2'
+_cell_volume   82.08614228
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.66665300  0.33333500  0.70131800  1
+  Sn  Sn1  1  0.33334800  0.66666500  0.29868200  1
+  Se  Se2  1  0.00000000  0.00000000  0.00000000  1
+  N  N3  1  0.66667500  0.33333200  0.37323700  1
+  N  N4  1  0.33332500  0.66666800  0.62676300  1

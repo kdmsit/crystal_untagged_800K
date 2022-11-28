@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_UB4Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.67240800
+_cell_length_b   5.94484244
+_cell_length_c   5.94484244
+_cell_angle_alpha   103.78941931
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UB4Mo
+_chemical_formula_sum   'U2 B8 Mo2'
+_cell_volume   126.04644407
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.00000000  0.30100800  0.69899200  1
+  U  U1  1  0.00000000  0.69899200  0.30100800  1
+  B  B2  1  0.50000000  0.93516500  0.61644300  1
+  B  B3  1  0.50000000  0.06483500  0.38355700  1
+  B  B4  1  0.50000000  0.61644300  0.93516500  1
+  B  B5  1  0.50000000  0.38355700  0.06483500  1
+  B  B6  1  0.50000000  0.61982400  0.61982400  1
+  B  B7  1  0.50000000  0.38017600  0.38017600  1
+  B  B8  1  0.50000000  0.09315500  0.90684500  1
+  B  B9  1  0.50000000  0.90684500  0.09315500  1
+  Mo  Mo10  1  0.00000000  0.81741400  0.81741400  1
+  Mo  Mo11  1  0.00000000  0.18258600  0.18258600  1

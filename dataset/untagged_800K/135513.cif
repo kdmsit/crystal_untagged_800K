@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       F2K2O4Se2
+_chemical_formula_sum              "F2 K2 O4 Se2"
+_cell_length_a       4.43401
+_cell_length_b       5.84862
+_cell_length_c       6.84819
+_cell_angle_alpha    90
+_cell_angle_beta     106.958
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.13400  0.75000  0.08750  1.0000
+  F   F2        1.0  0.86600  0.25000  0.91200  1.0000
+  K   K1        1.0  0.17000  0.25000  0.32300  1.0000
+  K   K2        1.0  0.83000  0.75000  0.67700  1.0000
+  O   O1        1.0  0.66300  0.52200  0.30100  1.0000
+  O   O2        1.0  0.66300  0.97800  0.30100  1.0000
+  O   O3        1.0  0.33700  0.02160  0.69900  1.0000
+  O   O4        1.0  0.33700  0.47800  0.69900  1.0000
+  Se  Se1       1.0  0.59400  0.75000  0.15000  1.0000
+  Se  Se2       1.0  0.40600  0.25000  0.85000  1.0000

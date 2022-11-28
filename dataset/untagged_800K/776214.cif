@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_NaPrO2
+_symmetry_space_group_name_H-M  'I4_1/amd'
+_cell_length_a       4.8079
+_cell_length_b       4.8079
+_cell_length_c       6.479
+_cell_angle_alpha    111.78
+_cell_angle_beta     111.78
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  141
+_chemical_formula_structural  NaPrO2
+_chemical_formula_sum  Na2Pr2O4
+_cell_volume  127.49262713658595
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Na  Na1  1  0.87500  0.12500  0.75000  1
+ Na  Na2  1  0.12500  0.87500  0.25000  1
+ O  O1  1  0.15391  0.40391  0.30782  1
+ O  O2  1  0.40391  0.15391  0.80782  1
+ O  O3  1  0.59609  0.84609  0.19218  1
+ O  O4  1  0.84609  0.59609  0.69218  1
+ Pr  Pr1  1  0.62500  0.37500  0.25000  1
+ Pr  Pr2  1  0.37500  0.62500  0.75000  1

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Co4Os6
+_chemical_formula_sum              "Co4 Os6"
+_cell_length_a       6.18596
+_cell_length_b       6.18596
+_cell_length_c       5.38058
+_cell_angle_alpha    125.088
+_cell_angle_beta     54.9115
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.59100  0.40900  0.22600  1.0000
+  Co  Co2       1.0  0.90900  0.09150  0.27400  1.0000
+  Co  Co3       1.0  0.09150  0.90900  0.72600  1.0000
+  Co  Co4       1.0  0.40900  0.59100  0.77400  1.0000
+  Os  Os1       1.0  0.99600  0.49600  0.25000  1.0000
+  Os  Os2       1.0  0.50400  0.75000  0.25000  1.0000
+  Os  Os3       1.0  0.25000  0.00422  0.25000  1.0000
+  Os  Os4       1.0  0.00422  0.50400  0.75000  1.0000
+  Os  Os5       1.0  0.49600  0.25000  0.75000  1.0000
+  Os  Os6       1.0  0.75000  0.99600  0.75000  1.0000

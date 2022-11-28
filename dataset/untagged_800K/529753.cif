@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cu2Fe2O2Te2
+_chemical_formula_sum              "Cu2 Fe2 O2 Te2"
+_cell_length_a       3.19333
+_cell_length_b       6.33851
+_cell_length_c       7.05332
+_cell_angle_alpha    90
+_cell_angle_beta     77.7113
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.39000  0.75000  0.22300  1.0000
+  Cu  Cu2       1.0  0.59100  0.25000  0.81000  1.0000
+  Fe  Fe1       1.0  0.92900  0.25000  0.14100  1.0000
+  Fe  Fe2       1.0  0.02100  0.75000  0.94200  1.0000
+  O   O1        1.0  0.01960  0.03800  0.94300  1.0000
+  O   O2        1.0  0.01960  0.46200  0.94300  1.0000
+  Te  Te1       1.0  0.27700  0.25000  0.48400  1.0000
+  Te  Te2       1.0  0.75300  0.75000  0.51400  1.0000

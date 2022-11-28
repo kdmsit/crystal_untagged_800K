@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       As4F6
+_chemical_formula_sum              "As4 F6"
+_cell_length_a       6.49597
+_cell_length_b       6.49597
+_cell_length_c       5.38454
+_cell_angle_alpha    127.1
+_cell_angle_beta     52.9002
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.60500  0.39500  0.18400  1.0000
+  As  As2       1.0  0.89500  0.10500  0.31600  1.0000
+  As  As3       1.0  0.10500  0.89500  0.68400  1.0000
+  As  As4       1.0  0.39500  0.60500  0.81600  1.0000
+  F   F1        1.0  0.59300  0.75000  0.25000  1.0000
+  F   F2        1.0  0.90700  0.40700  0.25000  1.0000
+  F   F3        1.0  0.25000  0.09290  0.25000  1.0000
+  F   F4        1.0  0.75000  0.90700  0.75000  1.0000
+  F   F5        1.0  0.09290  0.59300  0.75000  1.0000
+  F   F6        1.0  0.40700  0.25000  0.75000  1.0000

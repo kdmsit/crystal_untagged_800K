@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sb4Te7Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38042806
+_cell_length_b   4.38042806
+_cell_length_c   24.15756500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000095
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sb4Te7Pb
+_chemical_formula_sum   'Sb4 Te7 Pb1'
+_cell_volume   401.43652951
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.33333300  0.66666700  0.08061000  1
+  Sb  Sb1  1  0.66666700  0.33333300  0.91939000  1
+  Sb  Sb2  1  0.33333300  0.66666700  0.33403200  1
+  Sb  Sb3  1  0.66666700  0.33333300  0.66596800  1
+  Te  Te4  1  0.33333300  0.66666700  0.58439600  1
+  Te  Te5  1  0.66666700  0.33333300  0.41560400  1
+  Te  Te6  1  0.33333300  0.66666700  0.84966700  1
+  Te  Te7  1  0.66666700  0.33333300  0.15033300  1
+  Te  Te8  1  0.00000000  0.00000000  0.26520300  1
+  Te  Te9  1  0.00000000  0.00000000  0.73479700  1
+  Te  Te10  1  0.00000000  0.00000000  0.00000000  1
+  Pb  Pb11  1  0.00000000  0.00000000  0.50000000  1

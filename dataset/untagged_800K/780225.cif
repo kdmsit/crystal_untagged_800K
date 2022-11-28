@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Li3BN2
+_symmetry_space_group_name_H-M  'P4_2/mnm'
+_cell_length_a       4.6306
+_cell_length_b       4.6306
+_cell_length_c       5.19236
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  136
+_chemical_formula_structural  Li3BN2
+_chemical_formula_sum  Li6B2N4
+_cell_volume  111.33676077529533
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.50000  0.50000  0.50000  1
+ B  B2  1  0.00000  0.00000  0.00000  1
+ Li  Li1  1  0.50000  0.00000  0.25000  1
+ Li  Li2  1  0.50000  0.00000  0.75000  1
+ Li  Li3  1  0.50000  0.50000  0.00000  1
+ Li  Li4  1  0.00000  0.00000  0.50000  1
+ Li  Li5  1  0.00000  0.50000  0.25000  1
+ Li  Li6  1  0.00000  0.50000  0.75000  1
+ N  N1  1  0.79487  0.79487  0.00000  1
+ N  N2  1  0.70513  0.29487  0.50000  1
+ N  N3  1  0.29487  0.70513  0.50000  1
+ N  N4  1  0.20513  0.20513  0.00000  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_TaFeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.56185300
+_cell_length_b   11.83667800
+_cell_length_c   4.94881400
+_cell_angle_alpha   89.99997874
+_cell_angle_beta   90.00014482
+_cell_angle_gamma   89.99992844
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaFeO4
+_chemical_formula_sum   'Ta4 Fe4 O16'
+_cell_volume   267.22202531
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.99999900  0.17242000  0.25000000  1
+  Ta  Ta1  1  0.00000000  0.82758000  0.75000000  1
+  Ta  Ta2  1  0.50000000  0.67241800  0.24999900  1
+  Ta  Ta3  1  0.50000100  0.32758200  0.75000000  1
+  Fe  Fe4  1  0.50000100  0.06664800  0.74999900  1
+  Fe  Fe5  1  0.49999700  0.93335200  0.25000100  1
+  Fe  Fe6  1  0.99999900  0.43335900  0.25000200  1
+  Fe  Fe7  1  0.00000000  0.56664100  0.75000100  1
+  O  O8  1  0.23006100  0.30756900  0.07242300  1
+  O  O9  1  0.23006100  0.69243200  0.57242300  1
+  O  O10  1  0.26993700  0.19243700  0.57242200  1
+  O  O11  1  0.26993600  0.80756400  0.07242100  1
+  O  O12  1  0.73006400  0.19243700  0.92757800  1
+  O  O13  1  0.73006400  0.80756300  0.42757900  1
+  O  O14  1  0.76994000  0.30756800  0.42757700  1
+  O  O15  1  0.76993900  0.69243200  0.92757700  1
+  O  O16  1  0.24547800  0.43793000  0.58528700  1
+  O  O17  1  0.24547800  0.56207000  0.08528700  1
+  O  O18  1  0.25452200  0.06207200  0.08528700  1
+  O  O19  1  0.25452100  0.93792800  0.58528700  1
+  O  O20  1  0.74547900  0.06207200  0.41471200  1
+  O  O21  1  0.74547900  0.93792800  0.91471300  1
+  O  O22  1  0.75452200  0.56207100  0.41471200  1
+  O  O23  1  0.75452300  0.43793000  0.91471300  1

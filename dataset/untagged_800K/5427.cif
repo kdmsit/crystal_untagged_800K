@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CrN3Th2
+_chemical_formula_sum              "Cr1 N3 Th2"
+_cell_length_a       3.53807
+_cell_length_b       3.80757
+_cell_length_c       6.9218
+_cell_angle_alpha    105.965
+_cell_angle_beta     104.808
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.00000  0.00000  0.00000  1.0000
+  N   N1        1.0  0.00000  0.50000  0.00000  1.0000
+  N   N2        1.0  0.16400  0.16400  0.32800  1.0000
+  N   N3        1.0  0.83600  0.83600  0.67200  1.0000
+  Th  Th1       1.0  0.64500  0.64500  0.29100  1.0000
+  Th  Th2       1.0  0.35500  0.35500  0.70900  1.0000

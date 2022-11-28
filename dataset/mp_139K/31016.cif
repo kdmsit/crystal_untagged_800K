@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_SiSnN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.97512600
+_cell_length_b   5.29523212
+_cell_length_c   5.29523212
+_cell_angle_alpha   62.87983146
+_cell_angle_beta   61.98036494
+_cell_angle_gamma   61.98036494
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiSnN2
+_chemical_formula_sum   'Si2 Sn2 N4'
+_cell_volume   103.64597958
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.61919900  0.87977900  0.87978000  1
+  Si  Si1  1  0.87875800  0.12022100  0.12022000  1
+  Sn  Sn2  1  0.18023300  0.36971700  0.36971700  1
+  Sn  Sn3  1  0.41966600  0.63028300  0.63028300  1
+  N  N4  1  0.93471400  0.90956400  0.90956400  1
+  N  N5  1  0.25384200  0.09043600  0.09043600  1
+  N  N6  1  0.62679500  0.50000000  0.00000000  1
+  N  N7  1  0.62679400  0.00000000  0.50000000  1

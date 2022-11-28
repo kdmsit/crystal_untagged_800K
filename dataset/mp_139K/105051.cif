@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MnHgC4(SeN)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.55022062
+_cell_length_b   8.55022062
+_cell_length_c   8.55022062
+_cell_angle_alpha   94.69805099
+_cell_angle_beta   94.69805099
+_cell_angle_gamma   146.74003546
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnHgC4(SeN)4
+_chemical_formula_sum   'Mn1 Hg1 C4 Se4 N4'
+_cell_volume   328.47621724
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.75000000  0.25000000  0.50000000  1
+  Hg  Hg1  1  0.00000000  0.00000000  0.00000000  1
+  C  C2  1  0.18283800  0.38898300  0.35528800  1
+  C  C3  1  0.17245000  0.81716200  0.20614500  1
+  C  C4  1  0.61101700  0.96630500  0.79385500  1
+  C  C5  1  0.03369500  0.82755000  0.64471200  1
+  Se  Se6  1  0.42741800  0.46692400  0.27539100  1
+  Se  Se7  1  0.84797300  0.57258200  0.03950600  1
+  Se  Se8  1  0.53307600  0.80846700  0.96049400  1
+  Se  Se9  1  0.19153300  0.15202700  0.72460900  1
+  N  N10  1  0.65590200  0.06660500  0.68487200  1
+  N  N11  1  0.02896900  0.34409800  0.41070300  1
+  N  N12  1  0.93339500  0.61826600  0.58929700  1
+  N  N13  1  0.38173400  0.97103100  0.31512800  1

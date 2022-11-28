@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_K2CdSn
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       6.46618
+_cell_length_b       6.87244
+_cell_length_c       6.87244
+_cell_angle_alpha    103.488
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  K2CdSn
+_chemical_formula_sum  K4Cd2Sn2
+_cell_volume  296.97639068899156
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cd  Cd1  1  0.50000  0.50507  0.49493  1
+ Cd  Cd2  1  0.00000  0.50507  0.49493  1
+ K  K1  1  0.25000  0.68552  0.02321  1
+ K  K2  1  0.75000  0.97679  0.31448  1
+ K  K3  1  0.25000  0.03321  0.67560  1
+ K  K4  1  0.75000  0.32440  0.96679  1
+ Sn  Sn1  1  0.25000  0.23384  0.22391  1
+ Sn  Sn2  1  0.75000  0.77609  0.76616  1

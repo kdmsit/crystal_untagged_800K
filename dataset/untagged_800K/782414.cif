@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_LiAgF4
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       4.90078
+_cell_length_b       5.94331
+_cell_length_c       6.47297
+_cell_angle_alpha    117.329
+_cell_angle_beta     115.496
+_cell_angle_gamma    89.9999
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  LiAgF4
+_chemical_formula_sum  Li2Ag2F8
+_cell_volume  146.5194595342221
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.00000  -0.00000  0.50000  1
+ Ag  Ag2  1  0.50000  0.50000  0.50000  1
+ F  F1  1  0.41356  0.23838  0.74251  1
+ F  F2  1  0.04456  0.00508  0.21697  1
+ F  F3  1  0.54456  0.21188  0.21697  1
+ F  F4  1  0.91356  0.50414  0.74250  1
+ F  F5  1  0.08644  0.49585  0.25749  1
+ F  F6  1  0.45544  0.78812  0.78304  1
+ F  F7  1  0.95544  0.99493  0.78304  1
+ F  F8  1  0.58644  0.76162  0.25748  1
+ Li  Li1  1  0.75000  0.17299  -0.00000  1
+ Li  Li2  1  0.25001  0.82701  0.00001  1

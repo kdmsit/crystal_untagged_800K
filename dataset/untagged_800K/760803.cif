@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_NiAsPd
+_symmetry_space_group_name_H-M  'P-62m'
+_cell_length_a       3.77704
+_cell_length_b       6.2677
+_cell_length_c       6.26767
+_cell_angle_alpha    120
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  189
+_chemical_formula_structural  NiAsPd
+_chemical_formula_sum  Ni3As3Pd3
+_cell_volume  128.4978166366771
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.00000  0.33332  0.66667  1
+ As  As2  1  0.00000  0.66665  0.33333  1
+ As  As3  1  0.50000  0.99999  -0.00000  1
+ Ni  Ni1  1  0.00000  0.25078  -0.00000  1
+ Ni  Ni2  1  0.00000  0.74920  0.74921  1
+ Ni  Ni3  1  0.00000  0.99999  0.25079  1
+ Pd  Pd1  1  0.50000  0.59146  -0.00000  1
+ Pd  Pd2  1  0.50000  0.40852  0.40853  1
+ Pd  Pd3  1  0.50000  0.99999  0.59147  1

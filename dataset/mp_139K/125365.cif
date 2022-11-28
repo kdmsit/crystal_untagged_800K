@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MgFePO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37077400
+_cell_length_b   5.37132904
+_cell_length_c   7.02319378
+_cell_angle_alpha   105.02914307
+_cell_angle_beta   105.03336117
+_cell_angle_gamma   99.25638501
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgFePO5
+_chemical_formula_sum   'Mg2 Fe2 P2 O10'
+_cell_volume   183.24048016
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.39009900  0.24084700  0.81908800  1
+  Mg  Mg1  1  0.75272700  0.88510800  0.32213500  1
+  Fe  Fe2  1  0.99800000  0.50664700  0.51156900  1
+  Fe  Fe3  1  0.01370300  0.48715300  0.01175400  1
+  P  P4  1  0.64233700  0.82945900  0.75548300  1
+  P  P5  1  0.33720100  0.12978200  0.25622800  1
+  O  O6  1  0.67036900  0.61513800  0.86600600  1
+  O  O7  1  0.80789900  0.80357700  0.60291400  1
+  O  O8  1  0.30312500  0.28525100  0.09676500  1
+  O  O9  1  0.12258600  0.15882500  0.36667600  1
+  O  O10  1  0.62192900  0.22662400  0.41621100  1
+  O  O11  1  0.32802100  0.83529200  0.14655500  1
+  O  O12  1  0.34889800  0.81451300  0.63860600  1
+  O  O13  1  0.73050300  0.11466600  0.91460200  1
+  O  O14  1  0.90754200  0.58218700  0.25333700  1
+  O  O15  1  0.09304500  0.40367300  0.75493900  1

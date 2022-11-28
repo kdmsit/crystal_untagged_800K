@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbAlNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33803281
+_cell_length_b   5.46640300
+_cell_length_c   8.26307200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.80577685
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbAlNi
+_chemical_formula_sum   'Yb4 Al4 Ni4'
+_cell_volume   207.09575845
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.66940400  0.33470500  0.54281800  1
+  Yb  Yb1  1  0.33703800  0.66852300  0.42162800  1
+  Yb  Yb2  1  0.33703800  0.66852300  0.07837200  1
+  Yb  Yb3  1  0.66940400  0.33470500  0.95718200  1
+  Al  Al4  1  0.99349600  0.99676200  0.48350200  1
+  Al  Al5  1  0.99349600  0.99676200  0.01649800  1
+  Al  Al6  1  0.17008300  0.33707900  0.75000000  1
+  Al  Al7  1  0.17004700  0.83298100  0.75000000  1
+  Ni  Ni8  1  0.66363400  0.83178300  0.75000000  1
+  Ni  Ni9  1  0.82765500  0.65712900  0.25000000  1
+  Ni  Ni10  1  0.82772200  0.17057800  0.25000000  1
+  Ni  Ni11  1  0.34098400  0.17046800  0.25000000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsCoN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.51949600
+_cell_length_b   7.27468500
+_cell_length_c   10.53320300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsCoN
+_chemical_formula_sum   'Cs4 Co4 N4'
+_cell_volume   269.68396384
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.25000000  0.04552700  0.67754100  1
+  Cs  Cs1  1  0.25000000  0.45447300  0.17754100  1
+  Cs  Cs2  1  0.75000000  0.95447300  0.32245900  1
+  Cs  Cs3  1  0.75000000  0.54552700  0.82245900  1
+  Co  Co4  1  0.25000000  0.60109200  0.52145100  1
+  Co  Co5  1  0.25000000  0.89890800  0.02145100  1
+  Co  Co6  1  0.75000000  0.39890800  0.47854900  1
+  Co  Co7  1  0.75000000  0.10109200  0.97854900  1
+  N  N8  1  0.25000000  0.15041100  0.96699700  1
+  N  N9  1  0.25000000  0.34958900  0.46699700  1
+  N  N10  1  0.75000000  0.84958900  0.03300300  1
+  N  N11  1  0.75000000  0.65041100  0.53300300  1

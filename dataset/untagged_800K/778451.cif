@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_PrTlPd
+_symmetry_space_group_name_H-M  'P-62m'
+_cell_length_a       9.21131
+_cell_length_b       9.21131
+_cell_length_c       3.20419
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  189
+_chemical_formula_structural  PrTlPd
+_chemical_formula_sum  Pr3Tl3Pd3
+_cell_volume  235.44586715844105
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Pd  Pd1  1  0.00000  0.00000  0.50000  1
+ Pd  Pd2  1  0.33333  0.66667  0.00000  1
+ Pd  Pd3  1  0.66667  0.33333  0.00000  1
+ Pr  Pr1  1  0.38042  -0.00000  0.50000  1
+ Pr  Pr2  1  0.61958  0.61958  0.50000  1
+ Pr  Pr3  1  -0.00000  0.38042  0.50000  1
+ Tl  Tl1  1  0.70692  -0.00000  0.50000  1
+ Tl  Tl2  1  0.29308  0.29308  0.50000  1
+ Tl  Tl3  1  -0.00000  0.70692  0.50000  1

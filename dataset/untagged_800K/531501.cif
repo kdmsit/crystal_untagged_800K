@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Hg4O4Ru4Se4
+_chemical_formula_sum              "Hg4 O4 Ru4 Se4"
+_cell_length_a       6.89218
+_cell_length_b       6.78516
+_cell_length_c       6.1853
+_cell_angle_alpha    90
+_cell_angle_beta     93.8167
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.06720  0.69200  0.10100  1.0000
+  Hg  Hg2       1.0  0.93300  0.19200  0.39900  1.0000
+  Hg  Hg3       1.0  0.06720  0.80800  0.60100  1.0000
+  Hg  Hg4       1.0  0.93300  0.30800  0.89900  1.0000
+  O   O1        1.0  0.58900  0.38500  0.11600  1.0000
+  O   O2        1.0  0.41100  0.88500  0.38400  1.0000
+  O   O3        1.0  0.58900  0.11500  0.61600  1.0000
+  O   O4        1.0  0.41100  0.61500  0.88400  1.0000
+  Ru  Ru1       1.0  0.48200  0.63800  0.22100  1.0000
+  Ru  Ru2       1.0  0.51800  0.13800  0.27900  1.0000
+  Ru  Ru3       1.0  0.48200  0.86200  0.72100  1.0000
+  Ru  Ru4       1.0  0.51800  0.36200  0.77900  1.0000
+  Se  Se1       1.0  0.70100  0.89500  0.05750  1.0000
+  Se  Se2       1.0  0.29900  0.39500  0.44300  1.0000
+  Se  Se3       1.0  0.70100  0.60500  0.55700  1.0000
+  Se  Se4       1.0  0.29900  0.10500  0.94300  1.0000

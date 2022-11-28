@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Ag6ClF3Mo2O7
+_chemical_formula_sum              "Ag6 Cl1 F3 Mo2 O7"
+_cell_length_a       7.41386
+_cell_length_b       7.41406
+_cell_length_c       5.90658
+_cell_angle_alpha    90
+_cell_angle_beta     90.0016
+_cell_angle_gamma    120.001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.82100  0.17900  0.18800  1.0000
+  Ag  Ag2       1.0  0.82100  0.64200  0.18800  1.0000
+  Ag  Ag3       1.0  0.35800  0.17900  0.18800  1.0000
+  Ag  Ag4       1.0  0.00927  0.50500  0.73100  1.0000
+  Ag  Ag5       1.0  0.49500  0.99100  0.73100  1.0000
+  Ag  Ag6       1.0  0.49500  0.50500  0.73100  1.0000
+  Cl  Cl1       1.0  0.66700  0.33300  0.49500  1.0000
+  F   F1        1.0  0.76300  0.88200  0.43500  1.0000
+  F   F2        1.0  0.11800  0.88200  0.43500  1.0000
+  F   F3        1.0  0.11800  0.23700  0.43500  1.0000
+  Mo  Mo1       1.0  0.33300  0.66700  0.24400  1.0000
+  Mo  Mo2       1.0  0.00002  0.00001  0.68300  1.0000
+  O   O1        1.0  0.07590  0.53800  0.12600  1.0000
+  O   O2        1.0  0.46200  0.53800  0.12600  1.0000
+  O   O3        1.0  0.46200  0.92400  0.12600  1.0000
+  O   O4        1.0  0.33300  0.66700  0.55300  1.0000
+  O   O5        1.0  0.25100  0.12600  0.81600  1.0000
+  O   O6        1.0  0.87400  0.74900  0.81600  1.0000
+  O   O7        1.0  0.87400  0.12600  0.81600  1.0000

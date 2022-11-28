@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_K4MgCu3F12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86411024
+_cell_length_b   5.86411024
+_cell_length_c   8.02611734
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   87.27808972
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4MgCu3F12
+_chemical_formula_sum   'K4 Mg1 Cu3 F12'
+_cell_volume   275.68904213
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25000000  0.75000000  0.99802500  1
+  K  K1  1  0.75000000  0.25000000  0.50197500  1
+  K  K2  1  0.75000000  0.25000000  0.99802500  1
+  K  K3  1  0.25000000  0.75000000  0.50197500  1
+  Mg  Mg4  1  0.75000000  0.75000000  0.75000000  1
+  Cu  Cu5  1  0.25000000  0.25000000  0.25000000  1
+  Cu  Cu6  1  0.75000000  0.75000000  0.25000000  1
+  Cu  Cu7  1  0.25000000  0.25000000  0.75000000  1
+  F  F8  1  0.99144300  0.50855700  0.25000000  1
+  F  F9  1  0.49521600  0.00478400  0.75000000  1
+  F  F10  1  0.00478400  0.49521600  0.75000000  1
+  F  F11  1  0.50855700  0.99144300  0.25000000  1
+  F  F12  1  0.51939600  0.51939600  0.75000000  1
+  F  F13  1  0.02085600  0.02085600  0.25000000  1
+  F  F14  1  0.47914400  0.47914400  0.25000000  1
+  F  F15  1  0.98060400  0.98060400  0.75000000  1
+  F  F16  1  0.75000000  0.75000000  0.00517900  1
+  F  F17  1  0.25000000  0.25000000  0.50420100  1
+  F  F18  1  0.25000000  0.25000000  0.99579900  1
+  F  F19  1  0.75000000  0.75000000  0.49482100  1

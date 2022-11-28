@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2NiPCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81101300
+_cell_length_b   5.10316400
+_cell_length_c   8.72018069
+_cell_angle_alpha   88.33003357
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2NiPCO7
+_chemical_formula_sum   'Na4 Ni2 P2 C2 O14'
+_cell_volume   302.96483509
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.01400300  0.24714300  0.25665300  1
+  Na  Na1  1  0.48599700  0.24714300  0.25665300  1
+  Na  Na2  1  0.51400300  0.75285700  0.74334700  1
+  Na  Na3  1  0.98599700  0.75285700  0.74334700  1
+  Ni  Ni4  1  0.75000000  0.78048600  0.34824300  1
+  Ni  Ni5  1  0.25000000  0.21951400  0.65175700  1
+  P  P6  1  0.25000000  0.72099600  0.41797500  1
+  P  P7  1  0.75000000  0.27900400  0.58202500  1
+  C  C8  1  0.75000000  0.71470700  0.07371400  1
+  C  C9  1  0.25000000  0.28529300  0.92628600  1
+  O  O10  1  0.25000000  0.31556900  0.06767300  1
+  O  O11  1  0.75000000  0.94221000  0.13676800  1
+  O  O12  1  0.75000000  0.52178900  0.17524600  1
+  O  O13  1  0.06545900  0.78712300  0.32386300  1
+  O  O14  1  0.43454100  0.78712300  0.32386300  1
+  O  O15  1  0.75000000  0.13898400  0.42618600  1
+  O  O16  1  0.25000000  0.41785700  0.45806800  1
+  O  O17  1  0.75000000  0.58214300  0.54193200  1
+  O  O18  1  0.25000000  0.86101600  0.57381400  1
+  O  O19  1  0.56545900  0.21287700  0.67613700  1
+  O  O20  1  0.93454100  0.21287700  0.67613700  1
+  O  O21  1  0.25000000  0.47821100  0.82475400  1
+  O  O22  1  0.25000000  0.05779000  0.86323200  1
+  O  O23  1  0.75000000  0.68443100  0.93232700  1

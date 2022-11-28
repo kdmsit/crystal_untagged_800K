@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AlMoO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19459100
+_cell_length_b   5.22137200
+_cell_length_c   8.20534600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlMoO3
+_chemical_formula_sum   'Al4 Mo4 O12'
+_cell_volume   222.55271337
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.99900000  0.52652300  0.75000000  1
+  Al  Al1  1  0.50100000  0.02652300  0.25000000  1
+  Al  Al2  1  0.49900000  0.97347700  0.75000000  1
+  Al  Al3  1  0.00100000  0.47347700  0.25000000  1
+  Mo  Mo4  1  0.50000000  0.50000000  0.50000000  1
+  Mo  Mo5  1  0.00000000  0.00000000  0.50000000  1
+  Mo  Mo6  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo7  1  0.50000000  0.50000000  0.00000000  1
+  O  O8  1  0.64741400  0.85373100  0.41106700  1
+  O  O9  1  0.85258600  0.35373100  0.58893300  1
+  O  O10  1  0.14741400  0.64626900  0.08893300  1
+  O  O11  1  0.35258600  0.14626900  0.91106700  1
+  O  O12  1  0.35258600  0.14626900  0.58893300  1
+  O  O13  1  0.14741400  0.64626900  0.41106700  1
+  O  O14  1  0.85258600  0.35373100  0.91106700  1
+  O  O15  1  0.64741400  0.85373100  0.08893300  1
+  O  O16  1  0.65673300  0.35421700  0.25000000  1
+  O  O17  1  0.84326700  0.85421700  0.75000000  1
+  O  O18  1  0.15673300  0.14578300  0.25000000  1
+  O  O19  1  0.34326700  0.64578300  0.75000000  1

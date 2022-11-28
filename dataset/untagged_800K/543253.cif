@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cs2Eu2O2Se2
+_chemical_formula_sum              "Cs2 Eu2 O2 Se2"
+_cell_length_a       5.05665
+_cell_length_b       8.44668
+_cell_length_c       7.08416
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.00000  0.28100  0.11600  1.0000
+  Cs  Cs2       1.0  0.00000  0.71900  0.61600  1.0000
+  Eu  Eu1       1.0  0.50000  0.88600  0.03270  1.0000
+  Eu  Eu2       1.0  0.50000  0.11400  0.53300  1.0000
+  O   O1        1.0  0.50000  0.09100  0.22000  1.0000
+  O   O2        1.0  0.50000  0.90900  0.72000  1.0000
+  Se  Se1       1.0  0.00000  0.71100  0.12300  1.0000
+  Se  Se2       1.0  0.00000  0.28900  0.62300  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ni5Pb5V4
+_chemical_formula_sum              "Ni5 Pb5 V4"
+_cell_length_a       5.8978
+_cell_length_b       7.25303
+_cell_length_c       7.25303
+_cell_angle_alpha    80.4851
+_cell_angle_beta     113.99
+_cell_angle_gamma    113.99
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.93400  0.32800  0.11000  1.0000
+  Ni  Ni2       1.0  0.39400  0.89000  0.32800  1.0000
+  Ni  Ni3       1.0  0.75000  0.50000  0.50000  1.0000
+  Ni  Ni4       1.0  0.17600  0.11000  0.67200  1.0000
+  Ni  Ni5       1.0  0.49600  0.67200  0.89000  1.0000
+  Pb  Pb1       1.0  0.50000  0.00000  0.00000  1.0000
+  Pb  Pb2       1.0  0.90100  0.64100  0.19500  1.0000
+  Pb  Pb3       1.0  0.29400  0.19500  0.35900  1.0000
+  Pb  Pb4       1.0  0.74000  0.80500  0.64100  1.0000
+  Pb  Pb5       1.0  0.06480  0.35900  0.80500  1.0000
+  V   V1        1.0  0.39000  0.60200  0.20000  1.0000
+  V   V2        1.0  0.81000  0.20000  0.39800  1.0000
+  V   V3        1.0  0.21200  0.80000  0.60200  1.0000
+  V   V4        1.0  0.58800  0.39800  0.80000  1.0000

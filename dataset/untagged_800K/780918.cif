@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_LiScI3
+_symmetry_space_group_name_H-M  'P-6c2'
+_cell_length_a       7.32653
+_cell_length_b       7.32653
+_cell_length_c       6.64984
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  188
+_chemical_formula_structural  LiScI3
+_chemical_formula_sum  Li2Sc2I6
+_cell_volume  309.12782728817206
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ I  I1  1  0.00350  0.33735  0.25000  1
+ I  I2  1  0.66265  0.66615  0.25000  1
+ I  I3  1  0.33385  -0.00350  0.25000  1
+ I  I4  1  0.00350  0.66615  0.75000  1
+ I  I5  1  0.66265  -0.00350  0.75000  1
+ I  I6  1  0.33385  0.33735  0.75000  1
+ Li  Li1  1  0.66667  0.33333  0.50000  1
+ Li  Li2  1  0.66667  0.33333  0.00000  1
+ Sc  Sc1  1  0.00000  0.00000  0.00000  1
+ Sc  Sc2  1  0.00000  0.00000  0.50000  1

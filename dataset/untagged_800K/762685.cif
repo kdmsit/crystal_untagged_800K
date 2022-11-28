@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_YbLiO2
+_symmetry_space_group_name_H-M  'I4_1/amd'
+_cell_length_a       4.50502
+_cell_length_b       4.50503
+_cell_length_c       5.44996
+_cell_angle_alpha    114.413
+_cell_angle_beta     114.413
+_cell_angle_gamma    90.0001
+
+_symmetry_Int_Tables_number  141
+_chemical_formula_structural  YbLiO2
+_chemical_formula_sum  Yb2Li2O4
+_cell_volume  89.74663496871376
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.87500  0.12500  0.75000  1
+ Li  Li2  1  0.12500  0.87500  0.25000  1
+ O  O1  1  0.11432  0.36432  0.22864  1
+ O  O2  1  0.36432  0.11432  0.72864  1
+ O  O3  1  0.63568  0.88568  0.27136  1
+ O  O4  1  0.88568  0.63568  0.77136  1
+ Yb  Yb1  1  0.62500  0.37500  0.25000  1
+ Yb  Yb2  1  0.37500  0.62500  0.75000  1

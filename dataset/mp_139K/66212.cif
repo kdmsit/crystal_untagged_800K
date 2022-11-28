@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Mn(GaS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.58913976
+_cell_length_b   12.58913976
+_cell_length_c   12.58913917
+_cell_angle_alpha   17.10724183
+_cell_angle_beta   17.10724183
+_cell_angle_gamma   17.10724369
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(GaS2)2
+_chemical_formula_sum   'Mn1 Ga2 S4'
+_cell_volume   150.62719044
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.23464600  0.23464600  0.23464600  1
+  Ga  Ga1  1  0.99925000  0.99925000  0.99925000  1
+  Ga  Ga2  1  0.76492700  0.76492700  0.76492700  1
+  S  S3  1  0.87815200  0.87815200  0.87815200  1
+  S  S4  1  0.12337000  0.12337000  0.12337000  1
+  S  S5  1  0.30010700  0.30010700  0.30010700  1
+  S  S6  1  0.70354700  0.70354700  0.70354700  1

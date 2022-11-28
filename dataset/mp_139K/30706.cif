@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Sr(NiN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.41453400
+_cell_length_b   3.41452714
+_cell_length_c   6.05819800
+_cell_angle_alpha   89.99999620
+_cell_angle_beta   90.00005675
+_cell_angle_gamma   119.99992441
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(NiN)2
+_chemical_formula_sum   'Sr1 Ni2 N2'
+_cell_volume   61.16971213
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.50000000  1
+  Ni  Ni1  1  0.66666900  0.33333500  0.11795900  1
+  Ni  Ni2  1  0.33333100  0.66666500  0.88204100  1
+  N  N3  1  0.66666500  0.33333300  0.79606500  1
+  N  N4  1  0.33333500  0.66666700  0.20393500  1

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mn2Ni2O12Tb4
+_chemical_formula_sum              "Mn2 Ni2 O12 Tb4"
+_cell_length_a       5.2412
+_cell_length_b       5.53473
+_cell_length_c       7.50547
+_cell_angle_alpha    90
+_cell_angle_beta     89.6651
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.50000  0.00000  0.00000  1.0000
+  Mn  Mn2       1.0  1.00000  0.50000  0.50000  1.0000
+  Ni  Ni1       1.0  0.00000  0.50000  0.00000  1.0000
+  Ni  Ni2       1.0  0.50000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.79700  0.80900  0.05050  1.0000
+  O   O2        1.0  0.68700  0.29300  0.05420  1.0000
+  O   O3        1.0  0.39800  0.96900  0.24400  1.0000
+  O   O4        1.0  0.10200  0.46900  0.25600  1.0000
+  O   O5        1.0  0.81300  0.79300  0.44600  1.0000
+  O   O6        1.0  0.70300  0.30900  0.44900  1.0000
+  O   O7        1.0  0.29700  0.69100  0.55100  1.0000
+  O   O8        1.0  0.18700  0.20700  0.55400  1.0000
+  O   O9        1.0  0.89800  0.53100  0.74400  1.0000
+  O   O10       1.0  0.60200  0.03120  0.75600  1.0000
+  O   O11       1.0  0.31300  0.70700  0.94600  1.0000
+  O   O12       1.0  0.20300  0.19100  0.94900  1.0000
+  Tb  Tb1       1.0  0.98200  0.06870  0.24900  1.0000
+  Tb  Tb2       1.0  0.51800  0.56900  0.25100  1.0000
+  Tb  Tb3       1.0  0.48200  0.43100  0.74900  1.0000
+  Tb  Tb4       1.0  0.01830  0.93100  0.75100  1.0000

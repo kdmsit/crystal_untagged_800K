@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_NaMnO2
+_symmetry_space_group_name_H-M  'I4_1/amd'
+_cell_length_a       5.97986
+_cell_length_b       6.43744
+_cell_length_c       5.97986
+_cell_angle_alpha    62.3247
+_cell_angle_beta     90
+_cell_angle_gamma    117.675
+
+_symmetry_Int_Tables_number  141
+_chemical_formula_structural  NaMnO2
+_chemical_formula_sum  Na4Mn4O8
+_cell_volume  173.57278178073048
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mn  Mn1  1  0.00000  0.00000  0.00000  1
+ Mn  Mn2  1  0.50000  0.00000  0.00000  1
+ Mn  Mn3  1  0.00000  0.50000  -0.00000  1
+ Mn  Mn4  1  0.00000  0.50000  0.50000  1
+ Na  Na1  1  0.50000  0.50000  -0.00000  1
+ Na  Na2  1  0.00000  0.00000  0.50000  1
+ Na  Na3  1  0.50000  0.00000  0.50000  1
+ Na  Na4  1  0.50000  0.50000  0.50000  1
+ O  O1  1  0.24943  0.99887  0.21126  1
+ O  O2  1  0.78987  0.50113  0.24943  1
+ O  O3  1  0.21126  0.50113  0.24943  1
+ O  O4  1  0.75057  0.00113  0.21013  1
+ O  O5  1  0.24943  0.99887  0.78987  1
+ O  O6  1  0.78874  0.49887  0.75057  1
+ O  O7  1  0.21013  0.49887  0.75057  1
+ O  O8  1  0.75057  0.00113  0.78874  1

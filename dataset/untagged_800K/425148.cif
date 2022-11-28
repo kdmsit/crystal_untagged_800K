@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Co2Ge3Mo2
+_chemical_formula_sum              "Co2 Ge3 Mo2"
+_cell_length_a       7.3934
+_cell_length_b       7.3934
+_cell_length_c       7.3934
+_cell_angle_alpha    32.7784
+_cell_angle_beta     32.7784
+_cell_angle_gamma    32.7784
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.26000  0.26000  0.26000  1.0000
+  Co  Co2       1.0  0.74400  0.74400  0.74400  1.0000
+  Ge  Ge1       1.0  0.38300  0.38300  0.38300  1.0000
+  Ge  Ge2       1.0  0.62300  0.62300  0.62300  1.0000
+  Ge  Ge3       1.0  0.86300  0.86300  0.86300  1.0000
+  Mo  Mo1       1.0  0.00359  0.00359  0.00359  1.0000
+  Mo  Mo2       1.0  0.49900  0.49900  0.49900  1.0000

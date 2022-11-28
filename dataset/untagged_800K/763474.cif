@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_ScMnGe
+_symmetry_space_group_name_H-M  'P-62m'
+_cell_length_a       3.89892
+_cell_length_b       6.59204
+_cell_length_c       6.59204
+_cell_angle_alpha    120
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  189
+_chemical_formula_structural  ScMnGe
+_chemical_formula_sum  Sc3Mn3Ge3
+_cell_volume  146.7284445228825
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.00000  0.33332  0.66667  1
+ Ge  Ge2  1  0.00000  0.66665  0.33333  1
+ Ge  Ge3  1  0.50000  -0.00001  0.00000  1
+ Mn  Mn1  1  0.00000  0.22999  0.00000  1
+ Mn  Mn2  1  0.00000  0.76998  0.76999  1
+ Mn  Mn3  1  0.00000  0.99999  0.23001  1
+ Sc  Sc1  1  0.50000  0.58329  0.00000  1
+ Sc  Sc2  1  0.50000  0.41670  0.41671  1
+ Sc  Sc3  1  0.50000  -0.00001  0.58329  1

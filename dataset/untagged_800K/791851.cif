@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_AlPt
+_symmetry_space_group_name_H-M  'P2_13'
+_cell_length_a       4.9237
+_cell_length_b       4.9237
+_cell_length_c       4.9237
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  198
+_chemical_formula_structural  AlPt
+_chemical_formula_sum  Al4Pt4
+_cell_volume  119.36411603142076
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.84332  0.84332  0.84332  1
+ Al  Al2  1  0.65668  0.15668  0.34332  1
+ Al  Al3  1  0.34332  0.65668  0.15668  1
+ Al  Al4  1  0.15668  0.34332  0.65668  1
+ Pt  Pt1  1  0.15810  0.15810  0.15810  1
+ Pt  Pt2  1  0.34190  0.84190  0.65810  1
+ Pt  Pt3  1  0.65810  0.34190  0.84190  1
+ Pt  Pt4  1  0.84190  0.65810  0.34190  1

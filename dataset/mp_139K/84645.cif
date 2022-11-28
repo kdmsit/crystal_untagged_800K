@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Li3TaF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84410831
+_cell_length_b   6.31145013
+_cell_length_c   7.63450276
+_cell_angle_alpha   82.69135836
+_cell_angle_beta   139.93362222
+_cell_angle_gamma   118.40085885
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3TaF6
+_chemical_formula_sum   'Li3 Ta1 F6'
+_cell_volume   144.82850055
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.50000000  1
+  Li  Li1  1  0.50000000  0.50000000  0.00000000  1
+  Li  Li2  1  0.00000000  0.50000000  0.00000000  1
+  Ta  Ta3  1  0.00000000  0.00000000  0.00000000  1
+  F  F4  1  0.59585400  0.12273200  0.75953100  1
+  F  F5  1  0.40414600  0.87726800  0.24046900  1
+  F  F6  1  0.20351700  0.12410800  0.85018400  1
+  F  F7  1  0.79648300  0.87589200  0.14981600  1
+  F  F8  1  0.57831700  0.56836800  0.79464300  1
+  F  F9  1  0.42168300  0.43163200  0.20535700  1

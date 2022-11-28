@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       CrLi4O6Pb
+_chemical_formula_sum              "Cr1 Li4 O6 Pb1"
+_cell_length_a       5.264
+_cell_length_b       5.264
+_cell_length_c       5.17001
+_cell_angle_alpha    99.5724
+_cell_angle_beta     99.5724
+_cell_angle_gamma    120.337
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.16600  0.83400  0.00000  1.0000
+  Li  Li1       1.0  0.49900  0.50100  0.00000  1.0000
+  Li  Li2       1.0  0.01660  0.98300  0.50000  1.0000
+  Li  Li3       1.0  0.65500  0.34500  0.50000  1.0000
+  Li  Li4       1.0  0.33500  0.66500  0.50000  1.0000
+  O   O1        1.0  0.93900  0.61000  0.22800  1.0000
+  O   O2        1.0  0.54600  0.91200  0.23900  1.0000
+  O   O3        1.0  0.24600  0.21600  0.24200  1.0000
+  O   O4        1.0  0.78400  0.75400  0.75900  1.0000
+  O   O5        1.0  0.08830  0.45400  0.76100  1.0000
+  O   O6        1.0  0.39000  0.06140  0.77200  1.0000
+  Pb  Pb1       1.0  0.83500  0.16500  0.00000  1.0000

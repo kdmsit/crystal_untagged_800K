@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zn2O3F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.11149100
+_cell_length_b   4.62325600
+_cell_length_c   10.29454200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2O3F
+_chemical_formula_sum   'Zn4 O6 F2'
+_cell_volume   148.08924565
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000000  0.26809100  0.35839600  1
+  Zn  Zn1  1  0.50000000  0.18183700  0.63576400  1
+  Zn  Zn2  1  0.50000000  0.81816300  0.13576400  1
+  Zn  Zn3  1  0.00000000  0.73190900  0.85839600  1
+  O  O4  1  0.00000000  0.40517800  0.54568900  1
+  O  O5  1  0.50000000  0.05209100  0.44356300  1
+  O  O6  1  0.50000000  0.94790900  0.94356300  1
+  O  O7  1  0.00000000  0.59482200  0.04568900  1
+  O  O8  1  0.00000000  0.05098400  0.19670800  1
+  O  O9  1  0.00000000  0.94901600  0.69670800  1
+  F  F10  1  0.50000000  0.45939000  0.79388000  1
+  F  F11  1  0.50000000  0.54061000  0.29388000  1

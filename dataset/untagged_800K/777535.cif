@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_NaMnP
+_symmetry_space_group_name_H-M  'P4/nmm'
+_cell_length_a       3.76039
+_cell_length_b       3.76039
+_cell_length_c       6.97051
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  129
+_chemical_formula_structural  NaMnP
+_chemical_formula_sum  Na2Mn2P2
+_cell_volume  98.56684895075516
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mn  Mn1  1  0.00000  0.00000  0.00000  1
+ Mn  Mn2  1  0.50000  0.50000  0.00000  1
+ Na  Na1  1  0.00000  0.50000  0.64256  1
+ Na  Na2  1  0.50000  0.00000  0.35744  1
+ P  P1  1  0.00000  0.50000  0.19188  1
+ P  P2  1  0.50000  0.00000  0.80812  1

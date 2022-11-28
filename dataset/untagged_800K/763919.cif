@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_Na2TeO4
+_symmetry_space_group_name_H-M  'Pbcn'
+_cell_length_a       5.28357
+_cell_length_b       5.76126
+_cell_length_c       12.2535
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  60
+_chemical_formula_structural  Na2TeO4
+_chemical_formula_sum  Na8Te4O6
+_cell_volume  372.9966085455802
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Na  Na1  1  0.75000  0.50000  0.72449  1
+ Na  Na2  1  0.25000  0.00000  0.77551  1
+ Na  Na3  1  0.25000  0.50000  0.27551  1
+ Na  Na4  1  0.75000  0.00000  0.22449  1
+ Na  Na5  1  0.75000  0.50000  0.14086  1
+ Na  Na6  1  0.25000  0.00000  0.35914  1
+ Na  Na7  1  0.25000  0.50000  0.85914  1
+ Na  Na8  1  0.75000  0.00000  0.64086  1
+ O  O1  1  0.60974  0.29683  0.32452  1
+ O  O2  1  0.10974  0.20317  0.17548  1
+ O  O3  1  0.39026  0.79683  0.17548  1
+ O  O4  1  0.60974  0.20317  0.82452  1
+ O  O5  1  0.39026  0.70317  0.67548  1
+ O  O6  1  0.89026  0.79683  0.82452  1
+ O  O7  1  0.07135  0.31825  0.44911  1
+ O  O8  1  0.89026  0.70317  0.32452  1
+ O  O9  1  0.57135  0.18175  0.05089  1
+ O  O10  1  0.42865  0.81825  0.94911  1
+ O  O11  1  0.42865  0.68175  0.44911  1
+ O  O12  1  0.10974  0.29683  0.67548  1
+ O  O13  1  0.57135  0.31825  0.55089  1
+ O  O14  1  0.92865  0.68175  0.55089  1
+ O  O15  1  0.92865  0.81825  0.05089  1
+ O  O16  1  0.07135  0.18175  0.94911  1
+ Te  Te1  1  0.25000  0.00000  0.07257  1
+ Te  Te2  1  0.75000  0.00000  0.92743  1
+ Te  Te3  1  0.25000  0.50000  0.57257  1
+ Te  Te4  1  0.75000  0.50000  0.42743  1

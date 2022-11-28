@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ti3Fe3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.15280118
+_cell_length_b   8.15280118
+_cell_length_c   8.15280118
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Fe3O
+_chemical_formula_sum   'Ti12 Fe12 O4'
+_cell_volume   383.18240287
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.31767600  0.68232400  0.31767600  1
+  Ti  Ti1  1  0.56767600  0.93232400  0.56767600  1
+  Ti  Ti2  1  0.31767600  0.31767600  0.68232400  1
+  Ti  Ti3  1  0.68232400  0.31767600  0.31767600  1
+  Ti  Ti4  1  0.31767600  0.68232400  0.68232400  1
+  Ti  Ti5  1  0.68232400  0.68232400  0.31767600  1
+  Ti  Ti6  1  0.93232400  0.93232400  0.56767600  1
+  Ti  Ti7  1  0.56767600  0.56767600  0.93232400  1
+  Ti  Ti8  1  0.68232400  0.31767600  0.68232400  1
+  Ti  Ti9  1  0.93232400  0.56767600  0.56767600  1
+  Ti  Ti10  1  0.56767600  0.93232400  0.93232400  1
+  Ti  Ti11  1  0.93232400  0.56767600  0.93232400  1
+  Fe  Fe12  1  0.91545000  0.91545000  0.91545000  1
+  Fe  Fe13  1  0.99634900  0.33455000  0.33455000  1
+  Fe  Fe14  1  0.33455000  0.33455000  0.99634900  1
+  Fe  Fe15  1  0.33455000  0.99634900  0.33455000  1
+  Fe  Fe16  1  0.91545000  0.91545000  0.25365100  1
+  Fe  Fe17  1  0.91545000  0.25365100  0.91545000  1
+  Fe  Fe18  1  0.25365100  0.91545000  0.91545000  1
+  Fe  Fe19  1  0.33455000  0.33455000  0.33455000  1
+  Fe  Fe20  1  0.12500000  0.12500000  0.62500000  1
+  Fe  Fe21  1  0.12500000  0.62500000  0.12500000  1
+  Fe  Fe22  1  0.62500000  0.12500000  0.12500000  1
+  Fe  Fe23  1  0.12500000  0.12500000  0.12500000  1
+  O  O24  1  0.62500000  0.62500000  0.12500000  1
+  O  O25  1  0.62500000  0.12500000  0.62500000  1
+  O  O26  1  0.12500000  0.62500000  0.62500000  1
+  O  O27  1  0.62500000  0.62500000  0.62500000  1

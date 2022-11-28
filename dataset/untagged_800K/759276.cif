@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Li2TeO3
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.14095
+_cell_length_b       5.42016
+_cell_length_c       13.6035
+_cell_angle_alpha    87.8252
+_cell_angle_beta     85.4104
+_cell_angle_gamma    61.6899
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Li2TeO3
+_chemical_formula_sum  Li4Te2O6
+_cell_volume  332.6500999777135
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.63929  0.31450  0.06789  1
+ Li  Li2  1  0.95379  0.68550  0.06789  1
+ Li  Li3  1  0.04621  0.31450  0.93211  1
+ Li  Li4  1  0.36071  0.68550  0.93211  1
+ O  O1  1  0.36782  0.00000  0.86388  1
+ O  O2  1  0.63218  0.00000  0.13612  1
+ O  O3  1  0.02808  0.29981  0.08052  1
+ O  O4  1  0.67211  0.29981  0.91948  1
+ O  O5  1  0.32789  0.70019  0.08052  1
+ O  O6  1  0.97192  0.70019  0.91948  1
+ Te  Te1  1  0.26941  0.00000  0.16117  1
+ Te  Te2  1  0.73059  0.00000  0.83883  1

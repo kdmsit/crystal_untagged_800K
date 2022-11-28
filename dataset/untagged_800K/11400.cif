@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       K2Pt4S6
+_chemical_formula_sum              "K2 Pt4 S6"
+_cell_length_a       7.15741
+_cell_length_b       7.15741
+_cell_length_c       7.62402
+_cell_angle_alpha    62.0047
+_cell_angle_beta     117.995
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.69300  0.30700  0.08020  1.0000
+  K   K2        1.0  0.30700  0.69300  0.92000  1.0000
+  Pt  Pt1       1.0  0.00000  0.00000  0.50000  1.0000
+  Pt  Pt2       1.0  0.00000  0.50000  0.50000  1.0000
+  Pt  Pt3       1.0  0.50000  0.00000  0.50000  1.0000
+  Pt  Pt4       1.0  0.50000  0.50000  0.50000  1.0000
+  S   S1        1.0  0.26900  0.22000  0.31800  1.0000
+  S   S2        1.0  0.26900  0.73100  0.31800  1.0000
+  S   S3        1.0  0.78000  0.73100  0.31800  1.0000
+  S   S4        1.0  0.22000  0.26900  0.68200  1.0000
+  S   S5        1.0  0.73100  0.26900  0.68200  1.0000
+  S   S6        1.0  0.73100  0.78000  0.68200  1.0000

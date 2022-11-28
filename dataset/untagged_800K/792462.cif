@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_CaSiO3
+_symmetry_space_group_name_H-M  'Imma'
+_cell_length_a       5.09192
+_cell_length_b       5.0871
+_cell_length_c       5.08711
+_cell_angle_alpha    60.3102
+_cell_angle_beta     59.9687
+_cell_angle_gamma    59.9687
+
+_symmetry_Int_Tables_number  74
+_chemical_formula_structural  CaSiO3
+_chemical_formula_sum  Ca2Si2O6
+_cell_volume  93.3488179348177
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.75000  0.74913  0.75087  1
+ Ca  Ca2  1  0.25000  0.25087  0.24913  1
+ O  O1  1  0.75000  0.21320  0.28680  1
+ O  O2  1  0.25000  0.78680  0.71320  1
+ O  O3  1  0.76887  0.73113  0.23113  1
+ O  O4  1  0.73113  0.26887  0.76887  1
+ O  O5  1  0.26887  0.73113  0.23113  1
+ O  O6  1  0.23113  0.26887  0.76887  1
+ Si  Si1  1  0.50000  0.50000  0.50000  1
+ Si  Si2  1  0.00000  0.00000  0.00000  1

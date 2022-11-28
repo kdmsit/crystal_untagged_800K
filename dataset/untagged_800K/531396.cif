@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Au4O4Rh4Se4
+_chemical_formula_sum              "Au4 O4 Rh4 Se4"
+_cell_length_a       6.63337
+_cell_length_b       6.584
+_cell_length_c       6.05942
+_cell_angle_alpha    90
+_cell_angle_beta     86.4972
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.94600  0.28800  0.03580  1.0000
+  Au  Au2       1.0  0.05420  0.78800  0.46400  1.0000
+  Au  Au3       1.0  0.94600  0.21200  0.53600  1.0000
+  Au  Au4       1.0  0.05420  0.71200  0.96400  1.0000
+  O   O1        1.0  0.63500  0.37100  0.08470  1.0000
+  O   O2        1.0  0.36500  0.87100  0.41500  1.0000
+  O   O3        1.0  0.63500  0.12900  0.58500  1.0000
+  O   O4        1.0  0.36500  0.62900  0.91500  1.0000
+  Rh  Rh1       1.0  0.51100  0.62800  0.23100  1.0000
+  Rh  Rh2       1.0  0.48900  0.12800  0.26900  1.0000
+  Rh  Rh3       1.0  0.51100  0.87200  0.73100  1.0000
+  Rh  Rh4       1.0  0.48900  0.37200  0.76900  1.0000
+  Se  Se1       1.0  0.72300  0.87300  0.03920  1.0000
+  Se  Se2       1.0  0.27700  0.37300  0.46100  1.0000
+  Se  Se3       1.0  0.72300  0.62700  0.53900  1.0000
+  Se  Se4       1.0  0.27700  0.12700  0.96100  1.0000

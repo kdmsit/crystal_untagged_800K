@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Co(BRh2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.49202817
+_cell_length_b   7.49202817
+_cell_length_c   4.75226857
+_cell_angle_alpha   89.87718751
+_cell_angle_beta   89.87718751
+_cell_angle_gamma   60.11396430
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co(BRh2)3
+_chemical_formula_sum   'Co2 B6 Rh12'
+_cell_volume   231.27392440
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.45006100  0.09232700  0.99544400  1
+  Co  Co1  1  0.09232700  0.45006100  0.99544400  1
+  B  B2  1  0.18831300  0.18831300  0.74118900  1
+  B  B3  1  0.18484400  0.62356500  0.73995100  1
+  B  B4  1  0.62356500  0.18484400  0.73995100  1
+  B  B5  1  0.81042100  0.81042100  0.24065500  1
+  B  B6  1  0.81174700  0.37969100  0.23910100  1
+  B  B7  1  0.37969100  0.81174700  0.23910100  1
+  Rh  Rh8  1  0.87265600  0.87265600  0.83420100  1
+  Rh  Rh9  1  0.87799400  0.25125100  0.83352500  1
+  Rh  Rh10  1  0.25125100  0.87799400  0.83352500  1
+  Rh  Rh11  1  0.12793700  0.12793700  0.32123500  1
+  Rh  Rh12  1  0.12334400  0.74961600  0.32884900  1
+  Rh  Rh13  1  0.74961600  0.12334400  0.32884900  1
+  Rh  Rh14  1  0.33271800  0.33271800  0.50705400  1
+  Rh  Rh15  1  0.66822500  0.66822500  0.01104500  1
+  Rh  Rh16  1  0.54332100  0.54332100  0.49029800  1
+  Rh  Rh17  1  0.53989600  0.92236900  0.49820400  1
+  Rh  Rh18  1  0.92236900  0.53989600  0.49820400  1
+  Rh  Rh19  1  0.44970500  0.44970500  0.99103300  1

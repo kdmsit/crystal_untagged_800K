@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ag2Cd2O2Te2
+_chemical_formula_sum              "Ag2 Cd2 O2 Te2"
+_cell_length_a       3.34946
+_cell_length_b       5.98319
+_cell_length_c       7.85858
+_cell_angle_alpha    90
+_cell_angle_beta     77.6954
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.87100  0.25000  0.25800  1.0000
+  Ag  Ag2       1.0  0.12900  0.75000  0.74200  1.0000
+  Cd  Cd1       1.0  0.45400  0.75000  0.09250  1.0000
+  Cd  Cd2       1.0  0.54600  0.25000  0.90700  1.0000
+  O   O1        1.0  0.00000  0.00000  0.00000  1.0000
+  O   O2        1.0  0.00000  0.50000  0.00000  1.0000
+  Te  Te1       1.0  0.78000  0.75000  0.44100  1.0000
+  Te  Te2       1.0  0.22000  0.25000  0.55900  1.0000

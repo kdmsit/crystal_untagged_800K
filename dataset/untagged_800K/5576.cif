@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ge2Th4
+_chemical_formula_sum              "Ge2 Th4"
+_cell_length_a       6.06413
+_cell_length_b       6.06413
+_cell_length_c       6.06413
+_cell_angle_alpha    119.672
+_cell_angle_beta     104.625
+_cell_angle_gamma    104.625
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.00000  0.25000  0.25000  1.0000
+  Ge  Ge2       1.0  0.00000  0.75000  0.75000  1.0000
+  Th  Th1       1.0  0.50000  0.33600  0.16400  1.0000
+  Th  Th2       1.0  0.17200  0.83600  0.33600  1.0000
+  Th  Th3       1.0  0.82800  0.16400  0.66400  1.0000
+  Th  Th4       1.0  0.50000  0.66400  0.83600  1.0000

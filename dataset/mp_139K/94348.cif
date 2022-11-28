@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YAl2N3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.85702247
+_cell_length_b   5.78360565
+_cell_length_c   5.16211600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.58621576
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YAl2N3
+_chemical_formula_sum   'Y2 Al4 N6'
+_cell_volume   152.06515697
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.00000000  0.69242500  0.46526400  1
+  Y  Y1  1  0.00000000  0.30757500  0.96526400  1
+  Al  Al2  1  0.35084000  0.34058100  0.48975200  1
+  Al  Al3  1  0.64916000  0.98974100  0.48975200  1
+  Al  Al4  1  0.64916000  0.65941900  0.98975200  1
+  Al  Al5  1  0.35084000  0.01025900  0.98975200  1
+  N  N6  1  0.38766800  0.33171700  0.85471800  1
+  N  N7  1  0.61233200  0.94404900  0.85471800  1
+  N  N8  1  0.61233200  0.66828300  0.35471800  1
+  N  N9  1  0.38766800  0.05595100  0.35471800  1
+  N  N10  1  0.00000000  0.71016300  0.93379700  1
+  N  N11  1  0.00000000  0.28983700  0.43379700  1

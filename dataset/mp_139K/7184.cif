@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Mg(NiGe)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09961686
+_cell_length_b   5.10105983
+_cell_length_c   7.83901500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99065284
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(NiGe)6
+_chemical_formula_sum   'Mg1 Ni6 Ge6'
+_cell_volume   176.61638465
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.99999800  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.49999700  0.00000000  0.24914600  1
+  Ni  Ni2  1  0.50000100  0.50000600  0.24916000  1
+  Ni  Ni3  1  0.99999400  0.49999400  0.24916000  1
+  Ni  Ni4  1  0.49999700  0.00000000  0.75085400  1
+  Ni  Ni5  1  0.50000100  0.50000600  0.75084000  1
+  Ni  Ni6  1  0.99999400  0.49999400  0.75084000  1
+  Ge  Ge7  1  0.33329500  0.66667800  0.00000000  1
+  Ge  Ge8  1  0.66661700  0.33332200  0.00000000  1
+  Ge  Ge9  1  0.33328600  0.66664500  0.50000000  1
+  Ge  Ge10  1  0.66664100  0.33335500  0.50000000  1
+  Ge  Ge11  1  0.99999000  0.00000000  0.33946000  1
+  Ge  Ge12  1  0.99999000  0.00000000  0.66054000  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KMnCl3O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47611400
+_cell_length_b   6.77174560
+_cell_length_c   8.99588174
+_cell_angle_alpha   107.74594576
+_cell_angle_beta   90.54708957
+_cell_angle_gamma   112.19742588
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMnCl3O2
+_chemical_formula_sum   'K2 Mn2 Cl6 O4'
+_cell_volume   344.39601554
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.93510500  0.63496900  0.78885000  1
+  K  K1  1  0.06489500  0.36503100  0.21115000  1
+  Mn  Mn2  1  0.62349000  0.96917800  0.68266100  1
+  Mn  Mn3  1  0.37651000  0.03082200  0.31733900  1
+  Cl  Cl4  1  0.73804700  0.18921400  0.48085600  1
+  Cl  Cl5  1  0.26195300  0.81078600  0.51914400  1
+  Cl  Cl6  1  0.48601200  0.74476300  0.83180800  1
+  Cl  Cl7  1  0.51398800  0.25523700  0.16819200  1
+  Cl  Cl8  1  0.98793800  0.16514600  0.81846000  1
+  Cl  Cl9  1  0.01206200  0.83485400  0.18154000  1
+  O  O10  1  0.28804500  0.22764600  0.43653200  1
+  O  O11  1  0.71195500  0.77235400  0.56346800  1
+  O  O12  1  0.56682900  0.19227500  0.79735800  1
+  O  O13  1  0.43317100  0.80772500  0.20264200  1

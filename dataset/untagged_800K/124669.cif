@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       In4Ni2Yb2
+_chemical_formula_sum              "In4 Ni2 Yb2"
+_cell_length_a       4.32261
+_cell_length_b       5.54097
+_cell_length_c       7.68307
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    67.0418
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.64800  0.70400  0.05230  1.0000
+  In  In2       1.0  0.64800  0.70400  0.44800  1.0000
+  In  In3       1.0  0.35200  0.29600  0.55200  1.0000
+  In  In4       1.0  0.35200  0.29600  0.94800  1.0000
+  Ni  Ni1       1.0  0.21800  0.56300  0.25000  1.0000
+  Ni  Ni2       1.0  0.78200  0.43700  0.75000  1.0000
+  Yb  Yb1       1.0  0.93800  0.12400  0.25000  1.0000
+  Yb  Yb2       1.0  0.06220  0.87600  0.75000  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       As2Hf3Pt2
+_chemical_formula_sum              "As2 Hf3 Pt2"
+_cell_length_a       8.00511
+_cell_length_b       8.00511
+_cell_length_c       8.00511
+_cell_angle_alpha    33.8238
+_cell_angle_beta     33.8238
+_cell_angle_gamma    33.8238
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.25300  0.25300  0.25300  1.0000
+  As  As2       1.0  0.74700  0.74700  0.74700  1.0000
+  Hf  Hf1       1.0  0.38700  0.38700  0.38700  1.0000
+  Hf  Hf2       1.0  0.63200  0.63200  0.63200  1.0000
+  Hf  Hf3       1.0  0.86400  0.86400  0.86400  1.0000
+  Pt  Pt1       1.0  0.50900  0.50900  0.50900  1.0000
+  Pt  Pt2       1.0  0.98400  0.98400  0.98400  1.0000

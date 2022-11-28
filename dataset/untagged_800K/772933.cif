@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Na2GaCuF6
+_symmetry_space_group_name_H-M  'Fm-3m'
+_cell_length_a       5.72273
+_cell_length_b       5.72273
+_cell_length_c       5.72273
+_cell_angle_alpha    60
+_cell_angle_beta     60
+_cell_angle_gamma    60
+
+_symmetry_Int_Tables_number  225
+_chemical_formula_structural  Na2GaCuF6
+_chemical_formula_sum  Na2GaCuF6
+_cell_volume  132.5238669946407
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.50000  0.50000  0.50000  1
+ F  F1  1  0.23693  0.23693  0.76307  1
+ F  F2  1  0.23693  0.76307  0.76307  1
+ F  F3  1  0.76307  0.76307  0.23693  1
+ F  F4  1  0.23693  0.76307  0.23693  1
+ F  F5  1  0.76307  0.23693  0.76307  1
+ F  F6  1  0.76307  0.23693  0.23693  1
+ Ga  Ga1  1  0.00000  0.00000  0.00000  1
+ Na  Na1  1  0.25000  0.25000  0.25000  1
+ Na  Na2  1  0.75000  0.75000  0.75000  1

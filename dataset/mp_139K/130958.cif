@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ba3MnF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.86869988
+_cell_length_b   8.54510897
+_cell_length_c   8.76139877
+_cell_angle_alpha   119.18667520
+_cell_angle_beta   108.99123597
+_cell_angle_gamma   48.13935949
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3MnF12
+_chemical_formula_sum   'Ba3 Mn1 F12'
+_cell_volume   383.04359043
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.00000000  0.00000000  1
+  Ba  Ba1  1  0.00000000  0.50000000  0.50000000  1
+  Ba  Ba2  1  0.00000000  0.00000000  0.50000000  1
+  Mn  Mn3  1  0.00000000  0.00000000  0.00000000  1
+  F  F4  1  0.80666400  0.61568600  0.77690700  1
+  F  F5  1  0.19333600  0.38431400  0.22309300  1
+  F  F6  1  0.73466100  0.90570200  0.47919600  1
+  F  F7  1  0.19333600  0.16122100  0.77690700  1
+  F  F8  1  0.26533900  0.09429800  0.52080400  1
+  F  F9  1  0.80666400  0.83877900  0.22309300  1
+  F  F10  1  0.18887400  0.87831400  0.83216900  1
+  F  F11  1  0.26533900  0.57349400  0.47919600  1
+  F  F12  1  0.81112600  0.12168600  0.16783100  1
+  F  F13  1  0.73466100  0.42650600  0.52080400  1
+  F  F14  1  0.81112600  0.95385500  0.83216900  1
+  F  F15  1  0.18887400  0.04614500  0.16783100  1

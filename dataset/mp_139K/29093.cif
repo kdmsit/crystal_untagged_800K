@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CaV4Co(CuO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42315265
+_cell_length_b   6.42315265
+_cell_length_c   6.42315265
+_cell_angle_alpha   109.99786582
+_cell_angle_beta   109.29555929
+_cell_angle_gamma   109.12156989
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaV4Co(CuO6)2
+_chemical_formula_sum   'Ca1 V4 Co1 Cu2 O12'
+_cell_volume   203.98315229
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.00000000  1
+  V  V1  1  0.00000000  0.50000000  0.00000000  1
+  V  V2  1  0.50000000  0.00000000  0.00000000  1
+  V  V3  1  0.00000000  0.00000000  0.50000000  1
+  V  V4  1  0.50000000  0.50000000  0.50000000  1
+  Co  Co5  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu6  1  0.50000000  0.50000000  0.00000000  1
+  Cu  Cu7  1  0.00000000  0.50000000  0.50000000  1
+  O  O8  1  0.17987700  0.30220600  0.48208300  1
+  O  O9  1  0.82012300  0.69779400  0.51791700  1
+  O  O10  1  0.82012300  0.30220600  0.12233000  1
+  O  O11  1  0.17987700  0.69779400  0.87767000  1
+  O  O12  1  0.47632300  0.18021000  0.29611300  1
+  O  O13  1  0.52367700  0.81979000  0.70388700  1
+  O  O14  1  0.11590300  0.81979000  0.29611300  1
+  O  O15  1  0.88409700  0.18021000  0.70388700  1
+  O  O16  1  0.30484100  0.48594300  0.18110200  1
+  O  O17  1  0.69515900  0.51405700  0.81889800  1
+  O  O18  1  0.30484100  0.12374000  0.81889800  1
+  O  O19  1  0.69515900  0.87626000  0.18110200  1

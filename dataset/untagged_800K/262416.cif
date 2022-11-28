@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Al4Be6
+_chemical_formula_sum              "Al4 Be6"
+_cell_length_a       6.73512
+_cell_length_b       6.73512
+_cell_length_c       5.23669
+_cell_angle_alpha    130.021
+_cell_angle_beta     49.9788
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.62200  0.37800  0.13400  1.0000
+  Al  Al2       1.0  0.87800  0.12200  0.36600  1.0000
+  Al  Al3       1.0  0.12200  0.87800  0.63400  1.0000
+  Al  Al4       1.0  0.37800  0.62200  0.86600  1.0000
+  Be  Be1       1.0  0.94600  0.44600  0.25000  1.0000
+  Be  Be2       1.0  0.25000  0.05370  0.25000  1.0000
+  Be  Be3       1.0  0.55400  0.75000  0.25000  1.0000
+  Be  Be4       1.0  0.44600  0.25000  0.75000  1.0000
+  Be  Be5       1.0  0.75000  0.94600  0.75000  1.0000
+  Be  Be6       1.0  0.05370  0.55400  0.75000  1.0000

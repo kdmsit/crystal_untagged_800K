@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ZnCu2Ge(SeS)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37759900
+_cell_length_b   6.72165100
+_cell_length_c   7.74631500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCu2Ge(SeS)2
+_chemical_formula_sum   'Zn2 Cu4 Ge2 Se4 S4'
+_cell_volume   332.06899033
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00795300  0.14347000  0.50000000  1
+  Zn  Zn1  1  0.50795300  0.85653000  0.00000000  1
+  Cu  Cu2  1  0.49609400  0.31274100  0.74795200  1
+  Cu  Cu3  1  0.49609400  0.31274100  0.25204800  1
+  Cu  Cu4  1  0.99609400  0.68725900  0.75204800  1
+  Cu  Cu5  1  0.99609400  0.68725900  0.24795200  1
+  Ge  Ge6  1  0.50665600  0.84087300  0.50000000  1
+  Ge  Ge7  1  0.00665600  0.15912700  0.00000000  1
+  Se  Se8  1  0.87604100  0.33925900  0.75159300  1
+  Se  Se9  1  0.87604100  0.33925900  0.24840700  1
+  Se  Se10  1  0.37604100  0.66074100  0.74840700  1
+  Se  Se11  1  0.37604100  0.66074100  0.25159300  1
+  S  S12  1  0.86833200  0.82081600  0.50000000  1
+  S  S13  1  0.36833200  0.17918400  0.00000000  1
+  S  S14  1  0.38178900  0.15781200  0.50000000  1
+  S  S15  1  0.88178900  0.84218800  0.00000000  1

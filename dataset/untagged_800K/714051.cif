@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ca2Nb2SnO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.68302183
+_cell_length_b   10.68302183
+_cell_length_c   5.51274364
+_cell_angle_alpha   88.08861415
+_cell_angle_beta   88.08861415
+_cell_angle_gamma   37.59066952
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Nb2SnO8
+_chemical_formula_sum   'Ca4 Nb4 Sn2 O16'
+_cell_volume   383.55498352
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.56609800  0.86523500  0.25566600  1
+  Ca  Ca1  1  0.13476500  0.43390200  0.24433400  1
+  Ca  Ca2  1  0.43390200  0.13476500  0.74433400  1
+  Ca  Ca3  1  0.86523500  0.56609800  0.75566600  1
+  Nb  Nb4  1  0.72939900  0.02312500  0.25058000  1
+  Nb  Nb5  1  0.97687500  0.27060100  0.24942000  1
+  Nb  Nb6  1  0.27060100  0.97687500  0.74942000  1
+  Nb  Nb7  1  0.02312500  0.72939900  0.75058000  1
+  Sn  Sn8  1  0.30105100  0.69894900  0.25000000  1
+  Sn  Sn9  1  0.69894900  0.30105100  0.75000000  1
+  O  O10  1  0.82480400  0.02108800  0.92281100  1
+  O  O11  1  0.97891200  0.17519600  0.57718900  1
+  O  O12  1  0.17519600  0.97891200  0.07718900  1
+  O  O13  1  0.02108800  0.82480400  0.42281100  1
+  O  O14  1  0.60801400  0.25057300  0.40132900  1
+  O  O15  1  0.74942700  0.39198600  0.09867100  1
+  O  O16  1  0.39198600  0.74942700  0.59867100  1
+  O  O17  1  0.25057300  0.60801400  0.90132900  1
+  O  O18  1  0.73105700  0.88753900  0.51840900  1
+  O  O19  1  0.11246100  0.26894300  0.98159100  1
+  O  O20  1  0.14403700  0.47742200  0.63937000  1
+  O  O21  1  0.52257800  0.85596300  0.86063000  1
+  O  O22  1  0.85596300  0.52257800  0.36063000  1
+  O  O23  1  0.47742200  0.14403700  0.13937000  1
+  O  O24  1  0.88753900  0.73105700  0.01840900  1
+  O  O25  1  0.26894300  0.11246100  0.48159100  1

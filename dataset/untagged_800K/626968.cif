@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_MnAu2C4(N2O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.08588800
+_cell_length_b   6.42329181
+_cell_length_c   10.90694879
+_cell_angle_alpha   107.08227995
+_cell_angle_beta   98.04658446
+_cell_angle_gamma   90.28917879
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnAu2C4(N2O)2
+_chemical_formula_sum   'Mn1 Au2 C4 N4 O2'
+_cell_volume   204.37699744
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au1  1  0.24950500  0.24950500  0.49900900  1
+  Au  Au2  1  0.75049500  0.75049500  0.50099100  1
+  C  C3  1  0.84771600  0.84771600  0.69543300  1
+  C  C4  1  0.15228400  0.15228400  0.30456700  1
+  C  C5  1  0.34597900  0.34597900  0.69195900  1
+  C  C6  1  0.65402100  0.65402100  0.30804100  1
+  N  N7  1  0.90411700  0.90411700  0.80823400  1
+  N  N8  1  0.09588300  0.09588300  0.19176600  1
+  N  N9  1  0.40279200  0.40279200  0.80558500  1
+  N  N10  1  0.59720800  0.59720800  0.19441500  1
+  O  O11  1  0.49772400  0.82534100  0.00000000  1
+  O  O12  1  0.50227600  0.17465900  0.00000000  1

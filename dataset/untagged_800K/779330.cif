@@ -1,0 +1,34 @@
+CIF file written using JARVIS-Tools package.
+data_LiNi2O4
+_symmetry_space_group_name_H-M  'P2/m'
+_cell_length_a       4.96501
+_cell_length_b       2.83694
+_cell_length_c       5.04211
+_cell_angle_alpha    90
+_cell_angle_beta     109.556
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  10
+_chemical_formula_structural  LiNi2O4
+_chemical_formula_sum  LiNi2O4
+_cell_volume  66.92350026848777
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.50000  0.50000  -0.00000  1
+ Ni  Ni1  1  0.50000  0.00000  0.50000  1
+ Ni  Ni2  1  -0.00000  0.50000  0.49999  1
+ O  O1  1  0.24713  0.00000  0.70637  1
+ O  O2  1  0.71940  0.50000  0.71170  1
+ O  O3  1  0.75286  0.00000  0.29362  1
+ O  O4  1  0.28061  0.50000  0.28830  1

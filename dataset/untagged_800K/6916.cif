@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GeHgTe4Tl2
+_chemical_formula_sum              "Ge1 Hg1 Te4 Tl2"
+_cell_length_a       7.05621
+_cell_length_b       7.05621
+_cell_length_c       7.05621
+_cell_angle_alpha    105.135
+_cell_angle_beta     118.542
+_cell_angle_gamma    105.135
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.00000  0.00000  0.00000  1.0000
+  Hg  Hg1       1.0  0.50000  0.00000  0.50000  1.0000
+  Te  Te1       1.0  0.04830  0.65100  0.04830  1.0000
+  Te  Te2       1.0  0.39700  0.34900  0.39700  1.0000
+  Te  Te3       1.0  0.95200  0.00000  0.60300  1.0000
+  Te  Te4       1.0  0.60300  0.00000  0.95200  1.0000
+  Tl  Tl1       1.0  0.50000  0.50000  0.00000  1.0000
+  Tl  Tl2       1.0  0.00000  0.50000  0.50000  1.0000

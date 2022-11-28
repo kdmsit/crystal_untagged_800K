@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mn2SiMo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.66783984
+_cell_length_b   4.66783984
+_cell_length_c   7.77080007
+_cell_angle_alpha   87.86022688
+_cell_angle_beta   87.86022688
+_cell_angle_gamma   61.26087889
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2SiMo
+_chemical_formula_sum   'Mn6 Si3 Mo3'
+_cell_volume   148.31937174
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.98919700  0.98919700  0.49477700  1
+  Mn  Mn1  1  0.00928800  0.00928800  0.00825900  1
+  Mn  Mn2  1  0.81728000  0.81728000  0.25041600  1
+  Mn  Mn3  1  0.81261800  0.33416500  0.25658700  1
+  Mn  Mn4  1  0.33416500  0.81261800  0.25658700  1
+  Mn  Mn5  1  0.18253200  0.18253200  0.72962200  1
+  Si  Si6  1  0.17820400  0.67425900  0.76450500  1
+  Si  Si7  1  0.67425900  0.17820400  0.76450500  1
+  Si  Si8  1  0.31497900  0.31497900  0.40813600  1
+  Mo  Mo9  1  0.68672300  0.68672300  0.56581300  1
+  Mo  Mo10  1  0.67273000  0.67273000  0.93823800  1
+  Mo  Mo11  1  0.32829800  0.32829800  0.06262900  1

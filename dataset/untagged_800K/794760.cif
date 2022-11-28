@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_SmCu
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.51461
+_cell_length_b       5.508
+_cell_length_c       7.23039
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  SmCu
+_chemical_formula_sum  Sm4Cu4
+_cell_volume  179.79444792885576
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.25000  0.62488  0.03528  1
+ Cu  Cu2  1  0.75000  0.12488  0.46472  1
+ Cu  Cu3  1  0.25000  0.87512  0.53528  1
+ Cu  Cu4  1  0.75000  0.37512  0.96472  1
+ Sm  Sm1  1  0.25000  0.12961  0.18022  1
+ Sm  Sm2  1  0.75000  0.62961  0.31978  1
+ Sm  Sm3  1  0.25000  0.37039  0.68022  1
+ Sm  Sm4  1  0.75000  0.87039  0.81978  1

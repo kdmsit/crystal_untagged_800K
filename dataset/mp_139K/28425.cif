@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CsBa2Ni2F9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.97784049
+_cell_length_b   7.97784049
+_cell_length_c   7.97784116
+_cell_angle_alpha   43.63641588
+_cell_angle_beta   43.63641588
+_cell_angle_gamma   43.63641334
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsBa2Ni2F9
+_chemical_formula_sum   'Cs1 Ba2 Ni2 F9'
+_cell_volume   219.45366767
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.21285100  0.21285100  0.21285100  1
+  Ba  Ba1  1  0.99856400  0.99856400  0.99856400  1
+  Ba  Ba2  1  0.79406700  0.79406700  0.79406700  1
+  Ni  Ni3  1  0.38733400  0.38733400  0.38733400  1
+  Ni  Ni4  1  0.60861200  0.60861200  0.60861200  1
+  F  F5  1  0.50858300  0.50858300  0.98998700  1
+  F  F6  1  0.50858300  0.98998700  0.50858300  1
+  F  F7  1  0.98998700  0.50858300  0.50858300  1
+  F  F8  1  0.76662500  0.26689500  0.26689500  1
+  F  F9  1  0.26689500  0.26689500  0.76662500  1
+  F  F10  1  0.26689500  0.76662500  0.26689500  1
+  F  F11  1  0.22390600  0.73355000  0.73355000  1
+  F  F12  1  0.73355000  0.73355000  0.22390600  1
+  F  F13  1  0.73355000  0.22390600  0.73355000  1

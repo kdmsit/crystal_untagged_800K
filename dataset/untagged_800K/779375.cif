@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Li3AuS2
+_symmetry_space_group_name_H-M  'Ibam'
+_cell_length_a       5.76584
+_cell_length_b       6.31182
+_cell_length_c       7.04484
+_cell_angle_alpha    116.614
+_cell_angle_beta     114.156
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  72
+_chemical_formula_structural  Li3AuS2
+_chemical_formula_sum  Li6Au2S4
+_cell_volume  203.79668749288228
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Au  Au1  1  -0.00000  0.50000  0.00000  1
+ Au  Au2  1  0.00000  0.00000  0.00000  1
+ Li  Li1  1  0.77416  0.52416  0.54832  1
+ Li  Li2  1  0.22584  0.97584  0.45168  1
+ Li  Li3  1  0.22584  0.47584  0.45168  1
+ Li  Li4  1  0.77416  0.02416  0.54832  1
+ Li  Li5  1  0.50000  0.75000  0.00000  1
+ Li  Li6  1  0.50000  0.25000  -0.00000  1
+ S  S1  1  0.15512  0.35780  0.71561  1
+ S  S2  1  0.43951  0.14220  0.28439  1
+ S  S3  1  0.56049  0.85780  0.71561  1
+ S  S4  1  0.84488  0.64220  0.28439  1

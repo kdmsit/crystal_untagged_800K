@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_CeSiPt
+_symmetry_space_group_name_H-M  'I4_1md'
+_cell_length_a       4.12237
+_cell_length_b       4.12237
+_cell_length_c       7.94588
+_cell_angle_alpha    105.035
+_cell_angle_beta     105.035
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  109
+_chemical_formula_structural  CeSiPt
+_chemical_formula_sum  Ce2Si2Pt2
+_cell_volume  125.61697122581437
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ce  Ce1  1  0.25060  0.75060  0.50120  1
+ Ce  Ce2  1  0.00060  0.00060  0.00120  1
+ Pt  Pt1  1  0.83419  0.33419  0.66837  1
+ Pt  Pt2  1  0.58419  0.58419  0.16837  1
+ Si  Si1  1  0.66921  0.16921  0.33842  1
+ Si  Si2  1  0.41921  0.41921  0.83842  1

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       AlLi4O6Pa
+_chemical_formula_sum              "Al1 Li4 O6 Pa1"
+_cell_length_a       5.34001
+_cell_length_b       5.34001
+_cell_length_c       5.14068
+_cell_angle_alpha    98.8396
+_cell_angle_beta     98.8396
+_cell_angle_gamma    120.888
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.83400  0.16600  0.00000  1.0000
+  Li  Li1       1.0  0.50000  0.50000  0.00000  1.0000
+  Li  Li2       1.0  0.96300  0.03720  0.50000  1.0000
+  Li  Li3       1.0  0.67200  0.32800  0.50000  1.0000
+  Li  Li4       1.0  0.36000  0.64000  0.50000  1.0000
+  O   O1        1.0  0.60300  0.93400  0.22800  1.0000
+  O   O2        1.0  0.90500  0.53500  0.23300  1.0000
+  O   O3        1.0  0.20800  0.24100  0.23400  1.0000
+  O   O4        1.0  0.75900  0.79200  0.76600  1.0000
+  O   O5        1.0  0.46500  0.09510  0.76700  1.0000
+  O   O6        1.0  0.06590  0.39700  0.77200  1.0000
+  Pa  Pa1       1.0  0.16600  0.83400  0.00000  1.0000

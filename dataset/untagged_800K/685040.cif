@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoMnGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09481200
+_cell_length_b   7.04269200
+_cell_length_c   7.89817500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoMnGe
+_chemical_formula_sum   'Ho4 Mn4 Ge4'
+_cell_volume   227.77151748
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.25000000  0.52283100  0.18321000  1
+  Ho  Ho1  1  0.75000000  0.47716900  0.81679000  1
+  Ho  Ho2  1  0.25000000  0.02283100  0.31679000  1
+  Ho  Ho3  1  0.75000000  0.97716900  0.68321000  1
+  Mn  Mn4  1  0.75000000  0.36678100  0.44396400  1
+  Mn  Mn5  1  0.25000000  0.13321900  0.94396400  1
+  Mn  Mn6  1  0.75000000  0.86678100  0.05603600  1
+  Mn  Mn7  1  0.25000000  0.63321900  0.55603600  1
+  Ge  Ge8  1  0.25000000  0.27479400  0.61704100  1
+  Ge  Ge9  1  0.75000000  0.22520600  0.11704100  1
+  Ge  Ge10  1  0.25000000  0.77479400  0.88295900  1
+  Ge  Ge11  1  0.75000000  0.72520600  0.38295900  1

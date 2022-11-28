@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Lu2NiGe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00239400
+_cell_length_b   3.98273800
+_cell_length_c   10.76081990
+_cell_angle_alpha   100.66447705
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2NiGe6
+_chemical_formula_sum   'Lu2 Ni1 Ge6'
+_cell_volume   168.56994520
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.50000000  0.22333400  0.44666900  1
+  Lu  Lu1  1  0.50000000  0.88615300  0.77230500  1
+  Ni  Ni2  1  0.00000000  0.44320600  0.88641300  1
+  Ge  Ge3  1  0.50000000  0.50182700  0.00365400  1
+  Ge  Ge4  1  0.50000000  0.61991000  0.23982100  1
+  Ge  Ge5  1  0.00000000  0.00186200  0.00372400  1
+  Ge  Ge6  1  0.00000000  0.12084000  0.24168000  1
+  Ge  Ge7  1  0.00000000  0.33583500  0.67167000  1
+  Ge  Ge8  1  0.00000000  0.76003200  0.52006400  1

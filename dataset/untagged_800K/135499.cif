@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       C4Cl2La4
+_chemical_formula_sum              "C4 Cl2 La4"
+_cell_length_a       4.21635
+_cell_length_b       6.8085
+_cell_length_c       7.75764
+_cell_angle_alpha    101.391
+_cell_angle_beta     105.769
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.35900  0.02730  0.44500  1.0000
+  C   C2        1.0  0.08580  0.52700  0.44500  1.0000
+  C   C3        1.0  0.91400  0.47300  0.55500  1.0000
+  C   C4        1.0  0.64100  0.97300  0.55500  1.0000
+  Cl  Cl1       1.0  0.21400  0.25000  1.00000  1.0000
+  Cl  Cl2       1.0  0.78600  0.75000  0.00000  1.0000
+  La  La1       1.0  0.45000  0.65000  0.29600  1.0000
+  La  La2       1.0  0.84600  0.15000  0.29600  1.0000
+  La  La3       1.0  0.55000  0.35000  0.70400  1.0000
+  La  La4       1.0  0.15400  0.85000  0.70400  1.0000

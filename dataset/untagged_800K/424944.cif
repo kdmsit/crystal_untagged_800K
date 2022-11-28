@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pt2Sb2Si3
+_chemical_formula_sum              "Pt2 Sb2 Si3"
+_cell_length_a       9.10916
+_cell_length_b       9.10916
+_cell_length_c       9.10916
+_cell_angle_alpha    27.3679
+_cell_angle_beta     27.3679
+_cell_angle_gamma    27.3679
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.00136  0.00136  0.00136  1.0000
+  Pt  Pt2       1.0  0.47100  0.47100  0.47100  1.0000
+  Sb  Sb1       1.0  0.19500  0.19500  0.19500  1.0000
+  Sb  Sb2       1.0  0.76700  0.76700  0.76700  1.0000
+  Si  Si1       1.0  0.37100  0.37100  0.37100  1.0000
+  Si  Si2       1.0  0.65800  0.65800  0.65800  1.0000
+  Si  Si3       1.0  0.91200  0.91200  0.91200  1.0000

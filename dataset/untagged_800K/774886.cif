@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_ZrSi
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.81448
+_cell_length_b       5.34598
+_cell_length_c       7.0564
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  ZrSi
+_chemical_formula_sum  Zr4Si4
+_cell_volume  143.89498923608943
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Si  Si1  1  0.25000  0.63960  0.04365  1
+ Si  Si2  1  0.75000  0.36040  0.95635  1
+ Si  Si3  1  0.75000  0.13960  0.45635  1
+ Si  Si4  1  0.25000  0.86040  0.54365  1
+ Zr  Zr1  1  0.25000  0.12524  0.17578  1
+ Zr  Zr2  1  0.75000  0.87476  0.82422  1
+ Zr  Zr3  1  0.75000  0.62524  0.32422  1
+ Zr  Zr4  1  0.25000  0.37476  0.67578  1

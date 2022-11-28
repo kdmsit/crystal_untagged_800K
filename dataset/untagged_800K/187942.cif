@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al4Ni2Sc2
+_chemical_formula_sum              "Al4 Ni2 Sc2"
+_cell_length_a       4.00765
+_cell_length_b       5.16646
+_cell_length_c       6.68449
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    67.1791
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.85400  0.29200  0.05120  1.0000
+  Al  Al2       1.0  0.85400  0.29200  0.44900  1.0000
+  Al  Al3       1.0  0.14600  0.70800  0.55100  1.0000
+  Al  Al4       1.0  0.14600  0.70800  0.94900  1.0000
+  Ni  Ni1       1.0  0.28900  0.42100  0.25000  1.0000
+  Ni  Ni2       1.0  0.71100  0.57900  0.75000  1.0000
+  Sc  Sc1       1.0  0.56700  0.86500  0.25000  1.0000
+  Sc  Sc2       1.0  0.43300  0.13500  0.75000  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al2NpPd5
+_chemical_formula_sum              "Al2 Np1 Pd5"
+_cell_length_a       4.16155
+_cell_length_b       4.16155
+_cell_length_c       8.03887
+_cell_angle_alpha    105.001
+_cell_angle_beta     105.001
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.74700  0.74700  0.49300  1.0000
+  Al  Al2       1.0  0.25300  0.25300  0.50700  1.0000
+  Np  Np1       1.0  0.00000  0.00000  0.00000  1.0000
+  Pd  Pd1       1.0  0.50000  0.50000  0.00000  1.0000
+  Pd  Pd2       1.0  0.64500  0.14500  0.29000  1.0000
+  Pd  Pd3       1.0  0.14500  0.64500  0.29000  1.0000
+  Pd  Pd4       1.0  0.85500  0.35500  0.71000  1.0000
+  Pd  Pd5       1.0  0.35500  0.85500  0.71000  1.0000

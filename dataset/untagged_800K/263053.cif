@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Al4Rb6
+_chemical_formula_sum              "Al4 Rb6"
+_cell_length_a       11.3455
+_cell_length_b       11.3455
+_cell_length_c       7.54089
+_cell_angle_alpha    138.787
+_cell_angle_beta     41.2127
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.62400  0.37600  0.12700  1.0000
+  Al  Al2       1.0  0.87600  0.12400  0.37300  1.0000
+  Al  Al3       1.0  0.12400  0.87600  0.62700  1.0000
+  Al  Al4       1.0  0.37600  0.62400  0.87300  1.0000
+  Rb  Rb1       1.0  0.57600  0.75000  0.25000  1.0000
+  Rb  Rb2       1.0  0.92400  0.42400  0.25000  1.0000
+  Rb  Rb3       1.0  0.25000  0.07640  0.25000  1.0000
+  Rb  Rb4       1.0  0.75000  0.92400  0.75000  1.0000
+  Rb  Rb5       1.0  0.07640  0.57600  0.75000  1.0000
+  Rb  Rb6       1.0  0.42400  0.25000  0.75000  1.0000

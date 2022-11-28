@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Co4Cr6
+_chemical_formula_sum              "Co4 Cr6"
+_cell_length_a       5.86219
+_cell_length_b       5.86218
+_cell_length_c       5.24789
+_cell_angle_alpha    123.954
+_cell_angle_beta     56.046
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.59200  0.40800  0.22300  1.0000
+  Co  Co2       1.0  0.90800  0.09240  0.27700  1.0000
+  Co  Co3       1.0  0.09240  0.90800  0.72300  1.0000
+  Co  Co4       1.0  0.40800  0.59200  0.77700  1.0000
+  Cr  Cr1       1.0  0.99600  0.49600  0.25000  1.0000
+  Cr  Cr2       1.0  0.50400  0.75000  0.25000  1.0000
+  Cr  Cr3       1.0  0.25000  0.00448  0.25000  1.0000
+  Cr  Cr4       1.0  0.75000  0.99600  0.75000  1.0000
+  Cr  Cr5       1.0  0.49600  0.25000  0.75000  1.0000
+  Cr  Cr6       1.0  0.00448  0.50400  0.75000  1.0000

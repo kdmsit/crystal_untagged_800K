@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       K2Mo6Se6
+_chemical_formula_sum              "K2 Mo6 Se6"
+_cell_length_a       9.25284
+_cell_length_b       9.25895
+_cell_length_c       4.52291
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.997
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.33300  0.66700  0.25000  1.0000
+  K   K2        1.0  0.66700  0.33300  0.75000  1.0000
+  Mo  Mo1       1.0  0.15000  0.17800  0.25000  1.0000
+  Mo  Mo2       1.0  0.02870  0.85000  0.25000  1.0000
+  Mo  Mo3       1.0  0.82100  0.97100  0.25000  1.0000
+  Mo  Mo4       1.0  0.17900  0.02870  0.75000  1.0000
+  Mo  Mo5       1.0  0.97100  0.15000  0.75000  1.0000
+  Mo  Mo6       1.0  0.85000  0.82200  0.75000  1.0000
+  Se  Se1       1.0  0.35500  0.05770  0.25000  1.0000
+  Se  Se2       1.0  0.94200  0.29700  0.25000  1.0000
+  Se  Se3       1.0  0.70300  0.64500  0.25000  1.0000
+  Se  Se4       1.0  0.29700  0.35500  0.75000  1.0000
+  Se  Se5       1.0  0.05780  0.70300  0.75000  1.0000
+  Se  Se6       1.0  0.64500  0.94200  0.75000  1.0000

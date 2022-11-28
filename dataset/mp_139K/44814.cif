@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SiSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20085391
+_cell_length_b   7.20085391
+_cell_length_c   7.20085391
+_cell_angle_alpha   128.50694043
+_cell_angle_beta   121.45215625
+_cell_angle_gamma   81.69770517
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiSe2
+_chemical_formula_sum   'Si2 Se4'
+_cell_volume   239.97257576
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si1  1  0.50000000  0.00000000  0.50000000  1
+  Se  Se2  1  0.86324000  0.09642800  0.23318800  1
+  Se  Se3  1  0.63676000  0.36994800  0.73318800  1
+  Se  Se4  1  0.13676000  0.90357200  0.76681200  1
+  Se  Se5  1  0.36324000  0.63005200  0.26681200  1

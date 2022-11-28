@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Br4Pa6
+_chemical_formula_sum              "Br4 Pa6"
+_cell_length_a       7.04598
+_cell_length_b       7.04598
+_cell_length_c       7.48612
+_cell_angle_alpha    118.073
+_cell_angle_beta     61.9266
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.66500  0.33500  0.00389  1.0000
+  Br  Br2       1.0  0.83500  0.16500  0.49600  1.0000
+  Br  Br3       1.0  0.16500  0.83500  0.50400  1.0000
+  Br  Br4       1.0  0.33500  0.66500  0.99600  1.0000
+  Pa  Pa1       1.0  0.25000  0.08990  0.25000  1.0000
+  Pa  Pa2       1.0  0.91000  0.41000  0.25000  1.0000
+  Pa  Pa3       1.0  0.59000  0.75000  0.25000  1.0000
+  Pa  Pa4       1.0  0.41000  0.25000  0.75000  1.0000
+  Pa  Pa5       1.0  0.08990  0.59000  0.75000  1.0000
+  Pa  Pa6       1.0  0.75000  0.91000  0.75000  1.0000

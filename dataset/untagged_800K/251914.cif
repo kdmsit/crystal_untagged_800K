@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Bi2Er10Pt4
+_chemical_formula_sum              "Bi2 Er10 Pt4"
+_cell_length_a       7.73805
+_cell_length_b       7.73805
+_cell_length_c       8.73511
+_cell_angle_alpha    116.291
+_cell_angle_beta     116.291
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.25000  0.25000  0.50000  1.0000
+  Bi  Bi2       1.0  0.75000  0.75000  0.50000  1.0000
+  Er  Er1       1.0  0.00000  0.00000  0.00000  1.0000
+  Er  Er2       1.0  0.50000  0.50000  0.00000  1.0000
+  Er  Er3       1.0  0.48200  0.29300  0.27500  1.0000
+  Er  Er4       1.0  0.98200  0.48200  0.27500  1.0000
+  Er  Er5       1.0  0.29300  0.79300  0.27500  1.0000
+  Er  Er6       1.0  0.79300  0.98200  0.27500  1.0000
+  Er  Er7       1.0  0.20700  0.01820  0.72500  1.0000
+  Er  Er8       1.0  0.70700  0.20700  0.72500  1.0000
+  Er  Er9       1.0  0.01820  0.51800  0.72500  1.0000
+  Er  Er10      1.0  0.51800  0.70700  0.72500  1.0000
+  Pt  Pt1       1.0  0.63900  0.13900  0.00000  1.0000
+  Pt  Pt2       1.0  0.13900  0.36100  0.00000  1.0000
+  Pt  Pt3       1.0  0.86100  0.63900  0.00000  1.0000
+  Pt  Pt4       1.0  0.36100  0.86100  0.00000  1.0000

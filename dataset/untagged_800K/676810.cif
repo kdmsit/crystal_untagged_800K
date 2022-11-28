@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_BaInGa
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44899969
+_cell_length_b   6.44899969
+_cell_length_c   8.37832760
+_cell_angle_alpha   49.93569142
+_cell_angle_beta   49.93569142
+_cell_angle_gamma   46.87074344
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaInGa
+_chemical_formula_sum   'Ba2 In2 Ga2'
+_cell_volume   181.23106320
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.74878200  0.74878200  0.69923700  1
+  Ba  Ba1  1  0.25121800  0.25121800  0.30076300  1
+  In  In2  1  0.57450500  0.57450500  0.25837300  1
+  In  In3  1  0.42549500  0.42549500  0.74162700  1
+  Ga  Ga4  1  0.06726400  0.06726400  0.08582600  1
+  Ga  Ga5  1  0.93273600  0.93273600  0.91417400  1

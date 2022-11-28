@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na2CaC2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06628034
+_cell_length_b   5.06628034
+_cell_length_c   10.43785900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.51940629
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2CaC2O3
+_chemical_formula_sum   'Na4 Ca2 C4 O6'
+_cell_volume   233.13279997
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.81951600  0.18048400  0.57404000  1
+  Na  Na1  1  0.18048400  0.81951600  0.07404000  1
+  Na  Na2  1  0.81951600  0.18048400  0.92596000  1
+  Na  Na3  1  0.18048400  0.81951600  0.42596000  1
+  Ca  Ca4  1  0.51935000  0.48065000  0.25000000  1
+  Ca  Ca5  1  0.48065000  0.51935000  0.75000000  1
+  C  C6  1  0.85331300  0.14668700  0.25000000  1
+  C  C7  1  0.14668700  0.85331300  0.75000000  1
+  C  C8  1  0.50000000  0.50000000  0.50000000  1
+  C  C9  1  0.50000000  0.50000000  0.00000000  1
+  O  O10  1  0.99962400  0.43968300  0.25000000  1
+  O  O11  1  0.00037600  0.56031700  0.75000000  1
+  O  O12  1  0.43968300  0.99962400  0.75000000  1
+  O  O13  1  0.56031700  0.00037600  0.25000000  1
+  O  O14  1  0.00166500  0.99833500  0.25000000  1
+  O  O15  1  0.99833500  0.00166500  0.75000000  1

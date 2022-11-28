@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_RhN7ClO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.08222716
+_cell_length_b   7.08222716
+_cell_length_c   7.08222716
+_cell_angle_alpha   120.19995162
+_cell_angle_beta   120.19995162
+_cell_angle_gamma   89.65402114
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RhN7ClO6
+_chemical_formula_sum   'Rh1 N7 Cl1 O6'
+_cell_volume   250.42139876
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.15783400  0.15783400  0.00000000  1
+  N  N1  1  0.39621200  0.39621200  0.38211300  1
+  N  N2  1  0.01409800  0.01409800  0.61788700  1
+  N  N3  1  0.39621200  0.01409800  0.00000000  1
+  N  N4  1  0.01409800  0.39621200  0.00000000  1
+  N  N5  1  0.95236100  0.45236100  0.50000000  1
+  N  N6  1  0.45236100  0.95236100  0.50000000  1
+  N  N7  1  0.98664200  0.98664200  0.00000000  1
+  Cl  Cl8  1  0.41908700  0.41908700  0.00000000  1
+  O  O9  1  0.57843400  0.07843400  0.50000000  1
+  O  O10  1  0.07843400  0.57843400  0.50000000  1
+  O  O11  1  0.88975600  0.54344400  0.65368800  1
+  O  O12  1  0.88975600  0.23606900  0.34631200  1
+  O  O13  1  0.54344400  0.88975600  0.65368800  1
+  O  O14  1  0.23606900  0.88975600  0.34631200  1

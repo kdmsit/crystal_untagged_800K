@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Zn(AgI2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.47974100
+_cell_length_b   7.84452100
+_cell_length_c   9.22643000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(AgI2)2
+_chemical_formula_sum   'Zn2 Ag4 I8'
+_cell_volume   541.36064507
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.37715400  0.67905900  0.50000000  1
+  Zn  Zn1  1  0.87715400  0.32094100  0.00000000  1
+  Ag  Ag2  1  0.37540700  0.16945900  0.74770200  1
+  Ag  Ag3  1  0.37540700  0.16945900  0.25229800  1
+  Ag  Ag4  1  0.87540700  0.83054100  0.75229800  1
+  Ag  Ag5  1  0.87540700  0.83054100  0.24770200  1
+  I  I6  1  0.50175900  0.35884400  0.50000000  1
+  I  I7  1  0.00175900  0.64115600  0.00000000  1
+  I  I8  1  0.02105100  0.66551800  0.50000000  1
+  I  I9  1  0.52105100  0.33448200  0.00000000  1
+  I  I10  1  0.49081200  0.82248100  0.74368400  1
+  I  I11  1  0.49081200  0.82248100  0.25631600  1
+  I  I12  1  0.99081200  0.17751900  0.75631600  1
+  I  I13  1  0.99081200  0.17751900  0.24368400  1

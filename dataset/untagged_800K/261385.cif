@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ti4U6
+_chemical_formula_sum              "Ti4 U6"
+_cell_length_a       7.46894
+_cell_length_b       7.46894
+_cell_length_c       5.92283
+_cell_angle_alpha    129.089
+_cell_angle_beta     50.9114
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.61500  0.38500  0.15400  1.0000
+  Ti  Ti2       1.0  0.88500  0.11500  0.34600  1.0000
+  Ti  Ti3       1.0  0.11500  0.88500  0.65400  1.0000
+  Ti  Ti4       1.0  0.38500  0.61500  0.84600  1.0000
+  U   U1        1.0  0.56100  0.75000  0.25000  1.0000
+  U   U2        1.0  0.93900  0.43900  0.25000  1.0000
+  U   U3        1.0  0.25000  0.06060  0.25000  1.0000
+  U   U4        1.0  0.75000  0.93900  0.75000  1.0000
+  U   U5        1.0  0.06060  0.56100  0.75000  1.0000
+  U   U6        1.0  0.43900  0.25000  0.75000  1.0000

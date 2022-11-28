@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_AgGe2N3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.03794500
+_cell_length_b   3.03794428
+_cell_length_c   26.45128900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999698
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgGe2N3
+_chemical_formula_sum   'Ag3 Ge6 N9'
+_cell_volume   211.41568089
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.00000000  0.62382800  0.66666700  1
+  Ag  Ag1  1  0.62382800  0.00000000  0.33333300  1
+  Ag  Ag2  1  0.37617200  0.37617200  0.00000000  1
+  Ge  Ge3  1  0.67724000  0.05005600  0.11354700  1
+  Ge  Ge4  1  0.37281600  0.32276000  0.78021300  1
+  Ge  Ge5  1  0.94994400  0.62718400  0.44688000  1
+  Ge  Ge6  1  0.32276000  0.37281600  0.21978700  1
+  Ge  Ge7  1  0.05005600  0.67724000  0.88645300  1
+  Ge  Ge8  1  0.62718400  0.94994400  0.55312000  1
+  N  N9  1  0.00000000  0.55072200  0.16666700  1
+  N  N10  1  0.55072200  0.00000000  0.83333300  1
+  N  N11  1  0.44927800  0.44927800  0.50000000  1
+  N  N12  1  0.62197100  0.97898000  0.41492100  1
+  N  N13  1  0.35701000  0.37802900  0.08158700  1
+  N  N14  1  0.02102000  0.64299000  0.74825400  1
+  N  N15  1  0.37802900  0.35701000  0.91841300  1
+  N  N16  1  0.97898000  0.62197100  0.58507900  1
+  N  N17  1  0.64299000  0.02102000  0.25174600  1

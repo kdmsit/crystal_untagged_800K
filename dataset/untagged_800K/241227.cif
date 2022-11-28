@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       B2Ge4Nb10
+_chemical_formula_sum              "B2 Ge4 Nb10"
+_cell_length_a       6.54975
+_cell_length_b       6.54975
+_cell_length_c       7.57865
+_cell_angle_alpha    115.602
+_cell_angle_beta     115.602
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.25000  0.25000  0.50000  1.0000
+  B   B2        1.0  0.75000  0.75000  0.50000  1.0000
+  Ge  Ge1       1.0  0.63400  0.13400  0.00000  1.0000
+  Ge  Ge2       1.0  0.13400  0.36600  0.00000  1.0000
+  Ge  Ge3       1.0  0.86600  0.63400  0.00000  1.0000
+  Ge  Ge4       1.0  0.36600  0.86600  0.00000  1.0000
+  Nb  Nb1       1.0  0.00000  0.00000  0.00000  1.0000
+  Nb  Nb2       1.0  0.50000  0.50000  0.00000  1.0000
+  Nb  Nb3       1.0  0.49300  0.32400  0.31700  1.0000
+  Nb  Nb4       1.0  0.99300  0.49300  0.31700  1.0000
+  Nb  Nb5       1.0  0.32400  0.82400  0.31700  1.0000
+  Nb  Nb6       1.0  0.82400  0.99300  0.31700  1.0000
+  Nb  Nb7       1.0  0.17600  0.00745  0.68300  1.0000
+  Nb  Nb8       1.0  0.67600  0.17600  0.68300  1.0000
+  Nb  Nb9       1.0  0.00745  0.50700  0.68300  1.0000
+  Nb  Nb10      1.0  0.50700  0.67600  0.68300  1.0000

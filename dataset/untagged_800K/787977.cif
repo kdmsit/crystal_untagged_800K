@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_DySiPt
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.29678
+_cell_length_b       7.01555
+_cell_length_c       7.48043
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  DySiPt
+_chemical_formula_sum  Dy4Si4Pt4
+_cell_volume  225.49241284868674
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Dy  Dy1  1  0.75000  0.50378  0.79973  1
+ Dy  Dy2  1  0.25000  0.99622  0.29973  1
+ Dy  Dy3  1  0.75000  0.00378  0.70027  1
+ Dy  Dy4  1  0.25000  0.49622  0.20027  1
+ Pt  Pt1  1  0.25000  0.70164  0.58537  1
+ Pt  Pt2  1  0.25000  0.20164  0.91463  1
+ Pt  Pt3  1  0.75000  0.79836  0.08537  1
+ Pt  Pt4  1  0.75000  0.29836  0.41463  1
+ Si  Si1  1  0.25000  0.81327  0.91220  1
+ Si  Si2  1  0.25000  0.31327  0.58780  1
+ Si  Si3  1  0.75000  0.18673  0.08780  1
+ Si  Si4  1  0.75000  0.68673  0.41220  1

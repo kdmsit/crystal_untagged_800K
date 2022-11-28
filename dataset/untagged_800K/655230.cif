@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Cd2Ru(CN)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44946925
+_cell_length_b   6.44946925
+_cell_length_c   6.63529200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999235
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2Ru(CN)6
+_chemical_formula_sum   'Cd2 Ru1 C6 N6'
+_cell_volume   239.02243057
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.66666700  0.33333300  0.50000000  1
+  Cd  Cd1  1  0.33333300  0.66666700  0.50000000  1
+  Ru  Ru2  1  0.00000000  0.00000000  0.00000000  1
+  C  C3  1  0.24740700  0.00000000  0.18398200  1
+  C  C4  1  0.00000000  0.75259300  0.81601800  1
+  C  C5  1  0.75259300  0.75259300  0.18398200  1
+  C  C6  1  0.75259300  0.00000000  0.81601800  1
+  C  C7  1  0.00000000  0.24740700  0.18398200  1
+  C  C8  1  0.24740700  0.24740700  0.81601800  1
+  N  N9  1  0.38385000  0.38385000  0.69645400  1
+  N  N10  1  0.00000000  0.38385000  0.30354600  1
+  N  N11  1  0.61615000  0.61615000  0.30354600  1
+  N  N12  1  0.38385000  0.00000000  0.30354600  1
+  N  N13  1  0.00000000  0.61615000  0.69645400  1
+  N  N14  1  0.61615000  0.00000000  0.69645400  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KAu(Br2O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.09691800
+_cell_length_b   4.39497000
+_cell_length_c   8.87948142
+_cell_angle_alpha   89.57924771
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAu(Br2O)2
+_chemical_formula_sum   'K2 Au2 Br8 O4'
+_cell_volume   511.09415701
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.50000000  0.00000000  1
+  K  K1  1  0.00000000  0.50000000  0.50000000  1
+  Au  Au2  1  0.50000000  0.00000000  0.50000000  1
+  Au  Au3  1  0.00000000  0.00000000  0.00000000  1
+  Br  Br4  1  0.61376300  0.68652400  0.65804300  1
+  Br  Br5  1  0.11376300  0.31347600  0.84195700  1
+  Br  Br6  1  0.38623700  0.31347600  0.34195700  1
+  Br  Br7  1  0.88623700  0.68652400  0.15804300  1
+  Br  Br8  1  0.35240100  0.02778700  0.69418200  1
+  Br  Br9  1  0.85240100  0.97221300  0.80581800  1
+  Br  Br10  1  0.64759900  0.97221300  0.30581800  1
+  Br  Br11  1  0.14759900  0.02778700  0.19418200  1
+  O  O12  1  0.10238300  0.97840900  0.37731000  1
+  O  O13  1  0.60238300  0.02159100  0.12269000  1
+  O  O14  1  0.89761700  0.02159100  0.62269000  1
+  O  O15  1  0.39761700  0.97840900  0.87731000  1

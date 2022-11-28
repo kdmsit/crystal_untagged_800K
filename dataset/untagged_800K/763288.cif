@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_HCl
+_symmetry_space_group_name_H-M  'Cmc2_1'
+_cell_length_a       3.80162
+_cell_length_b       5.16968
+_cell_length_c       3.80162
+_cell_angle_alpha    90
+_cell_angle_beta     79.8666
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  36
+_chemical_formula_structural  HCl
+_chemical_formula_sum  H2Cl2
+_cell_volume  73.54823265625876
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.75032  0.49325  0.24968  1
+ Cl  Cl2  1  0.24968  0.99325  0.75032  1
+ H  H1  1  0.93578  0.67675  0.06422  1
+ H  H2  1  0.06422  0.17675  0.93578  1

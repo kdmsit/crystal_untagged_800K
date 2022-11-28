@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sr2GaFe2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.83311255
+_cell_length_b   12.83311255
+_cell_length_c   12.83311255
+_cell_angle_alpha   156.37487568
+_cell_angle_beta   155.96835965
+_cell_angle_gamma   33.95179026
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2GaFe2O7
+_chemical_formula_sum   'Sr4 Ga2 Fe4 O14'
+_cell_volume   344.58096774
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.85625300  0.85561800  0.01568000  1
+  Sr  Sr1  1  0.14374700  0.15942700  0.99936500  1
+  Sr  Sr2  1  0.33993800  0.35561800  0.99936500  1
+  Sr  Sr3  1  0.66006200  0.65942700  0.01568000  1
+  Ga  Ga4  1  0.32349000  0.70174600  0.52523700  1
+  Ga  Ga5  1  0.67651000  0.20174600  0.37825600  1
+  Fe  Fe6  1  0.06145800  0.56487000  0.50901800  1
+  Fe  Fe7  1  0.44414900  0.94756000  0.50901800  1
+  Fe  Fe8  1  0.55585100  0.06487000  0.50341200  1
+  Fe  Fe9  1  0.93854200  0.44756000  0.50341200  1
+  O  O10  1  0.18128300  0.68617600  0.00586500  1
+  O  O11  1  0.34592300  0.33792100  0.18384400  1
+  O  O12  1  0.18031200  0.18617600  0.50489400  1
+  O  O13  1  0.70639700  0.20053000  0.55023700  1
+  O  O14  1  0.32318600  0.82826900  0.00690700  1
+  O  O15  1  0.32136200  0.32826900  0.50508300  1
+  O  O16  1  0.65407700  0.83792100  0.99199800  1
+  O  O17  1  0.81968800  0.32458200  0.00586500  1
+  O  O18  1  0.81871700  0.82458200  0.50489400  1
+  O  O19  1  0.15029300  0.70053000  0.49413300  1
+  O  O20  1  0.29360300  0.84384000  0.49413300  1
+  O  O21  1  0.84970700  0.34384000  0.55023700  1
+  O  O22  1  0.67681400  0.68372100  0.50508300  1
+  O  O23  1  0.67863800  0.18372100  0.00690700  1

@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_PbS2
+_symmetry_space_group_name_H-M  'I4/mcm'
+_cell_length_a       5.77114
+_cell_length_b       5.77114
+_cell_length_c       5.77114
+_cell_angle_alpha    98.1457
+_cell_angle_beta     115.414
+_cell_angle_gamma    115.414
+
+_symmetry_Int_Tables_number  140
+_chemical_formula_structural  PbS2
+_chemical_formula_sum  Pb2S4
+_cell_volume  143.7610096793057
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Pb  Pb1  1  0.00000  0.75000  0.75000  1
+ Pb  Pb2  1  0.00000  0.25000  0.25000  1
+ S  S1  1  0.25996  0.87998  0.37998  1
+ S  S2  1  0.74004  0.12002  0.62002  1
+ S  S3  1  0.50000  0.62002  0.87998  1
+ S  S4  1  0.50000  0.37998  0.12002  1

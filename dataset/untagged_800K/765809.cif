@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_PdSeO3
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.01052
+_cell_length_b       5.01042
+_cell_length_c       6.97258
+_cell_angle_alpha    110.893
+_cell_angle_beta     110.897
+_cell_angle_gamma    89.2008
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  PdSeO3
+_chemical_formula_sum  Pd2Se2O6
+_cell_volume  151.48793416773555
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.96471  0.57144  0.29329  1
+ O  O2  1  0.57144  0.96470  0.29329  1
+ O  O3  1  0.39381  0.39380  0.13992  1
+ O  O4  1  0.03529  0.42856  0.70671  1
+ O  O5  1  0.60619  0.60620  0.86008  1
+ O  O6  1  0.42856  0.03529  0.70671  1
+ Pd  Pd1  1  0.50000  -0.00000  -0.00000  1
+ Pd  Pd2  1  -0.00000  0.50000  -0.00000  1
+ Se  Se1  1  0.32308  0.32309  0.63345  1
+ Se  Se2  1  0.67692  0.67691  0.36655  1

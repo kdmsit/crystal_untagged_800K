@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_UMo
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       3.00249
+_cell_length_b       5.18647
+_cell_length_c       11.6418
+_cell_angle_alpha    124.449
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  UMo
+_chemical_formula_sum  U4Mo4
+_cell_volume  149.4971166328054
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mo  Mo1  1  0.69210  0.25128  0.12583  1
+ Mo  Mo2  1  0.19210  0.74872  0.37417  1
+ Mo  Mo3  1  0.30790  0.74872  0.87417  1
+ Mo  Mo4  1  0.80790  0.25128  0.62583  1
+ U  U1  1  0.66864  0.74244  0.62081  1
+ U  U2  1  0.16864  0.25756  0.87919  1
+ U  U3  1  0.33136  0.25756  0.37919  1
+ U  U4  1  0.83136  0.74244  0.12081  1

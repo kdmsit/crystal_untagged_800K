@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_USnRh
+_symmetry_space_group_name_H-M  'P-62m'
+_cell_length_a       4.0604
+_cell_length_b       7.35499
+_cell_length_c       7.35532
+_cell_angle_alpha    119.999
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  189
+_chemical_formula_structural  USnRh
+_chemical_formula_sum  U3Sn3Rh3
+_cell_volume  190.2344603227093
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Rh  Rh1  1  0.00000  0.33330  0.66666  1
+ Rh  Rh2  1  0.00000  0.66664  0.33334  1
+ Rh  Rh3  1  0.50000  -0.00002  -0.00000  1
+ Sn  Sn1  1  0.00000  0.25284  0.00000  1
+ Sn  Sn2  1  0.00000  0.74713  0.74714  1
+ Sn  Sn3  1  0.00000  0.99999  0.25286  1
+ U  U1  1  0.50000  0.58255  0.00000  1
+ U  U2  1  0.50000  0.41745  0.41742  1
+ U  U3  1  0.50000  0.00002  0.58258  1

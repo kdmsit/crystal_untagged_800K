@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_CeCoGe
+_symmetry_space_group_name_H-M  'P4/nmm'
+_cell_length_a       4.1731
+_cell_length_b       4.1731
+_cell_length_c       6.56881
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  129
+_chemical_formula_structural  CeCoGe
+_chemical_formula_sum  Ce2Co2Ge2
+_cell_volume  114.39409743111892
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ce  Ce1  1  0.50000  0.00000  0.69306  1
+ Ce  Ce2  1  0.00000  0.50000  0.30694  1
+ Co  Co1  1  0.50000  0.50000  0.00000  1
+ Co  Co2  1  0.00000  0.00000  0.00000  1
+ Ge  Ge1  1  0.00000  0.50000  0.79884  1
+ Ge  Ge2  1  0.50000  0.00000  0.20116  1

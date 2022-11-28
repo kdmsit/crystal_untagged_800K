@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       K4SeSi2
+_chemical_formula_sum              "K4 Se1 Si2"
+_cell_length_a       4.04772
+_cell_length_b       6.2505
+_cell_length_c       9.18749
+_cell_angle_alpha    95.7065
+_cell_angle_beta     90.0643
+_cell_angle_gamma    108.815
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.10000  0.43200  0.18900  1.0000
+  K   K2        1.0  0.86500  0.97400  0.34800  1.0000
+  K   K3        1.0  0.25200  0.74700  0.64300  1.0000
+  K   K4        1.0  0.02330  0.28900  0.80100  1.0000
+  Se  Se1       1.0  0.55900  0.36100  0.49500  1.0000
+  Si  Si1       1.0  0.36300  0.96500  0.01890  1.0000
+  Si  Si2       1.0  0.75900  0.75700  0.97100  1.0000

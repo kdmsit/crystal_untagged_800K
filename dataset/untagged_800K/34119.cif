@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       B6Eu4Fe3
+_chemical_formula_sum              "B6 Eu4 Fe3"
+_cell_length_a       5.31457
+_cell_length_b       5.31457
+_cell_length_c       7.53573
+_cell_angle_alpha    69.3521
+_cell_angle_beta     110.648
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.50000  0.16800  0.50000  1.0000
+  B   B2        1.0  0.83200  0.50000  0.50000  1.0000
+  B   B3        1.0  0.83200  0.83200  0.50000  1.0000
+  B   B4        1.0  0.16800  0.16800  0.50000  1.0000
+  B   B5        1.0  0.50000  0.83200  0.50000  1.0000
+  B   B6        1.0  0.16800  0.50000  0.50000  1.0000
+  Eu  Eu1       1.0  0.73500  0.26500  0.20400  1.0000
+  Eu  Eu2       1.0  0.40200  0.59800  0.20600  1.0000
+  Eu  Eu3       1.0  0.59800  0.40200  0.79400  1.0000
+  Eu  Eu4       1.0  0.26500  0.73500  0.79600  1.0000
+  Fe  Fe1       1.0  0.00000  0.00000  0.00000  1.0000
+  Fe  Fe2       1.0  0.10800  0.89200  0.32400  1.0000
+  Fe  Fe3       1.0  0.89200  0.10800  0.67600  1.0000

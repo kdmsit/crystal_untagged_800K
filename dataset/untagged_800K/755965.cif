@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_PH2NO2
+_symmetry_space_group_name_H-M  'Cmme'
+_cell_length_a       3.99659
+_cell_length_b       5.76231
+_cell_length_c       5.76231
+_cell_angle_alpha    81.0751
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  67
+_chemical_formula_structural  PH2NO2
+_chemical_formula_sum  P2H4N2O4
+_cell_volume  131.0971673613511
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ H  H1  1  0.64642  0.10442  0.39558  1
+ H  H2  1  0.35358  0.60442  0.89558  1
+ H  H3  1  0.35358  0.89558  0.60442  1
+ H  H4  1  0.64642  0.39558  0.10442  1
+ N  N1  1  0.00000  0.75000  0.25000  1
+ N  N2  1  0.00000  0.25000  0.75000  1
+ O  O1  1  0.78318  0.60155  0.60155  1
+ O  O2  1  0.21682  0.39845  0.39845  1
+ O  O3  1  0.21682  0.10155  0.10155  1
+ O  O4  1  0.78318  0.89845  0.89845  1
+ P  P1  1  0.57799  0.75000  0.75000  1
+ P  P2  1  0.42201  0.25000  0.25000  1

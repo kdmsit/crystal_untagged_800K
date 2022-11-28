@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_CrPSe3
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       6.36598
+_cell_length_b       6.36598
+_cell_length_c       6.70085
+_cell_angle_alpha    80.6241
+_cell_angle_beta     80.6241
+_cell_angle_gamma    119.515
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  CrPSe3
+_chemical_formula_sum  Cr2P2Se6
+_cell_volume  223.61222883237454
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cr  Cr1  1  0.66709  0.33291  0.00000  1
+ Cr  Cr2  1  0.33291  0.66709  0.00000  1
+ P  P1  1  0.06068  0.06068  0.82125  1
+ P  P2  1  0.93932  0.93932  0.17875  1
+ Se  Se1  1  0.70948  0.70948  0.75642  1
+ Se  Se2  1  0.29052  0.29052  0.24358  1
+ Se  Se3  1  0.08312  0.45271  0.75820  1
+ Se  Se4  1  0.45271  0.08312  0.75820  1
+ Se  Se5  1  0.91688  0.54729  0.24180  1
+ Se  Se6  1  0.54729  0.91688  0.24180  1

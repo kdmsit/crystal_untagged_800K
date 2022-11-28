@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_MnSiP2
+_symmetry_space_group_name_H-M  'I-42d'
+_cell_length_a       6.4656
+_cell_length_b       6.4656
+_cell_length_c       6.4656
+_cell_angle_alpha    129.653
+_cell_angle_beta     129.653
+_cell_angle_gamma    73.9618
+
+_symmetry_Int_Tables_number  122
+_chemical_formula_structural  MnSiP2
+_chemical_formula_sum  Mn2Si2P4
+_cell_volume  156.2632161654491
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mn  Mn1  1  0.25000  0.75000  0.50000  1
+ Mn  Mn2  1  0.50000  0.50000  0.00000  1
+ P  P1  1  0.64208  0.62500  0.51708  1
+ P  P2  1  0.10792  0.12500  0.48292  1
+ P  P3  1  0.37500  0.89208  0.01708  1
+ P  P4  1  0.87500  0.35792  0.98292  1
+ Si  Si1  1  0.75000  0.25000  0.50000  1
+ Si  Si2  1  0.00000  0.00000  0.00000  1

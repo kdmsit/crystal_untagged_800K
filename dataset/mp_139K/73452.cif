@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_SrZnO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11006293
+_cell_length_b   6.81439419
+_cell_length_c   5.01756667
+_cell_angle_alpha   107.59323647
+_cell_angle_beta   51.95603915
+_cell_angle_gamma   106.04158662
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrZnO5
+_chemical_formula_sum   'Sr1 Zn1 O5'
+_cell_volume   130.21651333
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.20562700  0.08422200  0.66321700  1
+  Zn  Zn1  1  0.52438300  0.67846000  0.77348900  1
+  O  O2  1  0.58800400  0.99243800  0.04170600  1
+  O  O3  1  0.64118500  0.95544400  0.69552200  1
+  O  O4  1  0.02164300  0.64494800  0.64946200  1
+  O  O5  1  0.30273200  0.42760200  0.85890200  1
+  O  O6  1  0.98802600  0.46068500  0.68890400  1

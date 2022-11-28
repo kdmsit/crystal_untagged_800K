@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ta2CuO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57551363
+_cell_length_b   6.57551363
+_cell_length_c   6.57551363
+_cell_angle_alpha   110.38187152
+_cell_angle_beta   109.06106424
+_cell_angle_gamma   108.97459332
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2CuO6
+_chemical_formula_sum   'Ta4 Cu2 O12'
+_cell_volume   218.81872019
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.00000000  0.50000000  0.00000000  1
+  Ta  Ta1  1  0.50000000  0.50000000  0.50000000  1
+  Ta  Ta2  1  0.00000000  0.00000000  0.50000000  1
+  Ta  Ta3  1  0.50000000  0.00000000  0.00000000  1
+  Cu  Cu4  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu5  1  0.00000000  0.50000000  0.50000000  1
+  O  O6  1  0.17844200  0.48516300  0.30672100  1
+  O  O7  1  0.82155800  0.51483700  0.69327900  1
+  O  O8  1  0.82155800  0.12827900  0.30672100  1
+  O  O9  1  0.17844200  0.87172100  0.69327900  1
+  O  O10  1  0.90041400  0.70476000  0.19565300  1
+  O  O11  1  0.09958600  0.29524000  0.80434700  1
+  O  O12  1  0.50910700  0.70476000  0.80434700  1
+  O  O13  1  0.49089300  0.29524000  0.19565300  1
+  O  O14  1  0.68559600  0.81322200  0.49881800  1
+  O  O15  1  0.31440400  0.18677800  0.50118200  1
+  O  O16  1  0.68559600  0.18677800  0.87237500  1
+  O  O17  1  0.31440400  0.81322200  0.12762500  1

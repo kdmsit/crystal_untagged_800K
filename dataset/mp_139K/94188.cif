@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr3(MnN2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.10780835
+_cell_length_b   8.64230586
+_cell_length_c   5.56800741
+_cell_angle_alpha   89.99999610
+_cell_angle_beta   93.50331369
+_cell_angle_gamma   127.44102016
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3(MnN2)2
+_chemical_formula_sum   'Sr6 Mn4 N8'
+_cell_volume   270.75997024
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.24785210  0.99059752  0.05224533  1
+  Sr  Sr1  1  0.75214790  0.74274642  0.44775467  1
+  Sr  Sr2  1  0.75214790  0.00940248  0.94775467  1
+  Sr  Sr3  1  0.24785210  0.25725358  0.55224533  1
+  Sr  Sr4  1  0.00000000  0.59836576  0.75000000  1
+  Sr  Sr5  1  1.00000000  0.40163424  0.25000000  1
+  Mn  Mn6  1  0.58269650  0.16491609  0.57381731  1
+  Mn  Mn7  1  0.41730350  0.58221959  0.92618269  1
+  Mn  Mn8  1  0.41730350  0.83508391  0.42618269  1
+  Mn  Mn9  1  0.58269650  0.41778041  0.07381731  1
+  N  N10  1  0.25727695  0.94197101  0.52481807  1
+  N  N11  1  0.74272305  0.68469406  0.97518193  1
+  N  N12  1  0.74272305  0.05802899  0.47518193  1
+  N  N13  1  0.25727695  0.31530594  0.02481807  1
+  N  N14  1  0.64294792  0.27099892  0.88758938  1
+  N  N15  1  0.35705208  0.62805100  0.61241062  1
+  N  N16  1  0.35705208  0.72900108  0.11241062  1
+  N  N17  1  0.64294792  0.37194900  0.38758938  1

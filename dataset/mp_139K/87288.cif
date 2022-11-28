@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_TbAl7Fe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.61740409
+_cell_length_b   6.61740409
+_cell_length_c   6.61740409
+_cell_angle_alpha   135.43856724
+_cell_angle_beta   98.51819529
+_cell_angle_gamma   98.01185512
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbAl7Fe5
+_chemical_formula_sum   'Tb1 Al7 Fe5'
+_cell_volume   188.14494397
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00489000  0.00000000  0.00489000  1
+  Al  Al1  1  0.65947200  0.00000000  0.65947200  1
+  Al  Al2  1  0.33976400  0.00000000  0.33976400  1
+  Al  Al3  1  0.33416200  0.34265100  0.99151100  1
+  Al  Al4  1  0.64886100  0.65734900  0.99151100  1
+  Al  Al5  1  0.77363400  0.50000000  0.27363400  1
+  Al  Al6  1  0.79301300  0.28870500  0.50430800  1
+  Al  Al7  1  0.21560300  0.71129500  0.50430800  1
+  Fe  Fe8  1  0.49900000  0.49822300  0.49665300  1
+  Fe  Fe9  1  0.49900000  0.00234700  0.00077600  1
+  Fe  Fe10  1  0.99843000  0.99765300  0.49665300  1
+  Fe  Fe11  1  0.99843000  0.50177700  0.00077600  1
+  Fe  Fe12  1  0.23574300  0.50000000  0.73574300  1

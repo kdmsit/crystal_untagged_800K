@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_Mg2Cu
+_symmetry_space_group_name_H-M  'I4/mcm'
+_cell_length_a       5.24313
+_cell_length_b       6.39339
+_cell_length_c       5.24322
+_cell_angle_alpha    127.572
+_cell_angle_beta     60.0212
+_cell_angle_gamma    127.573
+
+_symmetry_Int_Tables_number  140
+_chemical_formula_structural  Mg2Cu
+_chemical_formula_sum  Mg4Cu2
+_cell_volume  108.09775393024131
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.33333  0.58334  -0.00000  1
+ Cu  Cu2  1  0.83333  0.58333  0.50000  1
+ Mg  Mg1  1  0.91467  0.08228  0.08133  1
+ Mg  Mg2  1  0.25200  0.08438  0.41867  1
+ Mg  Mg3  1  0.41467  0.74705  0.58133  1
+ Mg  Mg4  1  0.75199  0.41961  0.91867  1

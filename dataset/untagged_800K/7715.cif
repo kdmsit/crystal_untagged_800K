@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Br2H4MnO2
+_chemical_formula_sum              "Br2 H4 Mn1 O2"
+_cell_length_a       3.85175
+_cell_length_b       5.85872
+_cell_length_c       5.85872
+_cell_angle_alpha    97.0919
+_cell_angle_beta     95.1406
+_cell_angle_gamma    95.1406
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.56300  0.24800  0.24800  1.0000
+  Br  Br2       1.0  0.43700  0.75200  0.75200  1.0000
+  H   H1        1.0  0.85300  0.60700  0.22900  1.0000
+  H   H2        1.0  0.14700  0.77100  0.39300  1.0000
+  H   H3        1.0  0.85300  0.22900  0.60700  1.0000
+  H   H4        1.0  0.14700  0.39300  0.77100  1.0000
+  Mn  Mn1       1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.00000  0.75600  0.24400  1.0000
+  O   O2        1.0  0.00000  0.24400  0.75600  1.0000

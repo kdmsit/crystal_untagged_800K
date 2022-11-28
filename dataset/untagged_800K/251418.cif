@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       HoMo6S8
+_chemical_formula_sum              "Ho1 Mo6 S8"
+_cell_length_a       6.47521
+_cell_length_b       6.47521
+_cell_length_c       6.47521
+_cell_angle_alpha    90.6481
+_cell_angle_beta     89.3519
+_cell_angle_gamma    90.6481
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.00000  0.00000  0.00000  1.0000
+  Mo  Mo1       1.0  0.42000  0.44000  0.22300  1.0000
+  Mo  Mo2       1.0  0.56000  0.77700  0.42000  1.0000
+  Mo  Mo3       1.0  0.77700  0.42000  0.44000  1.0000
+  Mo  Mo4       1.0  0.22300  0.58000  0.56000  1.0000
+  Mo  Mo5       1.0  0.44000  0.22300  0.58000  1.0000
+  Mo  Mo6       1.0  0.58000  0.56000  0.77700  1.0000
+  S   S1        1.0  0.75400  0.63200  0.12800  1.0000
+  S   S2        1.0  0.23800  0.76200  0.23800  1.0000
+  S   S3        1.0  0.63200  0.12800  0.24600  1.0000
+  S   S4        1.0  0.12800  0.24600  0.36800  1.0000
+  S   S5        1.0  0.87200  0.75400  0.63200  1.0000
+  S   S6        1.0  0.36800  0.87200  0.75400  1.0000
+  S   S7        1.0  0.76200  0.23800  0.76200  1.0000
+  S   S8        1.0  0.24600  0.36800  0.87200  1.0000

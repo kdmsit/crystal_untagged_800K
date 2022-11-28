@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       Co8P8Se8
+_chemical_formula_sum              "Co8 P8 Se8"
+_cell_length_a       5.58716
+_cell_length_b       5.66446
+_cell_length_c       11.1981
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.51400  0.17900  0.12000  1.0000
+  Co  Co2       1.0  0.98600  0.67900  0.12000  1.0000
+  Co  Co3       1.0  0.01390  0.17900  0.38000  1.0000
+  Co  Co4       1.0  0.48600  0.67900  0.38000  1.0000
+  Co  Co5       1.0  0.51400  0.32100  0.62000  1.0000
+  Co  Co6       1.0  0.98600  0.82100  0.62000  1.0000
+  Co  Co7       1.0  0.01390  0.32100  0.88000  1.0000
+  Co  Co8       1.0  0.48600  0.82100  0.88000  1.0000
+  P   P1        1.0  0.87200  0.32000  0.06440  1.0000
+  P   P2        1.0  0.62800  0.82000  0.06440  1.0000
+  P   P3        1.0  0.37200  0.32000  0.43600  1.0000
+  P   P4        1.0  0.12800  0.82000  0.43600  1.0000
+  P   P5        1.0  0.87200  0.18000  0.56400  1.0000
+  P   P6        1.0  0.62800  0.68000  0.56400  1.0000
+  P   P7        1.0  0.37200  0.18000  0.93600  1.0000
+  P   P8        1.0  0.12800  0.68000  0.93600  1.0000
+  Se  Se1       1.0  0.11900  0.06880  0.17700  1.0000
+  Se  Se2       1.0  0.38100  0.56900  0.17700  1.0000
+  Se  Se3       1.0  0.61900  0.06880  0.32300  1.0000
+  Se  Se4       1.0  0.88100  0.56900  0.32300  1.0000
+  Se  Se5       1.0  0.11900  0.43100  0.67700  1.0000
+  Se  Se6       1.0  0.38100  0.93100  0.67700  1.0000
+  Se  Se7       1.0  0.61900  0.43100  0.82300  1.0000
+  Se  Se8       1.0  0.88100  0.93100  0.82300  1.0000

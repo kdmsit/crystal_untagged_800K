@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Co4Ta6
+_chemical_formula_sum              "Co4 Ta6"
+_cell_length_a       6.67676
+_cell_length_b       6.67677
+_cell_length_c       5.42656
+_cell_angle_alpha    127.966
+_cell_angle_beta     52.034
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.64900  0.35100  0.05260  1.0000
+  Co  Co2       1.0  0.85100  0.14900  0.44700  1.0000
+  Co  Co3       1.0  0.14900  0.85100  0.55300  1.0000
+  Co  Co4       1.0  0.35100  0.64900  0.94700  1.0000
+  Ta  Ta1       1.0  0.52300  0.75000  0.25000  1.0000
+  Ta  Ta2       1.0  0.97700  0.47700  0.25000  1.0000
+  Ta  Ta3       1.0  0.25000  0.02330  0.25000  1.0000
+  Ta  Ta4       1.0  0.75000  0.97700  0.75000  1.0000
+  Ta  Ta5       1.0  0.02330  0.52300  0.75000  1.0000
+  Ta  Ta6       1.0  0.47700  0.25000  0.75000  1.0000

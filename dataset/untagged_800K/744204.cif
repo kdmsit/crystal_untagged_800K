@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KVNiOF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54970536
+_cell_length_b   7.54970536
+_cell_length_c   7.54970536
+_cell_angle_alpha   119.88505823
+_cell_angle_beta   119.50973567
+_cell_angle_gamma   90.52523237
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KVNiOF6
+_chemical_formula_sum   'K2 V2 Ni2 O2 F12'
+_cell_volume   305.65489783
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.00000000  1
+  K  K1  1  0.50000000  0.00000000  0.50000000  1
+  V  V2  1  0.50000000  0.50000000  0.00000000  1
+  V  V3  1  0.00000000  0.50000000  0.50000000  1
+  Ni  Ni4  1  0.00000000  0.50000000  0.00000000  1
+  Ni  Ni5  1  0.00000000  0.00000000  0.50000000  1
+  O  O6  1  0.58011600  0.83011600  0.75000000  1
+  O  O7  1  0.41988400  0.16988400  0.25000000  1
+  F  F8  1  0.06889400  0.81889400  0.25000000  1
+  F  F9  1  0.69274300  0.44274300  0.25000000  1
+  F  F10  1  0.06107600  0.80573200  0.62548800  1
+  F  F11  1  0.68024400  0.43558800  0.87451200  1
+  F  F12  1  0.68024400  0.80573200  0.24465600  1
+  F  F13  1  0.06107600  0.43558800  0.25534400  1
+  F  F14  1  0.93110600  0.18110600  0.75000000  1
+  F  F15  1  0.30725700  0.55725700  0.75000000  1
+  F  F16  1  0.93892400  0.19426800  0.37451200  1
+  F  F17  1  0.31975600  0.56441200  0.12548800  1
+  F  F18  1  0.31975600  0.19426800  0.75534400  1
+  F  F19  1  0.93892400  0.56441200  0.74465600  1

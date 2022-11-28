@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_NClO2
+_symmetry_space_group_name_H-M  'P4bm'
+_cell_length_a       3.84507
+_cell_length_b       6.18722
+_cell_length_c       6.18722
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  100
+_chemical_formula_structural  NClO2
+_chemical_formula_sum  N2Cl2O4
+_cell_volume  147.19600575613978
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.28491  0.50000  0.00000  1
+ Cl  Cl2  1  0.28491  0.00000  0.50000  1
+ N  N1  1  0.97989  0.50000  0.50000  1
+ N  N2  1  0.97989  0.00000  0.00000  1
+ O  O1  1  0.49260  0.14416  0.35584  1
+ O  O2  1  0.49260  0.85584  0.64416  1
+ O  O3  1  0.49260  0.35584  0.85584  1
+ O  O4  1  0.49260  0.64416  0.14416  1

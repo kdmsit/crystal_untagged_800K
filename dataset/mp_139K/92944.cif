@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_DyMgSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28884807
+_cell_length_b   7.28884807
+_cell_length_c   6.74015970
+_cell_angle_alpha   73.20993485
+_cell_angle_beta   73.20993485
+_cell_angle_gamma   110.85312216
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyMgSe3
+_chemical_formula_sum   'Dy2 Mg2 Se6'
+_cell_volume   288.02905750
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.77972000  0.77972000  0.23371100  1
+  Dy  Dy1  1  0.22028000  0.22028000  0.76628900  1
+  Mg  Mg2  1  0.33307600  0.66692400  0.00000000  1
+  Mg  Mg3  1  0.66692400  0.33307600  0.00000000  1
+  Se  Se4  1  0.20461300  0.89596200  0.19572700  1
+  Se  Se5  1  0.79538700  0.10403800  0.80427300  1
+  Se  Se6  1  0.10403800  0.79538700  0.80427300  1
+  Se  Se7  1  0.89596200  0.20461300  0.19572700  1
+  Se  Se8  1  0.58007000  0.58007000  0.71093900  1
+  Se  Se9  1  0.41993000  0.41993000  0.28906100  1

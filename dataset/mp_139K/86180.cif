@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AlTlFe2F2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.84329000
+_cell_length_b   8.12937438
+_cell_length_c   8.90769561
+_cell_angle_alpha   134.58135698
+_cell_angle_beta   105.77497018
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlTlFe2F2
+_chemical_formula_sum   'Al2 Tl2 Fe4 F4'
+_cell_volume   230.89086067
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.50000000  0.00000000  0.50000000  1
+  Al  Al1  1  0.00000000  0.50000000  0.50000000  1
+  Tl  Tl2  1  0.17945900  0.25000000  0.00000000  1
+  Tl  Tl3  1  0.82054100  0.75000000  0.00000000  1
+  Fe  Fe4  1  0.48704400  0.32063200  0.48439400  1
+  Fe  Fe5  1  0.51295600  0.67936800  0.51560600  1
+  Fe  Fe6  1  0.00265100  0.17936800  0.51560600  1
+  Fe  Fe7  1  0.99734900  0.82063200  0.48439400  1
+  F  F8  1  0.58367000  0.24459900  0.80484400  1
+  F  F9  1  0.41633000  0.75540100  0.19515600  1
+  F  F10  1  0.77882600  0.25540100  0.19515600  1
+  F  F11  1  0.22117400  0.74459900  0.80484400  1

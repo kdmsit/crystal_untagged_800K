@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_TiO2
+_symmetry_space_group_name_H-M  'P3_121'
+_cell_length_a       5.49608
+_cell_length_b       5.49608
+_cell_length_c       5.98148
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  152
+_chemical_formula_structural  TiO2
+_chemical_formula_sum  Ti3O6
+_cell_volume  156.47465423659906
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.12444  0.41334  0.39413  1
+ O  O2  1  0.41334  0.12444  0.60587  1
+ O  O3  1  0.28891  0.87556  0.06080  1
+ O  O4  1  0.87556  0.28891  0.93920  1
+ O  O5  1  0.58666  0.71109  0.72747  1
+ O  O6  1  0.71109  0.58666  0.27253  1
+ Ti  Ti1  1  0.00000  0.54525  0.16667  1
+ Ti  Ti2  1  0.54525  0.00000  0.83333  1
+ Ti  Ti3  1  0.45475  0.45475  0.50000  1

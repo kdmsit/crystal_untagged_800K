@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KNaTi4(BiO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67150754
+_cell_length_b   5.67150754
+_cell_length_c   9.66100319
+_cell_angle_alpha   73.45881781
+_cell_angle_beta   73.45881781
+_cell_angle_gamma   58.92589157
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaTi4(BiO6)2
+_chemical_formula_sum   'K1 Na1 Ti4 Bi2 O12'
+_cell_volume   251.53064871
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.86522700  0.86522700  0.37807400  1
+  Na  Na1  1  0.36103400  0.36103400  0.87979700  1
+  Ti  Ti2  1  0.49446300  0.49446300  0.50213600  1
+  Ti  Ti3  1  0.22836500  0.22836500  0.25647300  1
+  Ti  Ti4  1  0.72810500  0.72810500  0.75828700  1
+  Ti  Ti5  1  0.99562000  0.99562000  0.00073200  1
+  Bi  Bi6  1  0.56753800  0.56753800  0.14227900  1
+  Bi  Bi7  1  0.06684500  0.06684500  0.64564400  1
+  O  O8  1  0.13371200  0.13371200  0.12068000  1
+  O  O9  1  0.39486600  0.39486600  0.36227800  1
+  O  O10  1  0.63039400  0.63039400  0.62457600  1
+  O  O11  1  0.89464500  0.89464500  0.86299400  1
+  O  O12  1  0.88481500  0.38266800  0.87293000  1
+  O  O13  1  0.15501600  0.63439600  0.11909900  1
+  O  O14  1  0.38065300  0.88177200  0.37273500  1
+  O  O15  1  0.65162300  0.13704600  0.62346100  1
+  O  O16  1  0.38266800  0.88481500  0.87293000  1
+  O  O17  1  0.63439600  0.15501600  0.11909900  1
+  O  O18  1  0.88177200  0.38065300  0.37273500  1
+  O  O19  1  0.13704600  0.65162300  0.62346100  1

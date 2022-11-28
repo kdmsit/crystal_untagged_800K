@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       C4N4S4Sr2
+_chemical_formula_sum              "C4 N4 S4 Sr2"
+_cell_length_a       5.9376
+_cell_length_b       5.9376
+_cell_length_c       8.11736
+_cell_angle_alpha    90.9127
+_cell_angle_beta     90.9127
+_cell_angle_gamma    67.5044
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.51900  0.24300  0.10300  1.0000
+  C   C2        1.0  0.75700  0.48100  0.39700  1.0000
+  C   C3        1.0  0.24300  0.51900  0.60300  1.0000
+  C   C4        1.0  0.48100  0.75700  0.89700  1.0000
+  N   N1        1.0  0.72200  0.16100  0.05270  1.0000
+  N   N2        1.0  0.83900  0.27800  0.44700  1.0000
+  N   N3        1.0  0.16100  0.72200  0.55300  1.0000
+  N   N4        1.0  0.27800  0.83900  0.94700  1.0000
+  S   S1        1.0  0.24300  0.34900  0.17400  1.0000
+  S   S2        1.0  0.65100  0.75700  0.32600  1.0000
+  S   S3        1.0  0.34900  0.24300  0.67400  1.0000
+  S   S4        1.0  0.75700  0.65100  0.82600  1.0000
+  Sr  Sr1       1.0  0.09620  0.90400  0.25000  1.0000
+  Sr  Sr2       1.0  0.90400  0.09620  0.75000  1.0000

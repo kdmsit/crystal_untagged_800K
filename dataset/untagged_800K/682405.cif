@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaCaNdBiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06518678
+_cell_length_b   6.16914734
+_cell_length_c   8.69028754
+_cell_angle_alpha   90.09246873
+_cell_angle_beta   89.57974797
+_cell_angle_gamma   90.18524976
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCaNdBiO6
+_chemical_formula_sum   'Ba2 Ca2 Nd2 Bi2 O12'
+_cell_volume   325.15389979
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.99334540  0.03952951  0.25059822  1
+  Ba  Ba1  1  0.00665460  0.96047049  0.74940178  1
+  Ca  Ca2  1  0.51076650  0.53988343  0.25347429  1
+  Ca  Ca3  1  0.48923350  0.46011657  0.74652571  1
+  Nd  Nd4  1  0.50000000  -0.00000000  0.00000000  1
+  Nd  Nd5  1  -0.00000000  0.50000000  0.50000000  1
+  Bi  Bi6  1  -0.00000000  0.50000000  0.00000000  1
+  Bi  Bi7  1  0.50000000  -0.00000000  0.50000000  1
+  O  O8  1  0.19386650  0.21819072  0.95666157  1
+  O  O9  1  0.31893867  0.70737557  0.56340965  1
+  O  O10  1  0.80613350  0.78180928  0.04333843  1
+  O  O11  1  0.68106133  0.29262443  0.43659035  1
+  O  O12  1  0.28652126  0.68845601  0.93161338  1
+  O  O13  1  0.21466494  0.19583849  0.53355572  1
+  O  O14  1  0.71347874  0.31154399  0.06838662  1
+  O  O15  1  0.78533506  0.80416151  0.46644428  1
+  O  O16  1  0.42659154  0.92933158  0.26256884  1
+  O  O17  1  0.12104538  0.48942056  0.23642583  1
+  O  O18  1  0.57340846  0.07066842  0.73743116  1
+  O  O19  1  0.87895462  0.51057944  0.76357417  1

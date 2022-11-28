@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_HoInNi
+_symmetry_space_group_name_H-M  'P-62m'
+_cell_length_a       7.40424
+_cell_length_b       7.40424
+_cell_length_c       3.76725
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  189
+_chemical_formula_structural  HoInNi
+_chemical_formula_sum  Ho3In3Ni3
+_cell_volume  178.8607011037653
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ho  Ho1  1  0.40972  -0.00000  0.50000  1
+ Ho  Ho2  1  0.59028  0.59028  0.50000  1
+ Ho  Ho3  1  -0.00000  0.40972  0.50000  1
+ In  In1  1  0.00000  0.74387  0.00000  1
+ In  In2  1  0.25613  0.25613  0.00000  1
+ In  In3  1  0.74387  0.00000  0.00000  1
+ Ni  Ni1  1  0.33333  0.66667  0.00000  1
+ Ni  Ni2  1  0.00000  0.00000  0.50000  1
+ Ni  Ni3  1  0.66667  0.33333  0.00000  1

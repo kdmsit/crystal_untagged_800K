@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_UGe2Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34107800
+_cell_length_b   8.79616400
+_cell_length_c   9.39900152
+_cell_angle_alpha   117.90006184
+_cell_angle_beta   103.35200370
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UGe2Ir
+_chemical_formula_sum   'U4 Ge8 Ir4'
+_cell_volume   306.16252439
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.00000000  0.73783300  0.00000000  1
+  U  U1  1  0.00000000  0.26216700  0.00000000  1
+  U  U2  1  0.79535700  0.29535700  0.59071300  1
+  U  U3  1  0.20464300  0.70464300  0.40928700  1
+  Ge  Ge4  1  0.42476000  0.92476000  0.84952000  1
+  Ge  Ge5  1  0.57524000  0.07524000  0.15048000  1
+  Ge  Ge6  1  0.42455700  0.42455700  0.84911300  1
+  Ge  Ge7  1  0.57544300  0.57544300  0.15088700  1
+  Ge  Ge8  1  0.19916300  0.35239900  0.39832600  1
+  Ge  Ge9  1  0.80083700  0.64760100  0.60167400  1
+  Ge  Ge10  1  0.19916300  0.04592700  0.39832600  1
+  Ge  Ge11  1  0.80083700  0.95407300  0.60167400  1
+  Ir  Ir12  1  0.35361900  0.60372900  0.70723900  1
+  Ir  Ir13  1  0.64638100  0.39627100  0.29276100  1
+  Ir  Ir14  1  0.35361900  0.10351000  0.70723900  1
+  Ir  Ir15  1  0.64638100  0.89649000  0.29276100  1

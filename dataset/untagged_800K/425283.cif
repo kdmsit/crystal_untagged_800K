@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       B2Cr3Ir2
+_chemical_formula_sum              "B2 Cr3 Ir2"
+_cell_length_a       6.13204
+_cell_length_b       6.13204
+_cell_length_c       6.13204
+_cell_angle_alpha    37.1579
+_cell_angle_beta     37.1579
+_cell_angle_gamma    37.1579
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.20200  0.20200  0.20200  1.0000
+  B   B2        1.0  0.76500  0.76500  0.76500  1.0000
+  Cr  Cr1       1.0  0.32700  0.32700  0.32700  1.0000
+  Cr  Cr2       1.0  0.62900  0.62900  0.62900  1.0000
+  Cr  Cr3       1.0  0.90700  0.90700  0.90700  1.0000
+  Ir  Ir1       1.0  0.06050  0.06050  0.06050  1.0000
+  Ir  Ir2       1.0  0.48300  0.48300  0.48300  1.0000

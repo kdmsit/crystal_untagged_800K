@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_GaAgS2
+_symmetry_space_group_name_H-M  'I-42d'
+_cell_length_a       5.76139
+_cell_length_b       5.76139
+_cell_length_c       6.6525
+_cell_angle_alpha    64.3481
+_cell_angle_beta     64.3481
+_cell_angle_gamma    89.9976
+
+_symmetry_Int_Tables_number  122
+_chemical_formula_structural  GaAgS2
+_chemical_formula_sum  Ga2Ag2S4
+_cell_volume  174.602801684391
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.11938  0.86988  0.99372  1
+ Ag  Ag2  1  0.86988  0.11938  0.49372  1
+ Ga  Ga1  1  0.61941  0.36946  0.99376  1
+ Ga  Ga2  1  0.36946  0.61941  0.49376  1
+ S  S1  1  0.49467  0.28045  0.74357  1
+ S  S2  1  0.70830  0.99446  0.24394  1
+ S  S3  1  0.28045  0.49467  0.24357  1
+ S  S4  1  0.99446  0.70830  0.74394  1

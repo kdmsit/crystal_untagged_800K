@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Cr2Fe15Sm2
+_chemical_formula_sum              "Cr2 Fe15 Sm2"
+_cell_length_a       6.23597
+_cell_length_b       6.23597
+_cell_length_c       6.23597
+_cell_angle_alpha    82.7915
+_cell_angle_beta     82.7915
+_cell_angle_gamma    82.7915
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.91200  0.91200  0.91200  1.0000
+  Cr  Cr2       1.0  0.08830  0.08830  0.08830  1.0000
+  Fe  Fe1       1.0  0.00000  0.50000  0.00002  1.0000
+  Fe  Fe2       1.0  0.50000  0.00002  0.00000  1.0000
+  Fe  Fe3       1.0  0.00002  0.00000  0.50000  1.0000
+  Fe  Fe4       1.0  0.66200  0.15300  0.66200  1.0000
+  Fe  Fe5       1.0  0.66200  0.66200  0.15300  1.0000
+  Fe  Fe6       1.0  0.15300  0.66200  0.66200  1.0000
+  Fe  Fe7       1.0  0.84700  0.33800  0.33800  1.0000
+  Fe  Fe8       1.0  0.33800  0.33800  0.84700  1.0000
+  Fe  Fe9       1.0  0.33800  0.84700  0.33800  1.0000
+  Fe  Fe10      1.0  0.70600  0.00000  0.29400  1.0000
+  Fe  Fe11      1.0  0.00000  0.29400  0.70600  1.0000
+  Fe  Fe12      1.0  0.29400  0.70600  0.00000  1.0000
+  Fe  Fe13      1.0  0.29400  0.00000  0.70600  1.0000
+  Fe  Fe14      1.0  0.00000  0.70600  0.29400  1.0000
+  Fe  Fe15      1.0  0.70600  0.29400  0.00000  1.0000
+  Sm  Sm1       1.0  0.65500  0.65500  0.65500  1.0000
+  Sm  Sm2       1.0  0.34500  0.34500  0.34500  1.0000

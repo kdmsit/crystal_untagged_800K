@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_NbFeTe2
+_symmetry_space_group_name_H-M  'Pmna'
+_cell_length_a       6.35218
+_cell_length_b       7.44861
+_cell_length_c       7.98395
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  53
+_chemical_formula_structural  NbFeTe2
+_chemical_formula_sum  Nb4Fe4Te8
+_cell_volume  377.7600960401363
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.14023  0.61026  0.50000  1
+ Fe  Fe2  1  0.64023  0.38974  0.00000  1
+ Fe  Fe3  1  0.85977  0.38974  0.50000  1
+ Fe  Fe4  1  0.35977  0.61026  0.00000  1
+ Nb  Nb1  1  0.50000  0.50000  0.70400  1
+ Nb  Nb2  1  0.00000  0.50000  0.20400  1
+ Nb  Nb3  1  0.00000  0.50000  0.79600  1
+ Nb  Nb4  1  0.50000  0.50000  0.29600  1
+ Te  Te1  1  0.75000  0.18322  0.25000  1
+ Te  Te2  1  0.24693  0.27180  0.00000  1
+ Te  Te3  1  0.75307  0.72820  0.00000  1
+ Te  Te4  1  0.25000  0.81678  0.25000  1
+ Te  Te5  1  0.74693  0.72820  0.50000  1
+ Te  Te6  1  0.25307  0.27180  0.50000  1
+ Te  Te7  1  0.25000  0.81678  0.75000  1
+ Te  Te8  1  0.75000  0.18322  0.75000  1

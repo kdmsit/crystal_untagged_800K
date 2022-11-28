@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_NiO2
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       2.82773
+_cell_length_b       2.82761
+_cell_length_c       9.2367
+_cell_angle_alpha    72.5748
+_cell_angle_beta     90.0232
+_cell_angle_gamma    120.002
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  NiO2
+_chemical_formula_sum  Ni2O4
+_cell_volume  60.01794981509924
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ni  Ni1  1  0.99772  -0.00132  0.50209  1
+ Ni  Ni2  1  -0.00216  0.00079  0.00206  1
+ O  O1  1  0.73501  0.47359  0.39360  1
+ O  O2  1  0.59383  0.19247  0.11064  1
+ O  O3  1  0.26043  0.52382  0.61059  1
+ O  O4  1  0.40185  0.80909  0.89348  1

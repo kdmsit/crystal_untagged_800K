@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K4NaCl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.65932357
+_cell_length_b   7.65932357
+_cell_length_c   10.84744773
+_cell_angle_alpha   61.78738201
+_cell_angle_beta   61.78738201
+_cell_angle_gamma   33.46316877
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4NaCl5
+_chemical_formula_sum   'K4 Na1 Cl5'
+_cell_volume   305.15986092
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.60086800  0.60086800  0.60179100  1
+  K  K1  1  0.20007500  0.20007500  0.19546800  1
+  K  K2  1  0.79992500  0.79992500  0.80453200  1
+  K  K3  1  0.39913200  0.39913200  0.39820900  1
+  Na  Na4  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl5  1  0.00000000  0.00000000  0.50000000  1
+  Cl  Cl6  1  0.59135400  0.59135400  0.09131800  1
+  Cl  Cl7  1  0.19256400  0.19256400  0.71296800  1
+  Cl  Cl8  1  0.80743600  0.80743600  0.28703200  1
+  Cl  Cl9  1  0.40864600  0.40864600  0.90868200  1

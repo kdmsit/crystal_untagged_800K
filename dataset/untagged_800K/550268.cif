@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ca2Co2N2O2
+_chemical_formula_sum              "Ca2 Co2 N2 O2"
+_cell_length_a       3.52496
+_cell_length_b       5.27002
+_cell_length_c       5.91229
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.00000  0.47500  0.28900  1.0000
+  Ca  Ca2       1.0  0.00000  0.97500  0.71100  1.0000
+  Co  Co1       1.0  0.50000  0.98700  0.19700  1.0000
+  Co  Co2       1.0  0.50000  0.48700  0.80300  1.0000
+  N   N1        1.0  1.00000  0.94700  0.30500  1.0000
+  N   N2        1.0  0.00000  0.44700  0.69500  1.0000
+  O   O1        1.0  0.50000  0.34400  0.10500  1.0000
+  O   O2        1.0  0.50000  0.84400  0.89500  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Au2O8U4
+_chemical_formula_sum              "Au2 O8 U4"
+_cell_length_a       7.23184
+_cell_length_b       7.23184
+_cell_length_c       7.23184
+_cell_angle_alpha    120.562
+_cell_angle_beta     89.0292
+_cell_angle_gamma    120.562
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.00000  0.00000  0.00000  1.0000
+  Au  Au2       1.0  0.75000  0.50000  0.25000  1.0000
+  O   O1        1.0  0.59600  0.80400  0.40000  1.0000
+  O   O2        1.0  0.60000  0.19600  0.40400  1.0000
+  O   O3        1.0  0.20800  0.80400  0.40400  1.0000
+  O   O4        1.0  0.15400  0.30400  0.45800  1.0000
+  O   O5        1.0  0.59600  0.19600  0.79200  1.0000
+  O   O6        1.0  0.15000  0.30400  0.84600  1.0000
+  O   O7        1.0  0.54200  0.69600  0.84600  1.0000
+  O   O8        1.0  0.15400  0.69600  0.85000  1.0000
+  U   U1        1.0  0.37500  0.75000  0.12500  1.0000
+  U   U2        1.0  0.37500  0.25000  0.62500  1.0000
+  U   U3        1.0  0.37500  0.75000  0.62500  1.0000
+  U   U4        1.0  0.87500  0.25000  0.62500  1.0000

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Cd3(GaN2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79666698
+_cell_length_b   9.60649878
+_cell_length_c   5.62782445
+_cell_angle_alpha   89.99999479
+_cell_angle_beta   94.24915918
+_cell_angle_gamma   134.96758915
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd3(GaN2)2
+_chemical_formula_sum   'Cd6 Ga4 N8'
+_cell_volume   258.54581212
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.22311900  0.95902100  0.07447300  1
+  Cd  Cd1  1  0.77688100  0.73590200  0.42552700  1
+  Cd  Cd2  1  0.77688100  0.04097900  0.92552700  1
+  Cd  Cd3  1  0.22311900  0.26409800  0.57447300  1
+  Cd  Cd4  1  0.00000000  0.62368400  0.75000000  1
+  Cd  Cd5  1  0.00000000  0.37631600  0.25000000  1
+  Ga  Ga6  1  0.56110400  0.16621500  0.61132000  1
+  Ga  Ga7  1  0.43889600  0.60511200  0.88868000  1
+  Ga  Ga8  1  0.43889600  0.83378500  0.38868000  1
+  Ga  Ga9  1  0.56110400  0.39488800  0.11132000  1
+  N  N10  1  0.22155400  0.89386300  0.48830700  1
+  N  N11  1  0.77844600  0.67230900  0.01169300  1
+  N  N12  1  0.77844600  0.10613700  0.51169300  1
+  N  N13  1  0.22155400  0.32769100  0.98830700  1
+  N  N14  1  0.61874900  0.24095700  0.96016800  1
+  N  N15  1  0.38125100  0.62220800  0.53983200  1
+  N  N16  1  0.38125100  0.75904300  0.03983200  1
+  N  N17  1  0.61874900  0.37779200  0.46016800  1

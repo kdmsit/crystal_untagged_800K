@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_CoGe
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.74605
+_cell_length_b       4.94409
+_cell_length_c       6.18688
+_cell_angle_alpha    98.5577
+_cell_angle_beta     107.622
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  CoGe
+_chemical_formula_sum  Co4Ge4
+_cell_volume  107.86931466044464
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.00000  0.00000  0.00000  1
+ Co  Co2  1  -0.00000  0.50000  0.00000  1
+ Co  Co3  1  0.80424  0.67715  0.60848  1
+ Co  Co4  1  0.19576  0.32285  0.39152  1
+ Ge  Ge1  1  0.81738  0.18576  0.63476  1
+ Ge  Ge2  1  0.18262  0.81424  0.36524  1
+ Ge  Ge3  1  0.56872  0.27866  0.13743  1
+ Ge  Ge4  1  0.43128  0.72134  0.86257  1

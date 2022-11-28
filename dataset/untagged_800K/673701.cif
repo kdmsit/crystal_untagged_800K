@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_MnCoB2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.96794500
+_cell_length_b   4.00121800
+_cell_length_c   5.34440400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCoB2
+_chemical_formula_sum   'Mn2 Co2 B4'
+_cell_volume   63.46690831
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.37753900  0.32027100  1
+  Mn  Mn1  1  0.50000000  0.62246100  0.82027100  1
+  Co  Co2  1  0.00000000  0.13163400  0.67999700  1
+  Co  Co3  1  0.00000000  0.86836600  0.17999700  1
+  B  B4  1  0.00000000  0.64168200  0.53602700  1
+  B  B5  1  0.00000000  0.35831800  0.03602700  1
+  B  B6  1  0.50000000  0.87810800  0.46370500  1
+  B  B7  1  0.50000000  0.12189200  0.96370500  1

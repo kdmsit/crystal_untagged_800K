@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_KAgO2
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       4.0561
+_cell_length_b       5.97744
+_cell_length_c       6.44227
+_cell_angle_alpha    90
+_cell_angle_beta     71.6511
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  KAgO2
+_chemical_formula_sum  K2Ag2O4
+_cell_volume  148.25205116594614
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.00333  0.25000  0.99334  1
+ Ag  Ag2  1  0.99667  0.75000  0.00666  1
+ K  K1  1  0.28919  0.25000  0.42161  1
+ K  K2  1  0.71081  0.75000  0.57839  1
+ O  O1  1  0.11078  0.99348  0.77844  1
+ O  O2  1  0.88922  0.49348  0.22156  1
+ O  O3  1  0.11078  0.50652  0.77844  1
+ O  O4  1  0.88922  0.00652  0.22156  1

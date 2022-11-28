@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_ErAgS2
+_symmetry_space_group_name_H-M  'I4_1/amd'
+_cell_length_a       7.62599
+_cell_length_b       10.3797
+_cell_length_c       7.04156
+_cell_angle_alpha    28.6801
+_cell_angle_beta     57.2059
+_cell_angle_gamma    42.7123
+
+_symmetry_Int_Tables_number  141
+_chemical_formula_structural  ErAgS2
+_chemical_formula_sum  Er2Ag2S4
+_cell_volume  172.1255860100678
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.49998  0.50000  0.50003  1
+ Ag  Ag2  1  0.75002  0.00000  0.49997  1
+ Er  Er1  1  0.25000  0.00003  0.49995  1
+ Er  Er2  1  -0.00000  0.49997  0.50005  1
+ S  S1  1  0.02109  -0.00001  0.95786  1
+ S  S2  1  0.22891  0.50001  0.04214  1
+ S  S3  1  0.77107  0.50000  0.95786  1
+ S  S4  1  0.47893  0.00000  0.04214  1

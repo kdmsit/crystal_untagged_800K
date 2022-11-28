@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Yb2InGe2
+_symmetry_space_group_name_H-M  'P4/mbm'
+_cell_length_a       4.34512
+_cell_length_b       7.31314
+_cell_length_c       7.31314
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  127
+_chemical_formula_structural  Yb2InGe2
+_chemical_formula_sum  Yb4In2Ge4
+_cell_volume  232.38542566395734
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.00000  0.62268  0.12268  1
+ Ge  Ge2  1  0.00000  0.87732  0.62268  1
+ Ge  Ge3  1  0.00000  0.12268  0.37732  1
+ Ge  Ge4  1  0.00000  0.37732  0.87732  1
+ In  In1  1  0.00000  0.00000  0.00000  1
+ In  In2  1  0.00000  0.50000  0.50000  1
+ Yb  Yb1  1  0.50000  0.82669  0.32669  1
+ Yb  Yb2  1  0.50000  0.67331  0.82669  1
+ Yb  Yb3  1  0.50000  0.32669  0.17331  1
+ Yb  Yb4  1  0.50000  0.17331  0.67331  1

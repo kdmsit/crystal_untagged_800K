@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_TiNi(OF)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84829721
+_cell_length_b   5.84829721
+_cell_length_c   5.84829619
+_cell_angle_alpha   96.83802812
+_cell_angle_beta   96.83802812
+_cell_angle_gamma   96.83803419
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiNi(OF)6
+_chemical_formula_sum   'Ti1 Ni1 O6 F6'
+_cell_volume   195.38190459
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.50000000  0.50000000  0.50000000  1
+  O  O2  1  0.79292600  0.61537600  0.44295100  1
+  O  O3  1  0.61537600  0.44295100  0.79292600  1
+  O  O4  1  0.44295100  0.79292600  0.61537600  1
+  O  O5  1  0.20707400  0.38462400  0.55704900  1
+  O  O6  1  0.38462400  0.55704900  0.20707400  1
+  O  O7  1  0.55704900  0.20707400  0.38462400  1
+  F  F8  1  0.74871200  0.07198600  0.79600400  1
+  F  F9  1  0.07198600  0.79600400  0.74871200  1
+  F  F10  1  0.79600400  0.74871200  0.07198600  1
+  F  F11  1  0.25128800  0.92801400  0.20399600  1
+  F  F12  1  0.92801400  0.20399600  0.25128800  1
+  F  F13  1  0.20399600  0.25128800  0.92801400  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_NaRuN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.22966977
+_cell_length_b   3.22966977
+_cell_length_c   10.01584500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999528
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaRuN
+_chemical_formula_sum   'Na2 Ru2 N2'
+_cell_volume   90.47622757
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33333300  0.66666700  0.26345900  1
+  Na  Na1  1  0.66666700  0.33333300  0.76345900  1
+  Ru  Ru2  1  0.00000000  0.00000000  0.01698000  1
+  Ru  Ru3  1  0.00000000  0.00000000  0.51698000  1
+  N  N4  1  0.66666700  0.33333300  0.06420300  1
+  N  N5  1  0.33333300  0.66666700  0.56420300  1

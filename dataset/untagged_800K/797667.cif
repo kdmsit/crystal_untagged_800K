@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_NpSe3
+_symmetry_space_group_name_H-M  'P2_1/m'
+_cell_length_a       4.03673
+_cell_length_b       5.66493
+_cell_length_c       9.43575
+_cell_angle_alpha    97.4004
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  11
+_chemical_formula_structural  NpSe3
+_chemical_formula_sum  Np2Se6
+_cell_volume  213.97738226513368
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Np  Np1  1  0.75000  0.71840  0.85128  1
+ Np  Np2  1  0.25000  0.28160  0.14872  1
+ Se  Se1  1  0.75000  0.53665  0.32715  1
+ Se  Se2  1  0.25000  0.46335  0.67285  1
+ Se  Se3  1  0.75000  0.23375  0.92972  1
+ Se  Se4  1  0.25000  0.76625  0.07028  1
+ Se  Se5  1  0.75000  0.11949  0.33773  1
+ Se  Se6  1  0.25000  0.88051  0.66227  1

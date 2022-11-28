@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LaNiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46805051
+_cell_length_b   6.68717635
+_cell_length_c   6.68676537
+_cell_angle_alpha   70.42143197
+_cell_angle_beta   90.01808041
+_cell_angle_gamma   90.02295612
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaNiO3
+_chemical_formula_sum   'La4 Ni4 O12'
+_cell_volume   230.37032604
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.50013400  0.74673900  0.25308700  1
+  La  La1  1  0.99984300  0.00034400  0.50028200  1
+  La  La2  1  0.50007400  0.25314500  0.74659000  1
+  La  La3  1  0.99984700  0.50030800  0.00014800  1
+  Ni  Ni4  1  0.99998800  0.50018600  0.50006100  1
+  Ni  Ni5  1  0.49991400  0.75066100  0.75062100  1
+  Ni  Ni6  1  0.99997900  0.99986500  0.00001900  1
+  Ni  Ni7  1  0.50020500  0.24948200  0.24934000  1
+  O  O8  1  0.25782000  0.37113600  0.37151000  1
+  O  O9  1  0.74198800  0.62843900  0.62885800  1
+  O  O10  1  0.25464300  0.87412200  0.87387800  1
+  O  O11  1  0.74543100  0.12605700  0.12579600  1
+  O  O12  1  0.99985200  0.75887000  0.24038000  1
+  O  O13  1  0.50008600  0.99991700  0.50003700  1
+  O  O14  1  0.99998000  0.24042000  0.75891000  1
+  O  O15  1  0.49995500  0.50045200  0.00042100  1
+  O  O16  1  0.25603700  0.62954900  0.62984800  1
+  O  O17  1  0.74702800  0.87332600  0.87307900  1
+  O  O18  1  0.25293500  0.12677500  0.12662200  1
+  O  O19  1  0.74426100  0.37020700  0.37051300  1

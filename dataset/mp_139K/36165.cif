@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MnCuAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69332500
+_cell_length_b   6.25689400
+_cell_length_c   7.60464200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCuAs
+_chemical_formula_sum   'Mn4 Cu4 As4'
+_cell_volume   175.73371783
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.75000000  0.95636500  0.83638600  1
+  Mn  Mn1  1  0.25000000  0.04363500  0.16361400  1
+  Mn  Mn2  1  0.75000000  0.45636500  0.66361400  1
+  Mn  Mn3  1  0.25000000  0.54363500  0.33638600  1
+  Cu  Cu4  1  0.75000000  0.86396800  0.44042500  1
+  Cu  Cu5  1  0.25000000  0.13603200  0.55957500  1
+  Cu  Cu6  1  0.75000000  0.36396800  0.05957500  1
+  Cu  Cu7  1  0.25000000  0.63603200  0.94042500  1
+  As  As8  1  0.75000000  0.25225200  0.36331600  1
+  As  As9  1  0.25000000  0.74774800  0.63668400  1
+  As  As10  1  0.75000000  0.75225200  0.13668400  1
+  As  As11  1  0.25000000  0.24774800  0.86331600  1

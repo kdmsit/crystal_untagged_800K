@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Bi7(S3Cl)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38789600
+_cell_length_b   11.13738500
+_cell_length_c   13.17345332
+_cell_angle_alpha   67.26882978
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi7(S3Cl)3
+_chemical_formula_sum   'Bi7 S9 Cl3'
+_cell_volume   593.77867124
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.50000000  0.73054800  0.33400000  1
+  Bi  Bi1  1  0.50000000  0.47819600  0.83094100  1
+  Bi  Bi2  1  0.50000000  0.89809500  0.76143900  1
+  Bi  Bi3  1  0.00000000  0.08821800  0.33333300  1
+  Bi  Bi4  1  0.00000000  0.63643300  0.01715200  1
+  Bi  Bi5  1  0.00000000  0.98896600  0.06774500  1
+  Bi  Bi6  1  0.00000000  0.29489000  0.61405100  1
+  S  S7  1  0.00000000  0.70455500  0.20868400  1
+  S  S8  1  0.00000000  0.46783400  0.69812500  1
+  S  S9  1  0.00000000  0.83645900  0.42044000  1
+  S  S10  1  0.00000000  0.19688500  0.12252300  1
+  S  S11  1  0.00000000  0.70748000  0.79377000  1
+  S  S12  1  0.50000000  0.96565900  0.19452300  1
+  S  S13  1  0.00000000  0.05888900  0.76903900  1
+  S  S14  1  0.50000000  0.46567500  0.03809500  1
+  S  S15  1  0.50000000  0.82839700  0.97093300  1
+  Cl  Cl16  1  0.50000000  0.09306900  0.47598200  1
+  Cl  Cl17  1  0.50000000  0.41601300  0.48237800  1
+  Cl  Cl18  1  0.50000000  0.22278800  0.89135800  1

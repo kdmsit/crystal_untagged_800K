@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mn2O12Sm4Ti2
+_chemical_formula_sum              "Mn2 O12 Sm4 Ti2"
+_cell_length_a       5.42108
+_cell_length_b       5.73102
+_cell_length_c       7.79693
+_cell_angle_alpha    90
+_cell_angle_beta     90.3283
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.50000  0.00000  0.00000  1.0000
+  Mn  Mn2       1.0  0.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.70500  0.31500  0.05260  1.0000
+  O   O2        1.0  0.81900  0.79000  0.06150  1.0000
+  O   O3        1.0  0.11100  0.45800  0.24000  1.0000
+  O   O4        1.0  0.38900  0.95800  0.26000  1.0000
+  O   O5        1.0  0.68100  0.29000  0.43800  1.0000
+  O   O6        1.0  0.79500  0.81500  0.44700  1.0000
+  O   O7        1.0  0.20500  0.18500  0.55300  1.0000
+  O   O8        1.0  0.31900  0.71000  0.56200  1.0000
+  O   O9        1.0  0.61100  0.04210  0.74000  1.0000
+  O   O10       1.0  0.88900  0.54200  0.76000  1.0000
+  O   O11       1.0  0.18100  0.21000  0.93800  1.0000
+  O   O12       1.0  0.29500  0.68500  0.94700  1.0000
+  Sm  Sm1       1.0  0.51800  0.56500  0.24800  1.0000
+  Sm  Sm2       1.0  0.98200  0.06500  0.25200  1.0000
+  Sm  Sm3       1.0  0.01780  0.93500  0.74800  1.0000
+  Sm  Sm4       1.0  0.48200  0.43500  0.75200  1.0000
+  Ti  Ti1       1.0  0.00000  0.50000  0.00000  1.0000
+  Ti  Ti2       1.0  0.50000  0.00000  0.50000  1.0000

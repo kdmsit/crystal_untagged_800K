@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MnCdCu4(SnSe4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11588562
+_cell_length_b   7.11588562
+_cell_length_c   11.68870983
+_cell_angle_alpha   65.81196279
+_cell_angle_beta   65.81196279
+_cell_angle_gamma   48.51263973
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCdCu4(SnSe4)2
+_chemical_formula_sum   'Mn1 Cd1 Cu4 Sn2 Se8'
+_cell_volume   396.07343365
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.99986500  0.00013500  0.00000000  1
+  Cd  Cd1  1  0.99978000  0.00022000  0.50000000  1
+  Cu  Cu2  1  0.75029000  0.74878700  0.87574400  1
+  Cu  Cu3  1  0.74959900  0.75128000  0.37432400  1
+  Cu  Cu4  1  0.25121300  0.24971000  0.12425600  1
+  Cu  Cu5  1  0.24872000  0.25040100  0.62567600  1
+  Sn  Sn6  1  0.49978200  0.50013500  0.75182300  1
+  Sn  Sn7  1  0.49986500  0.50021800  0.24817700  1
+  Se  Se8  1  0.60240300  0.11261600  0.69927100  1
+  Se  Se9  1  0.62097500  0.10773800  0.18928000  1
+  Se  Se10  1  0.10741000  0.62173000  0.94597200  1
+  Se  Se11  1  0.11343100  0.60124700  0.44366900  1
+  Se  Se12  1  0.37827000  0.89259000  0.05402800  1
+  Se  Se13  1  0.39875300  0.88656900  0.55633100  1
+  Se  Se14  1  0.88738400  0.39759700  0.30072900  1
+  Se  Se15  1  0.89226200  0.37902500  0.81072000  1

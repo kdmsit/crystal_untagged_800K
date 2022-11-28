@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Hg4Ni4O4Se4
+_chemical_formula_sum              "Hg4 Ni4 O4 Se4"
+_cell_length_a       6.20577
+_cell_length_b       3.4047
+_cell_length_c       13.8123
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.61500  0.25000  0.20000  1.0000
+  Hg  Hg2       1.0  0.11500  0.25000  0.30000  1.0000
+  Hg  Hg3       1.0  0.88500  0.75000  0.70000  1.0000
+  Hg  Hg4       1.0  0.38500  0.75000  0.80000  1.0000
+  Ni  Ni1       1.0  0.20500  0.75000  0.07410  1.0000
+  Ni  Ni2       1.0  0.70500  0.75000  0.42600  1.0000
+  Ni  Ni3       1.0  0.29500  0.25000  0.57400  1.0000
+  Ni  Ni4       1.0  0.79500  0.25000  0.92600  1.0000
+  O   O1        1.0  0.26000  0.25000  0.15300  1.0000
+  O   O2        1.0  0.76000  0.25000  0.34700  1.0000
+  O   O3        1.0  0.24000  0.75000  0.65300  1.0000
+  O   O4        1.0  0.74000  0.75000  0.84700  1.0000
+  Se  Se1       1.0  0.79900  0.75000  0.06370  1.0000
+  Se  Se2       1.0  0.29900  0.75000  0.43600  1.0000
+  Se  Se3       1.0  0.70100  0.25000  0.56400  1.0000
+  Se  Se4       1.0  0.20100  0.25000  0.93600  1.0000

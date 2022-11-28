@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Br4Hf6
+_chemical_formula_sum              "Br4 Hf6"
+_cell_length_a       7.06064
+_cell_length_b       7.06064
+_cell_length_c       6.56141
+_cell_angle_alpha    122.551
+_cell_angle_beta     57.4495
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.60100  0.39900  0.19700  1.0000
+  Br  Br2       1.0  0.89900  0.10100  0.30300  1.0000
+  Br  Br3       1.0  0.10100  0.89900  0.69700  1.0000
+  Br  Br4       1.0  0.39900  0.60100  0.80300  1.0000
+  Hf  Hf1       1.0  0.25000  0.99700  0.25000  1.0000
+  Hf  Hf2       1.0  0.49700  0.75000  0.25000  1.0000
+  Hf  Hf3       1.0  0.00290  0.50300  0.25000  1.0000
+  Hf  Hf4       1.0  0.99700  0.49700  0.75000  1.0000
+  Hf  Hf5       1.0  0.50300  0.25000  0.75000  1.0000
+  Hf  Hf6       1.0  0.75000  0.00290  0.75000  1.0000

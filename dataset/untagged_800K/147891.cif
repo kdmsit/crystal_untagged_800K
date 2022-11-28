@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       N8Sn6
+_chemical_formula_sum              "N8 Sn6"
+_cell_length_a       6.42069
+_cell_length_b       6.42069
+_cell_length_c       6.42069
+_cell_angle_alpha    120
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.74100  0.01800  0.25900  1.0000
+  N   N2        1.0  0.27700  0.01800  0.25900  1.0000
+  N   N3        1.0  0.74100  0.48200  0.25900  1.0000
+  N   N4        1.0  0.25900  0.51800  0.27700  1.0000
+  N   N5        1.0  0.74100  0.48200  0.72300  1.0000
+  N   N6        1.0  0.25900  0.98200  0.74100  1.0000
+  N   N7        1.0  0.72300  0.98200  0.74100  1.0000
+  N   N8        1.0  0.25900  0.51800  0.74100  1.0000
+  Sn  Sn1       1.0  0.50000  0.00000  0.00000  1.0000
+  Sn  Sn2       1.0  0.87500  0.75000  0.12500  1.0000
+  Sn  Sn3       1.0  0.50000  0.00000  0.50000  1.0000
+  Sn  Sn4       1.0  0.00000  0.50000  0.50000  1.0000
+  Sn  Sn5       1.0  0.50000  0.50000  0.50000  1.0000
+  Sn  Sn6       1.0  0.12500  0.25000  0.87500  1.0000

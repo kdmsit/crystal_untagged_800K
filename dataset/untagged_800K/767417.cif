@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Al2Te3
+_symmetry_space_group_name_H-M  'Cc'
+_cell_length_a       7.36078
+_cell_length_b       7.36078
+_cell_length_c       8.06408
+_cell_angle_alpha    63.9114
+_cell_angle_beta     63.9113
+_cell_angle_gamma    59.8137
+
+_symmetry_Int_Tables_number  9
+_chemical_formula_structural  Al2Te3
+_chemical_formula_sum  Al4Te6
+_cell_volume  325.4625730555114
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.17720  0.98716  0.49695  1
+ Al  Al2  1  0.80873  0.67690  0.50430  1
+ Al  Al3  1  0.98716  0.17720  0.99695  1
+ Al  Al4  1  0.67690  0.80873  0.00430  1
+ Te  Te1  1  0.30141  0.14026  0.11132  1
+ Te  Te2  1  0.98729  0.77375  0.11826  1
+ Te  Te3  1  0.61582  0.44806  0.14413  1
+ Te  Te4  1  0.14026  0.30141  0.61132  1
+ Te  Te5  1  0.77375  0.98729  0.61826  1
+ Te  Te6  1  0.44806  0.61582  0.64413  1

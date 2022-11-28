@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_TmSi2Ni
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       3.9299
+_cell_length_b       3.94165
+_cell_length_c       8.51498
+_cell_angle_alpha    90
+_cell_angle_beta     103.342
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  TmSi2Ni
+_chemical_formula_sum  Tm2Si4Ni2
+_cell_volume  128.33969576893497
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ni  Ni1  1  0.82434  0.25000  0.64867  1
+ Ni  Ni2  1  0.17566  0.75000  0.35133  1
+ Si  Si1  1  0.96010  0.25000  0.92020  1
+ Si  Si2  1  0.03990  0.75000  0.07980  1
+ Si  Si3  1  0.24956  0.25000  0.49913  1
+ Si  Si4  1  0.75044  0.75000  0.50087  1
+ Tm  Tm1  1  0.60497  0.25000  0.20994  1
+ Tm  Tm2  1  0.39503  0.75000  0.79006  1

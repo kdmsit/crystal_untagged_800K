@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Co2Ge4Tb4
+_chemical_formula_sum              "Co2 Ge4 Tb4"
+_cell_length_a       5.65158
+_cell_length_b       5.65168
+_cell_length_c       10.9068
+_cell_angle_alpha    59.0104
+_cell_angle_beta     120.989
+_cell_angle_gamma    130.791
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.56900  0.43100  0.94200  1.0000
+  Co  Co2       1.0  0.43100  0.56900  0.05790  1.0000
+  Ge  Ge1       1.0  0.29100  0.70900  0.78300  1.0000
+  Ge  Ge2       1.0  0.70900  0.29100  0.21700  1.0000
+  Ge  Ge3       1.0  0.20900  0.79100  0.39200  1.0000
+  Ge  Ge4       1.0  0.79100  0.20900  0.60800  1.0000
+  Tb  Tb1       1.0  0.10500  0.89500  0.92500  1.0000
+  Tb  Tb2       1.0  0.89500  0.10500  0.07510  1.0000
+  Tb  Tb3       1.0  0.53500  0.46500  0.67100  1.0000
+  Tb  Tb4       1.0  0.46500  0.53500  0.32800  1.0000

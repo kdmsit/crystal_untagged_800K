@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_AlPS4
+_symmetry_space_group_name_H-M  'P4_2/mmc'
+_cell_length_a       6.42897
+_cell_length_b       6.42897
+_cell_length_c       7.69497
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  131
+_chemical_formula_structural  AlPS4
+_chemical_formula_sum  Al2P2S8
+_cell_volume  318.04567313157213
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.00000  0.00000  0.58467  1
+ Al  Al2  1  0.00000  0.00000  0.08467  1
+ P  P1  1  0.00000  0.50000  0.08466  1
+ P  P2  1  0.50000  0.00000  0.58466  1
+ S  S1  1  0.73264  0.23877  0.58467  1
+ S  S2  1  0.76123  0.26736  0.08467  1
+ S  S3  1  0.73264  0.76123  0.58467  1
+ S  S4  1  0.23877  0.73264  0.08467  1
+ S  S5  1  0.26736  0.76123  0.58467  1
+ S  S6  1  0.23877  0.26736  0.08467  1
+ S  S7  1  0.76123  0.73264  0.08467  1
+ S  S8  1  0.26736  0.23877  0.58467  1

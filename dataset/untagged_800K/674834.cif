@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_HoTiFe8Co3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.72343700
+_cell_length_b   6.41270667
+_cell_length_c   6.41270667
+_cell_angle_alpha   97.43020685
+_cell_angle_beta   111.61003488
+_cell_angle_gamma   68.38996512
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoTiFe8Co3
+_chemical_formula_sum   'Ho1 Ti1 Fe8 Co3'
+_cell_volume   167.89051013
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00523000  0.99477000  0.00523000  1
+  Ti  Ti1  1  0.62563900  0.37436100  0.62563900  1
+  Fe  Fe2  1  0.72944200  0.77055800  0.22944200  1
+  Fe  Fe3  1  0.27893000  0.22107000  0.77893000  1
+  Fe  Fe4  1  0.49963500  0.78076000  0.78003000  1
+  Fe  Fe5  1  0.49963500  0.21997000  0.21924100  1
+  Fe  Fe6  1  0.50201800  0.99699000  0.50010300  1
+  Fe  Fe7  1  0.00109500  0.99699000  0.50010300  1
+  Fe  Fe8  1  0.50201800  0.49989700  0.00301000  1
+  Fe  Fe9  1  0.00109500  0.49989700  0.00301000  1
+  Co  Co10  1  0.35061400  0.64938600  0.35061400  1
+  Co  Co11  1  0.00232400  0.35654000  0.36118800  1
+  Co  Co12  1  0.00232400  0.63881200  0.64346000  1

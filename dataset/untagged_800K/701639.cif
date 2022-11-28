@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Rb2Be2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.81559500
+_cell_length_b   4.97801200
+_cell_length_c   6.58790935
+_cell_angle_alpha   65.28577764
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Be2O3
+_chemical_formula_sum   'Rb4 Be4 O6'
+_cell_volume   262.62400767
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.34803300  0.77994700  0.92760100  1
+  Rb  Rb1  1  0.15196700  0.77994700  0.42760100  1
+  Rb  Rb2  1  0.84803300  0.22005300  0.57239900  1
+  Rb  Rb3  1  0.65196700  0.22005300  0.07239900  1
+  Be  Be4  1  0.50686800  0.69810600  0.50279700  1
+  Be  Be5  1  0.00686800  0.30189400  0.99720300  1
+  Be  Be6  1  0.99313200  0.69810600  0.00279700  1
+  Be  Be7  1  0.49313200  0.30189400  0.49720300  1
+  O  O8  1  0.50000000  0.00000000  0.50000000  1
+  O  O9  1  0.00000000  0.00000000  0.00000000  1
+  O  O10  1  0.94930300  0.60419000  0.80804900  1
+  O  O11  1  0.44930300  0.39581000  0.69195100  1
+  O  O12  1  0.55069700  0.60419000  0.30804900  1
+  O  O13  1  0.05069700  0.39581000  0.19195100  1

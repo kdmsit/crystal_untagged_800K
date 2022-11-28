@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       LuO4S5U4
+_chemical_formula_sum              "Lu1 O4 S5 U4"
+_cell_length_a       3.83796
+_cell_length_b       3.83796
+_cell_length_c       17.4579
+_cell_angle_alpha    96.3107
+_cell_angle_beta     96.3107
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.50000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.65100  0.15100  0.30100  1.0000
+  O   O2        1.0  0.15100  0.65100  0.30100  1.0000
+  O   O3        1.0  0.84900  0.34900  0.69900  1.0000
+  O   O4        1.0  0.34900  0.84900  0.69900  1.0000
+  S   S1        1.0  0.00000  0.00000  0.00000  1.0000
+  S   S2        1.0  0.57700  0.57700  0.15300  1.0000
+  S   S3        1.0  0.22300  0.22300  0.44700  1.0000
+  S   S4        1.0  0.77700  0.77700  0.55300  1.0000
+  S   S5        1.0  0.42300  0.42300  0.84700  1.0000
+  U   U1        1.0  0.11200  0.11200  0.22400  1.0000
+  U   U2        1.0  0.69200  0.69200  0.38400  1.0000
+  U   U3        1.0  0.30800  0.30800  0.61600  1.0000
+  U   U4        1.0  0.88800  0.88800  0.77600  1.0000

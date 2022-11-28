@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_TbPd
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       3.7245
+_cell_length_b       4.54736
+_cell_length_c       5.59848
+_cell_angle_alpha    90
+_cell_angle_beta     70.5712
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  TbPd
+_chemical_formula_sum  Tb2Pd2
+_cell_volume  89.4199987806092
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Pd  Pd1  1  0.41193  0.75000  0.17614  1
+ Pd  Pd2  1  0.58807  0.25000  0.82386  1
+ Tb  Tb1  1  0.13725  0.75000  0.72550  1
+ Tb  Tb2  1  0.86275  0.25000  0.27450  1

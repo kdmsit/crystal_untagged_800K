@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ge2H8O8
+_chemical_formula_sum              "Ge2 H8 O8"
+_cell_length_a       4.92818
+_cell_length_b       4.92818
+_cell_length_c       5.22897
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    93.0238
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.32500  0.67500  0.25000  1.0000
+  Ge  Ge2       1.0  0.67500  0.32500  0.75000  1.0000
+  H   H1        1.0  0.22700  0.22700  0.00000  1.0000
+  H   H2        1.0  0.77300  0.77300  0.00000  1.0000
+  H   H3        1.0  0.50100  0.22300  0.25000  1.0000
+  H   H4        1.0  0.77700  0.49900  0.25000  1.0000
+  H   H5        1.0  0.22700  0.22700  0.50000  1.0000
+  H   H6        1.0  0.77300  0.77300  0.50000  1.0000
+  H   H7        1.0  0.22300  0.50100  0.75000  1.0000
+  H   H8        1.0  0.49900  0.77700  0.75000  1.0000
+  O   O1        1.0  0.77500  0.22500  0.03530  1.0000
+  O   O2        1.0  0.29600  0.27200  0.25000  1.0000
+  O   O3        1.0  0.72800  0.70400  0.25000  1.0000
+  O   O4        1.0  0.77500  0.22500  0.46500  1.0000
+  O   O5        1.0  0.22500  0.77500  0.53500  1.0000
+  O   O6        1.0  0.27200  0.29600  0.75000  1.0000
+  O   O7        1.0  0.70400  0.72800  0.75000  1.0000
+  O   O8        1.0  0.22500  0.77500  0.96500  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Li4MoO6W
+_chemical_formula_sum              "Li4 Mo1 O6 W1"
+_cell_length_a       4.98368
+_cell_length_b       4.98368
+_cell_length_c       5.20185
+_cell_angle_alpha    99.3025
+_cell_angle_beta     99.3025
+_cell_angle_gamma    118.018
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.49800  0.50200  0.00000  1.0000
+  Li  Li2       1.0  0.99700  0.00349  0.50000  1.0000
+  Li  Li3       1.0  0.66500  0.33500  0.50000  1.0000
+  Li  Li4       1.0  0.34000  0.66000  0.50000  1.0000
+  Mo  Mo1       1.0  0.85300  0.14700  0.00000  1.0000
+  O   O1        1.0  0.93100  0.59000  0.23000  1.0000
+  O   O2        1.0  0.57300  0.92200  0.23200  1.0000
+  O   O3        1.0  0.26700  0.25800  0.26700  1.0000
+  O   O4        1.0  0.74200  0.73300  0.73300  1.0000
+  O   O5        1.0  0.07850  0.42700  0.76800  1.0000
+  O   O6        1.0  0.41000  0.06920  0.77000  1.0000
+  W   W1        1.0  0.14500  0.85500  0.00000  1.0000

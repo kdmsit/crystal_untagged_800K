@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_MoPRu
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.91709
+_cell_length_b       6.03815
+_cell_length_c       6.99371
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  MoPRu
+_chemical_formula_sum  Mo4P4Ru4
+_cell_volume  165.4148987951611
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mo  Mo1  1  0.75000  0.97508  0.82971  1
+ Mo  Mo2  1  0.25000  0.02492  0.17029  1
+ Mo  Mo3  1  0.75000  0.47508  0.67029  1
+ Mo  Mo4  1  0.25000  0.52492  0.32971  1
+ P  P1  1  0.25000  0.25348  0.88485  1
+ P  P2  1  0.75000  0.74652  0.11515  1
+ P  P3  1  0.25000  0.75348  0.61515  1
+ P  P4  1  0.75000  0.24652  0.38485  1
+ Ru  Ru1  1  0.25000  0.64012  0.93070  1
+ Ru  Ru2  1  0.75000  0.35988  0.06930  1
+ Ru  Ru3  1  0.25000  0.14012  0.56930  1
+ Ru  Ru4  1  0.75000  0.85988  0.43070  1

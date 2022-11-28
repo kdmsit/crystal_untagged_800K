@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_V2Si2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21146860
+_cell_length_b   5.38436350
+_cell_length_c   4.68632667
+_cell_angle_alpha   83.75830317
+_cell_angle_beta   97.84196763
+_cell_angle_gamma   73.74324431
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2Si2O7
+_chemical_formula_sum   'V2 Si2 O7'
+_cell_volume   123.56069958
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.67894200  0.69055500  0.00836100  1
+  V  V1  1  0.32105600  0.30944300  0.99163900  1
+  Si  Si2  1  0.22884800  0.77055200  0.40518000  1
+  Si  Si3  1  0.77115200  0.22944800  0.59482000  1
+  O  O4  1  0.07089200  0.60295700  0.21214200  1
+  O  O5  1  0.40525600  0.91448600  0.21059700  1
+  O  O6  1  0.40259800  0.60717800  0.72542700  1
+  O  O7  1  0.00000300  0.00000300  0.50000100  1
+  O  O8  1  0.59740100  0.39282100  0.27457300  1
+  O  O9  1  0.59474700  0.08551100  0.78940300  1
+  O  O10  1  0.92910500  0.39704700  0.78785800  1

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Cl2Mo2O8Yb2
+_chemical_formula_sum              "Cl2 Mo2 O8 Yb2"
+_cell_length_a       6.57985
+_cell_length_b       6.57985
+_cell_length_c       6.74855
+_cell_angle_alpha    103.257
+_cell_angle_beta     103.257
+_cell_angle_gamma    60.3683
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.98400  0.98400  0.34800  1.0000
+  Cl  Cl2       1.0  0.01600  0.01600  0.65200  1.0000
+  Mo  Mo1       1.0  0.63500  0.63500  0.26600  1.0000
+  Mo  Mo2       1.0  0.36500  0.36500  0.73400  1.0000
+  O   O1        1.0  0.88200  0.46300  0.12200  1.0000
+  O   O2        1.0  0.46300  0.88200  0.12200  1.0000
+  O   O3        1.0  0.47900  0.47900  0.25700  1.0000
+  O   O4        1.0  0.27600  0.27600  0.47600  1.0000
+  O   O5        1.0  0.72400  0.72400  0.52400  1.0000
+  O   O6        1.0  0.52100  0.52100  0.74300  1.0000
+  O   O7        1.0  0.53700  0.11800  0.87800  1.0000
+  O   O8        1.0  0.11800  0.53700  0.87800  1.0000
+  Yb  Yb1       1.0  0.27900  0.27900  0.14500  1.0000
+  Yb  Yb2       1.0  0.72100  0.72100  0.85500  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mg3Mo2Zn2
+_chemical_formula_sum              "Mg3 Mo2 Zn2"
+_cell_length_a       7.88143
+_cell_length_b       7.88143
+_cell_length_c       7.88143
+_cell_angle_alpha    32.7532
+_cell_angle_beta     32.7532
+_cell_angle_gamma    32.7532
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.35200  0.35200  0.35200  1.0000
+  Mg  Mg2       1.0  0.61100  0.61100  0.61100  1.0000
+  Mg  Mg3       1.0  0.86100  0.86100  0.86100  1.0000
+  Mo  Mo1       1.0  0.11000  0.11000  0.11000  1.0000
+  Mo  Mo2       1.0  0.47500  0.47500  0.47500  1.0000
+  Zn  Zn1       1.0  0.22600  0.22600  0.22600  1.0000
+  Zn  Zn2       1.0  0.74000  0.74000  0.74000  1.0000

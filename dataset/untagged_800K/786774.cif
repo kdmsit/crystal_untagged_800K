@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_AlV2C
+_symmetry_space_group_name_H-M  'P6_3/mmc'
+_cell_length_a       2.91725
+_cell_length_b       2.91725
+_cell_length_c       13.126
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  194
+_chemical_formula_structural  AlV2C
+_chemical_formula_sum  Al2V4C2
+_cell_volume  96.74140248050026
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.33333  0.66667  0.25000  1
+ Al  Al2  1  0.66667  0.33333  0.75000  1
+ C  C1  1  0.00000  0.00000  0.00000  1
+ C  C2  1  0.00000  0.00000  0.50000  1
+ V  V1  1  0.33333  0.66667  0.58561  1
+ V  V2  1  0.66667  0.33333  0.41439  1
+ V  V3  1  0.66667  0.33333  0.08561  1
+ V  V4  1  0.33333  0.66667  0.91439  1

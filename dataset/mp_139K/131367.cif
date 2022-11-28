@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_RbCoCuF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30577303
+_cell_length_b   7.30577303
+_cell_length_c   7.30577303
+_cell_angle_alpha   120.60457881
+_cell_angle_beta   119.50977451
+_cell_angle_gamma   89.90361505
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCoCuF6
+_chemical_formula_sum   'Rb2 Co2 Cu2 F12'
+_cell_volume   275.45947372
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.87278200  0.62278200  0.25000000  1
+  Rb  Rb1  1  0.12721800  0.37721800  0.75000000  1
+  Co  Co2  1  0.50000000  0.00000000  0.50000000  1
+  Co  Co3  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu4  1  0.50000000  0.00000000  0.00000000  1
+  Cu  Cu5  1  0.50000000  0.50000000  0.50000000  1
+  F  F6  1  0.82106600  0.07106600  0.75000000  1
+  F  F7  1  0.42692000  0.67692000  0.75000000  1
+  F  F8  1  0.83042300  0.68118600  0.75669500  1
+  F  F9  1  0.42449000  0.07372700  0.74330500  1
+  F  F10  1  0.83042300  0.07372700  0.14923700  1
+  F  F11  1  0.42449000  0.68118600  0.35076300  1
+  F  F12  1  0.17893400  0.92893400  0.25000000  1
+  F  F13  1  0.57308000  0.32308000  0.25000000  1
+  F  F14  1  0.16957700  0.31881400  0.24330500  1
+  F  F15  1  0.57551000  0.92627300  0.25669500  1
+  F  F16  1  0.16957700  0.92627300  0.85076300  1
+  F  F17  1  0.57551000  0.31881400  0.64923700  1

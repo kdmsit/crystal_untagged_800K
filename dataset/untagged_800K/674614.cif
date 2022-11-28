@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_KBaV2CuClO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.99480195
+_cell_length_b   8.99480195
+_cell_length_c   5.62039700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.99019390
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBaV2CuClO7
+_chemical_formula_sum   'K2 Ba2 V4 Cu2 Cl2 O14'
+_cell_volume   454.65853146
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.32721600  0.32721600  0.83256900  1
+  K  K1  1  0.67278400  0.67278400  0.83256900  1
+  Ba  Ba2  1  0.82133200  0.17866800  0.83831400  1
+  Ba  Ba3  1  0.17866800  0.82133200  0.83831400  1
+  V  V4  1  0.13266400  0.13266400  0.30004700  1
+  V  V5  1  0.86733600  0.86733600  0.30004700  1
+  V  V6  1  0.63120700  0.36879300  0.29970600  1
+  V  V7  1  0.36879300  0.63120700  0.29970600  1
+  Cu  Cu8  1  0.50000000  0.00000000  0.22448800  1
+  Cu  Cu9  1  0.00000000  0.50000000  0.22448800  1
+  Cl  Cl10  1  0.50000000  0.00000000  0.69246900  1
+  Cl  Cl11  1  0.00000000  0.50000000  0.69246900  1
+  O  O12  1  0.11899300  0.11899300  0.60177300  1
+  O  O13  1  0.88100700  0.88100700  0.60177300  1
+  O  O14  1  0.63002700  0.36997300  0.60087300  1
+  O  O15  1  0.36997300  0.63002700  0.60087300  1
+  O  O16  1  0.30263900  0.08490000  0.18625600  1
+  O  O17  1  0.69736100  0.91510000  0.18625600  1
+  O  O18  1  0.80472700  0.40857600  0.18176400  1
+  O  O19  1  0.19527300  0.59142400  0.18176400  1
+  O  O20  1  0.40857600  0.80472700  0.18176400  1
+  O  O21  1  0.59142400  0.19527300  0.18176400  1
+  O  O22  1  0.08490000  0.30263900  0.18625600  1
+  O  O23  1  0.91510000  0.69736100  0.18625600  1
+  O  O24  1  0.00000000  0.00000000  0.15764800  1
+  O  O25  1  0.50000000  0.50000000  0.17179500  1

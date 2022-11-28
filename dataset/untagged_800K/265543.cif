@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       GdLi4O6U
+_chemical_formula_sum              "Gd1 Li4 O6 U1"
+_cell_length_a       5.61334
+_cell_length_b       5.61334
+_cell_length_c       5.29023
+_cell_angle_alpha    99.9082
+_cell_angle_beta     99.9082
+_cell_angle_gamma    120.138
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.83300  0.16700  0.00000  1.0000
+  Li  Li1       1.0  0.50000  0.50000  0.00000  1.0000
+  Li  Li2       1.0  0.00315  0.99700  0.50000  1.0000
+  Li  Li3       1.0  0.64200  0.35800  0.50000  1.0000
+  Li  Li4       1.0  0.36200  0.63800  0.50000  1.0000
+  O   O1        1.0  0.92000  0.59500  0.23800  1.0000
+  O   O2        1.0  0.56700  0.91000  0.24600  1.0000
+  O   O3        1.0  0.24800  0.23700  0.25100  1.0000
+  O   O4        1.0  0.76300  0.75200  0.74900  1.0000
+  O   O5        1.0  0.09010  0.43300  0.75400  1.0000
+  O   O6        1.0  0.40500  0.08030  0.76200  1.0000
+  U   U1        1.0  0.16800  0.83200  0.00000  1.0000

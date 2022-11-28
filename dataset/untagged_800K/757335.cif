@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_ZrCuGeAs
+_symmetry_space_group_name_H-M  'P4/nmm'
+_cell_length_a       3.74507
+_cell_length_b       3.74507
+_cell_length_c       9.70164
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  129
+_chemical_formula_structural  ZrCuGeAs
+_chemical_formula_sum  Zr2Cu2Ge2As2
+_cell_volume  136.07073714476473
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.75000  0.75000  0.32256  1
+ As  As2  1  0.25000  0.25000  0.67744  1
+ Cu  Cu1  1  0.75000  0.25000  0.50000  1
+ Cu  Cu2  1  0.25000  0.75000  0.50000  1
+ Ge  Ge1  1  0.75000  0.25000  0.00000  1
+ Ge  Ge2  1  0.25000  0.75000  0.00000  1
+ Zr  Zr1  1  0.75000  0.75000  0.77322  1
+ Zr  Zr2  1  0.25000  0.25000  0.22678  1

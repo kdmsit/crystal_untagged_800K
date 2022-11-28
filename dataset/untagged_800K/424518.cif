@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pb3Y2Zn2
+_chemical_formula_sum              "Pb3 Y2 Zn2"
+_cell_length_a       8.78148
+_cell_length_b       8.78148
+_cell_length_c       8.78148
+_cell_angle_alpha    33.6561
+_cell_angle_beta     33.6561
+_cell_angle_gamma    33.6561
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.35300  0.35300  0.35300  1.0000
+  Pb  Pb2       1.0  0.62200  0.62200  0.62200  1.0000
+  Pb  Pb3       1.0  0.89900  0.89900  0.89900  1.0000
+  Y   Y1        1.0  0.19300  0.19300  0.19300  1.0000
+  Y   Y2        1.0  0.76100  0.76100  0.76100  1.0000
+  Zn  Zn1       1.0  0.06950  0.06950  0.06950  1.0000
+  Zn  Zn2       1.0  0.47700  0.47700  0.47700  1.0000

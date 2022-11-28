@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaBH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.39788800
+_cell_length_b   4.66271400
+_cell_length_c   7.63104427
+_cell_angle_alpha   79.21702272
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaBH4
+_chemical_formula_sum   'Na2 B2 H8'
+_cell_volume   153.71987307
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.84638300  0.07752400  1
+  Na  Na1  1  0.00000000  0.03168600  0.58745600  1
+  B  B2  1  0.00000000  0.61281600  0.40151500  1
+  B  B3  1  0.50000000  0.93282700  0.84851900  1
+  H  H4  1  0.27912200  0.77455200  0.84070800  1
+  H  H5  1  0.72087800  0.77455200  0.84070800  1
+  H  H6  1  0.76951200  0.75953900  0.36126200  1
+  H  H7  1  0.23048800  0.75953900  0.36126200  1
+  H  H8  1  0.00000000  0.52677700  0.56330800  1
+  H  H9  1  0.00000000  0.40729400  0.32084300  1
+  H  H10  1  0.50000000  0.02832800  0.98881700  1
+  H  H11  1  0.50000000  0.14168800  0.72408900  1

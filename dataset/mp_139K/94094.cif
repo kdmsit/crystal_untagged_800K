@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Mg(CrS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.03496040
+_cell_length_b   7.03238729
+_cell_length_c   7.04106489
+_cell_angle_alpha   60.06849086
+_cell_angle_beta   60.08262280
+_cell_angle_gamma   60.02994256
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(CrS2)4
+_chemical_formula_sum   'Mg1 Cr4 S8'
+_cell_volume   246.65005487
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.12496000  0.12514700  0.12451500  1
+  Cr  Cr1  1  0.50834700  0.50866900  0.50734300  1
+  Cr  Cr2  1  0.50770700  0.50784200  0.97701100  1
+  Cr  Cr3  1  0.97639600  0.50750900  0.50772600  1
+  Cr  Cr4  1  0.50755800  0.97601900  0.50778000  1
+  S  S5  1  0.74443600  0.74425100  0.74447600  1
+  S  S6  1  0.26472700  0.26460100  0.70646700  1
+  S  S7  1  0.26433200  0.70669800  0.26479100  1
+  S  S8  1  0.70659200  0.26431700  0.26486000  1
+  S  S9  1  0.74442800  0.26656000  0.74471400  1
+  S  S10  1  0.26629800  0.74444900  0.74483700  1
+  S  S11  1  0.26436400  0.26421800  0.26449200  1
+  S  S12  1  0.74487000  0.74471400  0.26597100  1

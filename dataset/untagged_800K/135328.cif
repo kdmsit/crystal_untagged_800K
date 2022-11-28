@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cl6NS2Sb
+_chemical_formula_sum              "Cl6 N1 S2 Sb1"
+_cell_length_a       7.16774
+_cell_length_b       7.17623
+_cell_length_c       7.17623
+_cell_angle_alpha    97.6695
+_cell_angle_beta     60.0391
+_cell_angle_gamma    119.961
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.24100  0.17900  0.17900  1.0000
+  Cl  Cl2       1.0  0.75900  0.17900  0.17900  1.0000
+  Cl  Cl3       1.0  0.70300  0.70300  0.29700  1.0000
+  Cl  Cl4       1.0  0.29700  0.29700  0.70300  1.0000
+  Cl  Cl5       1.0  0.24100  0.82100  0.82100  1.0000
+  Cl  Cl6       1.0  0.75900  0.82100  0.82100  1.0000
+  N   N1        1.0  0.00000  0.50000  0.50000  1.0000
+  S   S1        1.0  0.18500  0.68500  0.31500  1.0000
+  S   S2        1.0  0.81500  0.31500  0.68500  1.0000
+  Sb  Sb1       1.0  0.00000  0.00000  0.00000  1.0000

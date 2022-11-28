@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Br3CsLi2
+_chemical_formula_sum              "Br3 Cs1 Li2"
+_cell_length_a       4.60364
+_cell_length_b       5.68068
+_cell_length_c       7.64553
+_cell_angle_alpha    111.808
+_cell_angle_beta     107.522
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.00000  0.50000  0.00000  1.0000
+  Br  Br2       1.0  0.21800  0.21800  0.43600  1.0000
+  Br  Br3       1.0  0.78200  0.78200  0.56400  1.0000
+  Cs  Cs1       1.0  0.50000  0.00000  0.00000  1.0000
+  Li  Li1       1.0  0.19100  0.69100  0.38200  1.0000
+  Li  Li2       1.0  0.80900  0.30900  0.61800  1.0000

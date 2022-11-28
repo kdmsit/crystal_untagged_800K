@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbHfO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46338164
+_cell_length_b   6.46338164
+_cell_length_c   5.36097428
+_cell_angle_alpha   66.53174840
+_cell_angle_beta   66.53174840
+_cell_angle_gamma   109.17640548
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbHfO4
+_chemical_formula_sum   'Tb2 Hf2 O8'
+_cell_volume   153.65435316
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.37405200  0.62594800  0.75000000  1
+  Tb  Tb1  1  0.62594800  0.37405200  0.25000000  1
+  Hf  Hf2  1  0.11450100  0.88549900  0.25000000  1
+  Hf  Hf3  1  0.88549900  0.11450100  0.75000000  1
+  O  O4  1  0.57721300  0.02672100  0.70665600  1
+  O  O5  1  0.78418800  0.73691300  0.70938600  1
+  O  O6  1  0.26308700  0.21581200  0.79061400  1
+  O  O7  1  0.02672100  0.57721300  0.20665600  1
+  O  O8  1  0.97327900  0.42278700  0.79334400  1
+  O  O9  1  0.73691300  0.78418800  0.20938600  1
+  O  O10  1  0.21581200  0.26308700  0.29061400  1
+  O  O11  1  0.42278700  0.97327900  0.29334400  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_ZrCrCuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.08274789
+_cell_length_b   6.07054117
+_cell_length_c   5.96873981
+_cell_angle_alpha   92.52322457
+_cell_angle_beta   89.99799647
+_cell_angle_gamma   90.00040745
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCrCuS4
+_chemical_formula_sum   'Zr2 Cr2 Cu2 S8'
+_cell_volume   256.38379318
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.76410100  0.49999600  0.49998500  1
+  Zr  Zr1  1  0.48371900  0.99999500  0.49999300  1
+  Cr  Cr2  1  0.24908600  0.50004300  0.49998700  1
+  Cr  Cr3  1  0.99962800  0.99997700  0.50003200  1
+  Cu  Cu4  1  0.00551400  0.00001500  0.99999600  1
+  Cu  Cu5  1  0.49588200  0.00000700  0.99997500  1
+  S  S6  1  0.01592100  0.31227600  0.26457700  1
+  S  S7  1  0.49168700  0.33286400  0.25256600  1
+  S  S8  1  0.23515100  0.81358900  0.25456500  1
+  S  S9  1  0.75830600  0.83390300  0.24636500  1
+  S  S10  1  0.23514800  0.18641200  0.74543300  1
+  S  S11  1  0.75828300  0.16609100  0.75363700  1
+  S  S12  1  0.49167900  0.66713800  0.74742900  1
+  S  S13  1  0.01589600  0.68769300  0.73546000  1

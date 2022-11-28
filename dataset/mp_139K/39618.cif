@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Mn3(CuBi)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.52677864
+_cell_length_b   8.52677864
+_cell_length_c   8.52677864
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3(CuBi)4
+_chemical_formula_sum   'Mn6 Cu8 Bi8'
+_cell_volume   438.36913495
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.50000000  0.00000000  1
+  Mn  Mn1  1  0.00000000  0.00000000  0.50000000  1
+  Mn  Mn2  1  0.50000000  0.00000000  0.50000000  1
+  Mn  Mn3  1  0.00000000  0.50000000  0.50000000  1
+  Mn  Mn4  1  0.50000000  0.00000000  0.00000000  1
+  Mn  Mn5  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu6  1  0.89005400  0.89005400  0.89005400  1
+  Cu  Cu7  1  0.67016300  0.10994600  0.10994600  1
+  Cu  Cu8  1  0.10994600  0.10994600  0.10994600  1
+  Cu  Cu9  1  0.32983700  0.89005400  0.89005400  1
+  Cu  Cu10  1  0.89005400  0.32983700  0.89005400  1
+  Cu  Cu11  1  0.89005400  0.89005400  0.32983700  1
+  Cu  Cu12  1  0.10994600  0.67016300  0.10994600  1
+  Cu  Cu13  1  0.10994600  0.10994600  0.67016300  1
+  Bi  Bi14  1  0.71518200  0.28481800  0.71518200  1
+  Bi  Bi15  1  0.28481800  0.28481800  0.71518200  1
+  Bi  Bi16  1  0.71518200  0.71518200  0.28481800  1
+  Bi  Bi17  1  0.71518200  0.28481800  0.28481800  1
+  Bi  Bi18  1  0.28481800  0.71518200  0.71518200  1
+  Bi  Bi19  1  0.28481800  0.71518200  0.28481800  1
+  Bi  Bi20  1  0.75000000  0.75000000  0.75000000  1
+  Bi  Bi21  1  0.25000000  0.25000000  0.25000000  1

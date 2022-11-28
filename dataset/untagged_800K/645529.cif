@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KCoN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.47997900
+_cell_length_b   6.30456900
+_cell_length_c   10.29145700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCoN
+_chemical_formula_sum   'K4 Co4 N4'
+_cell_volume   225.79217612
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25000000  0.07755700  0.66448700  1
+  K  K1  1  0.25000000  0.42244300  0.16448700  1
+  K  K2  1  0.75000000  0.92244300  0.33551300  1
+  K  K3  1  0.75000000  0.57755700  0.83551300  1
+  Co  Co4  1  0.25000000  0.60036200  0.54351200  1
+  Co  Co5  1  0.25000000  0.89963800  0.04351200  1
+  Co  Co6  1  0.75000000  0.39963800  0.45648800  1
+  Co  Co7  1  0.75000000  0.10036200  0.95648800  1
+  N  N8  1  0.25000000  0.15255700  0.93582900  1
+  N  N9  1  0.25000000  0.34744300  0.43582900  1
+  N  N10  1  0.75000000  0.84744300  0.06417100  1
+  N  N11  1  0.75000000  0.65255700  0.56417100  1

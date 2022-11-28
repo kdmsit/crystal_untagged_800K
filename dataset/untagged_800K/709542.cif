@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NaMg6W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23648430
+_cell_length_b   6.23648430
+_cell_length_c   5.04157200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.59126195
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMg6W
+_chemical_formula_sum   'Na1 Mg6 W1'
+_cell_volume   170.51018000
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.83325000  0.16675000  0.00000000  1
+  Mg  Mg1  1  0.82150300  0.63693800  0.00000000  1
+  Mg  Mg2  1  0.36306200  0.17849700  0.00000000  1
+  Mg  Mg3  1  0.33332100  0.66667900  0.00000000  1
+  Mg  Mg4  1  0.66573800  0.83299600  0.50000000  1
+  Mg  Mg5  1  0.16700400  0.33426200  0.50000000  1
+  Mg  Mg6  1  0.16325500  0.83674500  0.50000000  1
+  W  W7  1  0.65286700  0.34713300  0.50000000  1

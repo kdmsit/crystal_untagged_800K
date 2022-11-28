@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li4P2Sr
+_chemical_formula_sum              "Li4 P2 Sr1"
+_cell_length_a       4.25021
+_cell_length_b       4.25021
+_cell_length_c       8.14254
+_cell_angle_alpha    74.8713
+_cell_angle_beta     105.129
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.42900  0.57100  0.28800  1.0000
+  Li  Li2       1.0  0.13800  0.86200  0.41300  1.0000
+  Li  Li3       1.0  0.86200  0.13800  0.58700  1.0000
+  Li  Li4       1.0  0.57100  0.42900  0.71200  1.0000
+  P   P1        1.0  0.75400  0.24600  0.26100  1.0000
+  P   P2        1.0  0.24600  0.75400  0.73900  1.0000
+  Sr  Sr1       1.0  0.00000  0.00000  0.00000  1.0000

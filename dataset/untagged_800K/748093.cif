@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Bi4Te3N2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.00096611
+_cell_length_b   4.12076696
+_cell_length_c   9.71054446
+_cell_angle_alpha   89.99999534
+_cell_angle_beta   58.01444364
+_cell_angle_gamma   75.07722334
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi4Te3N2
+_chemical_formula_sum   'Bi4 Te3 N2'
+_cell_volume   258.73368162
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.27378500  0.86310700  0.57457500  1
+  Bi  Bi1  1  0.72621500  0.13689300  0.42542500  1
+  Bi  Bi2  1  0.62920000  0.68539900  0.12966100  1
+  Bi  Bi3  1  0.37080000  0.31460100  0.87033900  1
+  Te  Te4  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te5  1  0.72504500  0.63747700  0.72045100  1
+  Te  Te6  1  0.27495500  0.36252300  0.27954900  1
+  N  N7  1  0.61334000  0.69333000  0.37024900  1
+  N  N8  1  0.38666000  0.30667000  0.62975100  1

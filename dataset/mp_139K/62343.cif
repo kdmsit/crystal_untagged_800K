@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Nb2Zn2CuO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.12561926
+_cell_length_b   10.12561926
+_cell_length_c   5.23151407
+_cell_angle_alpha   88.20539130
+_cell_angle_beta   88.20539130
+_cell_angle_gamma   34.60492204
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb2Zn2CuO8
+_chemical_formula_sum   'Nb4 Zn4 Cu2 O16'
+_cell_volume   304.45264485
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.04882400  0.72196900  0.73231400  1
+  Nb  Nb1  1  0.27803100  0.95117600  0.76768600  1
+  Nb  Nb2  1  0.95117600  0.27803100  0.26768600  1
+  Nb  Nb3  1  0.72196900  0.04882400  0.23231400  1
+  Zn  Zn4  1  0.87531900  0.56642500  0.75551000  1
+  Zn  Zn5  1  0.43357500  0.12468100  0.74449000  1
+  Zn  Zn6  1  0.12468100  0.43357500  0.24449000  1
+  Zn  Zn7  1  0.56642500  0.87531900  0.25551000  1
+  Cu  Cu8  1  0.64957200  0.35042800  0.75000000  1
+  Cu  Cu9  1  0.35042800  0.64957200  0.25000000  1
+  O  O10  1  0.04777300  0.80912400  0.06554100  1
+  O  O11  1  0.19087600  0.95222700  0.43445900  1
+  O  O12  1  0.95222700  0.19087600  0.93445900  1
+  O  O13  1  0.80912400  0.04777300  0.56554100  1
+  O  O14  1  0.31360000  0.57544200  0.56493800  1
+  O  O15  1  0.42455800  0.68640000  0.93506200  1
+  O  O16  1  0.68640000  0.42455800  0.43506200  1
+  O  O17  1  0.57544200  0.31360000  0.06493800  1
+  O  O18  1  0.92194600  0.71548500  0.43997000  1
+  O  O19  1  0.28451500  0.07805400  0.06003000  1
+  O  O20  1  0.44989300  0.16352900  0.36419300  1
+  O  O21  1  0.83647100  0.55010700  0.13580700  1
+  O  O22  1  0.55010700  0.83647100  0.63580700  1
+  O  O23  1  0.16352900  0.44989300  0.86419300  1
+  O  O24  1  0.71548500  0.92194600  0.93997000  1
+  O  O25  1  0.07805400  0.28451500  0.56003000  1

@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_HoAlCu
+_symmetry_space_group_name_H-M  'P-62m'
+_cell_length_a       3.99556
+_cell_length_b       7.0065
+_cell_length_c       7.0065
+_cell_angle_alpha    120
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  189
+_chemical_formula_structural  HoAlCu
+_chemical_formula_sum  Ho3Al3Cu3
+_cell_volume  169.86768556233852
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.00000  0.23693  0.00000  1
+ Al  Al2  1  0.00000  0.76305  0.76306  1
+ Al  Al3  1  0.00000  -0.00001  0.23694  1
+ Cu  Cu1  1  0.50000  0.99999  0.00000  1
+ Cu  Cu2  1  0.00000  0.33332  0.66667  1
+ Cu  Cu3  1  0.00000  0.66665  0.33333  1
+ Ho  Ho1  1  0.50000  0.58511  -0.00000  1
+ Ho  Ho2  1  0.50000  0.41487  0.41488  1
+ Ho  Ho3  1  0.50000  -0.00001  0.58512  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_YFe11MoN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.78380200
+_cell_length_b   6.51599255
+_cell_length_c   6.51599255
+_cell_angle_alpha   97.53944085
+_cell_angle_beta   111.53574448
+_cell_angle_gamma   68.46425552
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YFe11MoN
+_chemical_formula_sum   'Y1 Fe11 Mo1 N1'
+_cell_volume   175.74091222
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.00527800  0.99472200  0.00527800  1
+  Fe  Fe1  1  0.72525100  0.77474900  0.22525100  1
+  Fe  Fe2  1  0.27716400  0.22283600  0.77716400  1
+  Fe  Fe3  1  0.49625100  0.78098700  0.77349000  1
+  Fe  Fe4  1  0.49625100  0.22651000  0.21901300  1
+  Fe  Fe5  1  0.50006800  0.99708800  0.49837900  1
+  Fe  Fe6  1  0.00122300  0.99708800  0.49837900  1
+  Fe  Fe7  1  0.50006800  0.50162100  0.00291200  1
+  Fe  Fe8  1  0.00122300  0.50162100  0.00291200  1
+  Fe  Fe9  1  0.35976500  0.64023500  0.35976500  1
+  Fe  Fe10  1  0.99947400  0.36061400  0.35956200  1
+  Fe  Fe11  1  0.99947400  0.64043800  0.63938600  1
+  Mo  Mo12  1  0.63765000  0.36235000  0.63765000  1
+  N  N13  1  0.50085900  0.99914100  0.00085900  1

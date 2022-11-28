@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_MgVO3
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       5.34294
+_cell_length_b       5.20486
+_cell_length_c       5.71884
+_cell_angle_alpha    90
+_cell_angle_beta     117.849
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  MgVO3
+_chemical_formula_sum  Mg2V2O6
+_cell_volume  140.61799749896267
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.57596  0.01278  0.15192  1
+ Mg  Mg2  1  0.42404  0.51278  0.84808  1
+ O  O1  1  0.24099  0.26279  0.00002  1
+ O  O2  1  0.75901  0.76279  0.99998  1
+ O  O3  1  0.75903  0.26279  0.00002  1
+ O  O4  1  0.24097  0.76279  0.99998  1
+ O  O5  1  0.76837  0.01283  0.53675  1
+ O  O6  1  0.23163  0.51283  0.46325  1
+ V  V1  1  0.93374  0.01280  0.86748  1
+ V  V2  1  0.06626  0.51280  0.13252  1

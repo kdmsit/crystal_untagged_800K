@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AlGa2Bi(BO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04214397
+_cell_length_b   6.04214397
+_cell_length_c   6.06103193
+_cell_angle_alpha   76.06324192
+_cell_angle_beta   76.06324192
+_cell_angle_gamma   103.95345280
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlGa2Bi(BO3)4
+_chemical_formula_sum   'Al1 Ga2 Bi1 B4 O12'
+_cell_volume   197.64790336
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.55502200  0.44497800  0.50000000  1
+  Ga  Ga1  1  0.44702400  0.00228700  0.94428500  1
+  Ga  Ga2  1  0.99771300  0.55297600  0.05571500  1
+  Bi  Bi3  1  0.00056900  0.99943100  0.50000000  1
+  B  B4  1  0.05702800  0.49951300  0.55571300  1
+  B  B5  1  0.50048700  0.94297200  0.44428700  1
+  B  B6  1  0.94401400  0.05598600  0.00000000  1
+  B  B7  1  0.50040900  0.49959100  0.00000000  1
+  O  O8  1  0.90321700  0.49502000  0.41712900  1
+  O  O9  1  0.50498000  0.09678300  0.58287100  1
+  O  O10  1  0.08957800  0.91042200  0.00000000  1
+  O  O11  1  0.63861600  0.49474000  0.15442700  1
+  O  O12  1  0.50526000  0.36138400  0.84557300  1
+  O  O13  1  0.35433700  0.64566300  0.00000000  1
+  O  O14  1  0.62000700  0.77569500  0.47086100  1
+  O  O15  1  0.78571500  0.03246500  0.87193900  1
+  O  O16  1  0.03174800  0.62752800  0.71543700  1
+  O  O17  1  0.22430500  0.37999300  0.52913900  1
+  O  O18  1  0.96753500  0.21428500  0.12806100  1
+  O  O19  1  0.37247200  0.96825200  0.28456300  1

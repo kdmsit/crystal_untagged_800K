@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Zn3RhF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24081203
+_cell_length_b   6.81452427
+_cell_length_c   10.66624725
+_cell_angle_alpha   83.93657347
+_cell_angle_beta   96.78293160
+_cell_angle_gamma   105.20181995
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn3RhF6
+_chemical_formula_sum   'Zn3 Rh1 F6'
+_cell_volume   363.91854383
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000000  0.00000000  0.50000000  1
+  Zn  Zn1  1  0.50000000  0.50000000  0.00000000  1
+  Zn  Zn2  1  0.00000000  0.50000000  0.00000000  1
+  Rh  Rh3  1  0.00000000  0.00000000  0.00000000  1
+  F  F4  1  0.90934100  0.25014800  0.90229800  1
+  F  F5  1  0.09065900  0.74985200  0.09770200  1
+  F  F6  1  0.92796800  0.95989900  0.65785100  1
+  F  F7  1  0.07203200  0.04010100  0.34214900  1
+  F  F8  1  0.67255600  0.81301800  0.93026100  1
+  F  F9  1  0.32744400  0.18698200  0.06973900  1

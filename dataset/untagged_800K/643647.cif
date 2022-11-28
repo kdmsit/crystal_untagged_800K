@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Mg2NiN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54024062
+_cell_length_b   5.54024062
+_cell_length_c   6.47145333
+_cell_angle_alpha   62.12014885
+_cell_angle_beta   62.12014885
+_cell_angle_gamma   44.74990179
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2NiN2
+_chemical_formula_sum   'Mg4 Ni2 N4'
+_cell_volume   120.64440761
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.32322100  0.32322100  0.57706200  1
+  Mg  Mg1  1  0.67677900  0.67677900  0.42293800  1
+  Mg  Mg2  1  0.96364400  0.96364400  0.74644400  1
+  Mg  Mg3  1  0.03635600  0.03635600  0.25355600  1
+  Ni  Ni4  1  0.62700400  0.62700400  0.87734900  1
+  Ni  Ni5  1  0.37299600  0.37299600  0.12265100  1
+  N  N6  1  0.82009000  0.82009000  0.60096600  1
+  N  N7  1  0.17991000  0.17991000  0.39903400  1
+  N  N8  1  0.52927900  0.52927900  0.20334400  1
+  N  N9  1  0.47072100  0.47072100  0.79665600  1

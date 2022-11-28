@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_DyMgS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.91811103
+_cell_length_b   6.91811103
+_cell_length_c   6.76534598
+_cell_angle_alpha   73.49576855
+_cell_angle_beta   73.49576855
+_cell_angle_gamma   111.53975216
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyMgS3
+_chemical_formula_sum   'Dy2 Mg2 S6'
+_cell_volume   259.94856338
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.78087600  0.78087600  0.24879100  1
+  Dy  Dy1  1  0.21912400  0.21912400  0.75120900  1
+  Mg  Mg2  1  0.33872900  0.66127100  0.00000000  1
+  Mg  Mg3  1  0.66127100  0.33872900  0.00000000  1
+  S  S4  1  0.22484600  0.92169700  0.15286100  1
+  S  S5  1  0.77515400  0.07830300  0.84713900  1
+  S  S6  1  0.07830300  0.77515400  0.84713900  1
+  S  S7  1  0.92169700  0.22484600  0.15286100  1
+  S  S8  1  0.58267400  0.58267400  0.70929900  1
+  S  S9  1  0.41732600  0.41732600  0.29070100  1

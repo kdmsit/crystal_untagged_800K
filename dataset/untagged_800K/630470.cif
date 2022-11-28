@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CoC(N3Cl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19415142
+_cell_length_b   6.19415142
+_cell_length_c   11.12616400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   81.99992725
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoC(N3Cl)2
+_chemical_formula_sum   'Co2 C2 N12 Cl4'
+_cell_volume   422.72875542
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.09461000  0.09461000  0.25000000  1
+  Co  Co1  1  0.90539000  0.90539000  0.75000000  1
+  C  C2  1  0.85330900  0.85330900  0.25000000  1
+  C  C3  1  0.14669100  0.14669100  0.75000000  1
+  N  N4  1  0.26451000  0.26451000  0.25000000  1
+  N  N5  1  0.73549000  0.73549000  0.75000000  1
+  N  N6  1  0.71196300  0.71196300  0.25000000  1
+  N  N7  1  0.28803700  0.28803700  0.75000000  1
+  N  N8  1  0.79069300  0.07695900  0.25000000  1
+  N  N9  1  0.92304100  0.20930700  0.75000000  1
+  N  N10  1  0.20930700  0.92304100  0.75000000  1
+  N  N11  1  0.07695900  0.79069300  0.25000000  1
+  N  N12  1  0.10126200  0.10126200  0.42692800  1
+  N  N13  1  0.89873800  0.89873800  0.57307200  1
+  N  N14  1  0.10126200  0.10126200  0.07307200  1
+  N  N15  1  0.89873800  0.89873800  0.92692800  1
+  Cl  Cl16  1  0.82410800  0.17589200  0.50000000  1
+  Cl  Cl17  1  0.82410800  0.17589200  0.00000000  1
+  Cl  Cl18  1  0.17589200  0.82410800  0.50000000  1
+  Cl  Cl19  1  0.17589200  0.82410800  0.00000000  1

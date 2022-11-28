@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Bi2Br2Mn2S4
+_chemical_formula_sum              "Bi2 Br2 Mn2 S4"
+_cell_length_a       3.94201
+_cell_length_b       6.67063
+_cell_length_c       9.49051
+_cell_angle_alpha    91.5532
+_cell_angle_beta     90
+_cell_angle_gamma    107.186
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.78500  0.57100  0.19800  1.0000
+  Bi  Bi2       1.0  0.21500  0.42900  0.80200  1.0000
+  Br  Br1       1.0  0.13400  0.26800  0.43500  1.0000
+  Br  Br2       1.0  0.86600  0.73200  0.56500  1.0000
+  Mn  Mn1       1.0  0.50000  0.00000  0.00000  1.0000
+  Mn  Mn2       1.0  0.50000  0.00000  0.50000  1.0000
+  S   S1        1.0  0.13500  0.27100  0.05410  1.0000
+  S   S2        1.0  0.42900  0.85800  0.24500  1.0000
+  S   S3        1.0  0.57100  0.14200  0.75500  1.0000
+  S   S4        1.0  0.86500  0.72900  0.94600  1.0000

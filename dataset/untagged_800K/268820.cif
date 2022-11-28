@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       Al2Be2La6S14
+_chemical_formula_sum              "Al2 Be2 La6 S14"
+_cell_length_a       10.1918
+_cell_length_b       10.1919
+_cell_length_c       5.94771
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.00000  0.00000  0.02520  1.0000
+  Al  Al2       1.0  0.00000  0.00000  0.52500  1.0000
+  Be  Be1       1.0  0.66700  0.33300  0.15400  1.0000
+  Be  Be2       1.0  0.33300  0.66700  0.65400  1.0000
+  La  La1       1.0  0.60900  0.74800  0.24400  1.0000
+  La  La2       1.0  0.13900  0.39100  0.24400  1.0000
+  La  La3       1.0  0.25200  0.86100  0.24400  1.0000
+  La  La4       1.0  0.39100  0.25200  0.74400  1.0000
+  La  La5       1.0  0.74800  0.13900  0.74400  1.0000
+  La  La6       1.0  0.86100  0.60900  0.74400  1.0000
+  S   S1        1.0  0.33300  0.66700  0.00821  1.0000
+  S   S2        1.0  0.88700  0.40600  0.02640  1.0000
+  S   S3        1.0  0.51900  0.11300  0.02640  1.0000
+  S   S4        1.0  0.59400  0.48100  0.02640  1.0000
+  S   S5        1.0  0.86000  0.07690  0.28000  1.0000
+  S   S6        1.0  0.21700  0.14000  0.28000  1.0000
+  S   S7        1.0  0.92300  0.78300  0.28000  1.0000
+  S   S8        1.0  0.66700  0.33300  0.50800  1.0000
+  S   S9        1.0  0.11300  0.59400  0.52600  1.0000
+  S   S10       1.0  0.40600  0.51900  0.52600  1.0000
+  S   S11       1.0  0.48100  0.88700  0.52600  1.0000
+  S   S12       1.0  0.07690  0.21700  0.78000  1.0000
+  S   S13       1.0  0.78300  0.86000  0.78000  1.0000
+  S   S14       1.0  0.14000  0.92300  0.78000  1.0000

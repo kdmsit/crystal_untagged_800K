@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_MnCu(SeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30763553
+_cell_length_b   6.15433900
+_cell_length_c   7.66661400
+_cell_angle_alpha   89.99717523
+_cell_angle_beta   92.67859186
+_cell_angle_gamma   89.99984420
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCu(SeO3)2
+_chemical_formula_sum   'Mn2 Cu2 Se4 O12'
+_cell_volume   250.15623867
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00010600  0.49992600  0.49978100  1
+  Mn  Mn1  1  0.49946900  0.99990800  0.00005600  1
+  Cu  Cu2  1  0.99991900  0.49986500  0.99997400  1
+  Cu  Cu3  1  0.50006800  0.00014200  0.50009100  1
+  Se  Se4  1  0.50400400  0.53570500  0.24646900  1
+  Se  Se5  1  0.99606300  0.03570700  0.25349400  1
+  Se  Se6  1  0.49609100  0.46430500  0.75357000  1
+  Se  Se7  1  0.00392000  0.96432300  0.74645000  1
+  O  O8  1  0.61215600  0.69332900  0.07892700  1
+  O  O9  1  0.88788100  0.19331900  0.42108900  1
+  O  O10  1  0.38792900  0.30665300  0.92110100  1
+  O  O11  1  0.11211500  0.80661200  0.57892600  1
+  O  O12  1  0.38949600  0.30528900  0.57438300  1
+  O  O13  1  0.11060000  0.80534300  0.92563700  1
+  O  O14  1  0.61058600  0.69472300  0.42562100  1
+  O  O15  1  0.88951200  0.19476500  0.07439800  1
+  O  O16  1  0.17238700  0.57306000  0.23809400  1
+  O  O17  1  0.32769300  0.07302800  0.26195000  1
+  O  O18  1  0.82767200  0.42700400  0.76189900  1
+  O  O19  1  0.67233300  0.92699600  0.73809300  1

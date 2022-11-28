@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ba2Mn2ClF7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00767000
+_cell_length_b   7.99298300
+_cell_length_c   9.19842344
+_cell_angle_alpha   73.13557303
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Mn2ClF7
+_chemical_formula_sum   'Ba4 Mn4 Cl2 F14'
+_cell_volume   422.70513122
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25000000  0.34063400  0.91051700  1
+  Ba  Ba1  1  0.75000000  0.65936600  0.08948300  1
+  Ba  Ba2  1  0.25000000  0.30997400  0.42467000  1
+  Ba  Ba3  1  0.75000000  0.69002600  0.57533000  1
+  Mn  Mn4  1  0.25000000  0.81656600  0.32476700  1
+  Mn  Mn5  1  0.75000000  0.18343400  0.67523300  1
+  Mn  Mn6  1  0.25000000  0.82626700  0.76637300  1
+  Mn  Mn7  1  0.75000000  0.17373300  0.23362700  1
+  Cl  Cl8  1  0.25000000  0.88512800  0.02962100  1
+  Cl  Cl9  1  0.75000000  0.11487200  0.97037900  1
+  F  F10  1  0.99774500  0.99422200  0.33266000  1
+  F  F11  1  0.00225500  0.00577800  0.66734000  1
+  F  F12  1  0.49774500  0.00577800  0.66734000  1
+  F  F13  1  0.50225500  0.99422200  0.33266000  1
+  F  F14  1  0.00357300  0.36704200  0.15217600  1
+  F  F15  1  0.99642700  0.63295800  0.84782400  1
+  F  F16  1  0.50357300  0.63295800  0.84782400  1
+  F  F17  1  0.49642700  0.36704200  0.15217600  1
+  F  F18  1  0.25000000  0.73958100  0.56769000  1
+  F  F19  1  0.75000000  0.26041900  0.43231000  1
+  F  F20  1  0.49969200  0.62462100  0.33938800  1
+  F  F21  1  0.50030800  0.37537900  0.66061200  1
+  F  F22  1  0.99969200  0.37537900  0.66061200  1
+  F  F23  1  0.00030800  0.62462100  0.33938800  1

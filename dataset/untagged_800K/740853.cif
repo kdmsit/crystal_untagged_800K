@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_U2NiGe2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41711000
+_cell_length_b   6.73304100
+_cell_length_c   7.50476600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2NiGe2Pd
+_chemical_formula_sum   'U4 Ni2 Ge4 Pd2'
+_cell_volume   223.19611410
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.50000000  0.50865000  0.04348400  1
+  U  U1  1  0.50000000  0.00865000  0.95651600  1
+  U  U2  1  0.00000000  0.48935500  0.46666100  1
+  U  U3  1  0.00000000  0.98935500  0.53333900  1
+  Ni  Ni4  1  0.50000000  0.31073300  0.67491000  1
+  Ni  Ni5  1  0.50000000  0.81073300  0.32509000  1
+  Ge  Ge6  1  0.50000000  0.70459900  0.64895200  1
+  Ge  Ge7  1  0.50000000  0.20459900  0.35104800  1
+  Ge  Ge8  1  0.00000000  0.28766700  0.82836000  1
+  Ge  Ge9  1  0.00000000  0.78766700  0.17164000  1
+  Pd  Pd10  1  0.00000000  0.69899600  0.83438500  1
+  Pd  Pd11  1  0.00000000  0.19899600  0.16561500  1

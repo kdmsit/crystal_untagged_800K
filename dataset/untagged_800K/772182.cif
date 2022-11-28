@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_AlBMo
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       3.11533
+_cell_length_b       3.23694
+_cell_length_c       7.20409
+_cell_angle_alpha    102.983
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  AlBMo
+_chemical_formula_sum  Al2B2Mo2
+_cell_volume  70.79002296842499
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.75000  0.30158  0.60316  1
+ Al  Al2  1  0.25000  0.69842  0.39684  1
+ B  B1  1  0.25000  0.53298  0.06597  1
+ B  B2  1  0.75000  0.46702  0.93403  1
+ Mo  Mo1  1  0.25000  0.91047  0.82093  1
+ Mo  Mo2  1  0.75000  0.08953  0.17907  1

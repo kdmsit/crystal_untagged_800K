@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MnGaFeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.11801413
+_cell_length_b   6.11801413
+_cell_length_c   6.11801413
+_cell_angle_alpha   120.17443925
+_cell_angle_beta   119.96085134
+_cell_angle_gamma   89.88297452
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnGaFeO4
+_chemical_formula_sum   'Mn2 Ga2 Fe2 O8'
+_cell_volume   161.75930886
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.12435600  0.87435600  0.25000000  1
+  Mn  Mn1  1  0.87564400  0.12564400  0.75000000  1
+  Ga  Ga2  1  0.50000000  0.50000000  0.50000000  1
+  Ga  Ga3  1  0.50000000  0.00000000  0.00000000  1
+  Fe  Fe4  1  0.50000000  0.50000000  0.00000000  1
+  Fe  Fe5  1  0.00000000  0.50000000  0.50000000  1
+  O  O6  1  0.73426000  0.25979600  0.02553700  1
+  O  O7  1  0.73426000  0.70872300  0.47446300  1
+  O  O8  1  0.73255300  0.26249500  0.47005800  1
+  O  O9  1  0.29243700  0.26249500  0.02994200  1
+  O  O10  1  0.26574000  0.74020400  0.97446300  1
+  O  O11  1  0.26574000  0.29127700  0.52553700  1
+  O  O12  1  0.26744700  0.73750500  0.52994200  1
+  O  O13  1  0.70756300  0.73750500  0.97005800  1

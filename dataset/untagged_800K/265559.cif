@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       CuLi4O6Ta
+_chemical_formula_sum              "Cu1 Li4 O6 Ta1"
+_cell_length_a       5.07064
+_cell_length_b       5.07064
+_cell_length_c       5.09692
+_cell_angle_alpha    99.5351
+_cell_angle_beta     99.5351
+_cell_angle_gamma    119.968
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.83300  0.16700  0.00000  1.0000
+  Li  Li1       1.0  0.50100  0.49900  0.00000  1.0000
+  Li  Li2       1.0  0.98400  0.01580  0.50000  1.0000
+  Li  Li3       1.0  0.66600  0.33400  0.50000  1.0000
+  Li  Li4       1.0  0.34700  0.65300  0.50000  1.0000
+  O   O1        1.0  0.57700  0.92600  0.23400  1.0000
+  O   O2        1.0  0.92900  0.57900  0.23500  1.0000
+  O   O3        1.0  0.23100  0.22900  0.23800  1.0000
+  O   O4        1.0  0.77100  0.76900  0.76200  1.0000
+  O   O5        1.0  0.42100  0.07130  0.76500  1.0000
+  O   O6        1.0  0.07400  0.42300  0.76600  1.0000
+  Ta  Ta1       1.0  0.16700  0.83300  0.00000  1.0000

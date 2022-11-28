@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Gd2Mg2O2Te2
+_chemical_formula_sum              "Gd2 Mg2 O2 Te2"
+_cell_length_a       5.07266
+_cell_length_b       5.07266
+_cell_length_c       10.2954
+_cell_angle_alpha    90
+_cell_angle_beta     104.262
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.53300  0.76700  0.30000  1.0000
+  Gd  Gd2       1.0  0.46700  0.23300  0.70000  1.0000
+  Mg  Mg1       1.0  0.73400  0.36700  0.10200  1.0000
+  Mg  Mg2       1.0  0.26600  0.63300  0.89800  1.0000
+  O   O1        1.0  0.39300  0.69700  0.08990  1.0000
+  O   O2        1.0  0.60700  0.30300  0.91000  1.0000
+  Te  Te1       1.0  0.23600  0.11800  0.35400  1.0000
+  Te  Te2       1.0  0.76400  0.88200  0.64600  1.0000

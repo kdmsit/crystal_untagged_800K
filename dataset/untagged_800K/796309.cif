@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_NaCdAs
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.49498
+_cell_length_b       7.57055
+_cell_length_c       8.16421
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  NaCdAs
+_chemical_formula_sum  Na4Cd4As4
+_cell_volume  277.8236449995991
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.25000  0.77584  0.39188  1
+ As  As2  1  0.75000  0.72416  0.89188  1
+ As  As3  1  0.75000  0.22416  0.60812  1
+ As  As4  1  0.25000  0.27584  0.10812  1
+ Cd  Cd1  1  0.75000  0.84889  0.57518  1
+ Cd  Cd2  1  0.75000  0.34889  0.92482  1
+ Cd  Cd3  1  0.25000  0.65111  0.07518  1
+ Cd  Cd4  1  0.25000  0.15111  0.42482  1
+ Na  Na1  1  0.25000  0.51791  0.67514  1
+ Na  Na2  1  0.75000  0.48209  0.32486  1
+ Na  Na3  1  0.25000  0.01791  0.82486  1
+ Na  Na4  1  0.75000  0.98209  0.17514  1

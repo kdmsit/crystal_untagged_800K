@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       O5Os2
+_chemical_formula_sum              "O5 Os2"
+_cell_length_a       4.82981
+_cell_length_b       4.82981
+_cell_length_c       4.82744
+_cell_angle_alpha    102.51
+_cell_angle_beta     102.51
+_cell_angle_gamma    112.852
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.98600  0.58300  0.23100  1.0000
+  O   O2        1.0  0.58300  0.98600  0.23100  1.0000
+  O   O3        1.0  0.75900  0.75900  0.70700  1.0000
+  O   O4        1.0  0.40300  0.06620  0.78000  1.0000
+  O   O5        1.0  0.06620  0.40300  0.78000  1.0000
+  Os  Os1       1.0  0.83100  0.15300  0.98700  1.0000
+  Os  Os2       1.0  0.15300  0.83100  0.98700  1.0000

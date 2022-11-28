@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_NaTi2HO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.05256400
+_cell_length_b   3.70558734
+_cell_length_c   10.21043763
+_cell_angle_alpha   95.58206828
+_cell_angle_beta   93.12780476
+_cell_angle_gamma   90.08773140
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTi2HO5
+_chemical_formula_sum   'Na1 Ti2 H1 O5'
+_cell_volume   114.77415104
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.35863300  0.39115000  0.99150200  1
+  Ti  Ti1  1  0.68232100  0.28559500  0.62124800  1
+  Ti  Ti2  1  0.14928700  0.72603000  0.39915900  1
+  H  H3  1  0.77203900  0.90497800  0.11269500  1
+  O  O4  1  0.20236000  0.31231700  0.72400300  1
+  O  O5  1  0.67285200  0.76885500  0.55900900  1
+  O  O6  1  0.88063500  0.90524600  0.02428100  1
+  O  O7  1  0.62899600  0.69824600  0.29711800  1
+  O  O8  1  0.15787700  0.24258400  0.46098400  1

@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_LiGaS2
+_symmetry_space_group_name_H-M  'Pna2_1'
+_cell_length_a       6.26269
+_cell_length_b       6.55244
+_cell_length_c       7.83413
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  33
+_chemical_formula_structural  LiGaS2
+_chemical_formula_sum  Li4Ga4S8
+_cell_volume  321.48044271806623
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ga  Ga1  1  0.62211  0.57464  0.62586  1
+ Ga  Ga2  1  0.12211  0.42536  0.37414  1
+ Ga  Ga3  1  0.12211  0.92536  0.12586  1
+ Ga  Ga4  1  0.62211  0.07464  0.87414  1
+ Li  Li1  1  0.61913  0.58570  0.12255  1
+ Li  Li2  1  0.11913  0.91430  0.62255  1
+ Li  Li3  1  0.61913  0.08570  0.37745  1
+ Li  Li4  1  0.11913  0.41430  0.87745  1
+ S  S1  1  0.99049  0.06951  0.88084  1
+ S  S2  1  0.99049  0.56951  0.61916  1
+ S  S3  1  0.49049  0.93049  0.11916  1
+ S  S4  1  0.49049  0.43049  0.38084  1
+ S  S5  1  0.50447  0.90781  0.63323  1
+ S  S6  1  0.00447  0.09219  0.36677  1
+ S  S7  1  0.00447  0.59219  0.13323  1
+ S  S8  1  0.50447  0.40781  0.86677  1

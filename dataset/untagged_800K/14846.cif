@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ag5Cl2PS4
+_chemical_formula_sum              "Ag5 Cl2 P1 S4"
+_cell_length_a       6.3086
+_cell_length_b       6.43362
+_cell_length_c       7.45232
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.359
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.32100  0.38200  0.21700  1.0000
+  Ag  Ag2       1.0  0.93900  0.61800  0.21700  1.0000
+  Ag  Ag3       1.0  0.59200  0.00000  0.50000  1.0000
+  Ag  Ag4       1.0  0.32100  0.38200  0.78300  1.0000
+  Ag  Ag5       1.0  0.93900  0.61800  0.78300  1.0000
+  Cl  Cl1       1.0  0.05780  0.34200  0.50000  1.0000
+  Cl  Cl2       1.0  0.71600  0.65800  0.50000  1.0000
+  P   P1        1.0  0.53700  0.00000  0.00000  1.0000
+  S   S1        1.0  0.88500  0.29500  0.00000  1.0000
+  S   S2        1.0  0.59000  0.70500  0.00000  1.0000
+  S   S3        1.0  0.34800  0.00000  0.22900  1.0000
+  S   S4        1.0  0.34800  0.00000  0.77100  1.0000

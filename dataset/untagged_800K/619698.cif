@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       As2Bi2Mg2O2
+_chemical_formula_sum              "As2 Bi2 Mg2 O2"
+_cell_length_a       5.3291
+_cell_length_b       5.3291
+_cell_length_c       6.0227
+_cell_angle_alpha    86.7479
+_cell_angle_beta     86.7479
+_cell_angle_gamma    81.8646
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.76700  0.76700  0.46200  1.0000
+  As  As2       1.0  0.27000  0.27000  0.51400  1.0000
+  Bi  Bi1       1.0  0.76600  0.76600  0.00198  1.0000
+  Bi  Bi2       1.0  0.20400  0.20400  0.97400  1.0000
+  Mg  Mg1       1.0  0.76300  0.25900  0.59700  1.0000
+  Mg  Mg2       1.0  0.25900  0.76300  0.59700  1.0000
+  O   O1        1.0  0.78300  0.18800  0.92700  1.0000
+  O   O2        1.0  0.18800  0.78300  0.92700  1.0000

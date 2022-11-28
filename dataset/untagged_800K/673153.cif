@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Nd2(CuAg)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.48510000
+_cell_length_b   5.26650800
+_cell_length_c   9.38027500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd2(CuAg)5
+_chemical_formula_sum   'Nd2 Cu5 Ag5'
+_cell_volume   221.56974071
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.00000000  0.50000000  0.00000000  1
+  Nd  Nd1  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu2  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu3  1  0.50000000  0.74764100  0.25854200  1
+  Cu  Cu4  1  0.50000000  0.25235900  0.74145800  1
+  Cu  Cu5  1  0.50000000  0.25235900  0.25854200  1
+  Cu  Cu6  1  0.50000000  0.74764100  0.74145800  1
+  Ag  Ag7  1  0.00000000  0.50000000  0.33380000  1
+  Ag  Ag8  1  0.00000000  0.00000000  0.82160000  1
+  Ag  Ag9  1  0.00000000  0.00000000  0.17840000  1
+  Ag  Ag10  1  0.00000000  0.50000000  0.66620000  1
+  Ag  Ag11  1  0.50000000  0.00000000  0.00000000  1

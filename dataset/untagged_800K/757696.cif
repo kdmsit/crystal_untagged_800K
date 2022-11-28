@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_InMoS2
+_symmetry_space_group_name_H-M  'P6_3/mmc'
+_cell_length_a       3.21219
+_cell_length_b       3.21219
+_cell_length_c       18.3642
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.002
+
+_symmetry_Int_Tables_number  194
+_chemical_formula_structural  InMoS2
+_chemical_formula_sum  In2Mo2S4
+_cell_volume  164.09539179586662
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ In  In1  1  0.00000  0.00000  0.50000  1
+ In  In2  1  0.00000  0.00000  0.00000  1
+ Mo  Mo1  1  0.00002  -0.00002  0.75000  1
+ Mo  Mo2  1  -0.00002  0.00002  0.25000  1
+ S  S1  1  0.66669  0.33331  0.66417  1
+ S  S2  1  0.33331  0.66669  0.33583  1
+ S  S3  1  0.33331  0.66669  0.16417  1
+ S  S4  1  0.66669  0.33331  0.83583  1

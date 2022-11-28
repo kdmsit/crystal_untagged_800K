@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_DyMg2Cr3S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42859964
+_cell_length_b   7.42925466
+_cell_length_c   7.42975364
+_cell_angle_alpha   59.46394959
+_cell_angle_beta   59.46151521
+_cell_angle_gamma   59.46029266
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyMg2Cr3S8
+_chemical_formula_sum   'Dy1 Mg2 Cr3 S8'
+_cell_volume   286.39336270
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.50001500  0.50004000  0.49996100  1
+  Mg  Mg1  1  0.87549500  0.87547900  0.87545200  1
+  Mg  Mg2  1  0.12450100  0.12453000  0.12447800  1
+  Cr  Cr3  1  0.50004100  0.49993800  0.00002100  1
+  Cr  Cr4  1  0.00000800  0.50001900  0.50002800  1
+  Cr  Cr5  1  0.49996100  0.99998800  0.50001900  1
+  S  S6  1  0.73621000  0.73626100  0.73628600  1
+  S  S7  1  0.24483400  0.24486900  0.72032800  1
+  S  S8  1  0.24486500  0.72033000  0.24482900  1
+  S  S9  1  0.72035700  0.24482600  0.24483300  1
+  S  S10  1  0.75519300  0.27965100  0.75515500  1
+  S  S11  1  0.27963500  0.75514100  0.75521000  1
+  S  S12  1  0.26367700  0.26374500  0.26376400  1
+  S  S13  1  0.75521100  0.75517900  0.27963700  1

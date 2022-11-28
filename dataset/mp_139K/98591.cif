@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BaEr2NiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78097470
+_cell_length_b   5.76704066
+_cell_length_c   6.63639117
+_cell_angle_alpha   115.75356673
+_cell_angle_beta   106.55087625
+_cell_angle_gamma   90.00000474
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaEr2NiO5
+_chemical_formula_sum   'Ba1 Er2 Ni1 O5'
+_cell_volume   123.64253883
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000100  0.50000100  0.00000000  1
+  Er  Er1  1  0.29661800  0.79661800  0.59323600  1
+  Er  Er2  1  0.70338200  0.20338300  0.40676500  1
+  Ni  Ni3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.50000000  0.00000000  0.99999900  1
+  O  O5  1  0.15100100  0.91148200  0.30200400  1
+  O  O6  1  0.84899800  0.08851800  0.69799600  1
+  O  O7  1  0.84899700  0.60947800  0.69799500  1
+  O  O8  1  0.15100200  0.39052100  0.30200500  1

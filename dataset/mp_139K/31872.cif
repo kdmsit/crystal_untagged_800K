@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_AlCr2O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50038637
+_cell_length_b   5.27764187
+_cell_length_c   6.33702903
+_cell_angle_alpha   111.38902706
+_cell_angle_beta   112.65183141
+_cell_angle_gamma   97.76948814
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCr2O4
+_chemical_formula_sum   'Al2 Cr4 O8'
+_cell_volume   149.72172446
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.92993200  0.18115200  0.86206300  1
+  Al  Al1  1  0.07006800  0.81884800  0.13793700  1
+  Cr  Cr2  1  0.50000000  0.00000000  0.00000000  1
+  Cr  Cr3  1  0.50000000  0.50000000  0.00000000  1
+  Cr  Cr4  1  0.00000000  0.50000000  0.50000000  1
+  Cr  Cr5  1  0.50000000  0.50000000  0.50000000  1
+  O  O6  1  0.74489600  0.47587300  0.83460100  1
+  O  O7  1  0.08640900  0.86127100  0.83093600  1
+  O  O8  1  0.25510400  0.52412700  0.16539900  1
+  O  O9  1  0.91359100  0.13872900  0.16906400  1
+  O  O10  1  0.43297200  0.09313100  0.29842000  1
+  O  O11  1  0.87099200  0.70059100  0.29881200  1
+  O  O12  1  0.12900800  0.29940900  0.70118800  1
+  O  O13  1  0.56702800  0.90686900  0.70158000  1

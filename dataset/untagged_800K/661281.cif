@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Cs2FeH2Cl5O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55844500
+_cell_length_b   8.32133000
+_cell_length_c   9.72633600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   112.86465239
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2FeH2Cl5O
+_chemical_formula_sum   'Cs4 Fe2 H4 Cl10 O2'
+_cell_volume   563.68256267
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.52911000  0.75000000  0.05822000  1
+  Cs  Cs1  1  0.47089000  0.25000000  0.94178000  1
+  Cs  Cs2  1  0.24718500  0.75000000  0.49436900  1
+  Cs  Cs3  1  0.75281500  0.25000000  0.50563100  1
+  Fe  Fe4  1  0.87994200  0.75000000  0.75988400  1
+  Fe  Fe5  1  0.12005800  0.25000000  0.24011600  1
+  H  H6  1  0.03347200  0.65410000  0.06694400  1
+  H  H7  1  0.96652800  0.34590000  0.93305600  1
+  H  H8  1  0.03347200  0.84590000  0.06694400  1
+  H  H9  1  0.96652800  0.15410000  0.93305600  1
+  Cl  Cl10  1  0.75012900  0.75000000  0.50025700  1
+  Cl  Cl11  1  0.24987100  0.25000000  0.49974300  1
+  Cl  Cl12  1  0.11177700  0.95632900  0.77885800  1
+  Cl  Cl13  1  0.33291900  0.04367100  0.22114200  1
+  Cl  Cl14  1  0.11177700  0.54367100  0.77885800  1
+  Cl  Cl15  1  0.33291900  0.45632900  0.22114200  1
+  Cl  Cl16  1  0.88822300  0.04367100  0.22114200  1
+  Cl  Cl17  1  0.66708100  0.95632900  0.77885800  1
+  Cl  Cl18  1  0.88822300  0.45632900  0.22114200  1
+  Cl  Cl19  1  0.66708100  0.54367100  0.77885800  1
+  O  O20  1  0.00209900  0.75000000  0.00419900  1
+  O  O21  1  0.99790100  0.25000000  0.99580100  1

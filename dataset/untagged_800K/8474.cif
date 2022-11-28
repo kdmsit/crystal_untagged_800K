@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       Cu2Fe2O12Pb4Sr4
+_chemical_formula_sum              "Cu2 Fe2 O12 Pb4 Sr4"
+_cell_length_a       5.39643
+_cell_length_b       5.46348
+_cell_length_c       12.2826
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.23400  0.22300  0.00000  1.0000
+  Cu  Cu2       1.0  0.73400  0.77700  0.00000  1.0000
+  Fe  Fe1       1.0  0.23600  0.74900  0.50000  1.0000
+  Fe  Fe2       1.0  0.73600  0.25100  0.50000  1.0000
+  O   O1        1.0  0.48700  0.50000  0.50000  1.0000
+  O   O2        1.0  0.98700  0.50000  0.50000  1.0000
+  O   O3        1.0  0.98700  0.00038  0.50000  1.0000
+  O   O4        1.0  0.48700  0.00000  0.50000  1.0000
+  O   O5        1.0  0.23700  0.74500  0.32200  1.0000
+  O   O6        1.0  0.73700  0.25500  0.67800  1.0000
+  O   O7        1.0  0.73700  0.25500  0.32200  1.0000
+  O   O8        1.0  0.23700  0.74500  0.67800  1.0000
+  O   O9        1.0  0.23500  0.20300  0.14900  1.0000
+  O   O10       1.0  0.73500  0.79700  0.85100  1.0000
+  O   O11       1.0  0.73500  0.79700  0.14900  1.0000
+  O   O12       1.0  0.23500  0.20300  0.85100  1.0000
+  Pb  Pb1       1.0  0.23300  0.75400  0.14400  1.0000
+  Pb  Pb2       1.0  0.73300  0.24600  0.85600  1.0000
+  Pb  Pb3       1.0  0.73300  0.24600  0.14400  1.0000
+  Pb  Pb4       1.0  0.23300  0.75400  0.85600  1.0000
+  Sr  Sr1       1.0  0.23700  0.25000  0.35600  1.0000
+  Sr  Sr2       1.0  0.73700  0.75000  0.64500  1.0000
+  Sr  Sr3       1.0  0.73700  0.75000  0.35600  1.0000
+  Sr  Sr4       1.0  0.23700  0.25000  0.64500  1.0000

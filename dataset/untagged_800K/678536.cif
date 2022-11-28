@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Mn2FeN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.02231216
+_cell_length_b   3.03019265
+_cell_length_c   5.92732662
+_cell_angle_alpha   90.00000156
+_cell_angle_beta   90.12327328
+_cell_angle_gamma   120.08628790
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2FeN2
+_chemical_formula_sum   'Mn2 Fe1 N2'
+_cell_volume   46.96987822
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.66675100  0.33337500  0.16692900  1
+  Mn  Mn1  1  0.33324900  0.66662500  0.83307100  1
+  Fe  Fe2  1  0.00000000  0.00000000  0.50000000  1
+  N  N3  1  0.66495200  0.33247500  0.73755500  1
+  N  N4  1  0.33504800  0.66752500  0.26244500  1

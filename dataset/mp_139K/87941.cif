@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_SmTiCo11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.68032600
+_cell_length_b   6.35838432
+_cell_length_c   6.35838432
+_cell_angle_alpha   97.44447430
+_cell_angle_beta   111.59501486
+_cell_angle_gamma   68.40498514
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmTiCo11
+_chemical_formula_sum   'Sm1 Ti1 Co11'
+_cell_volume   163.58617822
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.00701200  0.99298800  0.00701200  1
+  Ti  Ti1  1  0.63064100  0.36935900  0.63064100  1
+  Co  Co2  1  0.72996300  0.77003700  0.22996300  1
+  Co  Co3  1  0.27694600  0.22305400  0.77694600  1
+  Co  Co4  1  0.49851500  0.77855600  0.77558500  1
+  Co  Co5  1  0.49851500  0.22441500  0.22144400  1
+  Co  Co6  1  0.49963300  0.99465700  0.49837600  1
+  Co  Co7  1  0.00408600  0.99465700  0.49837600  1
+  Co  Co8  1  0.49963300  0.50162400  0.00534300  1
+  Co  Co9  1  0.00408600  0.50162400  0.00534300  1
+  Co  Co10  1  0.35437800  0.64562200  0.35437800  1
+  Co  Co11  1  0.99829700  0.36146100  0.35805400  1
+  Co  Co12  1  0.99829700  0.64194600  0.63853900  1

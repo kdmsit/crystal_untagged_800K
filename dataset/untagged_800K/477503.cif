@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mg4O2Te2
+_chemical_formula_sum              "Mg4 O2 Te2"
+_cell_length_a       3.67852
+_cell_length_b       5.77764
+_cell_length_c       6.97489
+_cell_angle_alpha    90
+_cell_angle_beta     74.7104
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.43400  0.75000  0.13300  1.0000
+  Mg  Mg2       1.0  0.89400  0.25000  0.21100  1.0000
+  Mg  Mg3       1.0  0.10600  0.75000  0.78900  1.0000
+  Mg  Mg4       1.0  0.56600  0.25000  0.86700  1.0000
+  O   O1        1.0  0.00000  0.00000  0.00000  1.0000
+  O   O2        1.0  0.00000  0.50000  0.00000  1.0000
+  Te  Te1       1.0  0.76800  0.75000  0.46400  1.0000
+  Te  Te2       1.0  0.23200  0.25000  0.53600  1.0000

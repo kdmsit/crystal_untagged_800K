@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ti2Ni3Te3O16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09170122
+_cell_length_b   6.09170122
+_cell_length_c   9.31041101
+_cell_angle_alpha   88.81246781
+_cell_angle_beta   88.81246781
+_cell_angle_gamma   59.79947111
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2Ni3Te3O16
+_chemical_formula_sum   'Ti2 Ni3 Te3 O16'
+_cell_volume   298.51861420
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.67718800  0.67718800  0.48690700  1
+  Ti  Ti1  1  0.36227800  0.36227800  0.03989300  1
+  Ni  Ni2  1  0.82655600  0.82655600  0.78974400  1
+  Ni  Ni3  1  0.16743700  0.66911900  0.29536900  1
+  Ni  Ni4  1  0.66911900  0.16743700  0.29536900  1
+  Te  Te5  1  0.32920900  0.82683800  0.78490900  1
+  Te  Te6  1  0.82683800  0.32920900  0.78490900  1
+  Te  Te7  1  0.17042000  0.17042000  0.28635300  1
+  O  O8  1  0.34662400  0.84414400  0.40146300  1
+  O  O9  1  0.51013400  0.51013400  0.66447400  1
+  O  O10  1  0.65114100  0.65114100  0.90283200  1
+  O  O11  1  0.00045600  0.00045600  0.67625100  1
+  O  O12  1  0.01175900  0.01175900  0.19278100  1
+  O  O13  1  0.84414400  0.34662400  0.40146300  1
+  O  O14  1  0.50366500  0.94771300  0.66461400  1
+  O  O15  1  0.94771300  0.50366500  0.66461400  1
+  O  O16  1  0.15461900  0.15461900  0.89226900  1
+  O  O17  1  0.82825900  0.82825900  0.40934000  1
+  O  O18  1  0.04989800  0.46832500  0.15293000  1
+  O  O19  1  0.46832500  0.04989800  0.15293000  1
+  O  O20  1  0.32166200  0.32166200  0.39710000  1
+  O  O21  1  0.17527900  0.67009000  0.89553200  1
+  O  O22  1  0.48701200  0.48701200  0.15671200  1
+  O  O23  1  0.67009000  0.17527900  0.89553200  1

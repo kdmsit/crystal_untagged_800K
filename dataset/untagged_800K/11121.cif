@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       As2Lu2O8
+_chemical_formula_sum              "As2 Lu2 O8"
+_cell_length_a       5.80058
+_cell_length_b       5.80058
+_cell_length_c       5.80058
+_cell_angle_alpha    106.804
+_cell_angle_beta     114.949
+_cell_angle_gamma    106.804
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.62500  0.25000  0.37500  1.0000
+  As  As2       1.0  0.37500  0.75000  0.62500  1.0000
+  Lu  Lu1       1.0  0.87500  0.75000  0.12500  1.0000
+  Lu  Lu2       1.0  0.12500  0.25000  0.87500  1.0000
+  O   O1        1.0  0.25900  0.06500  0.19400  1.0000
+  O   O2        1.0  0.62900  0.43500  0.19400  1.0000
+  O   O3        1.0  0.19400  0.56500  0.25900  1.0000
+  O   O4        1.0  0.80600  0.06500  0.37100  1.0000
+  O   O5        1.0  0.19400  0.93500  0.62900  1.0000
+  O   O6        1.0  0.80600  0.43500  0.74100  1.0000
+  O   O7        1.0  0.37100  0.56500  0.80600  1.0000
+  O   O8        1.0  0.74100  0.93500  0.80600  1.0000

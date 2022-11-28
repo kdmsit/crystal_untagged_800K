@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sn4Tb2
+_chemical_formula_sum              "Sn4 Tb2"
+_cell_length_a       4.34053
+_cell_length_b       4.43968
+_cell_length_c       8.48292
+_cell_angle_alpha    74.83
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.75000  0.43700  0.12700  1.0000
+  Sn  Sn2       1.0  0.25000  0.25300  0.49400  1.0000
+  Sn  Sn3       1.0  0.75000  0.74700  0.50600  1.0000
+  Sn  Sn4       1.0  0.25000  0.56300  0.87300  1.0000
+  Tb  Tb1       1.0  0.25000  0.90100  0.19800  1.0000
+  Tb  Tb2       1.0  0.75000  0.09880  0.80200  1.0000

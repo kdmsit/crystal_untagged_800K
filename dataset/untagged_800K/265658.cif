@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Li4O6PdV
+_chemical_formula_sum              "Li4 O6 Pd1 V1"
+_cell_length_a       5.05203
+_cell_length_b       5.05203
+_cell_length_c       5.07167
+_cell_angle_alpha    99.6804
+_cell_angle_beta     99.6804
+_cell_angle_gamma    119.977
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.50200  0.49800  0.00000  1.0000
+  Li  Li2       1.0  0.99800  0.00249  0.50000  1.0000
+  Li  Li3       1.0  0.66100  0.33900  0.50000  1.0000
+  Li  Li4       1.0  0.34100  0.65900  0.50000  1.0000
+  O   O1        1.0  0.56600  0.92100  0.23300  1.0000
+  O   O2        1.0  0.23500  0.22500  0.23500  1.0000
+  O   O3        1.0  0.93200  0.58800  0.23700  1.0000
+  O   O4        1.0  0.41200  0.06780  0.76300  1.0000
+  O   O5        1.0  0.77500  0.76500  0.76500  1.0000
+  O   O6        1.0  0.07900  0.43400  0.76700  1.0000
+  Pd  Pd1       1.0  0.83200  0.16800  0.00000  1.0000
+  V   V1        1.0  0.16800  0.83200  0.00000  1.0000

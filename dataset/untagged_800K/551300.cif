@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Dy2O8Si2
+_chemical_formula_sum              "Dy2 O8 Si2"
+_cell_length_a       5.79975
+_cell_length_b       5.79975
+_cell_length_c       5.79975
+_cell_angle_alpha    106.629
+_cell_angle_beta     115.319
+_cell_angle_gamma    106.629
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.87500  0.25000  0.12500  1.0000
+  Dy  Dy2       1.0  0.12500  0.75000  0.87500  1.0000
+  O   O1        1.0  0.27700  0.56800  0.20900  1.0000
+  O   O2        1.0  0.64100  0.93200  0.20900  1.0000
+  O   O3        1.0  0.20900  0.06790  0.27700  1.0000
+  O   O4        1.0  0.79100  0.56800  0.35900  1.0000
+  O   O5        1.0  0.20900  0.43200  0.64100  1.0000
+  O   O6        1.0  0.79100  0.93200  0.72300  1.0000
+  O   O7        1.0  0.35900  0.06790  0.79100  1.0000
+  O   O8        1.0  0.72300  0.43200  0.79100  1.0000
+  Si  Si1       1.0  0.62500  0.75000  0.37500  1.0000
+  Si  Si2       1.0  0.37500  0.25000  0.62500  1.0000

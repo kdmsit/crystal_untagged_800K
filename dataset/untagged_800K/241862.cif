@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ba8Bi6K2O2
+_chemical_formula_sum              "Ba8 Bi6 K2 O2"
+_cell_length_a       9.05546
+_cell_length_b       9.05546
+_cell_length_c       10.6292
+_cell_angle_alpha    115.212
+_cell_angle_beta     115.212
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.81100  0.31100  0.31000  1.0000
+  Ba  Ba2       1.0  0.31100  0.49900  0.31000  1.0000
+  Ba  Ba3       1.0  0.99900  0.81100  0.31000  1.0000
+  Ba  Ba4       1.0  0.49900  0.99900  0.31000  1.0000
+  Ba  Ba5       1.0  0.50100  0.00122  0.69000  1.0000
+  Ba  Ba6       1.0  0.00122  0.18900  0.69000  1.0000
+  Ba  Ba7       1.0  0.68900  0.50100  0.69000  1.0000
+  Ba  Ba8       1.0  0.18900  0.68900  0.69000  1.0000
+  Bi  Bi1       1.0  0.37900  0.12100  0.00000  1.0000
+  Bi  Bi2       1.0  0.87900  0.37900  0.00000  1.0000
+  Bi  Bi3       1.0  0.12100  0.62100  0.00000  1.0000
+  Bi  Bi4       1.0  0.62100  0.87900  0.00000  1.0000
+  Bi  Bi5       1.0  0.25000  0.25000  0.50000  1.0000
+  Bi  Bi6       1.0  0.75000  0.75000  0.50000  1.0000
+  K   K1        1.0  0.00000  0.00000  0.00000  1.0000
+  K   K2        1.0  0.50000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.75000  0.25000  0.50000  1.0000
+  O   O2        1.0  0.25000  0.75000  0.50000  1.0000

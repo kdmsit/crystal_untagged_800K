@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Al2Si2PbO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.27949700
+_cell_length_b   7.80807646
+_cell_length_c   7.86926090
+_cell_angle_alpha   113.83043510
+_cell_angle_beta   103.51698699
+_cell_angle_gamma   103.38274627
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2Si2PbO8
+_chemical_formula_sum   'Al4 Si4 Pb2 O16'
+_cell_volume   370.14693486
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.77309500  0.81792900  0.17614000  1
+  Al  Al1  1  0.77136000  0.17333300  0.81443400  1
+  Al  Al2  1  0.22690500  0.18207100  0.82386000  1
+  Al  Al3  1  0.22864000  0.82666700  0.18556600  1
+  Si  Si4  1  0.65488400  0.19180000  0.42398800  1
+  Si  Si5  1  0.65515500  0.42393300  0.19280800  1
+  Si  Si6  1  0.34511600  0.80820000  0.57601200  1
+  Si  Si7  1  0.34484500  0.57606700  0.80719200  1
+  Pb  Pb8  1  0.86317900  0.71903100  0.75864800  1
+  Pb  Pb9  1  0.13682100  0.28096900  0.24135200  1
+  O  O10  1  0.77482600  0.05668800  0.31775900  1
+  O  O11  1  0.77495800  0.31572700  0.05612000  1
+  O  O12  1  0.22517400  0.94331200  0.68224100  1
+  O  O13  1  0.22504200  0.68427300  0.94388000  1
+  O  O14  1  0.70535300  0.39453500  0.39408200  1
+  O  O15  1  0.29464700  0.60546500  0.60591800  1
+  O  O16  1  0.99707100  0.86525200  0.12212700  1
+  O  O17  1  0.00292900  0.13474800  0.87787300  1
+  O  O18  1  0.74104000  0.66612700  0.28675900  1
+  O  O19  1  0.74404200  0.29362900  0.66782600  1
+  O  O20  1  0.25896000  0.33387300  0.71324100  1
+  O  O21  1  0.25595800  0.70637100  0.33217400  1
+  O  O22  1  0.59212900  0.68304600  0.92622000  1
+  O  O23  1  0.59065900  0.92698900  0.68033800  1
+  O  O24  1  0.40787100  0.31695400  0.07378000  1
+  O  O25  1  0.40934100  0.07301100  0.31966200  1

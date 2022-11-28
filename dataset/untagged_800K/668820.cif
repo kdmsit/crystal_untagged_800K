@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_La2CuIrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91655800
+_cell_length_b   5.56680900
+_cell_length_c   9.54031249
+_cell_angle_alpha   54.67117344
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2CuIrO6
+_chemical_formula_sum   'La4 Cu2 Ir2 O12'
+_cell_volume   256.35786044
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.06687500  0.73272300  0.75020200  1
+  La  La1  1  0.93312500  0.26727700  0.24979800  1
+  La  La2  1  0.56687500  0.26727700  0.74979800  1
+  La  La3  1  0.43312500  0.73272300  0.25020200  1
+  Cu  Cu4  1  0.50000000  0.50000000  0.00000000  1
+  Cu  Cu5  1  0.00000000  0.50000000  0.50000000  1
+  Ir  Ir6  1  0.50000000  0.00000000  0.50000000  1
+  Ir  Ir7  1  0.00000000  0.00000000  0.00000000  1
+  O  O8  1  0.46990300  0.84797700  0.75095300  1
+  O  O9  1  0.53009700  0.15202300  0.24904700  1
+  O  O10  1  0.96990300  0.15202300  0.74904700  1
+  O  O11  1  0.03009700  0.84797700  0.25095300  1
+  O  O12  1  0.78701700  0.76320100  0.55536800  1
+  O  O13  1  0.21298300  0.23679900  0.44463200  1
+  O  O14  1  0.28701700  0.23679900  0.94463200  1
+  O  O15  1  0.71298300  0.76320100  0.05536800  1
+  O  O16  1  0.31086300  0.65331000  0.54846000  1
+  O  O17  1  0.68913700  0.34669000  0.45154000  1
+  O  O18  1  0.81086300  0.34669000  0.95154000  1
+  O  O19  1  0.18913700  0.65331000  0.04846000  1

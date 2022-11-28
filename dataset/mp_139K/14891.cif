@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Fe2AgS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.49345400
+_cell_length_b   6.33985700
+_cell_length_c   12.38757965
+_cell_angle_alpha   61.58704212
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2AgS3
+_chemical_formula_sum   'Fe8 Ag4 S12'
+_cell_volume   448.53648128
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.88945900  0.83363800  0.00195000  1
+  Fe  Fe1  1  0.38945900  0.16636200  0.49805000  1
+  Fe  Fe2  1  0.11054100  0.16636200  0.99805000  1
+  Fe  Fe3  1  0.61054100  0.83363800  0.50195000  1
+  Fe  Fe4  1  0.87649000  0.48668300  0.82881300  1
+  Fe  Fe5  1  0.37649000  0.51331700  0.67118700  1
+  Fe  Fe6  1  0.12351000  0.51331700  0.17118700  1
+  Fe  Fe7  1  0.62351000  0.48668300  0.32881300  1
+  Ag  Ag8  1  0.89890900  0.16976000  0.66947900  1
+  Ag  Ag9  1  0.39890900  0.83024000  0.83052100  1
+  Ag  Ag10  1  0.10109100  0.83024000  0.33052100  1
+  Ag  Ag11  1  0.60109100  0.16976000  0.16947900  1
+  S  S12  1  0.78500800  0.78247400  0.85252700  1
+  S  S13  1  0.28500800  0.21752600  0.64747300  1
+  S  S14  1  0.21499200  0.21752600  0.14747300  1
+  S  S15  1  0.71499200  0.78247400  0.35252700  1
+  S  S16  1  0.78103600  0.16536000  0.98857800  1
+  S  S17  1  0.28103600  0.83464000  0.51142200  1
+  S  S18  1  0.21896400  0.83464000  0.01142200  1
+  S  S19  1  0.71896400  0.16536000  0.48857800  1
+  S  S20  1  0.71100600  0.53066200  0.67098600  1
+  S  S21  1  0.21100600  0.46933800  0.82901400  1
+  S  S22  1  0.28899400  0.46933800  0.32901400  1
+  S  S23  1  0.78899400  0.53066200  0.17098600  1

@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_MoSeS
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.25788
+_cell_length_b       3.25782
+_cell_length_c       25.6648
+_cell_angle_alpha    89.9881
+_cell_angle_beta     90
+_cell_angle_gamma    120.001
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  MoSeS
+_chemical_formula_sum  Mo4Se4S4
+_cell_volume  235.90054237460467
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mo  Mo1  1  0.33388  0.66776  0.00545  1
+ Mo  Mo2  1  0.33291  0.66582  0.49614  1
+ Mo  Mo3  1  0.66709  0.33418  0.25531  1
+ Mo  Mo4  1  0.66612  0.33224  0.74601  1
+ S  S1  1  0.33368  0.66736  0.31553  1
+ S  S2  1  0.66632  0.33264  0.43592  1
+ S  S3  1  0.66618  0.33235  0.55639  1
+ S  S4  1  0.33382  0.66765  0.19506  1
+ Se  Se1  1  0.33271  0.66542  0.81219  1
+ Se  Se2  1  0.66729  0.33458  0.93927  1
+ Se  Se3  1  0.66715  0.33429  0.07160  1
+ Se  Se4  1  0.33285  0.66571  0.67986  1

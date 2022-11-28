@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Gd2In4Rh2
+_chemical_formula_sum              "Gd2 In4 Rh2"
+_cell_length_a       4.38568
+_cell_length_b       5.55023
+_cell_length_c       7.90308
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    66.7284
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.93200  0.13600  0.25000  1.0000
+  Gd  Gd2       1.0  0.06780  0.86400  0.75000  1.0000
+  In  In1       1.0  0.64400  0.71200  0.05060  1.0000
+  In  In2       1.0  0.64400  0.71200  0.44900  1.0000
+  In  In3       1.0  0.35600  0.28800  0.55100  1.0000
+  In  In4       1.0  0.35600  0.28800  0.94900  1.0000
+  Rh  Rh1       1.0  0.21600  0.56800  0.25000  1.0000
+  Rh  Rh2       1.0  0.78400  0.43200  0.75000  1.0000

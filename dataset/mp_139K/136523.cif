@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiNi3OF5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13350226
+_cell_length_b   5.55190009
+_cell_length_c   5.18146456
+_cell_angle_alpha   118.67663424
+_cell_angle_beta   59.83312889
+_cell_angle_gamma   117.11125580
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNi3OF5
+_chemical_formula_sum   'Li1 Ni3 O1 F5'
+_cell_volume   107.43909100
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.15683500  0.43952600  0.16377400  1
+  Ni  Ni1  1  0.36430700  0.02756800  0.33090200  1
+  Ni  Ni2  1  0.65500900  0.95105000  0.62776900  1
+  Ni  Ni3  1  0.83509800  0.56437500  0.87362300  1
+  O  O4  1  0.54663400  0.75062100  0.25601700  1
+  F  F5  1  0.06083900  0.24805600  0.45182300  1
+  F  F6  1  0.25182900  0.76130200  0.93330000  1
+  F  F7  1  0.75236200  0.25180000  0.05313200  1
+  F  F8  1  0.44208600  0.25702700  0.74808400  1
+  F  F9  1  0.93500100  0.74867700  0.56157800  1

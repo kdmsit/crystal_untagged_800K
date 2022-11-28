@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Fe4W6
+_chemical_formula_sum              "Fe4 W6"
+_cell_length_a       6.2504
+_cell_length_b       6.2504
+_cell_length_c       5.59914
+_cell_angle_alpha    123.928
+_cell_angle_beta     56.0716
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.58800  0.41200  0.23700  1.0000
+  Fe  Fe2       1.0  0.91200  0.08770  0.26300  1.0000
+  Fe  Fe3       1.0  0.08770  0.91200  0.73700  1.0000
+  Fe  Fe4       1.0  0.41200  0.58800  0.76300  1.0000
+  W   W1        1.0  0.50900  0.75000  0.25000  1.0000
+  W   W2        1.0  0.99100  0.49100  0.25000  1.0000
+  W   W3        1.0  0.25000  0.00857  0.25000  1.0000
+  W   W4        1.0  0.75000  0.99100  0.75000  1.0000
+  W   W5        1.0  0.00857  0.50900  0.75000  1.0000
+  W   W6        1.0  0.49100  0.25000  0.75000  1.0000

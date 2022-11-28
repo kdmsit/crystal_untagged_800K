@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ce2Ni2Sn4
+_chemical_formula_sum              "Ce2 Ni2 Sn4"
+_cell_length_a       4.59512
+_cell_length_b       4.52616
+_cell_length_c       9.39656
+_cell_angle_alpha    76.0638
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.25000  0.89100  0.21800  1.0000
+  Ce  Ce2       1.0  0.75000  0.10900  0.78200  1.0000
+  Ni  Ni1       1.0  0.75000  0.31700  0.36600  1.0000
+  Ni  Ni2       1.0  0.25000  0.68300  0.63400  1.0000
+  Sn  Sn1       1.0  0.75000  0.45300  0.09370  1.0000
+  Sn  Sn2       1.0  0.25000  0.25100  0.49800  1.0000
+  Sn  Sn3       1.0  0.75000  0.74900  0.50200  1.0000
+  Sn  Sn4       1.0  0.25000  0.54700  0.90600  1.0000

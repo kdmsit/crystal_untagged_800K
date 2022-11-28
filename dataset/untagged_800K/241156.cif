@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cu3NdO8Pb2Sr2
+_chemical_formula_sum              "Cu3 Nd1 O8 Pb2 Sr2"
+_cell_length_a       3.62475
+_cell_length_b       3.62475
+_cell_length_c       15.1217
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90.1704
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.50000  0.50000  0.10900  1.0000
+  Cu  Cu2       1.0  0.00000  0.00000  0.50000  1.0000
+  Cu  Cu3       1.0  0.50000  0.50000  0.89100  1.0000
+  Nd  Nd1       1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.50000  0.00000  0.09980  1.0000
+  O   O2        1.0  0.00000  0.50000  0.09980  1.0000
+  O   O3        1.0  0.50000  0.50000  0.24800  1.0000
+  O   O4        1.0  0.00000  0.00000  0.38400  1.0000
+  O   O5        1.0  0.00000  0.00000  0.61600  1.0000
+  O   O6        1.0  0.50000  0.50000  0.75200  1.0000
+  O   O7        1.0  0.50000  0.00000  0.90000  1.0000
+  O   O8        1.0  0.00000  0.50000  0.90000  1.0000
+  Pb  Pb1       1.0  0.50000  0.50000  0.38900  1.0000
+  Pb  Pb2       1.0  0.50000  0.50000  0.61100  1.0000
+  Sr  Sr1       1.0  0.00000  0.00000  0.22500  1.0000
+  Sr  Sr2       1.0  0.00000  0.00000  0.77500  1.0000

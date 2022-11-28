@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_FeSiN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.17266681
+_cell_length_b   5.54162100
+_cell_length_c   5.02448437
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   117.33295004
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeSiN2
+_chemical_formula_sum   'Fe4 Si4 N8'
+_cell_volume   152.68166475
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.38138200  0.83781600  0.81508300  1
+  Fe  Fe1  1  0.61861800  0.33781600  0.68491700  1
+  Fe  Fe2  1  0.61861800  0.16218400  0.18491700  1
+  Fe  Fe3  1  0.38138200  0.66218400  0.31508300  1
+  Si  Si4  1  0.17275600  0.36826700  0.68161200  1
+  Si  Si5  1  0.82724500  0.86826700  0.81838800  1
+  Si  Si6  1  0.82724500  0.63173300  0.31838800  1
+  Si  Si7  1  0.17275600  0.13173300  0.18161200  1
+  N  N8  1  0.15041000  0.86622200  0.97461200  1
+  N  N9  1  0.84959000  0.36622200  0.52538800  1
+  N  N10  1  0.84959000  0.13377800  0.02538800  1
+  N  N11  1  0.15041000  0.63377800  0.47461200  1
+  N  N12  1  0.31406200  0.35397300  0.07053200  1
+  N  N13  1  0.68593800  0.85397300  0.42946800  1
+  N  N14  1  0.68593800  0.64602700  0.92946800  1
+  N  N15  1  0.31406200  0.14602700  0.57053200  1

@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_NbNiB
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       3.07945
+_cell_length_b       3.31494
+_cell_length_c       6.88903
+_cell_angle_alpha    103.922
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  NbNiB
+_chemical_formula_sum  Nb2Ni2B2
+_cell_volume  68.2588297130136
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.25000  0.53362  0.06723  1
+ B  B2  1  0.75000  0.46638  0.93277  1
+ Nb  Nb1  1  0.25000  0.90091  0.80182  1
+ Nb  Nb2  1  0.75000  0.09909  0.19818  1
+ Ni  Ni1  1  0.75000  0.29509  0.59018  1
+ Ni  Ni2  1  0.25000  0.70491  0.40982  1

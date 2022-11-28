@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ReNO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.24592840
+_cell_length_b   8.24592840
+_cell_length_c   8.24592840
+_cell_angle_alpha   135.38348225
+_cell_angle_beta   135.38348225
+_cell_angle_gamma   64.93493525
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReNO4
+_chemical_formula_sum   'Re2 N2 O8'
+_cell_volume   272.64233051
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.75000000  0.25000000  0.50000000  1
+  Re  Re1  1  0.00000000  0.00000000  0.00000000  1
+  N  N2  1  0.25000000  0.75000000  0.50000000  1
+  N  N3  1  0.50000000  0.50000000  0.00000000  1
+  O  O4  1  0.72506000  0.81930200  0.69031800  1
+  O  O5  1  0.12898400  0.03474200  0.30968200  1
+  O  O6  1  0.62101600  0.21525800  0.19031800  1
+  O  O7  1  0.02494000  0.43069800  0.80968200  1
+  O  O8  1  0.18069800  0.87101600  0.90575800  1
+  O  O9  1  0.96525800  0.27494000  0.09424200  1
+  O  O10  1  0.78474200  0.97506000  0.40575800  1
+  O  O11  1  0.56930200  0.37898400  0.59424200  1

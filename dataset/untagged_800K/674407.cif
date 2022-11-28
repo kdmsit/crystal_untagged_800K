@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_La3SiN3O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82709737
+_cell_length_b   6.82709737
+_cell_length_c   7.41288064
+_cell_angle_alpha   62.05498068
+_cell_angle_beta   62.05498068
+_cell_angle_gamma   88.98774506
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3SiN3O2
+_chemical_formula_sum   'La6 Si2 N6 O4'
+_cell_volume   260.44819271
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.32269500  0.17730500  0.00000000  1
+  La  La1  1  0.66901900  0.83098100  0.00000000  1
+  La  La2  1  0.18117400  0.67777400  0.00000000  1
+  La  La3  1  0.82222600  0.31882600  0.00000000  1
+  La  La4  1  0.24385000  0.25615000  0.50000000  1
+  La  La5  1  0.74385000  0.75615000  0.50000000  1
+  Si  Si6  1  0.75144900  0.24412800  0.50442300  1
+  Si  Si7  1  0.25587200  0.74855100  0.49557700  1
+  N  N8  1  0.99044800  0.20785100  0.30170000  1
+  N  N9  1  0.48969600  0.98917700  0.30277200  1
+  N  N10  1  0.20805100  0.70753200  0.30277200  1
+  N  N11  1  0.29214900  0.50955200  0.69830000  1
+  N  N12  1  0.51082300  0.01030400  0.69722800  1
+  N  N13  1  0.79246800  0.29194900  0.69722800  1
+  O  O14  1  0.50848700  0.50757900  0.00000000  1
+  O  O15  1  0.99242100  0.99151300  0.00000000  1
+  O  O16  1  0.70947600  0.48415400  0.30637000  1
+  O  O17  1  0.01584600  0.79052400  0.69363000  1

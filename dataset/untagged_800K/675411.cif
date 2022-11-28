@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_EuGaAg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88580834
+_cell_length_b   5.88580834
+_cell_length_c   7.70108757
+_cell_angle_alpha   51.11334280
+_cell_angle_beta   51.11334280
+_cell_angle_gamma   47.99983110
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuGaAg
+_chemical_formula_sum   'Eu2 Ga2 Ag2'
+_cell_volume   144.03154349
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.45784800  0.45784800  0.29742500  1
+  Eu  Eu1  1  0.54215200  0.54215200  0.70257500  1
+  Ga  Ga2  1  0.16025700  0.16025700  0.88740100  1
+  Ga  Ga3  1  0.83974300  0.83974300  0.11259900  1
+  Ag  Ag4  1  0.82607800  0.82607800  0.73112900  1
+  Ag  Ag5  1  0.17392200  0.17392200  0.26887100  1

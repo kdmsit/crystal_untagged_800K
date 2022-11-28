@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zr2Si7Ni3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91162700
+_cell_length_b   3.91162700
+_cell_length_c   11.96157929
+_cell_angle_alpha   80.58942743
+_cell_angle_beta   80.58942743
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2Si7Ni3
+_chemical_formula_sum   'Zr2 Si7 Ni3'
+_cell_volume   178.06175351
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.14187500  0.14187500  0.71625100  1
+  Zr  Zr1  1  0.84979500  0.84979500  0.30041000  1
+  Si  Si2  1  0.54813500  0.04813500  0.90372900  1
+  Si  Si3  1  0.04813500  0.54813500  0.90372900  1
+  Si  Si4  1  0.44622600  0.94622600  0.10754800  1
+  Si  Si5  1  0.94622600  0.44622600  0.10754800  1
+  Si  Si6  1  0.60587100  0.60587100  0.78825800  1
+  Si  Si7  1  0.30425100  0.30425100  0.39149700  1
+  Si  Si8  1  0.70479100  0.70479100  0.59041800  1
+  Ni  Ni9  1  0.75176100  0.25176100  0.49647700  1
+  Ni  Ni10  1  0.25176100  0.75176100  0.49647700  1
+  Ni  Ni11  1  0.40117100  0.40117100  0.19765700  1

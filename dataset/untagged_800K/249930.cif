@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Al4Cl6
+_chemical_formula_sum              "Al4 Cl6"
+_cell_length_a       6.9592
+_cell_length_b       6.9592
+_cell_length_c       6.75825
+_cell_angle_alpha    120.989
+_cell_angle_beta     59.0114
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.33600  0.66400  0.99300  1.0000
+  Al  Al2       1.0  0.66400  0.33600  0.00731  1.0000
+  Al  Al3       1.0  0.83600  0.16400  0.49300  1.0000
+  Al  Al4       1.0  0.16400  0.83600  0.50700  1.0000
+  Cl  Cl1       1.0  0.67900  0.75000  0.25000  1.0000
+  Cl  Cl2       1.0  0.82100  0.32100  0.25000  1.0000
+  Cl  Cl3       1.0  0.25000  0.17900  0.25000  1.0000
+  Cl  Cl4       1.0  0.75000  0.82100  0.75000  1.0000
+  Cl  Cl5       1.0  0.17900  0.67900  0.75000  1.0000
+  Cl  Cl6       1.0  0.32100  0.25000  0.75000  1.0000

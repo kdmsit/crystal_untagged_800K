@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ScInO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24713486
+_cell_length_b   6.24713486
+_cell_length_c   7.28472040
+_cell_angle_alpha   55.55591199
+_cell_angle_beta   55.55591199
+_cell_angle_gamma   71.07960746
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScInO6
+_chemical_formula_sum   'Sc2 In2 O12'
+_cell_volume   193.34597669
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00000000  0.50000000  0.00000000  1
+  Sc  Sc1  1  0.50000000  0.00000000  0.00000000  1
+  In  In2  1  0.50000000  0.00000000  0.50000000  1
+  In  In3  1  0.00000000  0.50000000  0.50000000  1
+  O  O4  1  0.69248200  0.69248200  0.20078400  1
+  O  O5  1  0.30751800  0.30751800  0.79921600  1
+  O  O6  1  0.66564200  0.66564200  0.42582700  1
+  O  O7  1  0.33435800  0.33435800  0.57417300  1
+  O  O8  1  0.90908000  0.11128800  0.30792000  1
+  O  O9  1  0.09092000  0.88871200  0.69208000  1
+  O  O10  1  0.11128800  0.90908000  0.30792000  1
+  O  O11  1  0.88871200  0.09092000  0.69208000  1
+  O  O12  1  0.41773800  0.78155300  0.90520900  1
+  O  O13  1  0.58226200  0.21844700  0.09479100  1
+  O  O14  1  0.21844700  0.58226200  0.09479100  1
+  O  O15  1  0.78155300  0.41773800  0.90520900  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_SiHg2(O2F3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06396900
+_cell_length_b   5.36886962
+_cell_length_c   7.07755752
+_cell_angle_alpha   109.10327368
+_cell_angle_beta   97.96873496
+_cell_angle_gamma   91.71524408
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiHg2(O2F3)2
+_chemical_formula_sum   'Si1 Hg2 O4 F6'
+_cell_volume   179.48676095
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.00000000  0.00000000  0.50000000  1
+  Hg  Hg1  1  0.00000000  0.00000000  0.00000000  1
+  Hg  Hg2  1  0.50000000  0.50000000  0.50000000  1
+  O  O3  1  0.39511700  0.71234600  0.95385800  1
+  O  O4  1  0.60488300  0.28765400  0.04614200  1
+  O  O5  1  0.42180100  0.27077000  0.15271800  1
+  O  O6  1  0.57819900  0.72923000  0.84728200  1
+  F  F7  1  0.04708200  0.76675000  0.62055700  1
+  F  F8  1  0.95291800  0.23325000  0.37944300  1
+  F  F9  1  0.68083100  0.86373600  0.39948700  1
+  F  F10  1  0.31916900  0.13626400  0.60051300  1
+  F  F11  1  0.89292200  0.20993200  0.71045300  1
+  F  F12  1  0.10707800  0.79006800  0.28954700  1

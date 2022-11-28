@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Dy3(AgSn)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.82200025
+_cell_length_b   8.82200025
+_cell_length_c   8.82200025
+_cell_angle_alpha   149.91061421
+_cell_angle_beta   130.36305704
+_cell_angle_gamma   59.14460719
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy3(AgSn)4
+_chemical_formula_sum   'Dy3 Ag4 Sn4'
+_cell_volume   260.25029381
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.00000000  0.00000000  0.00000000  1
+  Dy  Dy1  1  0.37252800  0.87252800  0.50000000  1
+  Dy  Dy2  1  0.62747200  0.12747200  0.50000000  1
+  Ag  Ag3  1  0.02632000  0.32865900  0.69766100  1
+  Ag  Ag4  1  0.97368000  0.67134100  0.30233900  1
+  Ag  Ag5  1  0.63099800  0.32865900  0.30233900  1
+  Ag  Ag6  1  0.36900200  0.67134100  0.69766100  1
+  Sn  Sn7  1  0.21577300  0.21577300  0.00000000  1
+  Sn  Sn8  1  0.69626700  0.50000000  0.19626700  1
+  Sn  Sn9  1  0.30373300  0.50000000  0.80373300  1
+  Sn  Sn10  1  0.78422700  0.78422700  0.00000000  1

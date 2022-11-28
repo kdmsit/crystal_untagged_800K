@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_ZrSeO
+_symmetry_space_group_name_H-M  'P2_13'
+_cell_length_a       5.86372
+_cell_length_b       5.86372
+_cell_length_c       5.86372
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  198
+_chemical_formula_structural  ZrSeO
+_chemical_formula_sum  Zr4Se4O4
+_cell_volume  201.61346998668245
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.15070  0.84930  0.34930  1
+ O  O2  1  0.34930  0.15070  0.84930  1
+ O  O3  1  0.65070  0.65070  0.65070  1
+ O  O4  1  0.84930  0.34930  0.15070  1
+ Se  Se1  1  0.15792  0.65792  0.84208  1
+ Se  Se2  1  0.34208  0.34208  0.34208  1
+ Se  Se3  1  0.65792  0.84208  0.15792  1
+ Se  Se4  1  0.84208  0.15792  0.65792  1
+ Zr  Zr1  1  0.07756  0.07756  0.07756  1
+ Zr  Zr2  1  0.42244  0.92244  0.57756  1
+ Zr  Zr3  1  0.57756  0.42244  0.92244  1
+ Zr  Zr4  1  0.92244  0.57756  0.42244  1

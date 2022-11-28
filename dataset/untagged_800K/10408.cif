@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sb2YbZn2
+_chemical_formula_sum              "Sb2 Yb1 Zn2"
+_cell_length_a       4.46898
+_cell_length_b       4.46921
+_cell_length_c       7.44111
+_cell_angle_alpha    90
+_cell_angle_beta     89.9982
+_cell_angle_gamma    120.002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.33300  0.66700  0.25500  1.0000
+  Sb  Sb2       1.0  0.66700  0.33300  0.74500  1.0000
+  Yb  Yb1       1.0  0.00000  0.00000  0.00000  1.0000
+  Zn  Zn1       1.0  0.66700  0.33300  0.36700  1.0000
+  Zn  Zn2       1.0  0.33300  0.66700  0.63300  1.0000

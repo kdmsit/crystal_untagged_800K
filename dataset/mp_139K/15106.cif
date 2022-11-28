@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_TbCO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89401100
+_cell_length_b   7.16941600
+_cell_length_c   8.77824400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbCO4
+_chemical_formula_sum   'Tb4 C4 O16'
+_cell_volume   308.00400961
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.02800300  0.87814400  0.34003100  1
+  Tb  Tb1  1  0.47199700  0.12185600  0.84003100  1
+  Tb  Tb2  1  0.97199700  0.37814400  0.15996900  1
+  Tb  Tb3  1  0.52800300  0.62185600  0.65996900  1
+  C  C4  1  0.00718400  0.95154200  0.67506300  1
+  C  C5  1  0.49281600  0.04845800  0.17506300  1
+  C  C6  1  0.99281600  0.45154200  0.82493700  1
+  C  C7  1  0.50718400  0.54845800  0.32493700  1
+  O  O8  1  0.96374700  0.69200100  0.14006500  1
+  O  O9  1  0.53625300  0.30799900  0.64006500  1
+  O  O10  1  0.03625300  0.19200100  0.35993500  1
+  O  O11  1  0.46374700  0.80799900  0.85993500  1
+  O  O12  1  0.54178800  0.95052200  0.29351100  1
+  O  O13  1  0.95821200  0.04947800  0.79351100  1
+  O  O14  1  0.45821200  0.45052200  0.20648900  1
+  O  O15  1  0.04178800  0.54947800  0.70648900  1
+  O  O16  1  0.76269500  0.57598400  0.36573600  1
+  O  O17  1  0.73730500  0.42401600  0.86573600  1
+  O  O18  1  0.23730500  0.07598400  0.13426400  1
+  O  O19  1  0.26269500  0.92401600  0.63426400  1
+  O  O20  1  0.31859900  0.61700800  0.41209900  1
+  O  O21  1  0.18140100  0.38299200  0.91209900  1
+  O  O22  1  0.68140100  0.11700800  0.08790100  1
+  O  O23  1  0.81859900  0.88299200  0.58790100  1

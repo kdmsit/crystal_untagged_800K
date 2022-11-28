@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CeRuSi3
+_chemical_formula_sum              "Ce1 Ru1 Si3"
+_cell_length_a       4.26938
+_cell_length_b       4.26938
+_cell_length_c       5.83765
+_cell_angle_alpha    111.449
+_cell_angle_beta     111.449
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.57900  0.57900  0.15800  1.0000
+  Ru  Ru1       1.0  0.23600  0.23600  0.47200  1.0000
+  Si  Si1       1.0  0.84100  0.34100  0.68200  1.0000
+  Si  Si2       1.0  0.34100  0.84100  0.68200  1.0000
+  Si  Si3       1.0  0.99900  0.99900  0.99700  1.0000

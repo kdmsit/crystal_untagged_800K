@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ca2Co2O6
+_chemical_formula_sum              "Ca2 Co2 O6"
+_cell_length_a       5.10427
+_cell_length_b       5.12885
+_cell_length_c       5.74072
+_cell_angle_alpha    62.919
+_cell_angle_beta     63.7911
+_cell_angle_gamma    59.8089
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.63200  0.63200  0.10400  1.0000
+  Ca  Ca2       1.0  0.36900  0.36900  0.89700  1.0000
+  Co  Co1       1.0  0.84400  0.83400  0.48900  1.0000
+  Co  Co2       1.0  0.15700  0.16300  0.51100  1.0000
+  O   O1        1.0  0.56400  0.17900  0.28200  1.0000
+  O   O2        1.0  0.97800  0.55900  0.28300  1.0000
+  O   O3        1.0  0.17900  0.97200  0.28300  1.0000
+  O   O4        1.0  0.43700  0.82300  0.71600  1.0000
+  O   O5        1.0  0.81800  0.02960  0.71700  1.0000
+  O   O6        1.0  0.02250  0.44000  0.71800  1.0000

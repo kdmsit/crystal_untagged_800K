@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NbMoS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.28209000
+_cell_length_b   6.26914200
+_cell_length_c   8.80014441
+_cell_angle_alpha   75.81521402
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbMoS3
+_chemical_formula_sum   'Nb2 Mo2 S6'
+_cell_volume   175.55002194
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.25000000  0.69102700  0.00635700  1
+  Nb  Nb1  1  0.75000000  0.30897300  0.99364300  1
+  Mo  Mo2  1  0.25000000  0.88702300  0.62361300  1
+  Mo  Mo3  1  0.75000000  0.11297700  0.37638700  1
+  S  S4  1  0.25000000  0.02927600  0.16414800  1
+  S  S5  1  0.75000000  0.97072400  0.83585200  1
+  S  S6  1  0.25000000  0.49306600  0.79771400  1
+  S  S7  1  0.75000000  0.50693400  0.20228600  1
+  S  S8  1  0.25000000  0.26835300  0.51414000  1
+  S  S9  1  0.75000000  0.73164700  0.48586000  1

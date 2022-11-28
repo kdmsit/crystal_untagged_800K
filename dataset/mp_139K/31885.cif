@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaAl(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22356700
+_cell_length_b   5.39935701
+_cell_length_c   5.96386233
+_cell_angle_alpha   108.69700920
+_cell_angle_beta   87.33188643
+_cell_angle_gamma   103.64341046
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaAl(WO4)2
+_chemical_formula_sum   'Ta1 Al1 W2 O8'
+_cell_volume   154.75454748
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.95847700  0.07353000  0.21155700  1
+  Al  Al1  1  0.63962200  0.20185900  0.75063300  1
+  W  W2  1  0.67857900  0.59263500  0.39100000  1
+  W  W3  1  0.23022000  0.58980200  0.04545500  1
+  O  O4  1  0.61341300  0.85573900  0.67518800  1
+  O  O5  1  0.81565300  0.31586900  0.52095800  1
+  O  O6  1  0.60682200  0.83141400  0.17234900  1
+  O  O7  1  0.82900400  0.32202600  0.04368300  1
+  O  O8  1  0.11267500  0.86918000  0.94506100  1
+  O  O9  1  0.36559900  0.33816500  0.78847800  1
+  O  O10  1  0.29737700  0.38170600  0.27340600  1
+  O  O11  1  0.05265600  0.82417100  0.36072900  1

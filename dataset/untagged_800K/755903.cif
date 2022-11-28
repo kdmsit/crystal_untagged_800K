@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_TiSi
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.65105
+_cell_length_b       5.02533
+_cell_length_c       6.57425
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  TiSi
+_chemical_formula_sum  Ti4Si4
+_cell_volume  120.62243599625754
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Si  Si1  1  0.25000  0.85279  0.54518  1
+ Si  Si2  1  0.75000  0.14721  0.45482  1
+ Si  Si3  1  0.75000  0.35279  0.95482  1
+ Si  Si4  1  0.25000  0.64721  0.04518  1
+ Ti  Ti1  1  0.25000  0.37152  0.67595  1
+ Ti  Ti2  1  0.75000  0.62848  0.32405  1
+ Ti  Ti3  1  0.75000  0.87152  0.82405  1
+ Ti  Ti4  1  0.25000  0.12848  0.17595  1

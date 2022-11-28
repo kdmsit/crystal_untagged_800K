@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_TiFeH2
+_symmetry_space_group_name_H-M  'Pmc2_1'
+_cell_length_a       2.83689
+_cell_length_b       4.5623
+_cell_length_c       4.71133
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  26
+_chemical_formula_structural  TiFeH2
+_chemical_formula_sum  Ti2Fe2H4
+_cell_volume  60.97751301445122
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.00000  0.79147  0.19349  1
+ Fe  Fe2  1  0.00000  0.29147  0.80651  1
+ H  H1  1  0.50000  0.43835  0.91062  1
+ H  H2  1  0.50000  0.93835  0.08938  1
+ H  H3  1  0.00000  0.55209  0.49247  1
+ H  H4  1  0.00000  0.05209  0.50753  1
+ Ti  Ti1  1  0.50000  0.30009  0.28968  1
+ Ti  Ti2  1  0.50000  0.80009  0.71032  1

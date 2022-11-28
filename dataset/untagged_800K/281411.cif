@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CrLi2MnO6
+_chemical_formula_sum              "Cr1 Li2 Mn1 O6"
+_cell_length_a       4.93479
+_cell_length_b       4.93479
+_cell_length_c       4.86711
+_cell_angle_alpha    98.1724
+_cell_angle_beta     98.1724
+_cell_angle_gamma    121.63
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.16100  0.83900  0.00000  1.0000
+  Li  Li1       1.0  0.64800  0.35200  0.50000  1.0000
+  Li  Li2       1.0  0.35200  0.64800  0.50000  1.0000
+  Mn  Mn1       1.0  0.83600  0.16400  0.00000  1.0000
+  O   O1        1.0  0.20700  0.19800  0.22300  1.0000
+  O   O2        1.0  0.94800  0.56800  0.22700  1.0000
+  O   O3        1.0  0.55200  0.94200  0.22900  1.0000
+  O   O4        1.0  0.05780  0.44800  0.77100  1.0000
+  O   O5        1.0  0.43200  0.05200  0.77300  1.0000
+  O   O6        1.0  0.80200  0.79300  0.77700  1.0000

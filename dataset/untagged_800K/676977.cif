@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba3La3(Cu3O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.44956956
+_cell_length_b   12.41840729
+_cell_length_c   5.56129537
+_cell_angle_alpha   77.39062383
+_cell_angle_beta   76.76477812
+_cell_angle_gamma   25.84459805
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3La3(Cu3O7)2
+_chemical_formula_sum   'Ba3 La3 Cu6 O14'
+_cell_volume   364.70526361
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.41110500  0.41110500  0.58889500  1
+  Ba  Ba1  1  0.90871500  0.90871500  0.09128500  1
+  Ba  Ba2  1  0.09038600  0.09038600  0.90961400  1
+  La  La3  1  0.74931300  0.74931300  0.25068700  1
+  La  La4  1  0.24850200  0.24850200  0.75149800  1
+  La  La5  1  0.59165700  0.59165700  0.40834300  1
+  Cu  Cu6  1  0.32517700  0.32517700  0.17482300  1
+  Cu  Cu7  1  0.82517700  0.82517700  0.67482300  1
+  Cu  Cu8  1  0.17299300  0.17299300  0.32700700  1
+  Cu  Cu9  1  0.67299300  0.67299300  0.82700700  1
+  Cu  Cu10  1  0.00206800  0.00206800  0.49793200  1
+  Cu  Cu11  1  0.50206800  0.50206800  0.99793200  1
+  O  O12  1  0.42281400  0.42281400  0.07718600  1
+  O  O13  1  0.92281400  0.92281400  0.57718600  1
+  O  O14  1  0.08147500  0.08147500  0.41852500  1
+  O  O15  1  0.58147500  0.58147500  0.91852500  1
+  O  O16  1  0.06578500  0.56446600  0.93421500  1
+  O  O17  1  0.56446600  0.06578500  0.43553400  1
+  O  O18  1  0.06405200  0.56129700  0.43870300  1
+  O  O19  1  0.56129700  0.06405200  0.93594800  1
+  O  O20  1  0.92489100  0.43388500  0.07510900  1
+  O  O21  1  0.43388500  0.92489100  0.56611500  1
+  O  O22  1  0.92191200  0.43615100  0.56384900  1
+  O  O23  1  0.43615100  0.92191200  0.07808800  1
+  O  O24  1  0.29719300  0.72163400  0.70280700  1
+  O  O25  1  0.72163400  0.29719300  0.27836600  1

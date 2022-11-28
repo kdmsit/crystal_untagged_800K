@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CeGa3Ni
+_chemical_formula_sum              "Ce1 Ga3 Ni1"
+_cell_length_a       4.27954
+_cell_length_b       4.27954
+_cell_length_c       5.95778
+_cell_angle_alpha    111.019
+_cell_angle_beta     111.019
+_cell_angle_gamma    90.0759
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.01400  0.01400  0.02800  1.0000
+  Ga  Ga1       1.0  0.60500  0.60500  0.21000  1.0000
+  Ga  Ga2       1.0  0.76800  0.26800  0.53700  1.0000
+  Ga  Ga3       1.0  0.26800  0.76800  0.53700  1.0000
+  Ni  Ni1       1.0  0.37500  0.37500  0.75000  1.0000

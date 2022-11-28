@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       C4Hg2N4Se4
+_chemical_formula_sum              "C4 Hg2 N4 Se4"
+_cell_length_a       6.16035
+_cell_length_b       4.24586
+_cell_length_c       11.7422
+_cell_angle_alpha    90
+_cell_angle_beta     91.5646
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.44700  0.27300  0.12500  1.0000
+  C   C2        1.0  0.55300  0.77300  0.37500  1.0000
+  C   C3        1.0  0.44700  0.22700  0.62500  1.0000
+  C   C4        1.0  0.55300  0.72700  0.87500  1.0000
+  Hg  Hg1       1.0  0.00000  0.00000  0.00000  1.0000
+  Hg  Hg2       1.0  0.00000  0.50000  0.50000  1.0000
+  N   N1        1.0  0.63400  0.23400  0.11300  1.0000
+  N   N2        1.0  0.36600  0.73400  0.38700  1.0000
+  N   N3        1.0  0.63400  0.26600  0.61300  1.0000
+  N   N4        1.0  0.36600  0.76600  0.88700  1.0000
+  Se  Se1       1.0  0.16100  0.34800  0.15600  1.0000
+  Se  Se2       1.0  0.83900  0.84800  0.34400  1.0000
+  Se  Se3       1.0  0.16100  0.15200  0.65600  1.0000
+  Se  Se4       1.0  0.83900  0.65200  0.84400  1.0000

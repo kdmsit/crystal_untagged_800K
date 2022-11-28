@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_ZrCrAgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.14491313
+_cell_length_b   6.12202297
+_cell_length_c   6.56542107
+_cell_angle_alpha   92.21634455
+_cell_angle_beta   89.99909616
+_cell_angle_gamma   90.00027733
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCrAgS4
+_chemical_formula_sum   'Zr2 Cr2 Ag2 S8'
+_cell_volume   286.96536695
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.76471100  0.50001400  0.49999700  1
+  Zr  Zr1  1  0.48363700  0.00001000  0.49999500  1
+  Cr  Cr2  1  0.24770200  0.49999900  0.50001200  1
+  Cr  Cr3  1  0.00204400  0.99997500  0.49998900  1
+  Ag  Ag4  1  0.00635800  0.00000100  0.99999600  1
+  Ag  Ag5  1  0.49343200  0.99999300  0.99999600  1
+  S  S6  1  0.01528700  0.31597300  0.28664800  1
+  S  S7  1  0.49096700  0.33760200  0.28005200  1
+  S  S8  1  0.23607100  0.81317100  0.28205800  1
+  S  S9  1  0.75874000  0.83621400  0.27774200  1
+  S  S10  1  0.23606500  0.18682000  0.71796000  1
+  S  S11  1  0.75873700  0.16380200  0.72225500  1
+  S  S12  1  0.49095900  0.66240700  0.71994100  1
+  S  S13  1  0.01528800  0.68401900  0.71335800  1

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cu2Mg3Mn2
+_chemical_formula_sum              "Cu2 Mg3 Mn2"
+_cell_length_a       7.86354
+_cell_length_b       7.86354
+_cell_length_c       7.86354
+_cell_angle_alpha    30.0723
+_cell_angle_beta     30.0723
+_cell_angle_gamma    30.0723
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.02360  0.02360  0.02360  1.0000
+  Cu  Cu2       1.0  0.50900  0.50900  0.50900  1.0000
+  Mg  Mg1       1.0  0.39300  0.39300  0.39300  1.0000
+  Mg  Mg2       1.0  0.64000  0.64000  0.64000  1.0000
+  Mg  Mg3       1.0  0.89600  0.89600  0.89600  1.0000
+  Mn  Mn1       1.0  0.13400  0.13400  0.13400  1.0000
+  Mn  Mn2       1.0  0.78000  0.78000  0.78000  1.0000

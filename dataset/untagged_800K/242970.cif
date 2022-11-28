@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cs4O6Pr2
+_chemical_formula_sum              "Cs4 O6 Pr2"
+_cell_length_a       6.8417
+_cell_length_b       6.8417
+_cell_length_c       6.46264
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    114.286
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.48000  0.81500  0.27100  1.0000
+  Cs  Cs2       1.0  0.52000  0.18500  0.77100  1.0000
+  Cs  Cs3       1.0  0.81500  0.48000  0.27100  1.0000
+  Cs  Cs4       1.0  0.18500  0.52000  0.77100  1.0000
+  O   O1        1.0  0.39100  0.39100  0.13700  1.0000
+  O   O2        1.0  0.60900  0.60900  0.63700  1.0000
+  O   O3        1.0  0.10700  0.85100  0.00570  1.0000
+  O   O4        1.0  0.89300  0.14900  0.50600  1.0000
+  O   O5        1.0  0.85100  0.10700  0.00570  1.0000
+  O   O6        1.0  0.14900  0.89300  0.50600  1.0000
+  Pr  Pr1       1.0  0.10800  0.10800  0.24200  1.0000
+  Pr  Pr2       1.0  0.89200  0.89200  0.74200  1.0000

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ho2(CuAg)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22461952
+_cell_length_b   5.55950686
+_cell_length_c   9.08911817
+_cell_angle_alpha   72.19170617
+_cell_angle_beta   93.24355470
+_cell_angle_gamma   122.14400023
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2(CuAg)5
+_chemical_formula_sum   'Ho2 Cu5 Ag5'
+_cell_volume   210.97345846
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.99564300  0.99793700  0.99976900  1
+  Ho  Ho1  1  0.48997400  0.99380100  0.50237200  1
+  Cu  Cu2  1  0.69401900  0.37870700  0.93660400  1
+  Cu  Cu3  1  0.94524200  0.38445200  0.17633900  1
+  Cu  Cu4  1  0.43829600  0.37070200  0.69689200  1
+  Cu  Cu5  1  0.86910200  0.74677600  0.37555000  1
+  Cu  Cu6  1  0.36627600  0.74475400  0.87676700  1
+  Ag  Ag7  1  0.44578500  0.38372400  0.17905600  1
+  Ag  Ag8  1  0.93388900  0.37147200  0.69586600  1
+  Ag  Ag9  1  0.44578500  0.88300500  0.17905600  1
+  Ag  Ag10  1  0.93388900  0.86655100  0.69586600  1
+  Ag  Ag11  1  0.19209900  0.37811800  0.43586200  1

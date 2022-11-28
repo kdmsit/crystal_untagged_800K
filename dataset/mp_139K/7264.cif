@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_PdAu2(NCl2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.70038427
+_cell_length_b   8.62168424
+_cell_length_c   8.33349237
+_cell_angle_alpha   114.07421840
+_cell_angle_beta   104.10309760
+_cell_angle_gamma   112.29203961
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PdAu2(NCl2)4
+_chemical_formula_sum   'Pd1 Au2 N4 Cl8'
+_cell_volume   412.14574573
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pd  Pd0  1  0.50000000  0.00000000  0.00000000  1
+  Au  Au1  1  0.98366700  0.43935100  0.73423300  1
+  Au  Au2  1  0.01633300  0.56064900  0.26576700  1
+  N  N3  1  0.56043100  0.79308200  0.83230200  1
+  N  N4  1  0.43956900  0.20691800  0.16769800  1
+  N  N5  1  0.51534500  0.92124000  0.20325200  1
+  N  N6  1  0.48465500  0.07876000  0.79674800  1
+  Cl  Cl7  1  0.12395600  0.77086300  0.80466900  1
+  Cl  Cl8  1  0.87604400  0.22913700  0.19533100  1
+  Cl  Cl9  1  0.65535100  0.40028200  0.61069400  1
+  Cl  Cl10  1  0.34464900  0.59971800  0.38930600  1
+  Cl  Cl11  1  0.82586400  0.11726500  0.65699600  1
+  Cl  Cl12  1  0.17413600  0.88273500  0.34300400  1
+  Cl  Cl13  1  0.31379800  0.48331000  0.85273100  1
+  Cl  Cl14  1  0.68620200  0.51669000  0.14726900  1

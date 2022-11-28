@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Br4Ti6
+_chemical_formula_sum              "Br4 Ti6"
+_cell_length_a       6.58487
+_cell_length_b       6.58487
+_cell_length_c       6.26113
+_cell_angle_alpha    121.726
+_cell_angle_beta     58.2743
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.60600  0.39400  0.18300  1.0000
+  Br  Br2       1.0  0.89400  0.10600  0.31700  1.0000
+  Br  Br3       1.0  0.10600  0.89400  0.68300  1.0000
+  Br  Br4       1.0  0.39400  0.60600  0.81700  1.0000
+  Ti  Ti1       1.0  0.25000  0.98900  0.25000  1.0000
+  Ti  Ti2       1.0  0.48900  0.75000  0.25000  1.0000
+  Ti  Ti3       1.0  0.01100  0.51100  0.25000  1.0000
+  Ti  Ti4       1.0  0.98900  0.48900  0.75000  1.0000
+  Ti  Ti5       1.0  0.51100  0.25000  0.75000  1.0000
+  Ti  Ti6       1.0  0.75000  0.01100  0.75000  1.0000

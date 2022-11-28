@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ba2FeSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.45420800
+_cell_length_b   12.68645100
+_cell_length_c   12.97447100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2FeSe3
+_chemical_formula_sum   'Ba8 Fe4 Se12'
+_cell_volume   733.16259490
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25000000  0.32417700  0.98102300  1
+  Ba  Ba1  1  0.25000000  0.82417700  0.51897700  1
+  Ba  Ba2  1  0.75000000  0.67582300  0.01897700  1
+  Ba  Ba3  1  0.75000000  0.17582300  0.48102300  1
+  Ba  Ba4  1  0.25000000  0.98836200  0.17507100  1
+  Ba  Ba5  1  0.25000000  0.48836200  0.32492900  1
+  Ba  Ba6  1  0.75000000  0.01163800  0.82492900  1
+  Ba  Ba7  1  0.75000000  0.51163800  0.67507100  1
+  Fe  Fe8  1  0.25000000  0.24531900  0.69875600  1
+  Fe  Fe9  1  0.25000000  0.74531900  0.80124400  1
+  Fe  Fe10  1  0.75000000  0.75468100  0.30124400  1
+  Fe  Fe11  1  0.75000000  0.25468100  0.19875600  1
+  Se  Se12  1  0.25000000  0.36632600  0.55391400  1
+  Se  Se13  1  0.25000000  0.86632600  0.94608600  1
+  Se  Se14  1  0.75000000  0.63367400  0.44608600  1
+  Se  Se15  1  0.75000000  0.13367400  0.05391400  1
+  Se  Se16  1  0.25000000  0.06235800  0.64059200  1
+  Se  Se17  1  0.25000000  0.56235800  0.85940800  1
+  Se  Se18  1  0.75000000  0.93764200  0.35940800  1
+  Se  Se19  1  0.75000000  0.43764200  0.14059200  1
+  Se  Se20  1  0.25000000  0.72451000  0.21144400  1
+  Se  Se21  1  0.25000000  0.22451000  0.28855600  1
+  Se  Se22  1  0.75000000  0.27549000  0.78855600  1
+  Se  Se23  1  0.75000000  0.77549000  0.71144400  1

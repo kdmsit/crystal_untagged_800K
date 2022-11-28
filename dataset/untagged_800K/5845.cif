@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FeS4Ti2
+_chemical_formula_sum              "Fe1 S4 Ti2"
+_cell_length_a       3.35118
+_cell_length_b       5.88011
+_cell_length_c       6.62585
+_cell_angle_alpha    115.865
+_cell_angle_beta     104.648
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.00000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.11800  0.79300  0.23600  1.0000
+  S   S2        1.0  0.62300  0.29100  0.24500  1.0000
+  S   S3        1.0  0.37700  0.70900  0.75500  1.0000
+  S   S4        1.0  0.88200  0.20700  0.76400  1.0000
+  Ti  Ti1       1.0  0.74500  0.75500  0.49000  1.0000
+  Ti  Ti2       1.0  0.25500  0.24500  0.51000  1.0000

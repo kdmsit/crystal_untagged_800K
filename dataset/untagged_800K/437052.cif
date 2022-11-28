@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ca2Ni2O2S2
+_chemical_formula_sum              "Ca2 Ni2 O2 S2"
+_cell_length_a       3.82868
+_cell_length_b       3.70895
+_cell_length_c       11.1556
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    121.074
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.33500  0.67100  0.27100  1.0000
+  Ca  Ca2       1.0  0.66500  0.32900  0.77100  1.0000
+  Ni  Ni1       1.0  0.00532  0.01060  0.00237  1.0000
+  Ni  Ni2       1.0  0.99500  0.98900  0.50200  1.0000
+  O   O1        1.0  0.99600  0.99200  0.33400  1.0000
+  O   O2        1.0  0.00386  0.00772  0.83400  1.0000
+  S   S1        1.0  0.66400  0.32800  0.08090  1.0000
+  S   S2        1.0  0.33600  0.67200  0.58100  1.0000

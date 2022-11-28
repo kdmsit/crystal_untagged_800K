@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ga(BO)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.11250231
+_cell_length_b   5.96814683
+_cell_length_c   12.94396953
+_cell_angle_alpha   81.77303173
+_cell_angle_beta   73.77376277
+_cell_angle_gamma   59.19660564
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga(BO)6
+_chemical_formula_sum   'Ga1 B6 O6'
+_cell_volume   389.43036594
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.00000000  0.00000000  0.00000000  1
+  B  B1  1  0.71220100  0.00000000  0.50689200  1
+  B  B2  1  0.28779900  0.00000000  0.49310800  1
+  B  B3  1  0.65010200  0.43470700  0.99999700  1
+  B  B4  1  0.34989800  0.56529300  0.00000300  1
+  B  B5  1  0.08480800  0.56529300  0.99999700  1
+  B  B6  1  0.91519200  0.43470700  0.00000300  1
+  O  O7  1  0.58086800  0.24707700  0.50636500  1
+  O  O8  1  0.41913200  0.75292300  0.49363500  1
+  O  O9  1  0.71902500  0.00000000  0.00001200  1
+  O  O10  1  0.17205500  0.24707700  0.49363500  1
+  O  O11  1  0.28097500  0.00000000  0.99998800  1
+  O  O12  1  0.82794500  0.75292300  0.50636500  1

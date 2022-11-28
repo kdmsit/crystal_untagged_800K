@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CaCrF6
+_chemical_formula_sum              "Ca1 Cr1 F6"
+_cell_length_a       4.87939
+_cell_length_b       4.87939
+_cell_length_c       5.3796
+_cell_angle_alpha    116.969
+_cell_angle_beta     116.969
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.50000  0.50000  0.50000  1.0000
+  Cr  Cr1       1.0  0.00000  0.00000  0.00000  1.0000
+  F   F1        1.0  0.79300  0.03560  0.23000  1.0000
+  F   F2        1.0  0.03560  0.40100  0.23000  1.0000
+  F   F3        1.0  0.40100  0.79300  0.23000  1.0000
+  F   F4        1.0  0.59900  0.20700  0.77000  1.0000
+  F   F5        1.0  0.96400  0.59900  0.77000  1.0000
+  F   F6        1.0  0.20700  0.96400  0.77000  1.0000

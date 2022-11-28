@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li2Os3Ru2
+_chemical_formula_sum              "Li2 Os3 Ru2"
+_cell_length_a       6.53823
+_cell_length_b       6.53823
+_cell_length_c       6.53823
+_cell_angle_alpha    37.8431
+_cell_angle_beta     37.8431
+_cell_angle_gamma    37.8431
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.19600  0.19600  0.19600  1.0000
+  Li  Li2       1.0  0.76800  0.76800  0.76800  1.0000
+  Os  Os1       1.0  0.34300  0.34300  0.34300  1.0000
+  Os  Os2       1.0  0.62000  0.62000  0.62000  1.0000
+  Os  Os3       1.0  0.91200  0.91200  0.91200  1.0000
+  Ru  Ru1       1.0  0.05440  0.05440  0.05440  1.0000
+  Ru  Ru2       1.0  0.48200  0.48200  0.48200  1.0000

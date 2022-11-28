@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Nd3BeCrS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.98191528
+_cell_length_b   9.98191528
+_cell_length_c   5.99038400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999521
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd3BeCrS7
+_chemical_formula_sum   'Nd6 Be2 Cr2 S14'
+_cell_volume   516.90778648
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.86054800  0.25026600  0.25411000  1
+  Nd  Nd1  1  0.74973400  0.61028200  0.25411000  1
+  Nd  Nd2  1  0.38971800  0.13945200  0.25411000  1
+  Nd  Nd3  1  0.13945200  0.74973400  0.75411000  1
+  Nd  Nd4  1  0.25026600  0.38971800  0.75411000  1
+  Nd  Nd5  1  0.61028200  0.86054800  0.75411000  1
+  Be  Be6  1  0.66666700  0.33333300  0.83797500  1
+  Be  Be7  1  0.33333300  0.66666700  0.33797500  1
+  Cr  Cr8  1  0.00000000  0.00000000  0.48461600  1
+  Cr  Cr9  1  0.00000000  0.00000000  0.98461600  1
+  S  S10  1  0.92239600  0.14240700  0.72803000  1
+  S  S11  1  0.85759300  0.77998800  0.72803000  1
+  S  S12  1  0.22001200  0.07760400  0.72803000  1
+  S  S13  1  0.07760400  0.85759300  0.22803000  1
+  S  S14  1  0.14240700  0.22001200  0.22803000  1
+  S  S15  1  0.77998800  0.92239600  0.22803000  1
+  S  S16  1  0.59042300  0.10955500  0.97028000  1
+  S  S17  1  0.89044500  0.48086800  0.97028000  1
+  S  S18  1  0.51913200  0.40957700  0.97028000  1
+  S  S19  1  0.40957700  0.89044500  0.47028000  1
+  S  S20  1  0.10955500  0.51913200  0.47028000  1
+  S  S21  1  0.48086800  0.59042300  0.47028000  1
+  S  S22  1  0.66666700  0.33333300  0.48813200  1
+  S  S23  1  0.33333300  0.66666700  0.98813200  1

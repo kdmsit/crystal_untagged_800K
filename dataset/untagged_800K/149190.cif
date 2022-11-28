@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       CuMo6S8
+_chemical_formula_sum              "Cu1 Mo6 S8"
+_cell_length_a       6.48147
+_cell_length_b       6.48147
+_cell_length_c       6.48147
+_cell_angle_alpha    93.7777
+_cell_angle_beta     93.7777
+_cell_angle_gamma    93.7777
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Mo  Mo1       1.0  0.40600  0.54700  0.21400  1.0000
+  Mo  Mo2       1.0  0.54700  0.21400  0.40600  1.0000
+  Mo  Mo3       1.0  0.78600  0.59400  0.45300  1.0000
+  Mo  Mo4       1.0  0.21400  0.40600  0.54700  1.0000
+  Mo  Mo5       1.0  0.45300  0.78600  0.59400  1.0000
+  Mo  Mo6       1.0  0.59400  0.45300  0.78600  1.0000
+  S   S1        1.0  0.72600  0.37800  0.13500  1.0000
+  S   S2        1.0  0.20900  0.20900  0.20900  1.0000
+  S   S3        1.0  0.62200  0.86500  0.27400  1.0000
+  S   S4        1.0  0.13500  0.72600  0.37800  1.0000
+  S   S5        1.0  0.86500  0.27400  0.62200  1.0000
+  S   S6        1.0  0.37800  0.13500  0.72600  1.0000
+  S   S7        1.0  0.79100  0.79100  0.79100  1.0000
+  S   S8        1.0  0.27400  0.62200  0.86500  1.0000

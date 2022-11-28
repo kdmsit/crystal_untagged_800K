@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Mn(ReO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66748810
+_cell_length_b   5.83087200
+_cell_length_c   8.46372392
+_cell_angle_alpha   110.14899183
+_cell_angle_beta   111.91846506
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(ReO5)2
+_chemical_formula_sum   'Mn1 Re2 O10'
+_cell_volume   240.92857096
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Re  Re1  1  0.30068100  0.63428700  0.26857400  1
+  Re  Re2  1  0.69931900  0.36571300  0.73142600  1
+  O  O3  1  0.27312000  0.81396900  0.13056500  1
+  O  O4  1  0.27312000  0.31659600  0.13056500  1
+  O  O5  1  0.72688000  0.18603100  0.86943500  1
+  O  O6  1  0.72688000  0.68340400  0.86943500  1
+  O  O7  1  0.59514500  0.72626900  0.45253800  1
+  O  O8  1  0.40485500  0.27373100  0.54746200  1
+  O  O9  1  0.10078300  0.90714300  0.81428600  1
+  O  O10  1  0.89921700  0.09285700  0.18571400  1
+  O  O11  1  0.05680500  0.67325300  0.34650600  1
+  O  O12  1  0.94319500  0.32674700  0.65349400  1

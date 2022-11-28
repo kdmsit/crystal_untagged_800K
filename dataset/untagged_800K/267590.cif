@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AlCo2Pr2
+_chemical_formula_sum              "Al1 Co2 Pr2"
+_cell_length_a       4.07064
+_cell_length_b       5.58141
+_cell_length_c       5.62006
+_cell_angle_alpha    119.773
+_cell_angle_beta     111.232
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.00000  0.00000  0.00000  1.0000
+  Co  Co1       1.0  0.50000  0.27100  0.00000  1.0000
+  Co  Co2       1.0  0.50000  0.72900  0.00000  1.0000
+  Pr  Pr1       1.0  0.19900  0.69900  0.39800  1.0000
+  Pr  Pr2       1.0  0.80100  0.30100  0.60200  1.0000

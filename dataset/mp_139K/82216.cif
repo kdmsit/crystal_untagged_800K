@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Lu2CoGe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02958600
+_cell_length_b   3.95568600
+_cell_length_c   10.82234368
+_cell_angle_alpha   100.53030211
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2CoGe6
+_chemical_formula_sum   'Lu2 Co1 Ge6'
+_cell_volume   169.60046980
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.50000000  0.22279700  0.44559400  1
+  Lu  Lu1  1  0.50000000  0.88637700  0.77275300  1
+  Co  Co2  1  0.00000000  0.44431400  0.88862900  1
+  Ge  Ge3  1  0.50000000  0.50023400  0.00046900  1
+  Ge  Ge4  1  0.50000000  0.61817800  0.23635500  1
+  Ge  Ge5  1  0.00000000  0.00140300  0.00280600  1
+  Ge  Ge6  1  0.00000000  0.12039600  0.24079200  1
+  Ge  Ge7  1  0.00000000  0.33775500  0.67551000  1
+  Ge  Ge8  1  0.00000000  0.76154600  0.52309200  1

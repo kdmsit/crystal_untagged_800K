@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CrCo4SbO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06806867
+_cell_length_b   6.06806867
+_cell_length_c   6.13204066
+_cell_angle_alpha   60.80059336
+_cell_angle_beta   60.80059336
+_cell_angle_gamma   59.57538596
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrCo4SbO8
+_chemical_formula_sum   'Cr1 Co4 Sb1 O8'
+_cell_volume   161.02609957
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.00000000  0.00000000  0.50000000  1
+  Co  Co1  1  0.36212100  0.36212100  0.90186400  1
+  Co  Co2  1  0.63787900  0.63787900  0.09813600  1
+  Co  Co3  1  0.00000000  0.50000000  0.50000000  1
+  Co  Co4  1  0.50000000  0.00000000  0.50000000  1
+  Sb  Sb5  1  0.00000000  0.00000000  0.00000000  1
+  O  O6  1  0.23159100  0.23159100  0.28982600  1
+  O  O7  1  0.23044700  0.23044700  0.75869800  1
+  O  O8  1  0.22670200  0.77385100  0.75291900  1
+  O  O9  1  0.77385100  0.22670200  0.75291900  1
+  O  O10  1  0.76840900  0.76840900  0.71017400  1
+  O  O11  1  0.76955300  0.76955300  0.24130200  1
+  O  O12  1  0.77329800  0.22614900  0.24708100  1
+  O  O13  1  0.22614900  0.77329800  0.24708100  1

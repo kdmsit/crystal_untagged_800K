@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Na3Eu2(SiTe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.79650899
+_cell_length_b   7.79650899
+_cell_length_c   8.47864646
+_cell_angle_alpha   81.21415455
+_cell_angle_beta   81.21415455
+_cell_angle_gamma   119.99515446
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Eu2(SiTe3)2
+_chemical_formula_sum   'Na3 Eu2 Si2 Te6'
+_cell_volume   425.01963674
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.66848100  0.33151900  0.00000000  1
+  Na  Na1  1  0.33151900  0.66848100  0.00000000  1
+  Na  Na2  1  0.00000000  0.00000000  0.00000000  1
+  Eu  Eu3  1  0.83340800  0.16659200  0.50000000  1
+  Eu  Eu4  1  0.16659200  0.83340800  0.50000000  1
+  Si  Si5  1  0.54836200  0.54836200  0.35267400  1
+  Si  Si6  1  0.45163800  0.45163800  0.64732600  1
+  Te  Te7  1  0.58077000  0.89891300  0.25591500  1
+  Te  Te8  1  0.41923000  0.10108700  0.74408500  1
+  Te  Te9  1  0.10108700  0.41923000  0.74408500  1
+  Te  Te10  1  0.89891300  0.58077000  0.25591500  1
+  Te  Te11  1  0.26249100  0.26249100  0.25810700  1
+  Te  Te12  1  0.73750900  0.73750900  0.74189300  1

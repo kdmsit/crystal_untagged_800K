@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ge2H4O8Pr2
+_chemical_formula_sum              "Ge2 H4 O8 Pr2"
+_cell_length_a       6.43501
+_cell_length_b       6.43501
+_cell_length_c       6.43501
+_cell_angle_alpha    114.539
+_cell_angle_beta     99.7512
+_cell_angle_gamma    114.539
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ge  Ge2       1.0  0.75000  0.50000  0.25000  1.0000
+  H   H1        1.0  0.52400  0.50000  0.02450  1.0000
+  H   H2        1.0  0.22600  0.00000  0.22600  1.0000
+  H   H3        1.0  0.97600  0.50000  0.47600  1.0000
+  H   H4        1.0  0.77400  0.00000  0.77400  1.0000
+  O   O1        1.0  0.19600  0.83200  0.02690  1.0000
+  O   O2        1.0  0.55500  0.66900  0.22300  1.0000
+  O   O3        1.0  0.19500  0.16800  0.36400  1.0000
+  O   O4        1.0  0.11400  0.66800  0.44500  1.0000
+  O   O5        1.0  0.77700  0.33200  0.44600  1.0000
+  O   O6        1.0  0.63600  0.83100  0.80400  1.0000
+  O   O7        1.0  0.97300  0.16900  0.80500  1.0000
+  O   O8        1.0  0.55400  0.33100  0.88600  1.0000
+  Pr  Pr1       1.0  0.50000  0.00000  0.50000  1.0000
+  Pr  Pr2       1.0  0.25000  0.50000  0.75000  1.0000

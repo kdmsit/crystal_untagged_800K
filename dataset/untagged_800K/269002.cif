@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       Cu2Er6S14Si2
+_chemical_formula_sum              "Cu2 Er6 S14 Si2"
+_cell_length_a       9.8115
+_cell_length_b       9.81153
+_cell_length_c       5.65175
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.00000  0.00000  0.28700  1.0000
+  Cu  Cu2       1.0  0.00000  0.00000  0.78700  1.0000
+  Er  Er1       1.0  0.64300  0.77100  0.24900  1.0000
+  Er  Er2       1.0  0.22900  0.87200  0.24900  1.0000
+  Er  Er3       1.0  0.12800  0.35700  0.24900  1.0000
+  Er  Er4       1.0  0.77100  0.12800  0.74900  1.0000
+  Er  Er5       1.0  0.35700  0.22900  0.74900  1.0000
+  Er  Er6       1.0  0.87200  0.64300  0.74900  1.0000
+  S   S1        1.0  0.89500  0.41700  0.00853  1.0000
+  S   S2        1.0  0.52200  0.10500  0.00853  1.0000
+  S   S3        1.0  0.58300  0.47800  0.00853  1.0000
+  S   S4        1.0  0.33300  0.66700  0.03410  1.0000
+  S   S5        1.0  0.83500  0.09450  0.27400  1.0000
+  S   S6        1.0  0.26000  0.16500  0.27400  1.0000
+  S   S7        1.0  0.90500  0.74000  0.27400  1.0000
+  S   S8        1.0  0.10500  0.58300  0.50900  1.0000
+  S   S9        1.0  0.41700  0.52200  0.50900  1.0000
+  S   S10       1.0  0.47800  0.89500  0.50900  1.0000
+  S   S11       1.0  0.66700  0.33300  0.53400  1.0000
+  S   S12       1.0  0.09450  0.26000  0.77400  1.0000
+  S   S13       1.0  0.74000  0.83500  0.77400  1.0000
+  S   S14       1.0  0.16500  0.90500  0.77400  1.0000
+  Si  Si1       1.0  0.66700  0.33300  0.16100  1.0000
+  Si  Si2       1.0  0.33300  0.66700  0.66100  1.0000

@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Gd6Mn2Si6Ti4
+_chemical_formula_sum              "Gd6 Mn2 Si6 Ti4"
+_cell_length_a       8.47587
+_cell_length_b       8.47587
+_cell_length_c       5.64419
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.73100  0.73100  0.25000  1.0000
+  Gd  Gd2       1.0  0.00000  0.26900  0.25000  1.0000
+  Gd  Gd3       1.0  0.26900  0.00000  0.25000  1.0000
+  Gd  Gd4       1.0  0.26900  0.26900  0.75000  1.0000
+  Gd  Gd5       1.0  0.73100  0.00001  0.75000  1.0000
+  Gd  Gd6       1.0  0.00001  0.73100  0.75000  1.0000
+  Mn  Mn1       1.0  0.00000  0.00000  0.00000  1.0000
+  Mn  Mn2       1.0  0.00000  0.00000  0.50000  1.0000
+  Si  Si1       1.0  0.39700  0.39700  0.25000  1.0000
+  Si  Si2       1.0  0.00000  0.60300  0.25000  1.0000
+  Si  Si3       1.0  0.60300  0.00000  0.25000  1.0000
+  Si  Si4       1.0  0.60300  0.60300  0.75000  1.0000
+  Si  Si5       1.0  0.39700  0.00001  0.75000  1.0000
+  Si  Si6       1.0  0.00001  0.39700  0.75000  1.0000
+  Ti  Ti1       1.0  0.66700  0.33300  0.00000  1.0000
+  Ti  Ti2       1.0  0.33300  0.66700  0.00000  1.0000
+  Ti  Ti3       1.0  0.66700  0.33300  0.50000  1.0000
+  Ti  Ti4       1.0  0.33300  0.66700  0.50000  1.0000

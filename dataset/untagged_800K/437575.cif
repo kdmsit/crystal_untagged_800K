@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mg2Pt3Si2
+_chemical_formula_sum              "Mg2 Pt3 Si2"
+_cell_length_a       7.3892
+_cell_length_b       7.3892
+_cell_length_c       7.3892
+_cell_angle_alpha    33.9944
+_cell_angle_beta     33.9944
+_cell_angle_gamma    33.9944
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.23900  0.23900  0.23900  1.0000
+  Mg  Mg2       1.0  0.75600  0.75600  0.75600  1.0000
+  Pt  Pt1       1.0  0.37500  0.37500  0.37500  1.0000
+  Pt  Pt2       1.0  0.62700  0.62700  0.62700  1.0000
+  Pt  Pt3       1.0  0.87800  0.87800  0.87800  1.0000
+  Si  Si1       1.0  0.00188  0.00188  0.00188  1.0000
+  Si  Si2       1.0  0.49800  0.49800  0.49800  1.0000

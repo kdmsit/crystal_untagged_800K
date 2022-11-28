@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Cs2F12Ni4
+_chemical_formula_sum              "Cs2 F12 Ni4"
+_cell_length_a       7.00649
+_cell_length_b       7.01832
+_cell_length_c       7.01832
+_cell_angle_alpha    119.698
+_cell_angle_beta     119.944
+_cell_angle_gamma    60.0557
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.37400  0.37600  0.12400  1.0000
+  Cs  Cs2       1.0  0.62600  0.62400  0.87600  1.0000
+  F   F1        1.0  0.32500  0.92500  0.17600  1.0000
+  F   F2        1.0  0.92600  0.92500  0.17600  1.0000
+  F   F3        1.0  0.92600  0.32400  0.17600  1.0000
+  F   F4        1.0  0.67400  0.07580  0.42400  1.0000
+  F   F5        1.0  0.07420  0.67600  0.42500  1.0000
+  F   F6        1.0  0.67500  0.67600  0.42500  1.0000
+  F   F7        1.0  0.32500  0.32400  0.57500  1.0000
+  F   F8        1.0  0.92600  0.32400  0.57500  1.0000
+  F   F9        1.0  0.32600  0.92400  0.57600  1.0000
+  F   F10       1.0  0.07380  0.67600  0.82400  1.0000
+  F   F11       1.0  0.07420  0.07490  0.82400  1.0000
+  F   F12       1.0  0.67500  0.07490  0.82400  1.0000
+  Ni  Ni1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni2       1.0  0.50000  0.00000  0.50000  1.0000
+  Ni  Ni3       1.0  0.00000  0.00000  0.50000  1.0000
+  Ni  Ni4       1.0  0.00000  0.50000  0.50000  1.0000

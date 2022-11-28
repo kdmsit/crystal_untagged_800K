@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Fe2CuN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.44156861
+_cell_length_b   3.44156861
+_cell_length_c   5.80107946
+_cell_angle_alpha   107.25603773
+_cell_angle_beta   107.25603773
+_cell_angle_gamma   89.99795152
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2CuN2
+_chemical_formula_sum   'Fe2 Cu1 N2'
+_cell_volume   62.37186544
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.98120800  0.51879200  0.50000000  1
+  Fe  Fe1  1  0.48120800  0.01879200  0.50000000  1
+  Cu  Cu2  1  0.23156400  0.26843600  0.00000000  1
+  N  N3  1  0.05686800  0.09444800  0.65131600  1
+  N  N4  1  0.40555200  0.44313200  0.34868400  1

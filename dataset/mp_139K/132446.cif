@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Na3ReN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.66639039
+_cell_length_b   7.66458756
+_cell_length_c   4.97140600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.93868464
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3ReN3
+_chemical_formula_sum   'Na6 Re2 N6'
+_cell_volume   253.13813945
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.83089400  0.65930300  0.25000000  1
+  Na  Na1  1  0.82857600  0.16873300  0.25000000  1
+  Na  Na2  1  0.34113000  0.17187300  0.25000000  1
+  Na  Na3  1  0.16910600  0.34069700  0.75000000  1
+  Na  Na4  1  0.17142400  0.83126700  0.75000000  1
+  Na  Na5  1  0.65887000  0.82812700  0.75000000  1
+  Re  Re6  1  0.66704900  0.33337300  0.75000000  1
+  Re  Re7  1  0.33295100  0.66662700  0.25000000  1
+  N  N8  1  0.80401500  0.60564700  0.75000000  1
+  N  N9  1  0.80160300  0.19581200  0.75000000  1
+  N  N10  1  0.39445900  0.19854000  0.75000000  1
+  N  N11  1  0.19598500  0.39435300  0.25000000  1
+  N  N12  1  0.19839700  0.80418800  0.25000000  1
+  N  N13  1  0.60554100  0.80146000  0.25000000  1

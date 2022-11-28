@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_BaFeCuPb2ClO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97283400
+_cell_length_b   3.97283400
+_cell_length_c   11.59392800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaFeCuPb2ClO5
+_chemical_formula_sum   'Ba1 Fe1 Cu1 Pb2 Cl1 O5'
+_cell_volume   182.99171904
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.50000000  0.51404800  1
+  Fe  Fe1  1  0.00000000  0.00000000  0.32540800  1
+  Cu  Cu2  1  0.00000000  0.00000000  0.68934400  1
+  Pb  Pb3  1  0.50000000  0.50000000  0.83231500  1
+  Pb  Pb4  1  0.50000000  0.50000000  0.16108400  1
+  Cl  Cl5  1  0.00000000  0.00000000  0.00670800  1
+  O  O6  1  0.00000000  0.50000000  0.70649100  1
+  O  O7  1  0.50000000  0.00000000  0.70649100  1
+  O  O8  1  0.00000000  0.50000000  0.28555600  1
+  O  O9  1  0.50000000  0.00000000  0.28555600  1
+  O  O10  1  0.00000000  0.00000000  0.48699900  1

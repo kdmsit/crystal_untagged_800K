@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaCaTaTiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55056900
+_cell_length_b   5.45648400
+_cell_length_c   9.48649744
+_cell_angle_alpha   54.81666325
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCaTaTiO6
+_chemical_formula_sum   'Na2 Ca2 Ta2 Ti2 O12'
+_cell_volume   234.82505365
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.22613000  0.74565700  0.24992900  1
+  Na  Na1  1  0.77387000  0.74565700  0.74992900  1
+  Ca  Ca2  1  0.70496300  0.26281000  0.25000700  1
+  Ca  Ca3  1  0.29503700  0.26281000  0.75000700  1
+  Ta  Ta4  1  0.24396900  0.50619600  0.99977600  1
+  Ta  Ta5  1  0.75603100  0.50619600  0.49977600  1
+  Ti  Ti6  1  0.24497900  0.00942000  0.49695600  1
+  Ti  Ti7  1  0.75502100  0.00942000  0.99695600  1
+  O  O8  1  0.73230200  0.17326300  0.75194700  1
+  O  O9  1  0.46989000  0.31470500  0.46214500  1
+  O  O10  1  0.46902200  0.74113200  0.03899000  1
+  O  O11  1  0.96225200  0.24926200  0.45681000  1
+  O  O12  1  0.95731000  0.66380800  0.04435700  1
+  O  O13  1  0.23327000  0.83374700  0.74908500  1
+  O  O14  1  0.26769800  0.17326300  0.25194700  1
+  O  O15  1  0.53011000  0.31470500  0.96214500  1
+  O  O16  1  0.53097800  0.74113200  0.53899000  1
+  O  O17  1  0.03774800  0.24926200  0.95681000  1
+  O  O18  1  0.04269000  0.66380800  0.54435700  1
+  O  O19  1  0.76673000  0.83374700  0.24908500  1

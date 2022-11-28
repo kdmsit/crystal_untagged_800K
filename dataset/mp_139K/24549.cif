@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_U2MnNiSe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91443900
+_cell_length_b   6.16679883
+_cell_length_c   9.25044034
+_cell_angle_alpha   88.97386460
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   71.49544403
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2MnNiSe6
+_chemical_formula_sum   'U2 Mn1 Ni1 Se6'
+_cell_volume   211.71873376
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.73525300  0.52949500  0.24445200  1
+  U  U1  1  0.26474700  0.47050500  0.75554800  1
+  Mn  Mn2  1  0.50000000  0.00000000  0.50000000  1
+  Ni  Ni3  1  0.50000000  0.00000000  0.00000000  1
+  Se  Se4  1  0.13922300  0.72155400  0.04712700  1
+  Se  Se5  1  0.86077700  0.27844600  0.95287300  1
+  Se  Se6  1  0.14306100  0.71387700  0.44758200  1
+  Se  Se7  1  0.85693900  0.28612300  0.55241800  1
+  Se  Se8  1  0.41709600  0.16580800  0.24423000  1
+  Se  Se9  1  0.58290400  0.83419200  0.75577000  1

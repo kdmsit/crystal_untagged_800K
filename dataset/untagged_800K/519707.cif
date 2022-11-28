@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ag4Ge4O4Se4
+_chemical_formula_sum              "Ag4 Ge4 O4 Se4"
+_cell_length_a       6.12352
+_cell_length_b       9.53568
+_cell_length_c       5.24398
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.36200  0.09490  0.01520  1.0000
+  Ag  Ag2       1.0  0.86200  0.90500  0.01520  1.0000
+  Ag  Ag3       1.0  0.13800  0.09490  0.51500  1.0000
+  Ag  Ag4       1.0  0.63800  0.90500  0.51500  1.0000
+  Ge  Ge1       1.0  0.91900  0.30500  0.06970  1.0000
+  Ge  Ge2       1.0  0.41900  0.69500  0.06970  1.0000
+  Ge  Ge3       1.0  0.58100  0.30500  0.57000  1.0000
+  Ge  Ge4       1.0  0.08070  0.69500  0.57000  1.0000
+  O   O1        1.0  0.96800  0.12400  0.08680  1.0000
+  O   O2        1.0  0.46800  0.87600  0.08680  1.0000
+  O   O3        1.0  0.53200  0.12400  0.58700  1.0000
+  O   O4        1.0  0.03160  0.87600  0.58700  1.0000
+  Se  Se1       1.0  0.50500  0.35200  0.07830  1.0000
+  Se  Se2       1.0  0.00487  0.64800  0.07830  1.0000
+  Se  Se3       1.0  0.99500  0.35200  0.57800  1.0000
+  Se  Se4       1.0  0.49500  0.64800  0.57800  1.0000

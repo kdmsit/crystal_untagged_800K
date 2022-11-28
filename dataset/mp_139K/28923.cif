@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CaNdFeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.59220695
+_cell_length_b   6.59220695
+_cell_length_c   5.66909600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   131.06182226
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaNdFeO4
+_chemical_formula_sum   'Ca2 Nd2 Fe2 O8'
+_cell_volume   185.75800753
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.60366700  0.39633300  0.51960500  1
+  Ca  Ca1  1  0.39633300  0.60366700  0.01960500  1
+  Nd  Nd2  1  0.88946700  0.11053300  0.48099200  1
+  Nd  Nd3  1  0.11053300  0.88946700  0.98099200  1
+  Fe  Fe4  1  0.25287200  0.74712800  0.49697000  1
+  Fe  Fe5  1  0.74712800  0.25287200  0.99697000  1
+  O  O6  1  0.42023600  0.57976400  0.43093600  1
+  O  O7  1  0.07502700  0.92497300  0.57028000  1
+  O  O8  1  0.57976400  0.42023600  0.93093600  1
+  O  O9  1  0.92497300  0.07502700  0.07028000  1
+  O  O10  1  0.52021400  0.97698700  0.75060900  1
+  O  O11  1  0.47978600  0.02301300  0.25060900  1
+  O  O12  1  0.97698700  0.52021400  0.25060900  1
+  O  O13  1  0.02301300  0.47978600  0.75060900  1

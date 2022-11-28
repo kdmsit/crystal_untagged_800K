@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_KNaHg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.99764451
+_cell_length_b   12.99764451
+_cell_length_c   12.99764451
+_cell_angle_alpha   120.56067267
+_cell_angle_beta   117.56626097
+_cell_angle_gamma   91.64893673
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaHg2
+_chemical_formula_sum   'K1 Na1 Hg2'
+_cell_volume   1572.64573195
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.00000000  0.50000000  1
+  Na  Na1  1  0.00000000  0.00000000  0.00000000  1
+  Hg  Hg2  1  0.23718700  0.00000000  0.23718700  1
+  Hg  Hg3  1  0.76281300  0.00000000  0.76281300  1

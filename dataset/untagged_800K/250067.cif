@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Br4Nb6
+_chemical_formula_sum              "Br4 Nb6"
+_cell_length_a       6.90044
+_cell_length_b       6.90044
+_cell_length_c       6.14695
+_cell_angle_alpha    124.145
+_cell_angle_beta     55.8549
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.60400  0.39600  0.18700  1.0000
+  Br  Br2       1.0  0.89600  0.10400  0.31300  1.0000
+  Br  Br3       1.0  0.10400  0.89600  0.68700  1.0000
+  Br  Br4       1.0  0.39600  0.60400  0.81300  1.0000
+  Nb  Nb1       1.0  0.50300  0.75000  0.25000  1.0000
+  Nb  Nb2       1.0  0.25000  0.00318  0.25000  1.0000
+  Nb  Nb3       1.0  0.99700  0.49700  0.25000  1.0000
+  Nb  Nb4       1.0  0.00318  0.50300  0.75000  1.0000
+  Nb  Nb5       1.0  0.75000  0.99700  0.75000  1.0000
+  Nb  Nb6       1.0  0.49700  0.25000  0.75000  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ba2Se4
+_chemical_formula_sum              "Ba2 Se4"
+_cell_length_a       5.00184
+_cell_length_b       5.47498
+_cell_length_c       8.71087
+_cell_angle_alpha    100.064
+_cell_angle_beta     106.685
+_cell_angle_gamma    62.8198
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.13100  0.25000  0.25000  1.0000
+  Ba  Ba2       1.0  0.86900  0.75000  0.75000  1.0000
+  Se  Se1       1.0  0.52800  0.71700  0.02770  1.0000
+  Se  Se2       1.0  0.21700  0.78300  0.47200  1.0000
+  Se  Se3       1.0  0.78300  0.21700  0.52800  1.0000
+  Se  Se4       1.0  0.47200  0.28300  0.97200  1.0000

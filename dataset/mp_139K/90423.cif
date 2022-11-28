@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_H2CBrCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.86739600
+_cell_length_b   6.85111370
+_cell_length_c   15.90552770
+_cell_angle_alpha   91.99901258
+_cell_angle_beta   81.19862379
+_cell_angle_gamma   110.80733436
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H2CBrCl
+_chemical_formula_sum   'H8 C4 Br4 Cl4'
+_cell_volume   489.86303058
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.01466000  0.79661700  0.53996100  1
+  H  H1  1  0.25800500  0.70338300  0.96003900  1
+  H  H2  1  0.98534000  0.20338300  0.46003900  1
+  H  H3  1  0.74199500  0.29661700  0.03996100  1
+  H  H4  1  0.82886100  0.78886600  0.64859000  1
+  H  H5  1  0.18858600  0.71113400  0.85141000  1
+  H  H6  1  0.17113900  0.21113400  0.35141000  1
+  H  H7  1  0.81141400  0.28886600  0.14859000  1
+  C  C8  1  0.03166100  0.79225700  0.60746600  1
+  C  C9  1  0.34686900  0.70774300  0.89253400  1
+  C  C10  1  0.96833900  0.20774300  0.39253400  1
+  C  C11  1  0.65313100  0.29225700  0.10746600  1
+  Br  Br12  1  0.34525300  0.05287100  0.63085900  1
+  Br  Br13  1  0.42324000  0.44712900  0.86914100  1
+  Br  Br14  1  0.65474700  0.94712900  0.36914100  1
+  Br  Br15  1  0.57676000  0.55287100  0.13085900  1
+  Cl  Cl16  1  0.10949200  0.56756200  0.62923900  1
+  Cl  Cl17  1  0.67116900  0.93243800  0.87076100  1
+  Cl  Cl18  1  0.89050800  0.43243800  0.37076100  1
+  Cl  Cl19  1  0.32883100  0.06756200  0.12923900  1

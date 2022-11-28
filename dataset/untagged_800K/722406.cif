@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_La(TmS2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98129800
+_cell_length_b   11.05951800
+_cell_length_c   11.27283321
+_cell_angle_alpha   71.03862662
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La(TmS2)3
+_chemical_formula_sum   'La2 Tm6 S12'
+_cell_volume   469.42340106
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.75000000  0.55068700  0.80454800  1
+  La  La1  1  0.25000000  0.44931300  0.19545200  1
+  Tm  Tm2  1  0.75000000  0.17885200  0.99989300  1
+  Tm  Tm3  1  0.25000000  0.82114800  0.00010700  1
+  Tm  Tm4  1  0.75000000  0.94417800  0.66609900  1
+  Tm  Tm5  1  0.25000000  0.05582200  0.33390100  1
+  Tm  Tm6  1  0.75000000  0.66089300  0.41228300  1
+  Tm  Tm7  1  0.25000000  0.33910700  0.58771700  1
+  S  S8  1  0.75000000  0.97801100  0.88840700  1
+  S  S9  1  0.25000000  0.02198900  0.11159300  1
+  S  S10  1  0.75000000  0.30205300  0.74862800  1
+  S  S11  1  0.25000000  0.69794700  0.25137200  1
+  S  S12  1  0.75000000  0.89303900  0.44263600  1
+  S  S13  1  0.25000000  0.10696100  0.55736400  1
+  S  S14  1  0.75000000  0.41880500  0.40797800  1
+  S  S15  1  0.25000000  0.58119500  0.59202200  1
+  S  S16  1  0.75000000  0.22980100  0.23065600  1
+  S  S17  1  0.25000000  0.77019900  0.76934400  1
+  S  S18  1  0.75000000  0.62169600  0.03644200  1
+  S  S19  1  0.25000000  0.37830400  0.96355800  1

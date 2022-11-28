@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cd2O12Pb4U2
+_chemical_formula_sum              "Cd2 O12 Pb4 U2"
+_cell_length_a       5.93118
+_cell_length_b       6.07529
+_cell_length_c       8.53678
+_cell_angle_alpha    90
+_cell_angle_beta     90.1999
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.50000  0.00000  0.00000  1.0000
+  Cd  Cd2       1.0  0.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.69400  0.32500  0.03270  1.0000
+  O   O2        1.0  0.83000  0.78300  0.05090  1.0000
+  O   O3        1.0  0.09630  0.46100  0.24300  1.0000
+  O   O4        1.0  0.40400  0.96100  0.25700  1.0000
+  O   O5        1.0  0.67000  0.28300  0.44900  1.0000
+  O   O6        1.0  0.80600  0.82500  0.46700  1.0000
+  O   O7        1.0  0.19400  0.17500  0.53300  1.0000
+  O   O8        1.0  0.33000  0.71700  0.55100  1.0000
+  O   O9        1.0  0.59600  0.03940  0.74300  1.0000
+  O   O10       1.0  0.90400  0.53900  0.75700  1.0000
+  O   O11       1.0  0.17000  0.21700  0.94900  1.0000
+  O   O12       1.0  0.30600  0.67500  0.96700  1.0000
+  Pb  Pb1       1.0  0.49400  0.54200  0.23900  1.0000
+  Pb  Pb2       1.0  0.00620  0.04230  0.26100  1.0000
+  Pb  Pb3       1.0  0.99400  0.95800  0.73900  1.0000
+  Pb  Pb4       1.0  0.50600  0.45800  0.76100  1.0000
+  U   U1        1.0  0.00000  0.50000  0.00000  1.0000
+  U   U2        1.0  0.50000  0.00000  0.50000  1.0000

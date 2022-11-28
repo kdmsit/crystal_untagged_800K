@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_SiB
+_symmetry_space_group_name_H-M  'P6_3mc'
+_cell_length_a       3.20536
+_cell_length_b       3.20536
+_cell_length_c       5.84315
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  186
+_chemical_formula_structural  SiB
+_chemical_formula_sum  Si2B2
+_cell_volume  51.99110314562481
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.33333  0.66667  0.01708  1
+ B  B2  1  0.66667  0.33333  0.51708  1
+ Si  Si1  1  0.33333  0.66667  0.35792  1
+ Si  Si2  1  0.66667  0.33333  0.85792  1

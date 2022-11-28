@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_BaFe2S3
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       5.16467
+_cell_length_b       6.85476
+_cell_length_c       6.85477
+_cell_angle_alpha    101.004
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  BaFe2S3
+_chemical_formula_sum  Ba2Fe4S6
+_cell_volume  238.21465201191967
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.25000  0.32096  0.67904  1
+ Ba  Ba2  1  0.75000  0.67904  0.32096  1
+ Fe  Fe1  1  0.00000  0.85443  0.85443  1
+ Fe  Fe2  1  0.00000  0.14557  0.14557  1
+ Fe  Fe3  1  0.50000  0.14557  0.14557  1
+ Fe  Fe4  1  0.50000  0.85443  0.85443  1
+ S  S1  1  0.75000  0.17874  0.40287  1
+ S  S2  1  0.25000  0.82126  0.59713  1
+ S  S3  1  0.25000  0.40287  0.17874  1
+ S  S4  1  0.75000  0.59713  0.82126  1
+ S  S5  1  0.75000  0.11250  0.88750  1
+ S  S6  1  0.25000  0.88750  0.11250  1

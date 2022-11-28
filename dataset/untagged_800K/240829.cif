@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Pt6Tm10
+_chemical_formula_sum              "Pt6 Tm10"
+_cell_length_a       8.32892
+_cell_length_b       8.32892
+_cell_length_c       6.05806
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.60500  0.00000  0.25000  1.0000
+  Pt  Pt2       1.0  0.00000  0.60500  0.25000  1.0000
+  Pt  Pt3       1.0  0.39500  0.39500  0.25000  1.0000
+  Pt  Pt4       1.0  0.39500  1.00000  0.75000  1.0000
+  Pt  Pt5       1.0  0.00000  0.39500  0.75000  1.0000
+  Pt  Pt6       1.0  0.60500  0.60500  0.75000  1.0000
+  Tm  Tm1       1.0  0.66700  0.33300  0.00000  1.0000
+  Tm  Tm2       1.0  0.33300  0.66700  0.00000  1.0000
+  Tm  Tm3       1.0  0.75400  0.75400  0.25000  1.0000
+  Tm  Tm4       1.0  0.24600  1.00000  0.25000  1.0000
+  Tm  Tm5       1.0  0.00000  0.24600  0.25000  1.0000
+  Tm  Tm6       1.0  0.66700  0.33300  0.50000  1.0000
+  Tm  Tm7       1.0  0.33300  0.66700  0.50000  1.0000
+  Tm  Tm8       1.0  0.24600  0.24600  0.75000  1.0000
+  Tm  Tm9       1.0  0.75400  0.00000  0.75000  1.0000
+  Tm  Tm10      1.0  0.00000  0.75400  0.75000  1.0000

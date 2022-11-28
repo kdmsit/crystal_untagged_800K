@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CsTi2Cl7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.36135600
+_cell_length_b   7.29414700
+_cell_length_c   12.27275802
+_cell_angle_alpha   88.08727812
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsTi2Cl7
+_chemical_formula_sum   'Cs2 Ti4 Cl14'
+_cell_volume   569.14685445
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.37425100  0.50000000  0.25000000  1
+  Cs  Cs1  1  0.62574900  0.50000000  0.75000000  1
+  Ti  Ti2  1  0.75869800  0.93158800  0.43084800  1
+  Ti  Ti3  1  0.75869800  0.06841200  0.06915200  1
+  Ti  Ti4  1  0.24130200  0.06841200  0.56915200  1
+  Ti  Ti5  1  0.24130200  0.93158800  0.93084800  1
+  Cl  Cl6  1  0.86986900  0.64999500  0.37915500  1
+  Cl  Cl7  1  0.86986900  0.35000500  0.12084500  1
+  Cl  Cl8  1  0.13013100  0.35000500  0.62084500  1
+  Cl  Cl9  1  0.13013100  0.64999500  0.87915500  1
+  Cl  Cl10  1  0.40628500  0.00000000  0.75000000  1
+  Cl  Cl11  1  0.59371500  0.00000000  0.25000000  1
+  Cl  Cl12  1  0.06874500  0.88897800  0.11126200  1
+  Cl  Cl13  1  0.06874500  0.11102200  0.38873800  1
+  Cl  Cl14  1  0.93125500  0.11102200  0.88873800  1
+  Cl  Cl15  1  0.93125500  0.88897800  0.61126200  1
+  Cl  Cl16  1  0.57693900  0.79102100  0.00195200  1
+  Cl  Cl17  1  0.57693900  0.20897900  0.49804800  1
+  Cl  Cl18  1  0.42306100  0.20897900  0.99804800  1
+  Cl  Cl19  1  0.42306100  0.79102100  0.50195200  1

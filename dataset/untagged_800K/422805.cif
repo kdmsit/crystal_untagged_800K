@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       B2Hg2Ti3
+_chemical_formula_sum              "B2 Hg2 Ti3"
+_cell_length_a       9.23266
+_cell_length_b       9.23266
+_cell_length_c       9.23266
+_cell_angle_alpha    23.5501
+_cell_angle_beta     23.5501
+_cell_angle_gamma    23.5501
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.54600  0.54600  0.54600  1.0000
+  B   B2        1.0  0.99400  0.99400  0.99400  1.0000
+  Hg  Hg1       1.0  0.16900  0.16900  0.16900  1.0000
+  Hg  Hg2       1.0  0.76300  0.76300  0.76300  1.0000
+  Ti  Ti1       1.0  0.36300  0.36300  0.36300  1.0000
+  Ti  Ti2       1.0  0.63600  0.63600  0.63600  1.0000
+  Ti  Ti3       1.0  0.90400  0.90400  0.90400  1.0000

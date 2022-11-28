@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AuCrS2
+_chemical_formula_sum              "Au1 Cr1 S2"
+_cell_length_a       3.53611
+_cell_length_b       3.53612
+_cell_length_c       7.43341
+_cell_angle_alpha    89.9998
+_cell_angle_beta     103.76
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.33400  0.16700  0.50100  1.0000
+  Cr  Cr1       1.0  0.33400  0.66700  0.00129  1.0000
+  S   S1        1.0  0.11700  0.05870  0.17600  1.0000
+  S   S2        1.0  0.55100  0.27500  0.82600  1.0000

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ta2Zn2SnO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.92061938
+_cell_length_b   10.92061938
+_cell_length_c   5.43407088
+_cell_angle_alpha   88.45722218
+_cell_angle_beta   88.45722218
+_cell_angle_gamma   31.91045893
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2Zn2SnO8
+_chemical_formula_sum   'Ta4 Zn4 Sn2 O16'
+_cell_volume   342.42949054
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.02844200  0.72001500  0.22435100  1
+  Ta  Ta1  1  0.27998500  0.97155800  0.27564900  1
+  Ta  Ta2  1  0.97155800  0.27998500  0.77564900  1
+  Ta  Ta3  1  0.72001500  0.02844200  0.72435100  1
+  Zn  Zn4  1  0.87059900  0.56880300  0.27706500  1
+  Zn  Zn5  1  0.43119700  0.12940100  0.22293500  1
+  Zn  Zn6  1  0.12940100  0.43119700  0.72293500  1
+  Zn  Zn7  1  0.56880300  0.87059900  0.77706500  1
+  Sn  Sn8  1  0.67854900  0.32145100  0.25000000  1
+  Sn  Sn9  1  0.32145100  0.67854900  0.75000000  1
+  O  O10  1  0.00777100  0.82746100  0.53587200  1
+  O  O11  1  0.17253900  0.99222900  0.96412800  1
+  O  O12  1  0.99222900  0.17253900  0.46412800  1
+  O  O13  1  0.82746100  0.00777100  0.03587200  1
+  O  O14  1  0.30538800  0.55862600  0.12527500  1
+  O  O15  1  0.44137400  0.69461200  0.37472500  1
+  O  O16  1  0.69461200  0.44137400  0.87472500  1
+  O  O17  1  0.55862600  0.30538800  0.62527500  1
+  O  O18  1  0.93108600  0.70686100  0.92097900  1
+  O  O19  1  0.29313900  0.06891400  0.57902100  1
+  O  O20  1  0.45221900  0.14928900  0.85619000  1
+  O  O21  1  0.85071100  0.54778100  0.64381000  1
+  O  O22  1  0.54778100  0.85071100  0.14381000  1
+  O  O23  1  0.14928900  0.45221900  0.35619000  1
+  O  O24  1  0.70686100  0.93108600  0.42097900  1
+  O  O25  1  0.06891400  0.29313900  0.07902100  1

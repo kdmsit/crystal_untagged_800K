@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbCoN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.49525700
+_cell_length_b   6.48449000
+_cell_length_c   10.88834500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCoN
+_chemical_formula_sum   'Rb4 Co4 N4'
+_cell_volume   246.78389370
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.25000000  0.07876100  0.66288700  1
+  Rb  Rb1  1  0.25000000  0.42123900  0.16288700  1
+  Rb  Rb2  1  0.75000000  0.92123900  0.33711300  1
+  Rb  Rb3  1  0.75000000  0.57876100  0.83711300  1
+  Co  Co4  1  0.25000000  0.59329500  0.54454400  1
+  Co  Co5  1  0.25000000  0.90670500  0.04454400  1
+  Co  Co6  1  0.75000000  0.40670500  0.45545600  1
+  Co  Co7  1  0.75000000  0.09329500  0.95545600  1
+  N  N8  1  0.25000000  0.14160100  0.93468600  1
+  N  N9  1  0.25000000  0.35839900  0.43468600  1
+  N  N10  1  0.75000000  0.85839900  0.06531400  1
+  N  N11  1  0.75000000  0.64160100  0.56531400  1

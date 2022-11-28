@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_In2CuTe3Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19148500
+_cell_length_b   6.22651196
+_cell_length_c   7.44897989
+_cell_angle_alpha   114.62555829
+_cell_angle_beta   113.02636317
+_cell_angle_gamma   89.18109448
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2CuTe3Cl
+_chemical_formula_sum   'In2 Cu1 Te3 Cl1'
+_cell_volume   236.42603888
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.01933600  0.99270700  0.99567900  1
+  In  In1  1  0.75558800  0.25579600  0.51670100  1
+  Cu  Cu2  1  0.46603800  0.52293400  0.98049100  1
+  Te  Te3  1  0.59190700  0.65463500  0.74816400  1
+  Te  Te4  1  0.17782900  0.12203500  0.74111100  1
+  Te  Te5  1  0.38141700  0.85441200  0.28022100  1
+  Cl  Cl6  1  0.85788500  0.34748200  0.23763300  1

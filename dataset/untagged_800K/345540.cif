@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ca3MnP3
+_chemical_formula_sum              "Ca3 Mn1 P3"
+_cell_length_a       3.9514
+_cell_length_b       5.77152
+_cell_length_c       7.42656
+_cell_angle_alpha    73.481
+_cell_angle_beta     74.5647
+_cell_angle_gamma    69.9892
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.42400  0.29600  0.23100  1.0000
+  Ca  Ca2       1.0  0.08870  0.71300  0.48500  1.0000
+  Ca  Ca3       1.0  0.26800  0.97900  0.86100  1.0000
+  Mn  Mn1       1.0  0.57600  0.43300  0.79100  1.0000
+  P   P1        1.0  0.71700  0.77600  0.16500  1.0000
+  P   P2        1.0  0.80000  0.22400  0.55100  1.0000
+  P   P3        1.0  0.95300  0.54000  0.92900  1.0000

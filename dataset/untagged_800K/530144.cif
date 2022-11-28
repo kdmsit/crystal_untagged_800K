@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Fe2Gd2O2Te2
+_chemical_formula_sum              "Fe2 Gd2 O2 Te2"
+_cell_length_a       5.15513
+_cell_length_b       5.15513
+_cell_length_c       8.73368
+_cell_angle_alpha    72.8264
+_cell_angle_beta     107.174
+_cell_angle_gamma    119.993
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.38300  0.61700  0.14900  1.0000
+  Fe  Fe2       1.0  0.61700  0.38300  0.85100  1.0000
+  Gd  Gd1       1.0  0.77500  0.22500  0.32500  1.0000
+  Gd  Gd2       1.0  0.22500  0.77500  0.67500  1.0000
+  O   O1        1.0  0.69400  0.30600  0.08210  1.0000
+  O   O2        1.0  0.30600  0.69400  0.91800  1.0000
+  Te  Te1       1.0  0.08930  0.91100  0.26800  1.0000
+  Te  Te2       1.0  0.91100  0.08920  0.73200  1.0000

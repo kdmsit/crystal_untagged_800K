@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Mg2Bi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.28784740
+_cell_length_b   6.28784740
+_cell_length_c   7.99610818
+_cell_angle_alpha   68.86549753
+_cell_angle_beta   68.86549753
+_cell_angle_gamma   32.42371351
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2Bi
+_chemical_formula_sum   'Mg4 Bi2'
+_cell_volume   157.10452080
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.13021400  0.13021400  0.97226400  1
+  Mg  Mg1  1  0.86978600  0.86978600  0.02773600  1
+  Mg  Mg2  1  0.44909900  0.44909900  0.30526700  1
+  Mg  Mg3  1  0.55090100  0.55090100  0.69473300  1
+  Bi  Bi4  1  0.17699500  0.17699500  0.32266200  1
+  Bi  Bi5  1  0.82300500  0.82300500  0.67733800  1

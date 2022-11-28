@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       H4K2O4P2
+_chemical_formula_sum              "H4 K2 O4 P2"
+_cell_length_a       5.11296
+_cell_length_b       5.11296
+_cell_length_c       7.13667
+_cell_angle_alpha    108.58
+_cell_angle_beta     71.4199
+_cell_angle_gamma    90.4778
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.07960  0.80900  0.09370  1.0000
+  H   H2        1.0  0.80900  0.07960  0.40600  1.0000
+  H   H3        1.0  0.19100  0.92000  0.59400  1.0000
+  H   H4        1.0  0.92000  0.19100  0.90600  1.0000
+  K   K1        1.0  0.35600  0.35600  0.25000  1.0000
+  K   K2        1.0  0.64400  0.64400  0.75000  1.0000
+  O   O1        1.0  0.58800  0.83300  0.16100  1.0000
+  O   O2        1.0  0.83300  0.58800  0.33900  1.0000
+  O   O3        1.0  0.16700  0.41200  0.66100  1.0000
+  O   O4        1.0  0.41200  0.16700  0.83900  1.0000
+  P   P1        1.0  0.82000  0.82000  0.25000  1.0000
+  P   P2        1.0  0.18000  0.18000  0.75000  1.0000

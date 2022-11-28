@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Fe(NiAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95940055
+_cell_length_b   6.95940055
+_cell_length_c   6.95940055
+_cell_angle_alpha   128.59136152
+_cell_angle_beta   120.16591927
+_cell_angle_gamma   82.74604015
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe(NiAs)2
+_chemical_formula_sum   'Fe3 Ni6 As6'
+_cell_volume   218.86522907
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50000000  0.85336100  0.35336100  1
+  Fe  Fe1  1  0.79259600  0.24123700  0.44864100  1
+  Fe  Fe2  1  0.20740400  0.65604400  0.44864100  1
+  Ni  Ni3  1  0.74750800  0.50459400  0.25210200  1
+  Ni  Ni4  1  0.25249200  0.50459400  0.75708600  1
+  Ni  Ni5  1  0.37751800  0.24925500  0.37229400  1
+  Ni  Ni6  1  0.87696100  0.24925500  0.87173700  1
+  Ni  Ni7  1  0.12303900  0.99477600  0.37229400  1
+  Ni  Ni8  1  0.62248200  0.99477600  0.87173700  1
+  As  As9  1  0.00000000  0.24955200  0.24955200  1
+  As  As10  1  0.50000000  0.25457300  0.75457300  1
+  As  As11  1  0.41633500  0.91571300  0.99951300  1
+  As  As12  1  0.91620000  0.91571300  0.49937800  1
+  As  As13  1  0.08380000  0.58317800  0.99951300  1
+  As  As14  1  0.58366500  0.58317800  0.49937800  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmCo3NiB
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02491968
+_cell_length_b   5.02371820
+_cell_length_c   6.87317700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00790056
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmCo3NiB
+_chemical_formula_sum   'Sm2 Co6 Ni2 B2'
+_cell_volume   150.24774898
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.99999300  0.00000000  0.00000000  1
+  Sm  Sm1  1  0.99999600  0.00000000  0.50000000  1
+  Co  Co2  1  0.50000100  0.00000000  0.28927500  1
+  Co  Co3  1  0.49999800  0.50000500  0.28927400  1
+  Co  Co4  1  0.99999300  0.49999500  0.28927400  1
+  Co  Co5  1  0.50000100  0.00000000  0.71072500  1
+  Co  Co6  1  0.49999800  0.50000500  0.71072600  1
+  Co  Co7  1  0.99999300  0.49999500  0.71072600  1
+  Ni  Ni8  1  0.33330000  0.66670300  0.00000000  1
+  Ni  Ni9  1  0.66659700  0.33329700  0.00000000  1
+  B  B10  1  0.33332800  0.66672500  0.50000000  1
+  B  B11  1  0.66660300  0.33327500  0.50000000  1

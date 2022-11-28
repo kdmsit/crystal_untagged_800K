@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Gd2O2S2Sr2
+_chemical_formula_sum              "Gd2 O2 S2 Sr2"
+_cell_length_a       4.58762
+_cell_length_b       4.58761
+_cell_length_c       10.1435
+_cell_angle_alpha    90
+_cell_angle_beta     103.07
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.57800  0.78900  0.36700  1.0000
+  Gd  Gd2       1.0  0.42200  0.21100  0.63300  1.0000
+  O   O1        1.0  0.41500  0.70800  0.12300  1.0000
+  O   O2        1.0  0.58500  0.29200  0.87700  1.0000
+  S   S1        1.0  0.22900  0.11400  0.34300  1.0000
+  S   S2        1.0  0.77100  0.88600  0.65700  1.0000
+  Sr  Sr1       1.0  0.74900  0.37400  0.12300  1.0000
+  Sr  Sr2       1.0  0.25100  0.62600  0.87700  1.0000

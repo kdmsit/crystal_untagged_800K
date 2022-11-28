@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_ThAlPt
+_symmetry_space_group_name_H-M  'P-62m'
+_cell_length_a       4.18494
+_cell_length_b       7.34227
+_cell_length_c       7.34187
+_cell_angle_alpha    120.002
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  189
+_chemical_formula_structural  ThAlPt
+_chemical_formula_sum  Th3Al3Pt3
+_cell_volume  195.3659284924443
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.00000  0.23327  0.00000  1
+ Al  Al2  1  0.00000  0.76670  0.76671  1
+ Al  Al3  1  0.00000  0.99999  0.23329  1
+ Pt  Pt1  1  0.00000  0.33333  0.66667  1
+ Pt  Pt2  1  0.00000  0.66666  0.33333  1
+ Pt  Pt3  1  0.50000  0.99999  -0.00000  1
+ Th  Th1  1  0.50000  0.58168  -0.00000  1
+ Th  Th2  1  0.50000  0.41828  0.41829  1
+ Th  Th3  1  0.50000  0.99999  0.58171  1

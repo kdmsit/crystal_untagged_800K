@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ce4C2Br5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.15742190
+_cell_length_b   10.15742190
+_cell_length_c   10.15742190
+_cell_angle_alpha   157.72575967
+_cell_angle_beta   132.26567584
+_cell_angle_gamma   53.27681593
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce4C2Br5
+_chemical_formula_sum   'Ce4 C2 Br5'
+_cell_volume   292.84220330
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.33619400  0.83619400  0.50000000  1
+  Ce  Ce1  1  0.66380600  0.16380600  0.50000000  1
+  Ce  Ce2  1  0.30069100  0.50000000  0.80069100  1
+  Ce  Ce3  1  0.69930900  0.50000000  0.19930900  1
+  C  C4  1  0.53896600  0.03896600  0.50000000  1
+  C  C5  1  0.46103400  0.96103400  0.50000000  1
+  Br  Br6  1  0.61316700  0.33546400  0.27770400  1
+  Br  Br7  1  0.00000000  0.00000000  0.00000000  1
+  Br  Br8  1  0.05776000  0.33546400  0.72229600  1
+  Br  Br9  1  0.94224000  0.66453600  0.27770400  1
+  Br  Br10  1  0.38683300  0.66453600  0.72229600  1

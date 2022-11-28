@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_EuBiAu
+_symmetry_space_group_name_H-M  'P6_3mc'
+_cell_length_a       4.62773
+_cell_length_b       4.62748
+_cell_length_c       9.03507
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.002
+
+_symmetry_Int_Tables_number  186
+_chemical_formula_structural  EuBiAu
+_chemical_formula_sum  Eu2Bi2Au2
+_cell_volume  167.55861987497897
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Au  Au1  1  0.66671  0.33343  0.57979  1
+ Au  Au2  1  0.33329  0.66657  0.07979  1
+ Bi  Bi1  1  0.66665  0.33330  0.95120  1
+ Bi  Bi2  1  0.33335  0.66670  0.45120  1
+ Eu  Eu1  1  0.00003  0.00006  0.72801  1
+ Eu  Eu2  1  -0.00003  -0.00006  0.22801  1

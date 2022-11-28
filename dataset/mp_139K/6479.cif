@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60422300
+_cell_length_b   6.62752900
+_cell_length_c   7.96151700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS2
+_chemical_formula_sum   'Ti4 S8'
+_cell_volume   190.17749266
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.25000000  0.74493700  0.61442200  1
+  Ti  Ti1  1  0.25000000  0.24493700  0.88557800  1
+  Ti  Ti2  1  0.75000000  0.25506300  0.38557800  1
+  Ti  Ti3  1  0.75000000  0.75506300  0.11442200  1
+  S  S4  1  0.25000000  0.86497200  0.91672200  1
+  S  S5  1  0.25000000  0.36497200  0.58327800  1
+  S  S6  1  0.75000000  0.13502800  0.08327800  1
+  S  S7  1  0.75000000  0.63502800  0.41672200  1
+  S  S8  1  0.75000000  0.52378700  0.84954300  1
+  S  S9  1  0.75000000  0.02378700  0.65045700  1
+  S  S10  1  0.25000000  0.47621300  0.15045700  1
+  S  S11  1  0.25000000  0.97621300  0.34954300  1

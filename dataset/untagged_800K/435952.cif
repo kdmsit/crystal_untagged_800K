@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Fe3Rb2Ru2
+_chemical_formula_sum              "Fe3 Rb2 Ru2"
+_cell_length_a       12.2235
+_cell_length_b       12.2235
+_cell_length_c       12.2235
+_cell_angle_alpha    19.3007
+_cell_angle_beta     19.3007
+_cell_angle_gamma    19.3007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.29100  0.29100  0.29100  1.0000
+  Fe  Fe2       1.0  0.65400  0.65400  0.65400  1.0000
+  Fe  Fe3       1.0  0.92600  0.92600  0.92600  1.0000
+  Rb  Rb1       1.0  0.18400  0.18400  0.18400  1.0000
+  Rb  Rb2       1.0  0.74000  0.74000  0.74000  1.0000
+  Ru  Ru1       1.0  0.59100  0.59100  0.59100  1.0000
+  Ru  Ru2       1.0  0.99100  0.99100  0.99100  1.0000

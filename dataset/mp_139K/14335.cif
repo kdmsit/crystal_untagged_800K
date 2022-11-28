@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Rh2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.78371700
+_cell_length_b   8.33409900
+_cell_length_c   10.11419300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rh2O3
+_chemical_formula_sum   'Rh8 O12'
+_cell_volume   234.64698235
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.25000000  0.01295400  0.37329800  1
+  Rh  Rh1  1  0.25000000  0.48704600  0.87329800  1
+  Rh  Rh2  1  0.75000000  0.98704600  0.62670200  1
+  Rh  Rh3  1  0.75000000  0.51295400  0.12670200  1
+  Rh  Rh4  1  0.25000000  0.33309200  0.50988200  1
+  Rh  Rh5  1  0.25000000  0.16690800  0.00988200  1
+  Rh  Rh6  1  0.75000000  0.66690800  0.49011800  1
+  Rh  Rh7  1  0.75000000  0.83309200  0.99011800  1
+  O  O8  1  0.25000000  0.34571600  0.14208300  1
+  O  O9  1  0.25000000  0.15428400  0.64208300  1
+  O  O10  1  0.75000000  0.65428400  0.85791700  1
+  O  O11  1  0.75000000  0.84571600  0.35791700  1
+  O  O12  1  0.25000000  0.79391500  0.61282200  1
+  O  O13  1  0.25000000  0.70608500  0.11282200  1
+  O  O14  1  0.75000000  0.20608500  0.38717800  1
+  O  O15  1  0.75000000  0.29391500  0.88717800  1
+  O  O16  1  0.25000000  0.96174000  0.89429700  1
+  O  O17  1  0.25000000  0.53826000  0.39429700  1
+  O  O18  1  0.75000000  0.03826000  0.10570300  1
+  O  O19  1  0.75000000  0.46174000  0.60570300  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BaSrCoCu2(SO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97417100
+_cell_length_b   3.97417100
+_cell_length_c   10.03077972
+_cell_angle_alpha   78.57419848
+_cell_angle_beta   78.57419848
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrCoCu2(SO)2
+_chemical_formula_sum   'Ba1 Sr1 Co1 Cu2 S2 O2'
+_cell_volume   152.08231215
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.59721800  0.59721800  0.80556500  1
+  Sr  Sr1  1  0.40658700  0.40658700  0.18682600  1
+  Co  Co2  1  0.99534900  0.99534900  0.00930200  1
+  Cu  Cu3  1  0.25232800  0.75232800  0.49534500  1
+  Cu  Cu4  1  0.75232800  0.25232800  0.49534500  1
+  S  S5  1  0.18113800  0.18113800  0.63772300  1
+  S  S6  1  0.82529600  0.82529600  0.34940800  1
+  O  O7  1  0.99487800  0.49487800  0.01024300  1
+  O  O8  1  0.49487800  0.99487800  0.01024300  1

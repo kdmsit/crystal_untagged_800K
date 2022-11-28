@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       In2P6
+_chemical_formula_sum              "In2 P6"
+_cell_length_a       5.4825
+_cell_length_b       5.4825
+_cell_length_c       5.4825
+_cell_angle_alpha    86.5713
+_cell_angle_beta     93.4287
+_cell_angle_gamma    93.4287
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.72600  0.27400  0.27400  1.0000
+  In  In2       1.0  0.27400  0.72600  0.72600  1.0000
+  P   P1        1.0  0.79700  0.75900  0.20300  1.0000
+  P   P2        1.0  0.24100  0.20300  0.20300  1.0000
+  P   P3        1.0  0.20300  0.79700  0.24100  1.0000
+  P   P4        1.0  0.79700  0.20300  0.75900  1.0000
+  P   P5        1.0  0.20300  0.24100  0.79700  1.0000
+  P   P6        1.0  0.75900  0.79700  0.79700  1.0000

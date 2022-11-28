@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mo2Sr3Zn2
+_chemical_formula_sum              "Mo2 Sr3 Zn2"
+_cell_length_a       11.5936
+_cell_length_b       11.5936
+_cell_length_c       11.5936
+_cell_angle_alpha    22.9139
+_cell_angle_beta     22.9139
+_cell_angle_gamma    22.9139
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.12000  0.12000  0.12000  1.0000
+  Mo  Mo2       1.0  0.46400  0.46400  0.46400  1.0000
+  Sr  Sr1       1.0  0.37000  0.37000  0.37000  1.0000
+  Sr  Sr2       1.0  0.60300  0.60300  0.60300  1.0000
+  Sr  Sr3       1.0  0.85200  0.85200  0.85200  1.0000
+  Zn  Zn1       1.0  0.20200  0.20200  0.20200  1.0000
+  Zn  Zn2       1.0  0.76300  0.76300  0.76300  1.0000

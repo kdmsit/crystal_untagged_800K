@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Nb6SnTe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.73417008
+_cell_length_b   10.73417008
+_cell_length_c   3.67139000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000049
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb6SnTe8
+_chemical_formula_sum   'Nb6 Sn1 Te8'
+_cell_volume   366.35160178
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.38637800  0.89702700  0.74969900  1
+  Nb  Nb1  1  0.10297300  0.48935100  0.74969900  1
+  Nb  Nb2  1  0.51064900  0.61362200  0.74969900  1
+  Nb  Nb3  1  0.61362200  0.10297300  0.25030100  1
+  Nb  Nb4  1  0.89702700  0.51064900  0.25030100  1
+  Nb  Nb5  1  0.48935100  0.38637800  0.25030100  1
+  Sn  Sn6  1  0.00000000  0.00000000  0.50000000  1
+  Te  Te7  1  0.06108300  0.72972400  0.75097900  1
+  Te  Te8  1  0.27027600  0.33135800  0.75097900  1
+  Te  Te9  1  0.66864200  0.93891700  0.75097900  1
+  Te  Te10  1  0.93891700  0.27027600  0.24902100  1
+  Te  Te11  1  0.72972400  0.66864200  0.24902100  1
+  Te  Te12  1  0.33135800  0.06108300  0.24902100  1
+  Te  Te13  1  0.66666700  0.33333300  0.74955900  1
+  Te  Te14  1  0.33333300  0.66666700  0.25044100  1

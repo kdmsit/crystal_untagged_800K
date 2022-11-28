@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Co4Cs4O4S4
+_chemical_formula_sum              "Co4 Cs4 O4 S4"
+_cell_length_a       7.25613
+_cell_length_b       8.49627
+_cell_length_c       6.31375
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.90900  0.37700  0.02830  1.0000
+  Co  Co2       1.0  0.40900  0.62300  0.02830  1.0000
+  Co  Co3       1.0  0.59100  0.37700  0.52800  1.0000
+  Co  Co4       1.0  0.09070  0.62300  0.52800  1.0000
+  Cs  Cs1       1.0  0.41100  0.15900  0.01030  1.0000
+  Cs  Cs2       1.0  0.91100  0.84100  0.01030  1.0000
+  Cs  Cs3       1.0  0.08910  0.15900  0.51000  1.0000
+  Cs  Cs4       1.0  0.58900  0.84100  0.51000  1.0000
+  O   O1        1.0  0.98000  0.18400  0.02270  1.0000
+  O   O2        1.0  0.48000  0.81600  0.02270  1.0000
+  O   O3        1.0  0.52000  0.18400  0.52300  1.0000
+  O   O4        1.0  0.01970  0.81600  0.52300  1.0000
+  S   S1        1.0  0.64500  0.47500  0.18900  1.0000
+  S   S2        1.0  0.14500  0.52500  0.18900  1.0000
+  S   S3        1.0  0.85500  0.47500  0.68900  1.0000
+  S   S4        1.0  0.35500  0.52500  0.68900  1.0000

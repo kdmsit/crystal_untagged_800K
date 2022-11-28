@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       C2Ge6Lu10
+_chemical_formula_sum              "C2 Ge6 Lu10"
+_cell_length_a       8.30074
+_cell_length_b       8.30075
+_cell_length_c       6.28107
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.00000  0.00000  0.00000  1.0000
+  C   C2        1.0  0.00000  0.00000  0.50000  1.0000
+  Ge  Ge1       1.0  0.40900  0.40900  0.25000  1.0000
+  Ge  Ge2       1.0  0.59100  0.00000  0.25000  1.0000
+  Ge  Ge3       1.0  0.00000  0.59100  0.25000  1.0000
+  Ge  Ge4       1.0  0.40900  0.00000  0.75000  1.0000
+  Ge  Ge5       1.0  0.00000  0.40900  0.75000  1.0000
+  Ge  Ge6       1.0  0.59100  0.59100  0.75000  1.0000
+  Lu  Lu1       1.0  0.66700  0.33300  0.00000  1.0000
+  Lu  Lu2       1.0  0.33300  0.66700  0.00000  1.0000
+  Lu  Lu3       1.0  0.22000  0.00000  0.25000  1.0000
+  Lu  Lu4       1.0  0.00000  0.22000  0.25000  1.0000
+  Lu  Lu5       1.0  0.78000  0.78000  0.25000  1.0000
+  Lu  Lu6       1.0  0.66700  0.33300  0.50000  1.0000
+  Lu  Lu7       1.0  0.33300  0.66700  0.50000  1.0000
+  Lu  Lu8       1.0  0.78000  0.00000  0.75000  1.0000
+  Lu  Lu9       1.0  0.00000  0.78000  0.75000  1.0000
+  Lu  Lu10      1.0  0.22000  0.22000  0.75000  1.0000

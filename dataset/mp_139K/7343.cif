@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cr(NO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55169970
+_cell_length_b   6.83638000
+_cell_length_c   8.78421373
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   136.48690767
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr(NO2)2
+_chemical_formula_sum   'Cr2 N4 O8'
+_cell_volume   270.89427491
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.02123600  0.00000000  0.96317100  1
+  Cr  Cr1  1  0.82790000  0.50000000  0.45350900  1
+  N  N2  1  0.41576300  0.00000000  0.25198600  1
+  N  N3  1  0.61806600  0.00000000  0.83530000  1
+  N  N4  1  0.22726600  0.50000000  0.97991000  1
+  N  N5  1  0.37735400  0.50000000  0.47450200  1
+  O  O6  1  0.25720600  0.16534600  0.21369100  1
+  O  O7  1  0.25720600  0.83465400  0.21369100  1
+  O  O8  1  0.54145700  0.00000000  0.92095700  1
+  O  O9  1  0.97665400  0.00000000  0.75895200  1
+  O  O10  1  0.99992400  0.29338700  0.52136400  1
+  O  O11  1  0.99992400  0.70661300  0.52136400  1
+  O  O12  1  0.49149400  0.50000000  0.10998000  1
+  O  O13  1  0.62755000  0.50000000  0.56762500  1

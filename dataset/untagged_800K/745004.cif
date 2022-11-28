@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_FeNiMo3N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65324600
+_cell_length_b   6.65324600
+_cell_length_c   6.65324600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeNiMo3N
+_chemical_formula_sum   'Fe4 Ni4 Mo12 N4'
+_cell_volume   294.51047394
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.17831200  0.82168800  0.32168800  1
+  Fe  Fe1  1  0.32168800  0.17831200  0.82168800  1
+  Fe  Fe2  1  0.82168800  0.32168800  0.17831200  1
+  Fe  Fe3  1  0.67831200  0.67831200  0.67831200  1
+  Ni  Ni4  1  0.56526800  0.43473200  0.93473200  1
+  Ni  Ni5  1  0.43473200  0.93473200  0.56526800  1
+  Ni  Ni6  1  0.93473200  0.56526800  0.43473200  1
+  Ni  Ni7  1  0.06526800  0.06526800  0.06526800  1
+  Mo  Mo8  1  0.80248200  0.95330800  0.37182900  1
+  Mo  Mo9  1  0.69751800  0.04669200  0.87182900  1
+  Mo  Mo10  1  0.19751800  0.45330800  0.12817100  1
+  Mo  Mo11  1  0.30248200  0.54669200  0.62817100  1
+  Mo  Mo12  1  0.95330800  0.37182900  0.80248200  1
+  Mo  Mo13  1  0.04669200  0.87182900  0.69751800  1
+  Mo  Mo14  1  0.45330800  0.12817100  0.19751800  1
+  Mo  Mo15  1  0.54669200  0.62817100  0.30248200  1
+  Mo  Mo16  1  0.37182900  0.80248200  0.95330800  1
+  Mo  Mo17  1  0.87182900  0.69751800  0.04669200  1
+  Mo  Mo18  1  0.12817100  0.19751800  0.45330800  1
+  Mo  Mo19  1  0.62817100  0.30248200  0.54669200  1
+  N  N20  1  0.87469000  0.12531000  0.62531000  1
+  N  N21  1  0.62531000  0.87469000  0.12531000  1
+  N  N22  1  0.12531000  0.62531000  0.87469000  1
+  N  N23  1  0.37469000  0.37469000  0.37469000  1

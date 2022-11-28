@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Br2H4Tb2
+_chemical_formula_sum              "Br2 H4 Tb2"
+_cell_length_a       3.76354
+_cell_length_b       3.76354
+_cell_length_c       10.5318
+_cell_angle_alpha    79.7074
+_cell_angle_beta     100.293
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.71900  0.28100  0.15600  1.0000
+  Br  Br2       1.0  0.28100  0.71900  0.84400  1.0000
+  H   H1        1.0  0.45400  0.54600  0.36300  1.0000
+  H   H2        1.0  0.81300  0.18700  0.43800  1.0000
+  H   H3        1.0  0.18700  0.81300  0.56200  1.0000
+  H   H4        1.0  0.54600  0.45400  0.63700  1.0000
+  Tb  Tb1       1.0  0.11500  0.88500  0.34400  1.0000
+  Tb  Tb2       1.0  0.88500  0.11500  0.65600  1.0000

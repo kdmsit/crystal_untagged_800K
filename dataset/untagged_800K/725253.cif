@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_ZnCuH3ClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58513125
+_cell_length_b   6.01593868
+_cell_length_c   6.50156500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   91.62049757
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCuH3ClO3
+_chemical_formula_sum   'Zn2 Cu2 H6 Cl2 O6'
+_cell_volume   218.36396315
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00747600  0.47433500  0.25000000  1
+  Zn  Zn1  1  0.99252400  0.52566500  0.75000000  1
+  Cu  Cu2  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu3  1  0.50000000  0.50000000  0.00000000  1
+  H  H4  1  0.39179100  0.80170700  0.25000000  1
+  H  H5  1  0.60820900  0.19829300  0.75000000  1
+  H  H6  1  0.81056300  0.80492100  0.46318600  1
+  H  H7  1  0.18943700  0.19507900  0.96318600  1
+  H  H8  1  0.18943700  0.19507900  0.53681400  1
+  H  H9  1  0.81056300  0.80492100  0.03681400  1
+  Cl  Cl10  1  0.70892700  0.15610500  0.25000000  1
+  Cl  Cl11  1  0.29107300  0.84389500  0.75000000  1
+  O  O12  1  0.36396400  0.64049600  0.25000000  1
+  O  O13  1  0.63603600  0.35950400  0.75000000  1
+  O  O14  1  0.82023200  0.64427900  0.48344800  1
+  O  O15  1  0.17976800  0.35572100  0.98344800  1
+  O  O16  1  0.17976800  0.35572100  0.51655200  1
+  O  O17  1  0.82023200  0.64427900  0.01655200  1

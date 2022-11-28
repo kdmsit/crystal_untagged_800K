@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       BiGaLi4O6
+_chemical_formula_sum              "Bi1 Ga1 Li4 O6"
+_cell_length_a       5.2449
+_cell_length_b       5.2449
+_cell_length_c       5.19172
+_cell_angle_alpha    99.6003
+_cell_angle_beta     99.6003
+_cell_angle_gamma    120.048
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.16700  0.83300  0.00000  1.0000
+  Ga  Ga1       1.0  0.83300  0.16700  0.00000  1.0000
+  Li  Li1       1.0  0.50000  0.50000  0.00000  1.0000
+  Li  Li2       1.0  0.98600  0.01360  0.50000  1.0000
+  Li  Li3       1.0  0.66400  0.33600  0.50000  1.0000
+  Li  Li4       1.0  0.34600  0.65400  0.50000  1.0000
+  O   O1        1.0  0.59300  0.93400  0.23600  1.0000
+  O   O2        1.0  0.92200  0.56500  0.23800  1.0000
+  O   O3        1.0  0.22400  0.23700  0.24000  1.0000
+  O   O4        1.0  0.76300  0.77600  0.76000  1.0000
+  O   O5        1.0  0.43500  0.07800  0.76200  1.0000
+  O   O6        1.0  0.06650  0.40700  0.76400  1.0000

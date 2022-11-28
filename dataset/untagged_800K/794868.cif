@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_LiFePO4
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       4.94242
+_cell_length_b       5.1407
+_cell_length_c       5.93133
+_cell_angle_alpha    86.7576
+_cell_angle_beta     107.1
+_cell_angle_gamma    99.8028
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  LiFePO4
+_chemical_formula_sum  Li2Fe2P2O8
+_cell_volume  141.93223266794442
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.01215  0.79032  0.62313  1
+ Fe  Fe2  1  -0.01215  0.20968  0.37687  1
+ Li  Li1  1  0.72541  0.68862  0.03984  1
+ Li  Li2  1  0.27459  0.31138  -0.03984  1
+ O  O1  1  0.20635  0.63122  0.39887  1
+ O  O2  1  0.31711  0.14795  0.68418  1
+ O  O3  1  0.72864  0.32650  0.01496  1
+ O  O4  1  0.23955  0.07626  0.20221  1
+ O  O5  1  0.76045  0.92374  0.79779  1
+ O  O6  1  0.27136  0.67350  -0.01496  1
+ O  O7  1  0.68289  0.85205  0.31582  1
+ O  O8  1  0.79365  0.36878  0.60113  1
+ P  P1  1  0.34582  0.80809  0.22840  1
+ P  P2  1  0.65418  0.19191  0.77160  1

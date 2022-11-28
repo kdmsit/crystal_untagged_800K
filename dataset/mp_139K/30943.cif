@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ga2(CN2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.63601486
+_cell_length_b   3.06216683
+_cell_length_c   5.03955037
+_cell_angle_alpha   90.00000362
+_cell_angle_beta   105.86759822
+_cell_angle_gamma   81.72335793
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga2(CN2)3
+_chemical_formula_sum   'Ga2 C3 N6'
+_cell_volume   156.10221399
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.28220100  0.85889900  0.78158700  1
+  Ga  Ga1  1  0.71779900  0.14110100  0.21841300  1
+  C  C2  1  0.67030800  0.66484600  0.69600700  1
+  C  C3  1  0.32969200  0.33515400  0.30399300  1
+  C  C4  1  0.00000000  0.00000000  0.50000000  1
+  N  N5  1  0.32861100  0.33569400  0.54732700  1
+  N  N6  1  0.67138900  0.66430600  0.45267300  1
+  N  N7  1  0.33545800  0.33227200  0.06289600  1
+  N  N8  1  0.66454200  0.66772800  0.93710400  1
+  N  N9  1  0.90167400  0.04916300  0.30239800  1
+  N  N10  1  0.09832600  0.95083700  0.69760200  1

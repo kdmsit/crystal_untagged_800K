@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_NaCu3F7
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       6.98405
+_cell_length_b       7.12991
+_cell_length_c       7.12992
+_cell_angle_alpha    61.6633
+_cell_angle_beta     63.6942
+_cell_angle_gamma    63.6942
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  NaCu3F7
+_chemical_formula_sum  Na2Cu6F4
+_cell_volume  267.66139515919866
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  -0.00000  -0.00000  0.50000  1
+ Cu  Cu2  1  0.00000  0.00000  0.00000  1
+ Cu  Cu3  1  0.50000  -0.00000  0.00000  1
+ Cu  Cu4  1  -0.00000  0.50000  -0.00000  1
+ Cu  Cu5  1  0.50000  -0.00000  0.50000  1
+ Cu  Cu6  1  0.50000  0.50000  -0.00000  1
+ F  F1  1  0.50015  0.88539  0.30337  1
+ F  F2  1  0.75000  0.11007  0.88993  1
+ F  F3  1  0.10429  0.68669  0.62543  1
+ F  F4  1  0.39571  0.37457  0.31331  1
+ F  F5  1  0.89571  0.31331  0.37457  1
+ F  F6  1  0.60429  0.62543  0.68669  1
+ F  F7  1  0.17902  0.02750  0.63233  1
+ F  F8  1  0.99985  0.69663  0.11461  1
+ F  F9  1  0.00015  0.30337  0.88539  1
+ F  F10  1  0.25000  0.88993  0.11007  1
+ F  F11  1  0.49985  0.11461  0.69663  1
+ F  F12  1  0.67902  0.63233  0.02750  1
+ F  F13  1  0.82098  0.97250  0.36767  1
+ F  F14  1  0.32098  0.36767  0.97250  1
+ Na  Na1  1  -0.00000  0.50000  0.50000  1
+ Na  Na2  1  0.50000  0.50000  0.50000  1

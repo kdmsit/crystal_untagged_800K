@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_UTe3
+_symmetry_space_group_name_H-M  'P2_1/m'
+_cell_length_a       4.17275
+_cell_length_b       6.08338
+_cell_length_c       10.337
+_cell_angle_alpha    98.1628
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  11
+_chemical_formula_structural  UTe3
+_chemical_formula_sum  U2Te6
+_cell_volume  259.7402308838809
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Te  Te1  1  0.25000  0.91091  0.16214  1
+ Te  Te2  1  0.75000  0.08909  0.83786  1
+ Te  Te3  1  0.75000  0.23507  0.43875  1
+ Te  Te4  1  0.25000  0.76493  0.56125  1
+ Te  Te5  1  0.75000  0.57553  0.83373  1
+ Te  Te6  1  0.25000  0.42447  0.16627  1
+ U  U1  1  0.25000  0.28885  0.66307  1
+ U  U2  1  0.75000  0.71115  0.33693  1

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Al4Sr2
+_chemical_formula_sum              "Al4 Sr2"
+_cell_length_a       4.79709
+_cell_length_b       6.09363
+_cell_length_c       6.09363
+_cell_angle_alpha    98.604
+_cell_angle_beta     66.8204
+_cell_angle_gamma    113.18
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.06770  0.72900  0.09330  1.0000
+  Al  Al2       1.0  0.56800  0.90700  0.27100  1.0000
+  Al  Al3       1.0  0.43200  0.09330  0.72900  1.0000
+  Al  Al4       1.0  0.93200  0.27100  0.90700  1.0000
+  Sr  Sr1       1.0  0.25000  0.30000  0.30000  1.0000
+  Sr  Sr2       1.0  0.75000  0.70000  0.70000  1.0000

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Nb3Co5B2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.44826200
+_cell_length_b   8.44826200
+_cell_length_c   3.24184800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb3Co5B2
+_chemical_formula_sum   'Nb6 Co10 B4'
+_cell_volume   231.38084140
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.67502900  0.17502900  0.00000000  1
+  Nb  Nb1  1  0.32497100  0.82497100  0.00000000  1
+  Nb  Nb2  1  0.17502900  0.32497100  0.00000000  1
+  Nb  Nb3  1  0.82497100  0.67502900  0.00000000  1
+  Nb  Nb4  1  0.00000000  0.00000000  0.00000000  1
+  Nb  Nb5  1  0.50000000  0.50000000  0.00000000  1
+  Co  Co6  1  0.50000000  0.00000000  0.50000000  1
+  Co  Co7  1  0.00000000  0.50000000  0.50000000  1
+  Co  Co8  1  0.22081400  0.06956600  0.50000000  1
+  Co  Co9  1  0.77918600  0.93043400  0.50000000  1
+  Co  Co10  1  0.06956600  0.77918600  0.50000000  1
+  Co  Co11  1  0.72081400  0.43043400  0.50000000  1
+  Co  Co12  1  0.93043400  0.22081400  0.50000000  1
+  Co  Co13  1  0.27918600  0.56956600  0.50000000  1
+  Co  Co14  1  0.56956600  0.72081400  0.50000000  1
+  Co  Co15  1  0.43043400  0.27918600  0.50000000  1
+  B  B16  1  0.11790500  0.61790500  0.00000000  1
+  B  B17  1  0.88209500  0.38209500  0.00000000  1
+  B  B18  1  0.61790500  0.88209500  0.00000000  1
+  B  B19  1  0.38209500  0.11790500  0.00000000  1

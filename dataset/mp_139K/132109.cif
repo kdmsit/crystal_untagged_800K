@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ba3SrZn2(WO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.06097224
+_cell_length_b   10.06097224
+_cell_length_c   10.06097238
+_cell_angle_alpha   33.56802308
+_cell_angle_beta   33.56802308
+_cell_angle_gamma   33.56802223
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3SrZn2(WO6)2
+_chemical_formula_sum   'Ba3 Sr1 Zn2 W2 O12'
+_cell_volume   277.33546759
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.12498800  0.12498800  0.12498800  1
+  Ba  Ba1  1  0.87517300  0.87517300  0.87517300  1
+  Ba  Ba2  1  0.37482000  0.37482000  0.37482000  1
+  Sr  Sr3  1  0.62500400  0.62500400  0.62500400  1
+  Zn  Zn4  1  0.25014100  0.25014100  0.25014100  1
+  Zn  Zn5  1  0.74984900  0.74984900  0.74984900  1
+  W  W6  1  0.99961400  0.99961400  0.99961400  1
+  W  W7  1  0.50038400  0.50038400  0.50038400  1
+  O  O8  1  0.64128200  0.11943900  0.11943900  1
+  O  O9  1  0.14246800  0.61931500  0.61931500  1
+  O  O10  1  0.11943900  0.11943900  0.64128200  1
+  O  O11  1  0.61931500  0.61931500  0.14246800  1
+  O  O12  1  0.38206000  0.85719400  0.38206000  1
+  O  O13  1  0.87915800  0.35913900  0.87915800  1
+  O  O14  1  0.38206000  0.38206000  0.85719400  1
+  O  O15  1  0.87915800  0.87915800  0.35913900  1
+  O  O16  1  0.11943900  0.64128200  0.11943900  1
+  O  O17  1  0.61931500  0.14246800  0.61931500  1
+  O  O18  1  0.85719400  0.38206000  0.38206000  1
+  O  O19  1  0.35913900  0.87915800  0.87915800  1

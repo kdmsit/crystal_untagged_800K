@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TaMnNO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24104567
+_cell_length_b   5.24104567
+_cell_length_c   5.65004822
+_cell_angle_alpha   62.72533871
+_cell_angle_beta   62.72533871
+_cell_angle_gamma   60.35124417
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaMnNO2
+_chemical_formula_sum   'Ta2 Mn2 N2 O4'
+_cell_volume   114.36967745
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.49746200  0.99623700  0.50937500  1
+  Ta  Ta1  1  0.99623700  0.49746200  0.00937500  1
+  Mn  Mn2  1  0.22903300  0.68824000  0.38678000  1
+  Mn  Mn3  1  0.68824000  0.22903300  0.88678000  1
+  N  N4  1  0.38550900  0.63288300  0.69235600  1
+  N  N5  1  0.63288300  0.38550900  0.19235600  1
+  O  O6  1  0.76793200  0.89859900  0.71164000  1
+  O  O7  1  0.12422900  0.27821700  0.70233900  1
+  O  O8  1  0.27821700  0.12422900  0.20233900  1
+  O  O9  1  0.89859900  0.76793200  0.21164000  1

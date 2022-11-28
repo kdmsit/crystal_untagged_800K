@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_UPb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.72401100
+_cell_length_b   5.48404104
+_cell_length_c   8.72818700
+_cell_angle_alpha   78.39257235
+_cell_angle_beta   83.24841608
+_cell_angle_gamma   86.55864302
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UPb2
+_chemical_formula_sum   'U2 Pb4'
+_cell_volume   173.27499745
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.74427800  0.65347300  0.97298700  1
+  U  U1  1  0.25572200  0.34652700  0.02701300  1
+  Pb  Pb2  1  0.85263400  0.20604400  0.73666300  1
+  Pb  Pb3  1  0.14736600  0.79395600  0.26333700  1
+  Pb  Pb4  1  0.35015400  0.71417200  0.63659600  1
+  Pb  Pb5  1  0.64984600  0.28582800  0.36340400  1

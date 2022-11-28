@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NbZn(PbO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86913299
+_cell_length_b   5.86913299
+_cell_length_c   5.86913351
+_cell_angle_alpha   58.87276708
+_cell_angle_beta   58.87276708
+_cell_angle_gamma   58.87277106
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbZn(PbO3)2
+_chemical_formula_sum   'Nb1 Zn1 Pb2 O6'
+_cell_volume   139.27894418
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.48978200  0.48978200  0.48978200  1
+  Zn  Zn1  1  0.98754100  0.98754100  0.98754100  1
+  Pb  Pb2  1  0.75644600  0.75644600  0.75644600  1
+  Pb  Pb3  1  0.26037200  0.26037200  0.26037200  1
+  O  O4  1  0.72277600  0.72277600  0.21504600  1
+  O  O5  1  0.23386600  0.23386600  0.69853000  1
+  O  O6  1  0.72277600  0.21504600  0.72277600  1
+  O  O7  1  0.23386600  0.69853000  0.23386600  1
+  O  O8  1  0.21504600  0.72277600  0.72277600  1
+  O  O9  1  0.69853000  0.23386600  0.23386600  1

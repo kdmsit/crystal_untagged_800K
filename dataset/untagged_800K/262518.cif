@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Lu4Ti6
+_chemical_formula_sum              "Lu4 Ti6"
+_cell_length_a       7.08954
+_cell_length_b       7.08954
+_cell_length_c       6.77149
+_cell_angle_alpha    121.566
+_cell_angle_beta     58.4337
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.59300  0.40700  0.22200  1.0000
+  Lu  Lu2       1.0  0.90700  0.09270  0.27800  1.0000
+  Lu  Lu3       1.0  0.09270  0.90700  0.72200  1.0000
+  Lu  Lu4       1.0  0.40700  0.59300  0.77800  1.0000
+  Ti  Ti1       1.0  0.25000  0.95900  0.25000  1.0000
+  Ti  Ti2       1.0  0.45900  0.75000  0.25000  1.0000
+  Ti  Ti3       1.0  0.04130  0.54100  0.25000  1.0000
+  Ti  Ti4       1.0  0.95900  0.45900  0.75000  1.0000
+  Ti  Ti5       1.0  0.54100  0.25000  0.75000  1.0000
+  Ti  Ti6       1.0  0.75000  0.04130  0.75000  1.0000

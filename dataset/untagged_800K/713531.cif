@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Ti2Fe3Bi3Pb2O15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   18.99212548
+_cell_length_b   5.38451773
+_cell_length_c   4.79323100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   44.86402587
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2Fe3Bi3Pb2O15
+_chemical_formula_sum   'Ti2 Fe3 Bi3 Pb2 O15'
+_cell_volume   345.78060355
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00289100  0.49277300  0.54686100  1
+  Ti  Ti1  1  0.19710900  0.50722700  0.54686100  1
+  Fe  Fe2  1  0.39903800  0.50240600  0.54086800  1
+  Fe  Fe3  1  0.60000000  0.50000000  0.53390500  1
+  Fe  Fe4  1  0.80096200  0.49759400  0.54086800  1
+  Bi  Bi5  1  0.40457600  0.98856000  0.95674200  1
+  Bi  Bi6  1  0.60000000  0.00000000  0.96787000  1
+  Bi  Bi7  1  0.79542400  0.01144000  0.95674200  1
+  Pb  Pb8  1  0.99017900  0.02455200  0.00677400  1
+  Pb  Pb9  1  0.20982100  0.97544800  0.00677400  1
+  O  O10  1  0.99302800  0.51743100  0.18049500  1
+  O  O11  1  0.10000000  0.50000000  0.64791400  1
+  O  O12  1  0.20697200  0.48256900  0.18049500  1
+  O  O13  1  0.10000000  0.00000000  0.64791400  1
+  O  O14  1  0.30166000  0.48731700  0.67798400  1
+  O  O15  1  0.40605900  0.48485200  0.15524700  1
+  O  O16  1  0.30166000  0.00438300  0.67798400  1
+  O  O17  1  0.50103600  0.49652400  0.67973000  1
+  O  O18  1  0.60000000  0.50000000  0.14956600  1
+  O  O19  1  0.50103600  0.99829700  0.67973000  1
+  O  O20  1  0.69896400  0.50347600  0.67973000  1
+  O  O21  1  0.79394100  0.51514800  0.15524700  1
+  O  O22  1  0.69896400  0.00170300  0.67973000  1
+  O  O23  1  0.89834000  0.51268300  0.67798400  1
+  O  O24  1  0.89834000  0.99561700  0.67798400  1

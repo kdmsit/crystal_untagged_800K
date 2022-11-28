@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ga3Cu3(Te2Se)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.25331310
+_cell_length_b   8.48718000
+_cell_length_c   11.10251664
+_cell_angle_alpha   67.52881515
+_cell_angle_beta   90.50713615
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga3Cu3(Te2Se)2
+_chemical_formula_sum   'Ga6 Cu6 Te8 Se4'
+_cell_volume   631.54906966
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.35105100  0.52709100  0.67746700  1
+  Ga  Ga1  1  0.85105100  0.79544100  0.67746700  1
+  Ga  Ga2  1  0.16242300  0.45688600  0.33065800  1
+  Ga  Ga3  1  0.66242300  0.21245600  0.33065800  1
+  Ga  Ga4  1  0.49579000  0.11064400  0.99750100  1
+  Ga  Ga5  1  0.99579000  0.89185500  0.99750100  1
+  Cu  Cu6  1  0.01913100  0.36222100  0.00573600  1
+  Cu  Cu7  1  0.51913100  0.63204300  0.00573600  1
+  Cu  Cu8  1  0.82474700  0.27021900  0.67431400  1
+  Cu  Cu9  1  0.32474700  0.05546600  0.67431400  1
+  Cu  Cu10  1  0.66763100  0.72330200  0.32180000  1
+  Cu  Cu11  1  0.16763100  0.95489800  0.32180000  1
+  Te  Te12  1  0.82245200  0.42447300  0.42192600  1
+  Te  Te13  1  0.32245200  0.15360100  0.42192600  1
+  Te  Te14  1  0.34101500  0.66713900  0.41604800  1
+  Te  Te15  1  0.84101500  0.91681200  0.41604800  1
+  Te  Te16  1  0.00150200  0.48250900  0.75551000  1
+  Te  Te17  1  0.50150200  0.76198100  0.75551000  1
+  Te  Te18  1  0.67493600  0.33538900  0.07329400  1
+  Te  Te19  1  0.17493600  0.59131600  0.07329400  1
+  Se  Se20  1  0.50579400  0.23864600  0.75405100  1
+  Se  Se21  1  0.00579400  0.00730400  0.75405100  1
+  Se  Se22  1  0.17252900  0.08080800  0.08369500  1
+  Se  Se23  1  0.67252900  0.83549700  0.08369500  1

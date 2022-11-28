@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_NiRh2O4
+_symmetry_space_group_name_H-M  'Fd-3m'
+_cell_length_a       6.03143
+_cell_length_b       6.03142
+_cell_length_c       6.03416
+_cell_angle_alpha    119.985
+_cell_angle_beta     119.985
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  227
+_chemical_formula_structural  NiRh2O4
+_chemical_formula_sum  Ni2Rh4O8
+_cell_volume  155.28769377957164
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ni  Ni1  1  0.12500  0.87500  0.25000  1
+ Ni  Ni2  1  0.87500  0.12500  0.75000  1
+ O  O1  1  0.25923  0.74116  0.51845  1
+ O  O2  1  0.72270  0.74077  0.98155  1
+ O  O3  1  0.25884  0.74077  0.98155  1
+ O  O4  1  0.74077  0.25884  0.48155  1
+ O  O5  1  0.74077  0.72270  0.48155  1
+ O  O6  1  0.27730  0.25923  0.01845  1
+ O  O7  1  0.25923  0.27730  0.51845  1
+ O  O8  1  0.74116  0.25923  0.01845  1
+ Rh  Rh1  1  -0.00000  0.50000  0.50000  1
+ Rh  Rh2  1  0.50000  0.50000  -0.00000  1
+ Rh  Rh3  1  0.50000  0.50000  0.50000  1
+ Rh  Rh4  1  0.50000  0.00000  0.00000  1

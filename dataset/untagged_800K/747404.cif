@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KPu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.74480590
+_cell_length_b   8.74480590
+_cell_length_c   8.74480604
+_cell_angle_alpha   107.85320191
+_cell_angle_beta   107.85320191
+_cell_angle_gamma   107.85320030
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KPu
+_chemical_formula_sum   'K6 Pu6'
+_cell_volume   543.44150708
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.60098800  0.54877300  0.84880500  1
+  K  K1  1  0.84880500  0.60098800  0.54877300  1
+  K  K2  1  0.54877300  0.84880500  0.60098800  1
+  K  K3  1  0.39901200  0.45122700  0.15119500  1
+  K  K4  1  0.15119500  0.39901200  0.45122700  1
+  K  K5  1  0.45122700  0.15119500  0.39901200  1
+  Pu  Pu6  1  0.31820300  0.80994400  0.95913700  1
+  Pu  Pu7  1  0.95913700  0.31820300  0.80994400  1
+  Pu  Pu8  1  0.80994400  0.95913700  0.31820300  1
+  Pu  Pu9  1  0.68179700  0.19005600  0.04086300  1
+  Pu  Pu10  1  0.04086300  0.68179700  0.19005600  1
+  Pu  Pu11  1  0.19005600  0.04086300  0.68179700  1

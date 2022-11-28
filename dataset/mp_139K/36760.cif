@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CoCuP2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.59361225
+_cell_length_b   5.39013212
+_cell_length_c   5.37343506
+_cell_angle_alpha   101.32333947
+_cell_angle_beta   101.02882272
+_cell_angle_gamma   101.00133764
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoCuP2O7
+_chemical_formula_sum   'Co1 Cu1 P2 O7'
+_cell_volume   124.39016909
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.72681100  0.09715700  0.27986600  1
+  Cu  Cu1  1  0.72846900  0.48133300  0.90757800  1
+  P  P2  1  0.31478300  0.58261300  0.40186300  1
+  P  P3  1  0.13101900  0.99413500  0.80941100  1
+  O  O4  1  0.50427900  0.41935800  0.53881500  1
+  O  O5  1  0.95707400  0.14306800  0.64814200  1
+  O  O6  1  0.48993200  0.74373600  0.25304500  1
+  O  O7  1  0.00738500  0.41406600  0.21873100  1
+  O  O8  1  0.44309800  0.17109400  0.97452100  1
+  O  O9  1  0.94076400  0.85939700  0.97555400  1
+  O  O10  1  0.21648600  0.76114200  0.62867400  1

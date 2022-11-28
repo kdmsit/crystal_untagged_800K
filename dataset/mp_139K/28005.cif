@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_FeMoAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.36121800
+_cell_length_b   5.81218100
+_cell_length_c   6.28076000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeMoAs2
+_chemical_formula_sum   'Fe2 Mo2 As4'
+_cell_volume   122.70097382
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.25000000  0.50855600  0.31236100  1
+  Fe  Fe1  1  0.25000000  0.00855600  0.18763900  1
+  Mo  Mo2  1  0.75000000  0.49591400  0.69092100  1
+  Mo  Mo3  1  0.75000000  0.99591400  0.80907900  1
+  As  As4  1  0.75000000  0.30601100  0.08634000  1
+  As  As5  1  0.75000000  0.80601100  0.41366000  1
+  As  As6  1  0.25000000  0.68952000  0.94457100  1
+  As  As7  1  0.25000000  0.18952000  0.55542900  1

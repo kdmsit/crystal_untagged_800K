@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_HfCrAgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.38803192
+_cell_length_b   7.38803192
+_cell_length_c   7.38803192
+_cell_angle_alpha   119.60327372
+_cell_angle_beta   118.67281434
+_cell_angle_gamma   91.50138989
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfCrAgS4
+_chemical_formula_sum   'Hf2 Cr2 Ag2 S8'
+_cell_volume   288.73334083
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.75000000  0.75909400  0.00909400  1
+  Hf  Hf1  1  0.25000000  0.74090600  0.49090600  1
+  Cr  Cr2  1  0.25163700  0.25000000  0.50163700  1
+  Cr  Cr3  1  0.24836300  0.75000000  0.99836300  1
+  Ag  Ag4  1  0.85845300  0.10845300  0.75000000  1
+  Ag  Ag5  1  0.64154700  0.39154700  0.25000000  1
+  S  S6  1  0.46477500  0.50513900  0.96154600  1
+  S  S7  1  0.49331700  0.50524200  0.52089600  1
+  S  S8  1  0.04359300  0.50322900  0.53845400  1
+  S  S9  1  0.48434600  0.97242100  0.97910400  1
+  S  S10  1  0.03522500  0.99677100  0.04036300  1
+  S  S11  1  0.00668300  0.52757900  0.01192500  1
+  S  S12  1  0.45640700  0.99486100  0.45963700  1
+  S  S13  1  0.01565400  0.99475800  0.48807500  1

@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Gd2O14Sb2Y4
+_chemical_formula_sum              "Gd2 O14 Sb2 Y4"
+_cell_length_a       6.43642
+_cell_length_b       6.43642
+_cell_length_c       7.49955
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    70.4465
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.49800  0.50200  0.25000  1.0000
+  Gd  Gd2       1.0  0.50200  0.49800  0.75000  1.0000
+  O   O1        1.0  0.36800  0.36800  0.00000  1.0000
+  O   O2        1.0  0.63700  0.63700  0.00000  1.0000
+  O   O3        1.0  0.93100  0.93100  0.00000  1.0000
+  O   O4        1.0  0.92800  0.32200  0.22000  1.0000
+  O   O5        1.0  0.32300  0.92600  0.22100  1.0000
+  O   O6        1.0  0.07380  0.67700  0.27900  1.0000
+  O   O7        1.0  0.67800  0.07150  0.28000  1.0000
+  O   O8        1.0  0.06890  0.06890  0.50000  1.0000
+  O   O9        1.0  0.36300  0.36300  0.50000  1.0000
+  O   O10       1.0  0.63200  0.63200  0.50000  1.0000
+  O   O11       1.0  0.07150  0.67800  0.72000  1.0000
+  O   O12       1.0  0.67700  0.07380  0.72100  1.0000
+  O   O13       1.0  0.92600  0.32300  0.77900  1.0000
+  O   O14       1.0  0.32200  0.92800  0.78000  1.0000
+  Sb  Sb1       1.0  0.00013  0.00000  0.25000  1.0000
+  Sb  Sb2       1.0  0.00000  0.00013  0.75000  1.0000
+  Y   Y1        1.0  0.53200  0.00000  0.00103  1.0000
+  Y   Y2        1.0  0.00000  0.46800  0.49900  1.0000
+  Y   Y3        1.0  0.46800  0.00000  0.50100  1.0000
+  Y   Y4        1.0  0.00000  0.53200  0.99900  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mn2O3Pr2Se2
+_chemical_formula_sum              "Mn2 O3 Pr2 Se2"
+_cell_length_a       9.8392
+_cell_length_b       4.1399
+_cell_length_c       4.1399
+_cell_angle_alpha    90
+_cell_angle_beta     102.144
+_cell_angle_gamma    102.144
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.00000  0.50000  0.00000  1.0000
+  Mn  Mn2       1.0  0.00000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.50000  0.75000  0.25000  1.0000
+  O   O2        1.0  0.00000  0.50000  0.50000  1.0000
+  O   O3        1.0  0.50000  0.25000  0.75000  1.0000
+  Pr  Pr1       1.0  0.62400  0.31200  0.31200  1.0000
+  Pr  Pr2       1.0  0.37600  0.68800  0.68800  1.0000
+  Se  Se1       1.0  0.20400  0.10200  0.10200  1.0000
+  Se  Se2       1.0  0.79600  0.89800  0.89800  1.0000

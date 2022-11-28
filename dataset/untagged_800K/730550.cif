@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CeCrB4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.54916300
+_cell_length_b   5.96060400
+_cell_length_c   11.52375000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeCrB4
+_chemical_formula_sum   'Ce4 Cr4 B16'
+_cell_volume   243.78671944
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00000000  0.62397300  0.34891100  1
+  Ce  Ce1  1  0.00000000  0.37602700  0.65108900  1
+  Ce  Ce2  1  0.00000000  0.12397300  0.15108900  1
+  Ce  Ce3  1  0.00000000  0.87602700  0.84891100  1
+  Cr  Cr4  1  0.00000000  0.62356900  0.08136000  1
+  Cr  Cr5  1  0.00000000  0.37643100  0.91864000  1
+  Cr  Cr6  1  0.00000000  0.12356900  0.41864000  1
+  Cr  Cr7  1  0.00000000  0.87643100  0.58136000  1
+  B  B8  1  0.50000000  0.77912500  0.18290800  1
+  B  B9  1  0.50000000  0.22087500  0.81709200  1
+  B  B10  1  0.50000000  0.27912500  0.31709200  1
+  B  B11  1  0.50000000  0.72087500  0.68290800  1
+  B  B12  1  0.50000000  0.86008700  0.03299900  1
+  B  B13  1  0.50000000  0.13991300  0.96700100  1
+  B  B14  1  0.50000000  0.36008700  0.46700100  1
+  B  B15  1  0.50000000  0.63991300  0.53299900  1
+  B  B16  1  0.50000000  0.88796300  0.45411400  1
+  B  B17  1  0.50000000  0.11203700  0.54588600  1
+  B  B18  1  0.50000000  0.38796300  0.04588600  1
+  B  B19  1  0.50000000  0.61203700  0.95411400  1
+  B  B20  1  0.50000000  0.97546600  0.31012600  1
+  B  B21  1  0.50000000  0.02453400  0.68987400  1
+  B  B22  1  0.50000000  0.47546600  0.18987400  1
+  B  B23  1  0.50000000  0.52453400  0.81012600  1

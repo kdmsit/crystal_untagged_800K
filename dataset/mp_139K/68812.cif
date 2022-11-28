@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_RbMg6Ga
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.74479806
+_cell_length_b   6.74479806
+_cell_length_c   5.26118200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   117.80642839
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbMg6Ga
+_chemical_formula_sum   'Rb1 Mg6 Ga1'
+_cell_volume   211.70598146
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.83505200  0.16494800  0.50000000  1
+  Mg  Mg1  1  0.33686800  0.17597800  0.50000000  1
+  Mg  Mg2  1  0.82402200  0.66313200  0.50000000  1
+  Mg  Mg3  1  0.19044100  0.35717300  0.00000000  1
+  Mg  Mg4  1  0.64282700  0.80955900  0.00000000  1
+  Mg  Mg5  1  0.65240900  0.34759100  0.00000000  1
+  Mg  Mg6  1  0.16526200  0.83473800  0.00000000  1
+  Ga  Ga7  1  0.35312300  0.64687700  0.50000000  1

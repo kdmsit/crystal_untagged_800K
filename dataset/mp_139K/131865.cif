@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Fe4Mo2N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.69296289
+_cell_length_b   7.69296289
+_cell_length_c   7.69296289
+_cell_angle_alpha   119.63966685
+_cell_angle_beta   119.63966685
+_cell_angle_gamma   90.62525668
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe4Mo2N
+_chemical_formula_sum   'Fe16 Mo8 N4'
+_cell_volume   323.66583026
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.12365700  0.37140600  0.24774900  1
+  Fe  Fe1  1  0.12409300  0.87634300  0.24774900  1
+  Fe  Fe2  1  0.62859400  0.87634300  0.75225100  1
+  Fe  Fe3  1  0.12365700  0.87590700  0.75225100  1
+  Fe  Fe4  1  0.91882700  0.75650300  0.83767600  1
+  Fe  Fe5  1  0.91884900  0.08117300  0.83767600  1
+  Fe  Fe6  1  0.24349700  0.08117300  0.16232400  1
+  Fe  Fe7  1  0.91882700  0.08115100  0.16232400  1
+  Fe  Fe8  1  0.33481100  0.99982700  0.66501600  1
+  Fe  Fe9  1  0.33020600  0.66518900  0.66501600  1
+  Fe  Fe10  1  0.00017300  0.66518900  0.33498400  1
+  Fe  Fe11  1  0.33481100  0.66979400  0.33498400  1
+  Fe  Fe12  1  0.69505000  0.69505000  0.39009900  1
+  Fe  Fe13  1  0.30495000  0.30495000  0.60990100  1
+  Fe  Fe14  1  0.30495000  0.69505000  0.00000000  1
+  Fe  Fe15  1  0.69505000  0.30495000  0.00000000  1
+  Mo  Mo16  1  0.30637700  0.30637700  0.00000000  1
+  Mo  Mo17  1  0.69362300  0.69362300  0.00000000  1
+  Mo  Mo18  1  0.55167300  0.05167300  0.10334500  1
+  Mo  Mo19  1  0.94832700  0.44832700  0.89665500  1
+  Mo  Mo20  1  0.94832700  0.05167300  0.50000000  1
+  Mo  Mo21  1  0.55167300  0.44832700  0.50000000  1
+  Mo  Mo22  1  0.94716200  0.44716200  0.50000000  1
+  Mo  Mo23  1  0.55283800  0.05283800  0.50000000  1
+  N  N24  1  0.61792700  0.86495600  0.24702900  1
+  N  N25  1  0.62910200  0.38207300  0.24702900  1
+  N  N26  1  0.13504400  0.38207300  0.75297100  1
+  N  N27  1  0.61792700  0.37089800  0.75297100  1

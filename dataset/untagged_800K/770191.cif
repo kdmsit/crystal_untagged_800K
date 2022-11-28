@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_Na2Cl
+_symmetry_space_group_name_H-M  'Cmmm'
+_cell_length_a       3.50132
+_cell_length_b       7.69708
+_cell_length_c       7.69708
+_cell_angle_alpha    53.84
+_cell_angle_beta     76.8533
+_cell_angle_gamma    76.8533
+
+_symmetry_Int_Tables_number  65
+_chemical_formula_structural  Na2Cl
+_chemical_formula_sum  Na4Cl2
+_cell_volume  161.9372405472688
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.00010  0.74990  0.74990  1
+ Cl  Cl2  1  -0.00010  0.25010  0.25010  1
+ Na  Na1  1  0.62653  0.87346  0.37348  1
+ Na  Na2  1  0.37347  0.62652  0.12654  1
+ Na  Na3  1  0.37347  0.12654  0.62652  1
+ Na  Na4  1  0.62653  0.37348  0.87346  1

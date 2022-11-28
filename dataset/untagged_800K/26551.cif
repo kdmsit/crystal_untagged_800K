@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Eu2P6
+_chemical_formula_sum              "Eu2 P6"
+_cell_length_a       5.52435
+_cell_length_b       5.77592
+_cell_length_c       5.77592
+_cell_angle_alpha    103.02
+_cell_angle_beta     107.856
+_cell_angle_gamma    72.1443
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.34400  0.83600  0.16400  1.0000
+  Eu  Eu2       1.0  0.65600  0.16400  0.83600  1.0000
+  P   P1        1.0  0.18400  0.37800  0.09930  1.0000
+  P   P2        1.0  0.81600  0.09930  0.37800  1.0000
+  P   P3        1.0  0.20200  0.50600  0.49400  1.0000
+  P   P4        1.0  0.79800  0.49400  0.50600  1.0000
+  P   P5        1.0  0.18400  0.90100  0.62200  1.0000
+  P   P6        1.0  0.81600  0.62200  0.90100  1.0000

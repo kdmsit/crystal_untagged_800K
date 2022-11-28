@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       O4Rb2Sb2
+_chemical_formula_sum              "O4 Rb2 Sb2"
+_cell_length_a       5.6336
+_cell_length_b       5.92395
+_cell_length_c       5.92395
+_cell_angle_alpha    95.3409
+_cell_angle_beta     111.824
+_cell_angle_gamma    111.824
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.71200  0.22800  0.12900  1.0000
+  O   O2        1.0  0.21200  0.12900  0.22800  1.0000
+  O   O3        1.0  0.78800  0.87100  0.77200  1.0000
+  O   O4        1.0  0.28800  0.77200  0.87100  1.0000
+  Rb  Rb1       1.0  0.25000  0.64100  0.35900  1.0000
+  Rb  Rb2       1.0  0.75000  0.35900  0.64100  1.0000
+  Sb  Sb1       1.0  0.75000  0.90700  0.09300  1.0000
+  Sb  Sb2       1.0  0.25000  0.09300  0.90700  1.0000

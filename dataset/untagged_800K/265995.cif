@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       GaLi4O6Pd
+_chemical_formula_sum              "Ga1 Li4 O6 Pd1"
+_cell_length_a       5.08855
+_cell_length_b       5.08855
+_cell_length_c       5.02662
+_cell_angle_alpha    99.8493
+_cell_angle_beta     99.8493
+_cell_angle_gamma    120.089
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.16600  0.83400  0.00000  1.0000
+  Li  Li1       1.0  0.50100  0.49900  0.00000  1.0000
+  Li  Li2       1.0  0.99700  0.00295  0.50000  1.0000
+  Li  Li3       1.0  0.66000  0.34000  0.50000  1.0000
+  Li  Li4       1.0  0.34200  0.65800  0.50000  1.0000
+  O   O1        1.0  0.57900  0.92700  0.23500  1.0000
+  O   O2        1.0  0.92800  0.58100  0.23600  1.0000
+  O   O3        1.0  0.23300  0.23100  0.23800  1.0000
+  O   O4        1.0  0.76900  0.76700  0.76200  1.0000
+  O   O5        1.0  0.41900  0.07160  0.76400  1.0000
+  O   O6        1.0  0.07350  0.42100  0.76500  1.0000
+  Pd  Pd1       1.0  0.83300  0.16700  0.00000  1.0000

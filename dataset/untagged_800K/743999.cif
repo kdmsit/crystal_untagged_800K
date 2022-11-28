@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_La4Fe(CoO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46941700
+_cell_length_b   5.54494140
+_cell_length_c   7.88373830
+_cell_angle_alpha   90.44726059
+_cell_angle_beta   91.43887247
+_cell_angle_gamma   90.18971390
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4Fe(CoO4)3
+_chemical_formula_sum   'La4 Fe1 Co3 O12'
+_cell_volume   239.01069196
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.49511000  0.00086700  0.24575500  1
+  La  La1  1  0.00389700  0.49765800  0.75587800  1
+  La  La2  1  0.50489000  0.99913300  0.75424500  1
+  La  La3  1  0.99610300  0.50234200  0.24412200  1
+  Fe  Fe4  1  0.50000000  0.50000000  0.50000000  1
+  Co  Co5  1  0.00000000  0.00000000  0.50000000  1
+  Co  Co6  1  0.50000000  0.50000000  0.00000000  1
+  Co  Co7  1  0.00000000  0.00000000  0.00000000  1
+  O  O8  1  0.21319200  0.27488000  0.53273900  1
+  O  O9  1  0.72367300  0.78924000  0.03141900  1
+  O  O10  1  0.27653500  0.78895400  0.46871300  1
+  O  O11  1  0.78904900  0.27241700  0.96625100  1
+  O  O12  1  0.99786900  0.93223100  0.75707200  1
+  O  O13  1  0.50021000  0.43854400  0.25251100  1
+  O  O14  1  0.72346500  0.21104600  0.53128700  1
+  O  O15  1  0.21095100  0.72758300  0.03374900  1
+  O  O16  1  0.00213100  0.06776900  0.24292800  1
+  O  O17  1  0.49979000  0.56145600  0.74748900  1
+  O  O18  1  0.78680800  0.72512000  0.46726100  1
+  O  O19  1  0.27632700  0.21076000  0.96858100  1

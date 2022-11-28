@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_HgMo6(SeS)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.64960200
+_cell_length_b   6.72324184
+_cell_length_c   6.75205231
+_cell_angle_alpha   91.65723984
+_cell_angle_beta   91.84052187
+_cell_angle_gamma   91.89910228
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgMo6(SeS)4
+_chemical_formula_sum   'Hg1 Mo6 Se4 S4'
+_cell_volume   301.40588431
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.00009000  0.00205300  0.99605900  1
+  Mo  Mo1  1  0.56038900  0.23142000  0.41474200  1
+  Mo  Mo2  1  0.41196000  0.55483300  0.23092900  1
+  Mo  Mo3  1  0.22170300  0.40669900  0.56029900  1
+  Mo  Mo4  1  0.44156800  0.77287100  0.58670000  1
+  Mo  Mo5  1  0.58896700  0.43907100  0.77601500  1
+  Mo  Mo6  1  0.78118100  0.58646200  0.44182900  1
+  Se  Se7  1  0.62694800  0.87647600  0.26107400  1
+  Se  Se8  1  0.25886700  0.62189700  0.87653800  1
+  Se  Se9  1  0.22371400  0.22506400  0.23018000  1
+  Se  Se10  1  0.77473500  0.77088700  0.76994800  1
+  S  S11  1  0.13357300  0.71441600  0.38728200  1
+  S  S12  1  0.38702000  0.13006300  0.71732100  1
+  S  S13  1  0.72081600  0.38703000  0.13309300  1
+  S  S14  1  0.86846900  0.28075900  0.61799200  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_FeAuO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35637253
+_cell_length_b   6.20264027
+_cell_length_c   7.16577721
+_cell_angle_alpha   64.35180979
+_cell_angle_beta   75.60689310
+_cell_angle_gamma   89.99823343
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeAuO2
+_chemical_formula_sum   'Fe4 Au4 O8'
+_cell_volume   206.29622537
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50000000  0.74966900  0.00000100  1
+  Fe  Fe1  1  0.00000000  0.50033100  0.99999900  1
+  Fe  Fe2  1  0.49999900  0.24966800  0.99999700  1
+  Fe  Fe3  1  0.00000000  0.00033100  0.00000100  1
+  Au  Au4  1  0.00000100  0.99990500  0.49999900  1
+  Au  Au5  1  0.00000000  0.49990400  0.50000100  1
+  Au  Au6  1  0.50000000  0.75009600  0.49999900  1
+  Au  Au7  1  0.49999900  0.25009500  0.50000100  1
+  O  O8  1  0.88771900  0.83173200  0.83730300  1
+  O  O9  1  0.88771900  0.33173400  0.83730300  1
+  O  O10  1  0.38771800  0.58095700  0.83730300  1
+  O  O11  1  0.38771900  0.08095600  0.83730200  1
+  O  O12  1  0.11228200  0.16904400  0.16269800  1
+  O  O13  1  0.11228200  0.66904300  0.16269700  1
+  O  O14  1  0.61228100  0.91826600  0.16269800  1
+  O  O15  1  0.61228200  0.41826800  0.16269700  1

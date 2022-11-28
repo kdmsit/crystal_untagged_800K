@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaAlH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18547089
+_cell_length_b   7.18547089
+_cell_length_c   5.08742000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   151.48545976
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAlH4
+_chemical_formula_sum   'Na2 Al2 H8'
+_cell_volume   125.39317205
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.17305100  0.82694900  0.23517000  1
+  Na  Na1  1  0.82694900  0.17305100  0.73517000  1
+  Al  Al2  1  0.41465400  0.58534600  0.20621800  1
+  Al  Al3  1  0.58534600  0.41465400  0.70621800  1
+  H  H4  1  0.34820000  0.65180000  0.47805900  1
+  H  H5  1  0.65180000  0.34820000  0.97805900  1
+  H  H6  1  0.31628800  0.68371200  0.00979900  1
+  H  H7  1  0.68371200  0.31628800  0.50979900  1
+  H  H8  1  0.07627900  0.92372100  0.68577100  1
+  H  H9  1  0.92372100  0.07627900  0.18577100  1
+  H  H10  1  0.52164700  0.47835300  0.38608200  1
+  H  H11  1  0.47835300  0.52164700  0.88608200  1

@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Au4Ge4Hf3
+_chemical_formula_sum              "Au4 Ge4 Hf3"
+_cell_length_a       6.21541
+_cell_length_b       6.21541
+_cell_length_c       7.5933
+_cell_angle_alpha    65.8411
+_cell_angle_beta     65.8411
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.63100  0.12400  0.24500  1.0000
+  Au  Au2       1.0  0.12400  0.63100  0.24500  1.0000
+  Au  Au3       1.0  0.36900  0.36900  0.75500  1.0000
+  Au  Au4       1.0  0.87600  0.87600  0.75500  1.0000
+  Ge  Ge1       1.0  0.50000  0.00000  0.00000  1.0000
+  Ge  Ge2       1.0  0.00000  0.50000  0.00000  1.0000
+  Ge  Ge3       1.0  0.75500  0.75500  0.49000  1.0000
+  Ge  Ge4       1.0  0.24500  0.24500  0.51000  1.0000
+  Hf  Hf1       1.0  0.50000  0.50000  0.00000  1.0000
+  Hf  Hf2       1.0  0.75000  0.25000  0.50000  1.0000
+  Hf  Hf3       1.0  0.25000  0.75000  0.50000  1.0000

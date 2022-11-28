@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_LiGe
+_symmetry_space_group_name_H-M  'I4_1/amd'
+_cell_length_a       4.05605
+_cell_length_b       4.05605
+_cell_length_c       12.0833
+_cell_angle_alpha    99.662
+_cell_angle_beta     99.662
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  141
+_chemical_formula_structural  LiGe
+_chemical_formula_sum  Li6Ge6
+_cell_volume  193.10911932761158
+_cell_formula_units_Z  6
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.12500  0.37500  0.75000  1
+ Ge  Ge2  1  0.87500  0.62500  0.25000  1
+ Ge  Ge3  1  0.29834  0.54834  0.09667  1
+ Ge  Ge4  1  0.04834  0.79834  0.59667  1
+ Ge  Ge5  1  0.70166  0.45166  0.90333  1
+ Ge  Ge6  1  0.95166  0.20166  0.40333  1
+ Li  Li1  1  0.37500  0.12500  0.25000  1
+ Li  Li2  1  0.62500  0.87500  0.75000  1
+ Li  Li3  1  0.46214  0.71214  0.42428  1
+ Li  Li4  1  0.21214  0.96214  0.92428  1
+ Li  Li5  1  0.53786  0.28786  0.57572  1
+ Li  Li6  1  0.78786  0.03786  0.07572  1

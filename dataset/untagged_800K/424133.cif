@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       B2Hg2Zr3
+_chemical_formula_sum              "B2 Hg2 Zr3"
+_cell_length_a       12.332
+_cell_length_b       12.332
+_cell_length_c       12.332
+_cell_angle_alpha    16.7499
+_cell_angle_beta     16.7499
+_cell_angle_gamma    16.7499
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.53800  0.53800  0.53800  1.0000
+  B   B2        1.0  0.99900  0.99900  0.99900  1.0000
+  Hg  Hg1       1.0  0.23800  0.23800  0.23800  1.0000
+  Hg  Hg2       1.0  0.76200  0.76200  0.76200  1.0000
+  Zr  Zr1       1.0  0.36600  0.36600  0.36600  1.0000
+  Zr  Zr2       1.0  0.63000  0.63000  0.63000  1.0000
+  Zr  Zr3       1.0  0.84300  0.84300  0.84300  1.0000

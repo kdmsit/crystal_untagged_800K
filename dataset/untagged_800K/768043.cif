@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_TiSnSb
+_symmetry_space_group_name_H-M  'Fddd'
+_cell_length_a       5.51514
+_cell_length_b       5.64301
+_cell_length_c       10.18
+_cell_angle_alpha    82.3934
+_cell_angle_beta     74.2833
+_cell_angle_gamma    60.7468
+
+_symmetry_Int_Tables_number  70
+_chemical_formula_structural  TiSnSb
+_chemical_formula_sum  Ti4Sn4Sb4
+_cell_volume  266.0841565111862
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Sb  Sb1  1  0.45251  0.25000  0.09497  1
+ Sb  Sb2  1  0.29749  0.25000  0.40503  1
+ Sb  Sb3  1  0.54749  0.75000  0.90503  1
+ Sb  Sb4  1  0.70251  0.75000  0.59497  1
+ Sn  Sn1  1  0.70781  0.58437  0.25000  1
+ Sn  Sn2  1  0.04219  0.91563  0.25000  1
+ Sn  Sn3  1  0.29219  0.41563  0.75000  1
+ Sn  Sn4  1  0.95781  0.08437  0.75000  1
+ Ti  Ti1  1  0.00142  0.25000  0.99715  1
+ Ti  Ti2  1  0.74858  0.25000  0.50285  1
+ Ti  Ti3  1  0.99858  0.75000  0.00285  1
+ Ti  Ti4  1  0.25142  0.75000  0.49715  1

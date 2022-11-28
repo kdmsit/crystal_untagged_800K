@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_NbFeNi(O2F)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.17024200
+_cell_length_b   7.42267424
+_cell_length_c   17.86689756
+_cell_angle_alpha   130.42889013
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbFeNi(O2F)2
+_chemical_formula_sum   'Nb2 Fe2 Ni2 O8 F4'
+_cell_volume   320.04220470
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.50000000  0.43844600  0.12449100  1
+  Nb  Nb1  1  0.50000000  0.56056800  0.54028400  1
+  Fe  Fe2  1  0.00000000  0.00459100  0.33020800  1
+  Fe  Fe3  1  0.00000000  0.04996400  0.69001100  1
+  Ni  Ni4  1  0.00000000  0.96145700  0.98204300  1
+  Ni  Ni5  1  0.50000000  0.49739300  0.83671700  1
+  O  O6  1  0.00000000  0.69096500  0.22381500  1
+  O  O7  1  0.00000000  0.27452600  0.12926900  1
+  O  O8  1  0.00000000  0.73878700  0.54276600  1
+  O  O9  1  0.00000000  0.32112400  0.43954800  1
+  O  O10  1  0.50000000  0.20423000  0.69530700  1
+  O  O11  1  0.50000000  0.81588400  0.67439100  1
+  O  O12  1  0.50000000  0.17740200  0.99175900  1
+  O  O13  1  0.50000000  0.79397200  0.97045200  1
+  F  F14  1  0.00000000  0.66982800  0.83122500  1
+  F  F15  1  0.00000000  0.31283400  0.83966300  1
+  F  F16  1  0.50000000  0.63935900  0.09143700  1
+  F  F17  1  0.50000000  0.34867200  0.56661400  1

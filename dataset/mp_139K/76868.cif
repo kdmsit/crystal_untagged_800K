@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Er(ClO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.00693900
+_cell_length_b   7.35461978
+_cell_length_c   6.74902005
+_cell_angle_alpha   108.31276361
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er(ClO2)3
+_chemical_formula_sum   'Er2 Cl6 O12'
+_cell_volume   330.18561908
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.22530900  0.25000000  0.25000000  1
+  Er  Er1  1  0.77469100  0.75000000  0.75000000  1
+  Cl  Cl2  1  0.88005100  0.25495200  0.49330100  1
+  Cl  Cl3  1  0.11994900  0.74504800  0.50669900  1
+  Cl  Cl4  1  0.88005100  0.24504800  0.00669900  1
+  Cl  Cl5  1  0.11994900  0.75495200  0.99330100  1
+  Cl  Cl6  1  0.43835000  0.25000000  0.75000000  1
+  Cl  Cl7  1  0.56165000  0.75000000  0.25000000  1
+  O  O8  1  0.10668000  0.96375200  0.17239300  1
+  O  O9  1  0.89332000  0.03624800  0.82760700  1
+  O  O10  1  0.10668000  0.53624800  0.32760700  1
+  O  O11  1  0.89332000  0.46375200  0.67239300  1
+  O  O12  1  0.49440100  0.45132800  0.40101300  1
+  O  O13  1  0.50559900  0.54867200  0.59898700  1
+  O  O14  1  0.49440100  0.04867200  0.09898700  1
+  O  O15  1  0.50559900  0.95132800  0.90101300  1
+  O  O16  1  0.31477900  0.32441400  0.94865000  1
+  O  O17  1  0.68522100  0.67558600  0.05135000  1
+  O  O18  1  0.31477900  0.17558600  0.55135000  1
+  O  O19  1  0.68522100  0.82441400  0.44865000  1

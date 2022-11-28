@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_CoSnC4Cl3O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.91981669
+_cell_length_b   6.91981669
+_cell_length_c   6.91981656
+_cell_angle_alpha   100.42722463
+_cell_angle_beta   100.42722463
+_cell_angle_gamma   100.42721579
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoSnC4Cl3O4
+_chemical_formula_sum   'Co1 Sn1 C4 Cl3 O4'
+_cell_volume   312.57068562
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.26569900  0.26569900  0.26569900  1
+  Sn  Sn1  1  0.00178800  0.00178800  0.00178800  1
+  C  C2  1  0.06420300  0.29961900  0.38793900  1
+  C  C3  1  0.29961900  0.38793900  0.06420300  1
+  C  C4  1  0.38793900  0.06420300  0.29961900  1
+  C  C5  1  0.45082400  0.45082400  0.45082400  1
+  Cl  Cl6  1  0.89316300  0.70142100  0.10459100  1
+  Cl  Cl7  1  0.70142100  0.10459100  0.89316300  1
+  Cl  Cl8  1  0.10459100  0.89316300  0.70142100  1
+  O  O9  1  0.32789500  0.47210200  0.93870000  1
+  O  O10  1  0.57099300  0.57099300  0.57099300  1
+  O  O11  1  0.47210200  0.93870000  0.32789500  1
+  O  O12  1  0.93870000  0.32789500  0.47210200  1

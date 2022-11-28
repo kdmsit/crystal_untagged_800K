@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Cu2P2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38953182
+_cell_length_b   5.38953182
+_cell_length_c   4.63145062
+_cell_angle_alpha   77.06076260
+_cell_angle_beta   77.06076260
+_cell_angle_gamma   98.94504280
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu2P2O7
+_chemical_formula_sum   'Cu2 P2 O7'
+_cell_volume   124.75462074
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.68934000  0.31066000  0.00000000  1
+  Cu  Cu1  1  0.31169900  0.68830100  0.00000000  1
+  P  P2  1  0.79773800  0.80578000  0.40904800  1
+  P  P3  1  0.19422000  0.20226200  0.59095200  1
+  O  O4  1  0.62175900  0.62169100  0.72080200  1
+  O  O5  1  0.37830900  0.37824100  0.27919800  1
+  O  O6  1  0.05193300  0.36409500  0.77596600  1
+  O  O7  1  0.34962700  0.04322100  0.76584000  1
+  O  O8  1  0.95677900  0.65037300  0.23416000  1
+  O  O9  1  0.63590500  0.94806700  0.22403400  1
+  O  O10  1  0.97979300  0.02020700  0.50000000  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Al2Cd3N4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.63705956
+_cell_length_b   9.17256233
+_cell_length_c   5.60980401
+_cell_angle_alpha   90.00000349
+_cell_angle_beta   92.51732933
+_cell_angle_gamma   133.71018468
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2Cd3N4
+_chemical_formula_sum   'Al4 Cd6 N8'
+_cell_volume   246.40848057
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.54890400  0.16028900  0.59653300  1
+  Al  Al1  1  0.45109600  0.61138600  0.90346700  1
+  Al  Al2  1  0.45109600  0.83971100  0.40346700  1
+  Al  Al3  1  0.54890400  0.38861400  0.09653300  1
+  Cd  Cd4  1  0.22125500  0.94810000  0.06781000  1
+  Cd  Cd5  1  0.77874500  0.72684500  0.43219000  1
+  Cd  Cd6  1  0.77874500  0.05190000  0.93219000  1
+  Cd  Cd7  1  0.22125500  0.27315500  0.56781000  1
+  Cd  Cd8  1  0.00000000  0.60629000  0.75000000  1
+  Cd  Cd9  1  0.00000000  0.39371000  0.25000000  1
+  N  N10  1  0.22464500  0.89097700  0.49332800  1
+  N  N11  1  0.77535500  0.66633200  0.00667200  1
+  N  N12  1  0.77535500  0.10902300  0.50667200  1
+  N  N13  1  0.22464500  0.33366800  0.99332800  1
+  N  N14  1  0.60784400  0.24197600  0.92700100  1
+  N  N15  1  0.39215600  0.63413100  0.57299900  1
+  N  N16  1  0.39215600  0.75802400  0.07299900  1
+  N  N17  1  0.60784400  0.36586900  0.42700100  1

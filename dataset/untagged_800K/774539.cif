@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_SmFeGe2
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       8.51979
+_cell_length_b       8.51979
+_cell_length_c       4.26192
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    151.191
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  SmFeGe2
+_chemical_formula_sum  Sm2Fe2Ge4
+_cell_volume  149.07591712314215
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.81578  0.18422  0.75000  1
+ Fe  Fe2  1  0.18422  0.81578  0.25000  1
+ Ge  Ge1  1  0.95381  0.04619  0.75000  1
+ Ge  Ge2  1  0.04619  0.95381  0.25000  1
+ Ge  Ge3  1  0.24951  0.75049  0.75000  1
+ Ge  Ge4  1  0.75049  0.24951  0.25000  1
+ Sm  Sm1  1  0.60747  0.39253  0.75000  1
+ Sm  Sm2  1  0.39253  0.60747  0.25000  1

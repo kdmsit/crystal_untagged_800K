@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Ca3Li4N6Si2
+_chemical_formula_sum              "Ca3 Li4 N6 Si2"
+_cell_length_a       5.64121
+_cell_length_b       5.64121
+_cell_length_c       5.95966
+_cell_angle_alpha    90.2751
+_cell_angle_beta     90.2751
+_cell_angle_gamma    118.452
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ca  Ca2       1.0  0.68500  0.31500  0.50000  1.0000
+  Ca  Ca3       1.0  0.31500  0.68500  0.50000  1.0000
+  Li  Li1       1.0  0.68600  0.03590  0.12600  1.0000
+  Li  Li2       1.0  0.03590  0.68600  0.12600  1.0000
+  Li  Li3       1.0  0.96400  0.31400  0.87400  1.0000
+  Li  Li4       1.0  0.31400  0.96400  0.87400  1.0000
+  N   N1        1.0  0.36500  0.06570  0.20900  1.0000
+  N   N2        1.0  0.06570  0.36500  0.20900  1.0000
+  N   N3        1.0  0.80500  0.80500  0.36600  1.0000
+  N   N4        1.0  0.19500  0.19500  0.63400  1.0000
+  N   N5        1.0  0.93400  0.63500  0.79100  1.0000
+  N   N6        1.0  0.63500  0.93400  0.79100  1.0000
+  Si  Si1       1.0  0.11900  0.11900  0.33100  1.0000
+  Si  Si2       1.0  0.88100  0.88100  0.66900  1.0000

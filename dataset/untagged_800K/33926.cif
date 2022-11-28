@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Cr4Fe8Y
+_chemical_formula_sum              "Cr4 Fe8 Y1"
+_cell_length_a       4.68445
+_cell_length_b       6.28836
+_cell_length_c       6.28836
+_cell_angle_alpha    97.9746
+_cell_angle_beta     68.132
+_cell_angle_gamma    111.868
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.00000  0.36900  0.36900  1.0000
+  Cr  Cr2       1.0  0.63100  0.63100  0.36900  1.0000
+  Cr  Cr3       1.0  0.00000  0.63100  0.63100  1.0000
+  Cr  Cr4       1.0  0.36900  0.36900  0.63100  1.0000
+  Fe  Fe1       1.0  0.00000  0.50000  0.00000  1.0000
+  Fe  Fe2       1.0  0.50000  0.50000  0.00000  1.0000
+  Fe  Fe3       1.0  0.50000  0.22600  0.22600  1.0000
+  Fe  Fe4       1.0  0.27400  0.77400  0.22600  1.0000
+  Fe  Fe5       1.0  0.00000  0.00000  0.50000  1.0000
+  Fe  Fe6       1.0  0.50000  0.00000  0.50000  1.0000
+  Fe  Fe7       1.0  0.72600  0.22600  0.77400  1.0000
+  Fe  Fe8       1.0  0.50000  0.77400  0.77400  1.0000
+  Y   Y1        1.0  0.00000  0.00000  0.00000  1.0000

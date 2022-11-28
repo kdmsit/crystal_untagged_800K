@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SmFe3(BO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32271126
+_cell_length_b   6.32271126
+_cell_length_c   6.32271197
+_cell_angle_alpha   108.65736223
+_cell_angle_beta   108.65736223
+_cell_angle_gamma   108.65736424
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmFe3(BO3)4
+_chemical_formula_sum   'Sm1 Fe3 B4 O12'
+_cell_volume   200.22391157
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe1  1  0.42031000  0.00000000  0.57969000  1
+  Fe  Fe2  1  0.57969000  0.42031000  0.00000000  1
+  Fe  Fe3  1  0.00000000  0.57969000  0.42031000  1
+  B  B4  1  0.50000000  0.50000000  0.50000000  1
+  B  B5  1  0.68248100  0.00000000  0.31751900  1
+  B  B6  1  0.31751900  0.68248100  0.00000000  1
+  B  B7  1  0.00000000  0.31751900  0.68248100  1
+  O  O8  1  0.63463900  0.50000000  0.36536100  1
+  O  O9  1  0.36536100  0.63463900  0.50000000  1
+  O  O10  1  0.50000000  0.36536100  0.63463900  1
+  O  O11  1  0.91726700  0.50000000  0.08273300  1
+  O  O12  1  0.08273300  0.91726700  0.50000000  1
+  O  O13  1  0.50000000  0.08273300  0.91726700  1
+  O  O14  1  0.77926100  0.08245700  0.61114700  1
+  O  O15  1  0.61114700  0.77926100  0.08245700  1
+  O  O16  1  0.08245700  0.61114700  0.77926100  1
+  O  O17  1  0.38885300  0.91754300  0.22073900  1
+  O  O18  1  0.91754300  0.22073900  0.38885300  1
+  O  O19  1  0.22073900  0.38885300  0.91754300  1

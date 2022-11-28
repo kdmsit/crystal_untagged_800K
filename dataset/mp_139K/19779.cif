@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Sm2Ge6Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18121500
+_cell_length_b   4.17555600
+_cell_length_c   11.34338670
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   100.62043067
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2Ge6Au
+_chemical_formula_sum   'Sm2 Ge6 Au1'
+_cell_volume   194.65048648
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.77837500  0.50000000  0.55675100  1
+  Sm  Sm1  1  0.11885000  0.50000000  0.23770100  1
+  Ge  Ge2  1  0.49086600  0.50000000  0.98173200  1
+  Ge  Ge3  1  0.37819900  0.50000000  0.75639900  1
+  Ge  Ge4  1  0.99146600  0.00000000  0.98293100  1
+  Ge  Ge5  1  0.87843500  0.00000000  0.75687000  1
+  Ge  Ge6  1  0.67215700  0.00000000  0.34431300  1
+  Ge  Ge7  1  0.23833900  0.00000000  0.47667800  1
+  Au  Au8  1  0.56031200  0.00000000  0.12062500  1

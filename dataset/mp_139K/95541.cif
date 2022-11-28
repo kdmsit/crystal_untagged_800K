@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MgMnSiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.23161153
+_cell_length_b   6.93170366
+_cell_length_c   5.25413511
+_cell_angle_alpha   74.92074514
+_cell_angle_beta   105.05385235
+_cell_angle_gamma   75.65932549
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgMnSiO5
+_chemical_formula_sum   'Mg2 Mn2 Si2 O10'
+_cell_volume   167.19894340
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.33251000  0.23638200  0.17236000  1
+  Mg  Mg1  1  0.66850100  0.74611400  0.83114100  1
+  Mn  Mn2  1  0.99964100  0.99380200  0.50049900  1
+  Mn  Mn3  1  0.99923500  0.49390700  0.50049100  1
+  Si  Si4  1  0.68032600  0.24343700  0.82008000  1
+  Si  Si5  1  0.31799200  0.74425900  0.18046100  1
+  O  O6  1  0.91078200  0.74263600  0.58920600  1
+  O  O7  1  0.08769000  0.24492300  0.41105000  1
+  O  O8  1  0.67489200  0.11649500  0.59450300  1
+  O  O9  1  0.91694400  0.36215900  0.83047100  1
+  O  O10  1  0.32470200  0.87146200  0.40585300  1
+  O  O11  1  0.08104200  0.62610000  0.17055900  1
+  O  O12  1  0.62474200  0.57301800  0.23843000  1
+  O  O13  1  0.27033800  0.90975800  0.87105400  1
+  O  O14  1  0.37378900  0.41502000  0.76200100  1
+  O  O15  1  0.72928900  0.07722900  0.12968200  1

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Mg4Na6
+_chemical_formula_sum              "Mg4 Na6"
+_cell_length_a       6.78483
+_cell_length_b       6.78483
+_cell_length_c       8.36512
+_cell_angle_alpha    113.925
+_cell_angle_beta     66.0749
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.31200  0.68800  0.06400  1.0000
+  Mg  Mg2       1.0  0.18800  0.81200  0.43600  1.0000
+  Mg  Mg3       1.0  0.81200  0.18800  0.56400  1.0000
+  Mg  Mg4       1.0  0.68800  0.31200  0.93600  1.0000
+  Na  Na1       1.0  0.25000  0.22200  0.25000  1.0000
+  Na  Na2       1.0  0.77800  0.27800  0.25000  1.0000
+  Na  Na3       1.0  0.72200  0.75000  0.25000  1.0000
+  Na  Na4       1.0  0.27800  0.25000  0.75000  1.0000
+  Na  Na5       1.0  0.22200  0.72200  0.75000  1.0000
+  Na  Na6       1.0  0.75000  0.77800  0.75000  1.0000

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Sm2Co16Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31485780
+_cell_length_b   6.31485806
+_cell_length_c   6.31485780
+_cell_angle_alpha   83.18296987
+_cell_angle_beta   83.18297530
+_cell_angle_gamma   83.18296987
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2Co16Ge
+_chemical_formula_sum   'Sm2 Co16 Ge1'
+_cell_volume   246.87078707
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.65588600  0.65588600  0.65588600  1
+  Sm  Sm1  1  0.34892000  0.34892000  0.34892000  1
+  Co  Co2  1  0.70983700  0.99815200  0.28702800  1
+  Co  Co3  1  0.99815200  0.28702800  0.70983700  1
+  Co  Co4  1  0.28702800  0.70983700  0.99815200  1
+  Co  Co5  1  0.99815200  0.70983700  0.28702800  1
+  Co  Co6  1  0.70983700  0.28702800  0.99815200  1
+  Co  Co7  1  0.28702800  0.99815200  0.70983700  1
+  Co  Co8  1  0.34938700  0.85150200  0.34938700  1
+  Co  Co9  1  0.85150200  0.34938700  0.34938700  1
+  Co  Co10  1  0.34938700  0.34938700  0.85150200  1
+  Co  Co11  1  0.65529400  0.15011600  0.65529400  1
+  Co  Co12  1  0.15011600  0.65529400  0.65529400  1
+  Co  Co13  1  0.65529400  0.65529400  0.15011600  1
+  Co  Co14  1  0.99671500  0.50278900  0.99671500  1
+  Co  Co15  1  0.50278900  0.99671500  0.99671500  1
+  Co  Co16  1  0.99671500  0.99671500  0.50278900  1
+  Co  Co17  1  0.90051300  0.90051300  0.90051300  1
+  Ge  Ge18  1  0.09744600  0.09744600  0.09744600  1

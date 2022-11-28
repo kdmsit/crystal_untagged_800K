@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       As2S6SnTl2
+_chemical_formula_sum              "As2 S6 Sn1 Tl2"
+_cell_length_a       6.76341
+_cell_length_b       6.76347
+_cell_length_c       7.34265
+_cell_angle_alpha    89.9998
+_cell_angle_beta     89.9985
+_cell_angle_gamma    120.002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.66700  0.33300  0.07460  1.0000
+  As  As2       1.0  0.33300  0.66700  0.92500  1.0000
+  S   S1        1.0  0.78700  0.66500  0.22900  1.0000
+  S   S2        1.0  0.33500  0.12200  0.22900  1.0000
+  S   S3        1.0  0.87800  0.21300  0.22900  1.0000
+  S   S4        1.0  0.12200  0.78700  0.77100  1.0000
+  S   S5        1.0  0.66500  0.87800  0.77100  1.0000
+  S   S6        1.0  0.21300  0.33500  0.77100  1.0000
+  Sn  Sn1       1.0  0.00000  0.00000  0.00000  1.0000
+  Tl  Tl1       1.0  0.33300  0.66700  0.37800  1.0000
+  Tl  Tl2       1.0  0.66700  0.33300  0.62200  1.0000

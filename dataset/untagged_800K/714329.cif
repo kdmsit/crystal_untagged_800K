@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LaTiZnCrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56468600
+_cell_length_b   5.37162400
+_cell_length_c   9.40202532
+_cell_angle_alpha   55.24608381
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaTiZnCrO6
+_chemical_formula_sum   'La2 Ti2 Zn2 Cr2 O12'
+_cell_volume   230.90446572
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.20457300  0.73852400  0.25169300  1
+  La  La1  1  0.79542700  0.73852400  0.75169300  1
+  Ti  Ti2  1  0.27429700  0.49535800  0.00428500  1
+  Ti  Ti3  1  0.72570300  0.49535800  0.50428500  1
+  Zn  Zn4  1  0.76779500  0.25038600  0.25224700  1
+  Zn  Zn5  1  0.23220500  0.25038600  0.75224700  1
+  Cr  Cr6  1  0.25448400  0.99926700  0.50083400  1
+  Cr  Cr7  1  0.74551600  0.99926700  0.00083400  1
+  O  O8  1  0.72503900  0.17821200  0.74572600  1
+  O  O9  1  0.46062100  0.74139300  0.04388500  1
+  O  O10  1  0.47153500  0.33736500  0.44882300  1
+  O  O11  1  0.94413400  0.63374000  0.05644700  1
+  O  O12  1  0.94522300  0.24913100  0.44482900  1
+  O  O13  1  0.22941600  0.87662500  0.75123400  1
+  O  O14  1  0.27496100  0.17821200  0.24572600  1
+  O  O15  1  0.53937900  0.74139300  0.54388500  1
+  O  O16  1  0.52846500  0.33736500  0.94882300  1
+  O  O17  1  0.05586600  0.63374000  0.55644700  1
+  O  O18  1  0.05477700  0.24913100  0.94482900  1
+  O  O19  1  0.77058400  0.87662500  0.25123400  1

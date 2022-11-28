@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_MnInCuTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47745529
+_cell_length_b   6.27181400
+_cell_length_c   7.70368051
+_cell_angle_alpha   65.97916546
+_cell_angle_beta   73.10581789
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnInCuTe3
+_chemical_formula_sum   'Mn1 In1 Cu1 Te3'
+_cell_volume   187.33031548
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.33686900  0.33640200  0.32626100  1
+  In  In1  1  0.66456000  0.67511800  0.67088100  1
+  Cu  Cu2  1  0.99878400  0.99078600  0.00243300  1
+  Te  Te3  1  0.49316600  0.76782900  0.01366700  1
+  Te  Te4  1  0.84542800  0.09650000  0.30914300  1
+  Te  Te5  1  0.16119300  0.38336500  0.67761600  1

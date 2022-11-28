@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pt2Sb2Ti3
+_chemical_formula_sum              "Pt2 Sb2 Ti3"
+_cell_length_a       7.69036
+_cell_length_b       7.69036
+_cell_length_c       7.69036
+_cell_angle_alpha    34.5183
+_cell_angle_beta     34.5183
+_cell_angle_gamma    34.5183
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.01930  0.01930  0.01930  1.0000
+  Pt  Pt2       1.0  0.49100  0.49100  0.49100  1.0000
+  Sb  Sb1       1.0  0.23800  0.23800  0.23800  1.0000
+  Sb  Sb2       1.0  0.75500  0.75500  0.75500  1.0000
+  Ti  Ti1       1.0  0.36700  0.36700  0.36700  1.0000
+  Ti  Ti2       1.0  0.62400  0.62400  0.62400  1.0000
+  Ti  Ti3       1.0  0.88100  0.88100  0.88100  1.0000

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2Fe4AsP3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81582443
+_cell_length_b   6.81582443
+_cell_length_c   5.46403600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   132.79107794
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Fe4AsP3
+_chemical_formula_sum   'Ba2 Fe4 As1 P3'
+_cell_volume   186.27267523
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.49716600  0.50283400  0.50000000  1
+  Ba  Ba1  1  0.99761900  0.00238100  0.00000000  1
+  Fe  Fe2  1  0.50475700  0.00223000  0.24623200  1
+  Fe  Fe3  1  0.99777000  0.49524300  0.75376800  1
+  Fe  Fe4  1  0.99777000  0.49524300  0.24623200  1
+  Fe  Fe5  1  0.50475700  0.00223000  0.75376800  1
+  As  As6  1  0.15129400  0.84870600  0.50000000  1
+  P  P7  1  0.66273700  0.33726300  0.00000000  1
+  P  P8  1  0.33649100  0.66350900  0.00000000  1
+  P  P9  1  0.83554000  0.16446000  0.50000000  1

@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_SmMnSi2
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       3.98003
+_cell_length_b       4.03074
+_cell_length_c       8.97746
+_cell_angle_alpha    102.973
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  SmMnSi2
+_chemical_formula_sum  Sm2Mn2Si4
+_cell_volume  140.34453412279927
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mn  Mn1  1  0.75000  0.74974  0.49948  1
+ Mn  Mn2  1  0.25000  0.25026  0.50052  1
+ Si  Si1  1  0.75000  0.32215  0.64430  1
+ Si  Si2  1  0.25000  0.67785  0.35570  1
+ Si  Si3  1  0.75000  0.46333  0.92666  1
+ Si  Si4  1  0.25000  0.53667  0.07334  1
+ Sm  Sm1  1  0.75000  0.10208  0.20416  1
+ Sm  Sm2  1  0.25000  0.89792  0.79584  1

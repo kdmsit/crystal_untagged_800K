@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KSNO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37848500
+_cell_length_b   7.26311700
+_cell_length_c   7.91078100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSNO
+_chemical_formula_sum   'K4 S4 N4 O4'
+_cell_volume   366.48815317
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.24833300  0.35562000  0.63130800  1
+  K  K1  1  0.25166700  0.14438000  0.13130800  1
+  K  K2  1  0.74833300  0.64438000  0.36869200  1
+  K  K3  1  0.75166700  0.85562000  0.86869200  1
+  S  S4  1  0.24736800  0.84287400  0.61969700  1
+  S  S5  1  0.25263200  0.65712600  0.11969700  1
+  S  S6  1  0.74736800  0.15712600  0.38030300  1
+  S  S7  1  0.75263200  0.34287400  0.88030300  1
+  N  N8  1  0.04822900  0.73917300  0.61285200  1
+  N  N9  1  0.45177100  0.76082700  0.11285200  1
+  N  N10  1  0.54822900  0.26082700  0.38714800  1
+  N  N11  1  0.95177100  0.23917300  0.88714800  1
+  O  O12  1  0.95518500  0.25962100  0.38592600  1
+  O  O13  1  0.54481500  0.24037900  0.88592600  1
+  O  O14  1  0.45518500  0.74037900  0.61407400  1
+  O  O15  1  0.04481500  0.75962100  0.11407400  1

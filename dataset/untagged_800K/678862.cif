@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LuMg2Cr3S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.36385993
+_cell_length_b   7.36384803
+_cell_length_c   7.36412773
+_cell_angle_alpha   59.84004183
+_cell_angle_beta   59.83798971
+_cell_angle_gamma   59.83951582
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuMg2Cr3S8
+_chemical_formula_sum   'Lu1 Mg2 Cr3 S8'
+_cell_volume   281.33817097
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.49999700  0.50000900  0.49997800  1
+  Mg  Mg1  1  0.87609600  0.87611200  0.87608200  1
+  Mg  Mg2  1  0.12391500  0.12391300  0.12393200  1
+  Cr  Cr3  1  0.50000300  0.49999200  0.00000600  1
+  Cr  Cr4  1  0.00000000  0.49999100  0.50000600  1
+  Cr  Cr5  1  0.50001800  0.99999600  0.50000400  1
+  S  S6  1  0.73630100  0.73630500  0.73628400  1
+  S  S7  1  0.24808500  0.24808900  0.71885600  1
+  S  S8  1  0.24808400  0.71885700  0.24809700  1
+  S  S9  1  0.71885700  0.24808900  0.24808700  1
+  S  S10  1  0.75189100  0.28115200  0.75188500  1
+  S  S11  1  0.28115300  0.75190300  0.75190400  1
+  S  S12  1  0.26369000  0.26368400  0.26372300  1
+  S  S13  1  0.75191200  0.75190300  0.28115800  1

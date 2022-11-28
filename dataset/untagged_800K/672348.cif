@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Sr2Bi2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91954000
+_cell_length_b   6.28026400
+_cell_length_c   7.70758616
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   75.26995803
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Bi2O5
+_chemical_formula_sum   'Sr2 Bi2 O5'
+_cell_volume   183.49249047
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.18215700  0.75000000  0.63568500  1
+  Sr  Sr1  1  0.80512900  0.25000000  0.38974300  1
+  Bi  Bi2  1  0.43184900  0.75000000  0.13630100  1
+  Bi  Bi3  1  0.56758700  0.25000000  0.86482600  1
+  O  O4  1  0.33634100  0.99541700  0.32731700  1
+  O  O5  1  0.66461200  0.01221200  0.67077500  1
+  O  O6  1  0.33634100  0.50458300  0.32731700  1
+  O  O7  1  0.66461200  0.48778800  0.67077500  1
+  O  O8  1  0.00117000  0.75000000  0.99765900  1

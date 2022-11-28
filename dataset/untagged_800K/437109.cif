@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba2Ni3Ti2
+_chemical_formula_sum              "Ba2 Ni3 Ti2"
+_cell_length_a       8.80926
+_cell_length_b       8.80926
+_cell_length_c       8.80926
+_cell_angle_alpha    31.403
+_cell_angle_beta     31.403
+_cell_angle_gamma    31.403
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.21600  0.21600  0.21600  1.0000
+  Ba  Ba2       1.0  0.75800  0.75800  0.75800  1.0000
+  Ni  Ni1       1.0  0.33000  0.33000  0.33000  1.0000
+  Ni  Ni2       1.0  0.64900  0.64900  0.64900  1.0000
+  Ni  Ni3       1.0  0.88300  0.88300  0.88300  1.0000
+  Ti  Ti1       1.0  0.56400  0.56400  0.56400  1.0000
+  Ti  Ti2       1.0  0.97500  0.97500  0.97500  1.0000

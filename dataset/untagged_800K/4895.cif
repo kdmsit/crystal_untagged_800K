@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ge4Os2
+_chemical_formula_sum              "Ge4 Os2"
+_cell_length_a       3.12261
+_cell_length_b       4.80524
+_cell_length_c       6.97988
+_cell_angle_alpha    91.7384
+_cell_angle_beta     102.926
+_cell_angle_gamma    108.961
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.71300  0.31400  0.11200  1.0000
+  Ge  Ge2       1.0  0.61200  0.75600  0.46800  1.0000
+  Ge  Ge3       1.0  0.38800  0.24400  0.53200  1.0000
+  Ge  Ge4       1.0  0.28700  0.68600  0.88800  1.0000
+  Os  Os1       1.0  0.04650  0.89200  0.20100  1.0000
+  Os  Os2       1.0  0.95400  0.10800  0.79900  1.0000

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Sm4Bi2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.32513449
+_cell_length_b   9.32513449
+_cell_length_c   9.32513449
+_cell_angle_alpha   150.92212579
+_cell_angle_beta   150.92212579
+_cell_angle_gamma   41.58948437
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm4Bi2O
+_chemical_formula_sum   'Sm4 Bi2 O1'
+_cell_volume   191.09511834
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.00000000  0.50000000  0.50000000  1
+  Sm  Sm1  1  0.50000000  0.00000000  0.50000000  1
+  Sm  Sm2  1  0.82515200  0.82515200  0.00000000  1
+  Sm  Sm3  1  0.17484800  0.17484800  0.00000000  1
+  Bi  Bi4  1  0.64002400  0.64002400  0.00000000  1
+  Bi  Bi5  1  0.35997600  0.35997600  0.00000000  1
+  O  O6  1  0.00000000  0.00000000  0.00000000  1

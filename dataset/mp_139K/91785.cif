@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Be2BH3O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.46097912
+_cell_length_b   4.46097912
+_cell_length_c   10.80684447
+_cell_angle_alpha   88.23950569
+_cell_angle_beta   88.23950569
+_cell_angle_gamma   59.50847802
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be2BH3O5
+_chemical_formula_sum   'Be4 B2 H6 O10'
+_cell_volume   185.20189590
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.33097300  0.32881100  0.80516600  1
+  Be  Be1  1  0.32881100  0.33097300  0.30516600  1
+  Be  Be2  1  0.66945000  0.67016700  0.70126400  1
+  Be  Be3  1  0.67016700  0.66945000  0.20126400  1
+  B  B4  1  0.00017900  0.99971700  0.75103800  1
+  B  B5  1  0.99971700  0.00017900  0.25103800  1
+  H  H6  1  0.43340800  0.43220300  0.98983300  1
+  H  H7  1  0.43220300  0.43340800  0.48983300  1
+  H  H8  1  0.54129100  0.92579400  0.50785000  1
+  H  H9  1  0.92459500  0.54339000  0.50774300  1
+  H  H10  1  0.54339000  0.92459500  0.00774300  1
+  H  H11  1  0.92579400  0.54129100  0.00785000  1
+  O  O12  1  0.32137800  0.31298800  0.95536700  1
+  O  O13  1  0.31298800  0.32137800  0.45536700  1
+  O  O14  1  0.99981500  0.69177500  0.75116000  1
+  O  O15  1  0.68902400  0.31193100  0.75067400  1
+  O  O16  1  0.30861400  0.99995900  0.75075200  1
+  O  O17  1  0.99995900  0.30861400  0.25075200  1
+  O  O18  1  0.69177500  0.99981500  0.25116000  1
+  O  O19  1  0.31193100  0.68902400  0.25067400  1
+  O  O20  1  0.67668200  0.67936700  0.54666200  1
+  O  O21  1  0.67936700  0.67668200  0.04666200  1

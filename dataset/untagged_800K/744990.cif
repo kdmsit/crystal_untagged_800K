@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Gd3Mn3Ga2Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15477500
+_cell_length_b   7.07091412
+_cell_length_c   7.05527916
+_cell_angle_alpha   59.99128910
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd3Mn3Ga2Si
+_chemical_formula_sum   'Gd3 Mn3 Ga2 Si1'
+_cell_volume   179.48566918
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.50000000  0.57717400  0.41666500  1
+  Gd  Gd1  1  0.50000000  0.41757900  0.00515200  1
+  Gd  Gd2  1  0.50000000  0.00585700  0.57724000  1
+  Mn  Mn3  1  0.00000000  0.22963900  0.75792000  1
+  Mn  Mn4  1  0.00000000  0.76338900  0.00998100  1
+  Mn  Mn5  1  0.00000000  0.00575100  0.23356800  1
+  Ga  Ga6  1  0.50000000  0.00069600  0.00001200  1
+  Ga  Ga7  1  0.00000000  0.66590600  0.66718700  1
+  Si  Si8  1  0.00000000  0.33391000  0.33237500  1

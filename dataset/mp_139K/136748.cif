@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CoBiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.16911768
+_cell_length_b   6.16911768
+_cell_length_c   6.16911768
+_cell_angle_alpha   125.01458575
+_cell_angle_beta   113.00029436
+_cell_angle_gamma   92.03323477
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoBiO4
+_chemical_formula_sum   'Co2 Bi2 O8'
+_cell_volume   166.17173839
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.50000000  0.50000000  0.50000000  1
+  Co  Co1  1  0.50000000  0.00000000  0.00000000  1
+  Bi  Bi2  1  0.50000000  0.00000000  0.50000000  1
+  Bi  Bi3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.27570700  0.77544800  0.99974100  1
+  O  O5  1  0.31318200  0.75183800  0.56134400  1
+  O  O6  1  0.30950700  0.24816200  0.06134400  1
+  O  O7  1  0.72429300  0.72403400  0.49974100  1
+  O  O8  1  0.27570700  0.27596600  0.50025900  1
+  O  O9  1  0.69049300  0.75183800  0.93865600  1
+  O  O10  1  0.68681800  0.24816200  0.43865600  1
+  O  O11  1  0.72429300  0.22455200  0.00025900  1

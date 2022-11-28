@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Eu4Pd4Si4
+_chemical_formula_sum              "Eu4 Pd4 Si4"
+_cell_length_a       6.42879
+_cell_length_b       6.42879
+_cell_length_c       6.42879
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.13200  0.13200  0.13200  1.0000
+  Eu  Eu2       1.0  0.86800  0.63200  0.36800  1.0000
+  Eu  Eu3       1.0  0.36800  0.86800  0.63200  1.0000
+  Eu  Eu4       1.0  0.63200  0.36800  0.86800  1.0000
+  Pd  Pd1       1.0  0.58600  0.91400  0.08610  1.0000
+  Pd  Pd2       1.0  0.41400  0.41400  0.41400  1.0000
+  Pd  Pd3       1.0  0.91400  0.08610  0.58600  1.0000
+  Pd  Pd4       1.0  0.08610  0.58600  0.91400  1.0000
+  Si  Si1       1.0  0.33200  0.66800  0.16800  1.0000
+  Si  Si2       1.0  0.66800  0.16800  0.33200  1.0000
+  Si  Si3       1.0  0.16800  0.33200  0.66800  1.0000
+  Si  Si4       1.0  0.83200  0.83200  0.83200  1.0000

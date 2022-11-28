@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_U3O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.56915462
+_cell_length_b   6.56915462
+_cell_length_c   6.56915462
+_cell_angle_alpha   146.49185422
+_cell_angle_beta   130.54597177
+_cell_angle_gamma   61.06184320
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U3O7
+_chemical_formula_sum   'U3 O7'
+_cell_volume   117.77270916
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.00000000  0.00000000  0.00000000  1
+  U  U1  1  0.65503600  0.65503600  0.00000000  1
+  U  U2  1  0.34496400  0.34496400  0.00000000  1
+  O  O3  1  0.78300200  0.50000000  0.28300200  1
+  O  O4  1  0.41078700  0.17676700  0.23402100  1
+  O  O5  1  0.05725400  0.82323300  0.23402000  1
+  O  O6  1  0.21699800  0.50000000  0.71699800  1
+  O  O7  1  0.94274600  0.17676700  0.76598000  1
+  O  O8  1  0.58921300  0.82323300  0.76598000  1
+  O  O9  1  0.50000000  0.00000000  0.50000000  1

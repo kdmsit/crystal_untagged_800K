@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mo3Rh2Tl2
+_chemical_formula_sum              "Mo3 Rh2 Tl2"
+_cell_length_a       7.43329
+_cell_length_b       7.43329
+_cell_length_c       7.43329
+_cell_angle_alpha    34.9941
+_cell_angle_beta     34.9941
+_cell_angle_gamma    34.9941
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.33800  0.33800  0.33800  1.0000
+  Mo  Mo2       1.0  0.62600  0.62600  0.62600  1.0000
+  Mo  Mo3       1.0  0.92000  0.92000  0.92000  1.0000
+  Rh  Rh1       1.0  0.04190  0.04190  0.04190  1.0000
+  Rh  Rh2       1.0  0.48800  0.48800  0.48800  1.0000
+  Tl  Tl1       1.0  0.19500  0.19500  0.19500  1.0000
+  Tl  Tl2       1.0  0.76600  0.76600  0.76600  1.0000

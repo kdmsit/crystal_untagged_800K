@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_HoNiGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50220923
+_cell_length_b   5.50220923
+_cell_length_c   6.84097273
+_cell_angle_alpha   51.78237209
+_cell_angle_beta   51.78237209
+_cell_angle_gamma   44.14651623
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoNiGe
+_chemical_formula_sum   'Ho2 Ni2 Ge2'
+_cell_volume   107.39814340
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.45174900  0.45174900  0.80777000  1
+  Ho  Ho1  1  0.54825100  0.54825100  0.19223000  1
+  Ni  Ni2  1  0.17008800  0.17008800  0.77911300  1
+  Ni  Ni3  1  0.82991200  0.82991200  0.22088700  1
+  Ge  Ge4  1  0.82986700  0.82986700  0.60654700  1
+  Ge  Ge5  1  0.17013300  0.17013300  0.39345300  1

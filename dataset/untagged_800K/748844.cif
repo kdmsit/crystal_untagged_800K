@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Mg2ScTi3S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.44262845
+_cell_length_b   7.43335537
+_cell_length_c   7.43296559
+_cell_angle_alpha   58.99938080
+_cell_angle_beta   59.02721836
+_cell_angle_gamma   59.02305784
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2ScTi3S8
+_chemical_formula_sum   'Mg2 Sc1 Ti3 S8'
+_cell_volume   284.25351026
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.87408800  0.87361900  0.87376100  1
+  Mg  Mg1  1  0.12590500  0.12638500  0.12624600  1
+  Sc  Sc2  1  0.50002700  0.50005400  0.49993500  1
+  Ti  Ti3  1  0.49999600  0.49998700  0.00000000  1
+  Ti  Ti4  1  0.99999500  0.49999700  0.50001300  1
+  Ti  Ti5  1  0.49999400  0.99999500  0.50001400  1
+  S  S6  1  0.74052000  0.74081500  0.74073800  1
+  S  S7  1  0.25432100  0.25403200  0.72275500  1
+  S  S8  1  0.25425500  0.72277300  0.25409800  1
+  S  S9  1  0.72250100  0.25417300  0.25424400  1
+  S  S10  1  0.74572900  0.27721000  0.74589500  1
+  S  S11  1  0.27751100  0.74582200  0.74575000  1
+  S  S12  1  0.25947500  0.25916600  0.25928600  1
+  S  S13  1  0.74568700  0.74596600  0.27726600  1

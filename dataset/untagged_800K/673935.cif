@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Mn10CuGe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.06260328
+_cell_length_b   7.06260328
+_cell_length_c   7.06260328
+_cell_angle_alpha   96.68331290
+_cell_angle_beta   96.68331290
+_cell_angle_gamma   140.10642231
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn10CuGe5
+_chemical_formula_sum   'Mn10 Cu1 Ge5'
+_cell_volume   212.38858634
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.00000000  0.50000000  1
+  Mn  Mn1  1  0.00000000  0.50000000  0.50000000  1
+  Mn  Mn2  1  0.47742500  0.33040100  0.30346200  1
+  Mn  Mn3  1  0.02693900  0.17396300  0.69653800  1
+  Mn  Mn4  1  0.52257500  0.82603700  0.85297600  1
+  Mn  Mn5  1  0.97306100  0.66959900  0.14702400  1
+  Mn  Mn6  1  0.33040100  0.02693900  0.85297600  1
+  Mn  Mn7  1  0.17396300  0.47742500  0.14702400  1
+  Mn  Mn8  1  0.82603700  0.97306100  0.30346200  1
+  Mn  Mn9  1  0.66959900  0.52257500  0.69653800  1
+  Cu  Cu10  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge11  1  0.58804500  0.08804500  0.17609000  1
+  Ge  Ge12  1  0.91195500  0.41195500  0.82391000  1
+  Ge  Ge13  1  0.41195500  0.58804500  0.50000000  1
+  Ge  Ge14  1  0.08804500  0.91195500  0.50000000  1
+  Ge  Ge15  1  0.50000000  0.50000000  0.00000000  1

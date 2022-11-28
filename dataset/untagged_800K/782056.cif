@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_HfO2
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       5.11742
+_cell_length_b       5.19276
+_cell_length_c       5.29593
+_cell_angle_alpha    90
+_cell_angle_beta     99.3921
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  HfO2
+_chemical_formula_sum  Hf4O8
+_cell_volume  138.84497216018045
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Hf  Hf1  1  0.72350  0.54167  0.29194  1
+ Hf  Hf2  1  0.27650  0.04167  0.20806  1
+ Hf  Hf3  1  0.27650  0.45833  0.70806  1
+ Hf  Hf4  1  0.72350  0.95833  0.79194  1
+ O  O1  1  0.55301  0.25806  0.02044  1
+ O  O2  1  0.44699  0.75806  0.47956  1
+ O  O3  1  0.44699  0.74194  0.97956  1
+ O  O4  1  0.55301  0.24194  0.52044  1
+ O  O5  1  0.92867  0.66386  0.65833  1
+ O  O6  1  0.07133  0.16386  0.84167  1
+ O  O7  1  0.07133  0.33614  0.34167  1
+ O  O8  1  0.92867  0.83614  0.15833  1

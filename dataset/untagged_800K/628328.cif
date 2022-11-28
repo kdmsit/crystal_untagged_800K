@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Cr2CoSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10000198
+_cell_length_b   6.44424825
+_cell_length_c   6.89730745
+_cell_angle_alpha   136.67044834
+_cell_angle_beta   116.37023163
+_cell_angle_gamma   69.11022569
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2CoSe4
+_chemical_formula_sum   'Cr2 Co1 Se4'
+_cell_volume   139.15678594
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.64051700  0.61244200  0.37671200  1
+  Cr  Cr1  1  0.35948300  0.38755800  0.62328800  1
+  Co  Co2  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se3  1  0.51419200  0.13093400  0.82358000  1
+  Se  Se4  1  0.86881000  0.50252200  0.69911200  1
+  Se  Se5  1  0.13119000  0.49747800  0.30088800  1
+  Se  Se6  1  0.48580800  0.86906600  0.17642000  1

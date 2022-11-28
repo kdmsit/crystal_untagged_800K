@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Co4Pa6
+_chemical_formula_sum              "Co4 Pa6"
+_cell_length_a       6.45703
+_cell_length_b       6.45703
+_cell_length_c       6.80143
+_cell_angle_alpha    118.339
+_cell_angle_beta     61.6614
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.32100  0.67900  0.03750  1.0000
+  Co  Co2       1.0  0.17900  0.82100  0.46200  1.0000
+  Co  Co3       1.0  0.82100  0.17900  0.53800  1.0000
+  Co  Co4       1.0  0.67900  0.32100  0.96200  1.0000
+  Pa  Pa1       1.0  0.25000  0.14900  0.25000  1.0000
+  Pa  Pa2       1.0  0.85100  0.35100  0.25000  1.0000
+  Pa  Pa3       1.0  0.64900  0.75000  0.25000  1.0000
+  Pa  Pa4       1.0  0.35100  0.25000  0.75000  1.0000
+  Pa  Pa5       1.0  0.14900  0.64900  0.75000  1.0000
+  Pa  Pa6       1.0  0.75000  0.85100  0.75000  1.0000

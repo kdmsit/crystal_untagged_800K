@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_RbHS
+_symmetry_space_group_name_H-M  'P2_1/m'
+_cell_length_a       4.49719
+_cell_length_b       5.15132
+_cell_length_c       6.84879
+_cell_angle_alpha    90
+_cell_angle_beta     102.604
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  11
+_chemical_formula_structural  RbHS
+_chemical_formula_sum  Rb2H2S2
+_cell_volume  154.8391692143473
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ H  H1  1  0.47183  0.75000  0.60275  1
+ H  H2  1  0.52817  0.25000  0.39725  1
+ Rb  Rb1  1  0.76696  0.75000  0.23776  1
+ Rb  Rb2  1  0.23304  0.25000  0.76224  1
+ S  S1  1  0.73786  0.75000  0.74039  1
+ S  S2  1  0.26214  0.25000  0.25961  1

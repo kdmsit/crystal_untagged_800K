@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_SrGePt
+_symmetry_space_group_name_H-M  'P2_13'
+_cell_length_a       6.65661
+_cell_length_b       6.65661
+_cell_length_c       6.65661
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  198
+_chemical_formula_structural  SrGePt
+_chemical_formula_sum  Sr4Ge4Pt4
+_cell_volume  294.95788231747207
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.16953  0.33047  0.66953  1
+ Ge  Ge2  1  0.33047  0.66953  0.16953  1
+ Ge  Ge3  1  0.66953  0.16953  0.33047  1
+ Ge  Ge4  1  0.83047  0.83047  0.83047  1
+ Pt  Pt1  1  0.58101  0.91899  0.08101  1
+ Pt  Pt2  1  0.91899  0.08101  0.58101  1
+ Pt  Pt3  1  0.08101  0.58101  0.91899  1
+ Pt  Pt4  1  0.41899  0.41899  0.41899  1
+ Sr  Sr1  1  0.13101  0.13101  0.13101  1
+ Sr  Sr2  1  0.36899  0.86899  0.63101  1
+ Sr  Sr3  1  0.63101  0.36899  0.86899  1
+ Sr  Sr4  1  0.86899  0.63101  0.36899  1

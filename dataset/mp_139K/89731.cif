@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LaPr3(CoP)8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90927300
+_cell_length_b   3.90927300
+_cell_length_c   19.95788600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaPr3(CoP)8
+_chemical_formula_sum   'La1 Pr3 Co8 P8'
+_cell_volume   305.00470413
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00000000  0.00000000  0.00000000  1
+  Pr  Pr1  1  0.50000000  0.50000000  0.25035000  1
+  Pr  Pr2  1  0.00000000  0.00000000  0.50000000  1
+  Pr  Pr3  1  0.50000000  0.50000000  0.74965000  1
+  Co  Co4  1  0.00000000  0.50000000  0.12625700  1
+  Co  Co5  1  0.50000000  0.00000000  0.37503400  1
+  Co  Co6  1  0.00000000  0.50000000  0.62496600  1
+  Co  Co7  1  0.50000000  0.00000000  0.87374300  1
+  Co  Co8  1  0.50000000  0.00000000  0.12625700  1
+  Co  Co9  1  0.00000000  0.50000000  0.37503400  1
+  Co  Co10  1  0.50000000  0.00000000  0.62496600  1
+  Co  Co11  1  0.00000000  0.50000000  0.87374300  1
+  P  P12  1  0.50000000  0.50000000  0.07068900  1
+  P  P13  1  0.00000000  0.00000000  0.31860100  1
+  P  P14  1  0.50000000  0.50000000  0.56868300  1
+  P  P15  1  0.00000000  0.00000000  0.81761600  1
+  P  P16  1  0.00000000  0.00000000  0.18238400  1
+  P  P17  1  0.50000000  0.50000000  0.43131700  1
+  P  P18  1  0.00000000  0.00000000  0.68139900  1
+  P  P19  1  0.50000000  0.50000000  0.92931100  1

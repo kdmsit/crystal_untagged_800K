@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ba2Br2F10Pb4
+_chemical_formula_sum              "Ba2 Br2 F10 Pb4"
+_cell_length_a       5.88264
+_cell_length_b       5.88264
+_cell_length_c       9.53856
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.75000  0.25000  0.00000  1.0000
+  Ba  Ba2       1.0  0.25000  0.75000  0.00000  1.0000
+  Br  Br1       1.0  0.75000  0.25000  0.50000  1.0000
+  Br  Br2       1.0  0.25000  0.75000  0.50000  1.0000
+  F   F1        1.0  0.25000  0.25000  0.03760  1.0000
+  F   F2        1.0  0.51600  0.51600  0.19200  1.0000
+  F   F3        1.0  0.98400  0.51600  0.19200  1.0000
+  F   F4        1.0  0.51600  0.98400  0.19200  1.0000
+  F   F5        1.0  0.98400  0.98400  0.19200  1.0000
+  F   F6        1.0  0.01560  0.01560  0.80800  1.0000
+  F   F7        1.0  0.48400  0.01560  0.80800  1.0000
+  F   F8        1.0  0.01560  0.48400  0.80800  1.0000
+  F   F9        1.0  0.48400  0.48400  0.80800  1.0000
+  F   F10       1.0  0.75000  0.75000  0.96200  1.0000
+  Pb  Pb1       1.0  0.25000  0.25000  0.28500  1.0000
+  Pb  Pb2       1.0  0.75000  0.75000  0.33200  1.0000
+  Pb  Pb3       1.0  0.25000  0.25000  0.66800  1.0000
+  Pb  Pb4       1.0  0.75000  0.75000  0.71500  1.0000

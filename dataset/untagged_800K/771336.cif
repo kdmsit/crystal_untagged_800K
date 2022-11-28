@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_MnCuO3
+_symmetry_space_group_name_H-M  'R-3'
+_cell_length_a       4.93979
+_cell_length_b       4.93951
+_cell_length_c       5.39932
+_cell_angle_alpha    117.226
+_cell_angle_beta     62.7705
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  148
+_chemical_formula_structural  MnCuO3
+_chemical_formula_sum  Mn2Cu2O6
+_cell_volume  96.87145033889371
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.64021  0.35982  0.07943  1
+ Cu  Cu2  1  0.35979  0.64018  0.92057  1
+ Mn  Mn1  1  0.84436  0.15563  0.46689  1
+ Mn  Mn2  1  0.15564  0.84437  0.53311  1
+ O  O1  1  0.94782  0.43765  0.26862  1
+ O  O2  1  0.43763  0.22124  0.73138  1
+ O  O3  1  0.77876  0.94783  0.73140  1
+ O  O4  1  0.22124  0.05217  0.26860  1
+ O  O5  1  0.56237  0.77877  0.26862  1
+ O  O6  1  0.05218  0.56235  0.73138  1

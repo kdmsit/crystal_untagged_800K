@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pt3Te4
+_chemical_formula_sum              "Pt3 Te4"
+_cell_length_a       4.03192
+_cell_length_b       4.03192
+_cell_length_c       12.1081
+_cell_angle_alpha    90
+_cell_angle_beta     80.4158
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.00000  0.00000  0.00000  1.0000
+  Pt  Pt2       1.0  0.70800  0.85400  0.43800  1.0000
+  Pt  Pt3       1.0  0.29200  0.14600  0.56200  1.0000
+  Te  Te1       1.0  0.58900  0.29400  0.11700  1.0000
+  Te  Te2       1.0  0.10900  0.55500  0.33600  1.0000
+  Te  Te3       1.0  0.89100  0.44500  0.66400  1.0000
+  Te  Te4       1.0  0.41100  0.70600  0.88300  1.0000

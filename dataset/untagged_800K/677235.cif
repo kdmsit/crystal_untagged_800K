@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CsMnCuF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.47336467
+_cell_length_b   7.47336467
+_cell_length_c   7.47336467
+_cell_angle_alpha   122.33708440
+_cell_angle_beta   117.27383574
+_cell_angle_gamma   90.39287759
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsMnCuF6
+_chemical_formula_sum   'Cs2 Mn2 Cu2 F12'
+_cell_volume   295.28737976
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.87349100  0.62349100  0.25000000  1
+  Cs  Cs1  1  0.12650900  0.37650900  0.75000000  1
+  Mn  Mn2  1  0.50000000  0.00000000  0.50000000  1
+  Mn  Mn3  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu4  1  0.50000000  0.00000000  0.00000000  1
+  Cu  Cu5  1  0.50000000  0.50000000  0.50000000  1
+  F  F6  1  0.82319200  0.07319200  0.75000000  1
+  F  F7  1  0.43414900  0.68414900  0.75000000  1
+  F  F8  1  0.82718000  0.69095900  0.75708700  1
+  F  F9  1  0.43387200  0.07009300  0.74291300  1
+  F  F10  1  0.82718000  0.07009300  0.13622100  1
+  F  F11  1  0.43387200  0.69095900  0.36377900  1
+  F  F12  1  0.17680800  0.92680800  0.25000000  1
+  F  F13  1  0.56585100  0.31585100  0.25000000  1
+  F  F14  1  0.17282000  0.30904100  0.24291300  1
+  F  F15  1  0.56612800  0.92990700  0.25708700  1
+  F  F16  1  0.17282000  0.92990700  0.86377900  1
+  F  F17  1  0.56612800  0.30904100  0.63622100  1

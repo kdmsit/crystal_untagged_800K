@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NiBiSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23738800
+_cell_length_b   6.23738800
+_cell_length_c   6.23738800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiBiSe
+_chemical_formula_sum   'Ni4 Bi4 Se4'
+_cell_volume   242.66563667
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.26567100  0.73432900  0.23432900  1
+  Ni  Ni1  1  0.76567100  0.76567100  0.76567100  1
+  Ni  Ni2  1  0.23432900  0.26567100  0.73432900  1
+  Ni  Ni3  1  0.73432900  0.23432900  0.26567100  1
+  Bi  Bi4  1  0.38300000  0.88300000  0.61700000  1
+  Bi  Bi5  1  0.88300000  0.61700000  0.38300000  1
+  Bi  Bi6  1  0.61700000  0.38300000  0.88300000  1
+  Bi  Bi7  1  0.11700000  0.11700000  0.11700000  1
+  Se  Se8  1  0.37878500  0.37878500  0.37878500  1
+  Se  Se9  1  0.62121500  0.87878500  0.12121500  1
+  Se  Se10  1  0.87878500  0.12121500  0.62121500  1
+  Se  Se11  1  0.12121500  0.62121500  0.87878500  1

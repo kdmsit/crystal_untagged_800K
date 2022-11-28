@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       I4Nb2O2
+_chemical_formula_sum              "I4 Nb2 O2"
+_cell_length_a       3.95295
+_cell_length_b       7.56529
+_cell_length_c       7.97485
+_cell_angle_alpha    104.892
+_cell_angle_beta     104.35
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.12200  0.06740  0.25300  1.0000
+  I   I2        1.0  0.15300  0.58500  0.30800  1.0000
+  I   I3        1.0  0.84500  0.41500  0.69200  1.0000
+  I   I4        1.0  0.87000  0.93300  0.74700  1.0000
+  Nb  Nb1       1.0  0.03300  0.29200  0.00085  1.0000
+  Nb  Nb2       1.0  0.03220  0.70800  0.99900  1.0000
+  O   O1        1.0  0.50400  0.28700  0.00121  1.0000
+  O   O2        1.0  0.50300  0.71300  0.99900  1.0000

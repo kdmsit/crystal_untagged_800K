@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       H2Hf4Si2
+_chemical_formula_sum              "H2 Hf4 Si2"
+_cell_length_a       5.34702
+_cell_length_b       5.34702
+_cell_length_c       5.34702
+_cell_angle_alpha    119.11
+_cell_angle_beta     104.878
+_cell_angle_gamma    104.878
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.50000  0.75000  0.25000  1.0000
+  H   H2        1.0  0.50000  0.25000  0.75000  1.0000
+  Hf  Hf1       1.0  0.50000  0.33600  0.16400  1.0000
+  Hf  Hf2       1.0  0.17200  0.83600  0.33600  1.0000
+  Hf  Hf3       1.0  0.82800  0.16400  0.66400  1.0000
+  Hf  Hf4       1.0  0.50000  0.66400  0.83600  1.0000
+  Si  Si1       1.0  0.00000  0.25000  0.25000  1.0000
+  Si  Si2       1.0  0.00000  0.75000  0.75000  1.0000

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Al5Sb3O16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.52435918
+_cell_length_b   7.52435918
+_cell_length_c   4.52546101
+_cell_angle_alpha   89.30993663
+_cell_angle_beta   89.30993663
+_cell_angle_gamma   101.38957270
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al5Sb3O16
+_chemical_formula_sum   'Al5 Sb3 O16'
+_cell_volume   251.12243725
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.61329400  0.86438600  0.99927000  1
+  Al  Al1  1  0.38670600  0.13561400  0.00073000  1
+  Al  Al2  1  0.13561400  0.38670600  0.00073000  1
+  Al  Al3  1  0.86438600  0.61329400  0.99927000  1
+  Al  Al4  1  0.00000000  0.00000000  0.00000000  1
+  Sb  Sb5  1  0.76923100  0.23076900  0.50000000  1
+  Sb  Sb6  1  0.23076900  0.76923100  0.50000000  1
+  Sb  Sb7  1  0.50000000  0.50000000  0.50000000  1
+  O  O8  1  0.41029100  0.91815300  0.21106500  1
+  O  O9  1  0.58970900  0.08184700  0.78893500  1
+  O  O10  1  0.08184700  0.58970900  0.78893500  1
+  O  O11  1  0.91815300  0.41029100  0.21106500  1
+  O  O12  1  0.79023000  0.02528000  0.24431800  1
+  O  O13  1  0.20977000  0.97472000  0.75568200  1
+  O  O14  1  0.97472000  0.20977000  0.75568200  1
+  O  O15  1  0.02528000  0.79023000  0.24431800  1
+  O  O16  1  0.83022800  0.83022800  0.81851900  1
+  O  O17  1  0.16977200  0.16977200  0.18148100  1
+  O  O18  1  0.54190900  0.27768800  0.28667300  1
+  O  O19  1  0.45809100  0.72231200  0.71332700  1
+  O  O20  1  0.72231200  0.45809100  0.71332700  1
+  O  O21  1  0.27768800  0.54190900  0.28667300  1
+  O  O22  1  0.65160000  0.65160000  0.19975500  1
+  O  O23  1  0.34840000  0.34840000  0.80024500  1

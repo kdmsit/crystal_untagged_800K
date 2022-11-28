@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_GaSi2N3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55051400
+_cell_length_b   5.79540370
+_cell_length_c   4.91595700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.47054048
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaSi2N3
+_chemical_formula_sum   'Ga2 Si4 N6'
+_cell_volume   134.87377622
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.00000000  0.63556700  0.55239200  1
+  Ga  Ga1  1  0.00000000  0.36443300  0.05239200  1
+  Si  Si2  1  0.35117500  0.31303600  0.48280200  1
+  Si  Si3  1  0.64882500  0.96186100  0.48280200  1
+  Si  Si4  1  0.64882500  0.68696400  0.98280200  1
+  Si  Si5  1  0.35117500  0.03813900  0.98280200  1
+  N  N6  1  0.46886000  0.35946600  0.82335000  1
+  N  N7  1  0.53114000  0.89060600  0.82335000  1
+  N  N8  1  0.53114000  0.64053400  0.32335000  1
+  N  N9  1  0.46886000  0.10939400  0.32335000  1
+  N  N10  1  0.00000000  0.84204900  0.92330400  1
+  N  N11  1  0.00000000  0.15795100  0.42330400  1

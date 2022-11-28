@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_Ti3Sn
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       4.74264
+_cell_length_b       5.74553
+_cell_length_c       5.97651
+_cell_angle_alpha    118.73
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  Ti3Sn
+_chemical_formula_sum  Ti6Sn2
+_cell_volume  142.80611376830979
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Sn  Sn1  1  0.75000  0.33267  0.66533  1
+ Sn  Sn2  1  0.25000  0.66733  0.33467  1
+ Ti  Ti1  1  0.75000  0.82340  0.64680  1
+ Ti  Ti2  1  0.25000  0.17660  0.35320  1
+ Ti  Ti3  1  0.75000  0.83336  0.14636  1
+ Ti  Ti4  1  0.25000  0.68700  0.85364  1
+ Ti  Ti5  1  0.25000  0.16664  0.85364  1
+ Ti  Ti6  1  0.75000  0.31300  0.14636  1

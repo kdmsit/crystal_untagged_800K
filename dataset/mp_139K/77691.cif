@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Co2Ir(NCl)10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42328444
+_cell_length_b   7.42328444
+_cell_length_c   11.43416247
+_cell_angle_alpha   74.41810465
+_cell_angle_beta   74.41810465
+_cell_angle_gamma   66.38873672
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2Ir(NCl)10
+_chemical_formula_sum   'Co2 Ir1 N10 Cl10'
+_cell_volume   546.78117365
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.62288300  0.62288300  0.65173400  1
+  Co  Co1  1  0.37711700  0.37711700  0.34826600  1
+  Ir  Ir2  1  0.00000000  0.00000000  0.00000000  1
+  N  N3  1  0.49534200  0.49534200  0.74399400  1
+  N  N4  1  0.50465800  0.50465800  0.25600600  1
+  N  N5  1  0.66800500  0.80607600  0.77541900  1
+  N  N6  1  0.80607600  0.66800500  0.77541900  1
+  N  N7  1  0.33199500  0.19392400  0.22458100  1
+  N  N8  1  0.19392400  0.33199500  0.22458100  1
+  N  N9  1  0.50265200  0.78970400  0.52800800  1
+  N  N10  1  0.78970400  0.50265200  0.52800800  1
+  N  N11  1  0.49734800  0.21029600  0.47199200  1
+  N  N12  1  0.21029600  0.49734800  0.47199200  1
+  Cl  Cl13  1  0.04298100  0.04298100  0.78681400  1
+  Cl  Cl14  1  0.95701900  0.95701900  0.21318600  1
+  Cl  Cl15  1  0.91965300  0.91965300  0.50131100  1
+  Cl  Cl16  1  0.08034700  0.08034700  0.49868900  1
+  Cl  Cl17  1  0.19149400  0.19149400  0.97351500  1
+  Cl  Cl18  1  0.80850600  0.80850600  0.02648500  1
+  Cl  Cl19  1  0.28710600  0.71289400  0.00000000  1
+  Cl  Cl20  1  0.71289400  0.28710600  0.00000000  1
+  Cl  Cl21  1  0.33838800  0.33838800  0.58904500  1
+  Cl  Cl22  1  0.66161200  0.66161200  0.41095500  1

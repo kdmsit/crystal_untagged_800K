@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       H4S6
+_chemical_formula_sum              "H4 S6"
+_cell_length_a       4.77942
+_cell_length_b       4.77942
+_cell_length_c       7.546
+_cell_angle_alpha    108.463
+_cell_angle_beta     71.5374
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.94000  0.05950  0.17900  1.0000
+  H   H2        1.0  0.56000  0.44000  0.32100  1.0000
+  H   H3        1.0  0.44000  0.56000  0.67900  1.0000
+  H   H4        1.0  0.05950  0.94000  0.82100  1.0000
+  S   S1        1.0  0.25000  0.02210  0.25000  1.0000
+  S   S2        1.0  0.52200  0.75000  0.25000  1.0000
+  S   S3        1.0  0.97800  0.47800  0.25000  1.0000
+  S   S4        1.0  0.02210  0.52200  0.75000  1.0000
+  S   S5        1.0  0.47800  0.25000  0.75000  1.0000
+  S   S6        1.0  0.75000  0.97800  0.75000  1.0000

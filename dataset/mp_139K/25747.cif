@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PuAlFe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24366969
+_cell_length_b   5.24366969
+_cell_length_c   8.54590900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   117.39415891
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuAlFe
+_chemical_formula_sum   'Pu4 Al4 Fe4'
+_cell_volume   208.62892995
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.66099300  0.33900700  0.29433300  1
+  Pu  Pu1  1  0.33653400  0.66346600  0.17113200  1
+  Pu  Pu2  1  0.33653400  0.66346600  0.82886800  1
+  Pu  Pu3  1  0.66099300  0.33900700  0.70566700  1
+  Al  Al4  1  0.00562400  0.99437600  0.24449500  1
+  Al  Al5  1  0.00562400  0.99437600  0.75550500  1
+  Al  Al6  1  0.65022300  0.83887900  0.50000000  1
+  Al  Al7  1  0.16112100  0.34977700  0.50000000  1
+  Fe  Fe8  1  0.15810000  0.84190000  0.50000000  1
+  Fe  Fe9  1  0.33540400  0.15434900  0.00000000  1
+  Fe  Fe10  1  0.84565100  0.66459600  0.00000000  1
+  Fe  Fe11  1  0.84096600  0.15903400  0.00000000  1

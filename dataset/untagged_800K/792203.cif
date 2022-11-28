@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_LiH3O2
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.14621
+_cell_length_b       5.54184
+_cell_length_c       5.54184
+_cell_angle_alpha    96.657
+_cell_angle_beta     103.15
+_cell_angle_gamma    103.15
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  LiH3O2
+_chemical_formula_sum  Li2H6O4
+_cell_volume  90.18148224273905
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ H  H1  1  0.85629  0.01809  0.75371  1
+ H  H2  1  0.14371  0.24629  0.98191  1
+ H  H3  1  0.14371  0.98191  0.24629  1
+ H  H4  1  0.31263  0.73581  0.73581  1
+ H  H5  1  0.68737  0.26419  0.26419  1
+ H  H6  1  0.85629  0.75371  0.01809  1
+ Li  Li1  1  0.50000  0.34768  0.65232  1
+ Li  Li2  1  0.50000  0.65232  0.34768  1
+ O  O1  1  0.60451  0.71526  0.71526  1
+ O  O2  1  0.39549  0.28474  0.28474  1
+ O  O3  1  -0.00000  0.79250  0.20750  1
+ O  O4  1  0.00000  0.20750  0.79250  1

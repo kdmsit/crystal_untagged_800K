@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_Ta3Sn
+_symmetry_space_group_name_H-M  'Pm-3n'
+_cell_length_a       5.31498
+_cell_length_b       5.31498
+_cell_length_c       5.31498
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  223
+_chemical_formula_structural  Ta3Sn
+_chemical_formula_sum  Ta6Sn2
+_cell_volume  150.14325854343323
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Sn  Sn1  1  0.00000  0.00000  0.00000  1
+ Sn  Sn2  1  0.50000  0.50000  0.50000  1
+ Ta  Ta1  1  0.25000  0.00000  0.50000  1
+ Ta  Ta2  1  0.75000  0.00000  0.50000  1
+ Ta  Ta3  1  0.00000  0.50000  0.25000  1
+ Ta  Ta4  1  0.00000  0.50000  0.75000  1
+ Ta  Ta5  1  0.50000  0.75000  0.00000  1
+ Ta  Ta6  1  0.50000  0.25000  0.00000  1

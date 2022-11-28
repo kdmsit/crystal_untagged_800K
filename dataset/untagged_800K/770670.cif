@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_MgSnO3
+_symmetry_space_group_name_H-M  'R-3'
+_cell_length_a       5.63948
+_cell_length_b       5.63949
+_cell_length_c       5.63949
+_cell_angle_alpha    56.2517
+_cell_angle_beta     56.2516
+_cell_angle_gamma    56.2516
+
+_symmetry_Int_Tables_number  148
+_chemical_formula_structural  MgSnO3
+_chemical_formula_sum  Mg2Sn2O6
+_cell_volume  115.82395844215719
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.35643  0.35643  0.35643  1
+ Mg  Mg2  1  0.64357  0.64357  0.64357  1
+ O  O1  1  0.44890  0.75426  0.04890  1
+ O  O2  1  0.75426  0.04890  0.44890  1
+ O  O3  1  0.95110  0.55110  0.24574  1
+ O  O4  1  0.04890  0.44890  0.75426  1
+ O  O5  1  0.24574  0.95110  0.55110  1
+ O  O6  1  0.55110  0.24574  0.95110  1
+ Sn  Sn1  1  0.14660  0.14660  0.14660  1
+ Sn  Sn2  1  0.85340  0.85340  0.85340  1

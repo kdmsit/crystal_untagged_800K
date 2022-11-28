@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mn4CoNi3Ge4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69018300
+_cell_length_b   5.95375700
+_cell_length_c   7.09694668
+_cell_angle_alpha   89.77715214
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4CoNi3Ge4
+_chemical_formula_sum   'Mn4 Co1 Ni3 Ge4'
+_cell_volume   155.92195316
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.53257600  0.68020900  1
+  Mn  Mn1  1  0.00000000  0.03268200  0.82215800  1
+  Mn  Mn2  1  0.50000000  0.46846000  0.32004100  1
+  Mn  Mn3  1  0.50000000  0.96644800  0.17838900  1
+  Co  Co4  1  0.00000000  0.64731900  0.05736500  1
+  Ni  Ni5  1  0.00000000  0.14482200  0.44173700  1
+  Ni  Ni6  1  0.50000000  0.35228800  0.94095100  1
+  Ni  Ni7  1  0.50000000  0.85333400  0.55875700  1
+  Ge  Ge8  1  0.00000000  0.25837500  0.12671800  1
+  Ge  Ge9  1  0.00000000  0.75362000  0.37167000  1
+  Ge  Ge10  1  0.50000000  0.74446500  0.87617200  1
+  Ge  Ge11  1  0.50000000  0.24561100  0.62583200  1

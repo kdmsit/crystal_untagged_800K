@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Mg2Ta2SnO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.86496702
+_cell_length_b   10.86496702
+_cell_length_c   5.33246533
+_cell_angle_alpha   88.08059607
+_cell_angle_beta   88.08059607
+_cell_angle_gamma   32.39010262
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2Ta2SnO8
+_chemical_formula_sum   'Mg4 Ta4 Sn2 O16'
+_cell_volume   336.99755249
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.86921500  0.58813800  0.75890700  1
+  Mg  Mg1  1  0.41186200  0.13078500  0.74109300  1
+  Mg  Mg2  1  0.13078500  0.41186200  0.24109300  1
+  Mg  Mg3  1  0.58813800  0.86921500  0.25890700  1
+  Ta  Ta4  1  0.03820000  0.70716300  0.72779200  1
+  Ta  Ta5  1  0.29283700  0.96180000  0.77220800  1
+  Ta  Ta6  1  0.96180000  0.29283700  0.27220800  1
+  Ta  Ta7  1  0.70716300  0.03820000  0.22779200  1
+  Sn  Sn8  1  0.68739900  0.31260100  0.75000000  1
+  Sn  Sn9  1  0.31260100  0.68739900  0.25000000  1
+  O  O10  1  0.00244400  0.82759300  0.03625100  1
+  O  O11  1  0.17240700  0.99755600  0.46374900  1
+  O  O12  1  0.99755600  0.17240700  0.96374900  1
+  O  O13  1  0.82759300  0.00244400  0.53625100  1
+  O  O14  1  0.30824000  0.55291000  0.61540300  1
+  O  O15  1  0.44709000  0.69176000  0.88459700  1
+  O  O16  1  0.69176000  0.44709000  0.38459700  1
+  O  O17  1  0.55291000  0.30824000  0.11540300  1
+  O  O18  1  0.91922500  0.69939000  0.44358400  1
+  O  O19  1  0.30061000  0.08077500  0.05641600  1
+  O  O20  1  0.45053400  0.15597000  0.37296600  1
+  O  O21  1  0.84403000  0.54946600  0.12703400  1
+  O  O22  1  0.54946600  0.84403000  0.62703400  1
+  O  O23  1  0.15597000  0.45053400  0.87296600  1
+  O  O24  1  0.69939000  0.91922500  0.94358400  1
+  O  O25  1  0.08077500  0.30061000  0.55641600  1

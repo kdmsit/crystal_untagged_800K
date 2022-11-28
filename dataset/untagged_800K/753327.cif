@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Si(Hg2S3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30529726
+_cell_length_b   7.30529726
+_cell_length_c   12.67965427
+_cell_angle_alpha   72.47021812
+_cell_angle_beta   72.47021812
+_cell_angle_gamma   59.75474851
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si(Hg2S3)2
+_chemical_formula_sum   'Si2 Hg8 S12'
+_cell_volume   548.16631625
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.86732500  0.32330700  0.60316000  1
+  Si  Si1  1  0.32330700  0.86732500  0.10316000  1
+  Hg  Hg2  1  0.33606400  0.72085000  0.69496300  1
+  Hg  Hg3  1  0.72085000  0.33606400  0.19496300  1
+  Hg  Hg4  1  0.09881400  0.21779400  0.84852500  1
+  Hg  Hg5  1  0.21779400  0.09881400  0.34852500  1
+  Hg  Hg6  1  0.22570700  0.46110200  0.04232400  1
+  Hg  Hg7  1  0.46110200  0.22570700  0.54232400  1
+  Hg  Hg8  1  0.72581300  0.92013800  0.85442500  1
+  Hg  Hg9  1  0.92013800  0.72581300  0.35442500  1
+  S  S10  1  0.97702600  0.45308400  0.23378200  1
+  S  S11  1  0.45308400  0.97702600  0.73378200  1
+  S  S12  1  0.03681700  0.01580600  0.55540000  1
+  S  S13  1  0.01580600  0.03681700  0.05540000  1
+  S  S14  1  0.51444900  0.03392500  0.05070900  1
+  S  S15  1  0.03392500  0.51444900  0.55070900  1
+  S  S16  1  0.76122200  0.29037200  0.78203500  1
+  S  S17  1  0.29037200  0.76122200  0.28203500  1
+  S  S18  1  0.09265700  0.58424900  0.85428100  1
+  S  S19  1  0.58424900  0.09265700  0.35428100  1
+  S  S20  1  0.57951100  0.51496900  0.52969500  1
+  S  S21  1  0.51496900  0.57951100  0.02969500  1

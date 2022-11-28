@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_GaPt
+_symmetry_space_group_name_H-M  'P2_13'
+_cell_length_a       4.97262
+_cell_length_b       4.97262
+_cell_length_c       4.97262
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  198
+_chemical_formula_structural  GaPt
+_chemical_formula_sum  Ga4Pt4
+_cell_volume  122.95796538004306
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ga  Ga1  1  0.09245  0.09245  0.09245  1
+ Ga  Ga2  1  0.40755  0.90755  0.59245  1
+ Ga  Ga3  1  0.90755  0.59245  0.40755  1
+ Ga  Ga4  1  0.59245  0.40755  0.90755  1
+ Pt  Pt1  1  0.40037  0.40037  0.40037  1
+ Pt  Pt2  1  0.09963  0.59963  0.90037  1
+ Pt  Pt3  1  0.59963  0.90037  0.09963  1
+ Pt  Pt4  1  0.90037  0.09963  0.59963  1

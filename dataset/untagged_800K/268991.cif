@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       Ce6Cu2S14Si2
+_chemical_formula_sum              "Ce6 Cu2 S14 Si2"
+_cell_length_a       10.3203
+_cell_length_b       10.32
+_cell_length_c       5.83251
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.12400  0.35700  0.25000  1.0000
+  Ce  Ce2       1.0  0.23300  0.87600  0.25000  1.0000
+  Ce  Ce3       1.0  0.64300  0.76700  0.25000  1.0000
+  Ce  Ce4       1.0  0.87600  0.64300  0.75000  1.0000
+  Ce  Ce5       1.0  0.76700  0.12400  0.75000  1.0000
+  Ce  Ce6       1.0  0.35700  0.23300  0.75000  1.0000
+  Cu  Cu1       1.0  0.00000  0.00000  0.27300  1.0000
+  Cu  Cu2       1.0  0.00000  0.00000  0.77300  1.0000
+  S   S1        1.0  0.52500  0.11400  0.02430  1.0000
+  S   S2        1.0  0.58900  0.47500  0.02430  1.0000
+  S   S3        1.0  0.88600  0.41100  0.02430  1.0000
+  S   S4        1.0  0.33300  0.66700  0.02720  1.0000
+  S   S5        1.0  0.91400  0.75000  0.26200  1.0000
+  S   S6        1.0  0.83600  0.08610  0.26200  1.0000
+  S   S7        1.0  0.25000  0.16400  0.26200  1.0000
+  S   S8        1.0  0.47500  0.88600  0.52400  1.0000
+  S   S9        1.0  0.41100  0.52500  0.52400  1.0000
+  S   S10       1.0  0.11400  0.58900  0.52400  1.0000
+  S   S11       1.0  0.66700  0.33300  0.52700  1.0000
+  S   S12       1.0  0.08610  0.25000  0.76200  1.0000
+  S   S13       1.0  0.75000  0.83600  0.76200  1.0000
+  S   S14       1.0  0.16400  0.91400  0.76200  1.0000
+  Si  Si1       1.0  0.66700  0.33300  0.16600  1.0000
+  Si  Si2       1.0  0.33300  0.66700  0.66600  1.0000

@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_NdSi
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.95999
+_cell_length_b       5.93352
+_cell_length_c       8.27651
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  NdSi
+_chemical_formula_sum  Nd4Si4
+_cell_volume  194.47062664012878
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Nd  Nd1  1  0.25000  0.38635  0.67942  1
+ Nd  Nd2  1  0.75000  0.61365  0.32058  1
+ Nd  Nd3  1  0.75000  0.88635  0.82058  1
+ Nd  Nd4  1  0.25000  0.11365  0.17942  1
+ Si  Si1  1  0.25000  0.87642  0.53585  1
+ Si  Si2  1  0.75000  0.12358  0.46415  1
+ Si  Si3  1  0.75000  0.37642  0.96415  1
+ Si  Si4  1  0.25000  0.62358  0.03585  1

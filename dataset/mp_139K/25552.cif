@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Sm(InCu)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.16312435
+_cell_length_b   7.16312435
+_cell_length_c   7.16312435
+_cell_angle_alpha   136.19799771
+_cell_angle_beta   98.71353768
+_cell_angle_gamma   97.28295864
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm(InCu)6
+_chemical_formula_sum   'Sm1 In6 Cu6'
+_cell_volume   236.01670382
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.00000000  0.00000000  0.00000000  1
+  In  In1  1  0.66401200  0.00000000  0.66401200  1
+  In  In2  1  0.33598800  0.00000000  0.33598800  1
+  In  In3  1  0.65836700  0.65836700  0.00000000  1
+  In  In4  1  0.34163300  0.34163300  0.00000000  1
+  In  In5  1  0.17920200  0.67920200  0.50000000  1
+  In  In6  1  0.82079800  0.32079800  0.50000000  1
+  Cu  Cu7  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu8  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu9  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu10  1  0.50000000  0.00000000  0.00000000  1
+  Cu  Cu11  1  0.23671200  0.50000000  0.73671200  1
+  Cu  Cu12  1  0.76328800  0.50000000  0.26328800  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoMnNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10036404
+_cell_length_b   5.10036404
+_cell_length_c   8.59143380
+_cell_angle_alpha   72.73278804
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoMnNi2
+_chemical_formula_sum   'Ho3 Mn3 Ni6'
+_cell_volume   181.82845543
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.31935200  0.13870400  0.04194400  1
+  Ho  Ho1  1  0.80318400  0.10636700  0.59044900  1
+  Ho  Ho2  1  0.19027300  0.88054600  0.42918100  1
+  Mn  Mn3  1  0.67913600  0.85827200  0.96259200  1
+  Mn  Mn4  1  0.00088700  0.50177400  0.99734000  1
+  Mn  Mn5  1  0.50111500  0.50222900  0.49665600  1
+  Ni  Ni6  1  0.75083100  0.00166200  0.24475200  1
+  Ni  Ni7  1  0.24886700  0.99773500  0.74919400  1
+  Ni  Ni8  1  0.75083100  0.50441700  0.24475200  1
+  Ni  Ni9  1  0.24886700  0.50193900  0.74919400  1
+  Ni  Ni10  1  0.25358600  0.50441700  0.24475200  1
+  Ni  Ni11  1  0.75307100  0.50193900  0.74919400  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Mg2CrNi3S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.07262347
+_cell_length_b   7.06677349
+_cell_length_c   7.08126420
+_cell_angle_alpha   59.77519366
+_cell_angle_beta   60.02853336
+_cell_angle_gamma   59.94906144
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2CrNi3S8
+_chemical_formula_sum   'Mg2 Cr1 Ni3 S8'
+_cell_volume   249.79312900
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.87413200  0.87623800  0.87484000  1
+  Mg  Mg1  1  0.12584100  0.12389900  0.12513200  1
+  Cr  Cr2  1  0.50009600  0.99977600  0.50017500  1
+  Ni  Ni3  1  0.49993100  0.50015900  0.49987800  1
+  Ni  Ni4  1  0.49995000  0.50001200  0.99999000  1
+  Ni  Ni5  1  0.99998000  0.50006400  0.49991800  1
+  S  S6  1  0.73714300  0.72998200  0.73718500  1
+  S  S7  1  0.26367700  0.26938700  0.70345800  1
+  S  S8  1  0.26783600  0.69816700  0.26630000  1
+  S  S9  1  0.70430500  0.26952400  0.26358100  1
+  S  S10  1  0.73208900  0.30199400  0.73356800  1
+  S  S11  1  0.29561900  0.73040300  0.73647200  1
+  S  S12  1  0.26305400  0.26975900  0.26303600  1
+  S  S13  1  0.73634900  0.73063200  0.29646600  1

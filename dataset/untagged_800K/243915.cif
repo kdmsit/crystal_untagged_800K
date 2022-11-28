@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ho6Pu2
+_chemical_formula_sum              "Ho6 Pu2"
+_cell_length_a       7.05313
+_cell_length_b       7.05313
+_cell_length_c       5.6288
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.16800  0.33600  0.25000  1.0000
+  Ho  Ho2       1.0  0.66400  0.83200  0.25000  1.0000
+  Ho  Ho3       1.0  0.16800  0.83200  0.25000  1.0000
+  Ho  Ho4       1.0  0.83200  0.66400  0.75000  1.0000
+  Ho  Ho5       1.0  0.33600  0.16800  0.75000  1.0000
+  Ho  Ho6       1.0  0.83200  0.16800  0.75000  1.0000
+  Pu  Pu1       1.0  0.33300  0.66700  0.75000  1.0000
+  Pu  Pu2       1.0  0.66700  0.33300  0.25000  1.0000

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Mg2MnAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23099735
+_cell_length_b   4.23099735
+_cell_length_c   6.72958500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998983
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2MnAs2
+_chemical_formula_sum   'Mg2 Mn1 As2'
+_cell_volume   104.32886092
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.00000000  0.99895000  1
+  Mg  Mg1  1  0.66666700  0.33333300  0.36545800  1
+  Mn  Mn2  1  0.33333300  0.66666700  0.63544700  1
+  As  As3  1  0.66666700  0.33333300  0.76599400  1
+  As  As4  1  0.33333300  0.66666700  0.23415100  1

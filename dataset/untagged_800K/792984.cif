@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_CuBiO2
+_symmetry_space_group_name_H-M  'Immm'
+_cell_length_a       3.92823
+_cell_length_b       6.03206
+_cell_length_c       6.75528
+_cell_angle_alpha    116.517
+_cell_angle_beta     106.903
+_cell_angle_gamma    90.0001
+
+_symmetry_Int_Tables_number  71
+_chemical_formula_structural  CuBiO2
+_chemical_formula_sum  Cu2Bi2O4
+_cell_volume  135.45695026831586
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Bi  Bi1  1  0.30411  0.80411  0.60821  1
+ Bi  Bi2  1  0.69589  0.19589  0.39179  1
+ Cu  Cu1  1  -0.00000  0.27891  0.00000  1
+ Cu  Cu2  1  0.00000  0.72109  -0.00000  1
+ O  O1  1  0.15955  0.40696  0.31911  1
+ O  O2  1  0.15955  0.91215  0.31911  1
+ O  O3  1  0.84045  0.08785  0.68089  1
+ O  O4  1  0.84045  0.59304  0.68089  1

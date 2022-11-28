@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfNbSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44878938
+_cell_length_b   5.44877046
+_cell_length_c   8.37611100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.85454170
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfNbSi
+_chemical_formula_sum   'Hf4 Nb4 Si4'
+_cell_volume   217.19370285
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.33254900  0.33257500  0.55233400  1
+  Hf  Hf1  1  0.66326700  0.66326400  0.43806800  1
+  Hf  Hf2  1  0.66326700  0.66326400  0.06193200  1
+  Hf  Hf3  1  0.33254900  0.33257500  0.94766600  1
+  Nb  Nb4  1  0.00008400  0.00007400  0.47571800  1
+  Nb  Nb5  1  0.00008400  0.00007400  0.02428200  1
+  Nb  Nb6  1  0.83189000  0.33812700  0.75000000  1
+  Nb  Nb7  1  0.33814700  0.83186900  0.75000000  1
+  Si  Si8  1  0.83390300  0.83388900  0.75000000  1
+  Si  Si9  1  0.18793800  0.62964300  0.25000000  1
+  Si  Si10  1  0.62963800  0.18793900  0.25000000  1
+  Si  Si11  1  0.18668500  0.18670800  0.25000000  1

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ca2Hg2O2S2
+_chemical_formula_sum              "Ca2 Hg2 O2 S2"
+_cell_length_a       3.86806
+_cell_length_b       3.8681
+_cell_length_c       12.4065
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.33300  0.66700  0.26600  1.0000
+  Ca  Ca2       1.0  0.66700  0.33300  0.76600  1.0000
+  Hg  Hg1       1.0  0.00000  0.00000  0.49700  1.0000
+  Hg  Hg2       1.0  0.00000  0.00000  0.99700  1.0000
+  O   O1        1.0  0.00000  0.00000  0.32100  1.0000
+  O   O2        1.0  0.00000  0.00000  0.82100  1.0000
+  S   S1        1.0  0.66700  0.33300  0.10400  1.0000
+  S   S2        1.0  0.33300  0.66700  0.60400  1.0000

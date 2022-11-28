@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cd(BrO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73559600
+_cell_length_b   7.55493500
+_cell_length_c   8.89807100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd(BrO2)2
+_chemical_formula_sum   'Cd2 Br4 O8'
+_cell_volume   251.12300560
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.50000000  0.50000000  0.50000000  1
+  Cd  Cd1  1  0.00000000  0.00000000  0.00000000  1
+  Br  Br2  1  0.00000000  0.77847700  0.39241900  1
+  Br  Br3  1  0.00000000  0.22152300  0.60758100  1
+  Br  Br4  1  0.50000000  0.72152300  0.89241900  1
+  Br  Br5  1  0.50000000  0.27847700  0.10758100  1
+  O  O6  1  0.50000000  0.27730500  0.34741400  1
+  O  O7  1  0.50000000  0.72269500  0.65258600  1
+  O  O8  1  0.00000000  0.22269500  0.84741400  1
+  O  O9  1  0.00000000  0.77730500  0.15258600  1
+  O  O10  1  0.50000000  0.72389200  0.11388000  1
+  O  O11  1  0.50000000  0.27610800  0.88612000  1
+  O  O12  1  0.00000000  0.77610800  0.61388000  1
+  O  O13  1  0.00000000  0.22389200  0.38612000  1

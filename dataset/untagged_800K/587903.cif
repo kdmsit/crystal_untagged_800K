@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Re2V2W3
+_chemical_formula_sum              "Re2 V2 W3"
+_cell_length_a       4.32554
+_cell_length_b       4.32554
+_cell_length_c       7.4889
+_cell_angle_alpha    73.2141
+_cell_angle_beta     73.2141
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.99900  0.99900  0.00285  1.0000
+  Re  Re2       1.0  0.50400  0.50400  0.48900  1.0000
+  V   V1        1.0  0.24500  0.24500  0.26400  1.0000
+  V   V2        1.0  0.75200  0.75200  0.74300  1.0000
+  W   W1        1.0  0.62400  0.62400  0.12900  1.0000
+  W   W2        1.0  0.12600  0.12600  0.62200  1.0000
+  W   W3        1.0  0.37500  0.37500  0.87500  1.0000

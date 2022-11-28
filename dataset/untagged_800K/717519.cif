@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Cu3AsO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25820400
+_cell_length_b   5.37811694
+_cell_length_c   5.64943100
+_cell_angle_alpha   89.83851115
+_cell_angle_beta   66.42014394
+_cell_angle_gamma   89.70780513
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu3AsO7
+_chemical_formula_sum   'Cu3 As1 O7'
+_cell_volume   146.42008998
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.36099500  0.94497400  0.39003200  1
+  Cu  Cu1  1  0.36528800  0.44100300  0.63124900  1
+  Cu  Cu2  1  0.36440600  0.43983500  0.13065500  1
+  As  As3  1  0.00055200  0.97803100  0.00044100  1
+  O  O4  1  0.08508200  0.83443600  0.70571400  1
+  O  O5  1  0.07333700  0.80924600  0.21587200  1
+  O  O6  1  0.20656600  0.26847600  0.44339600  1
+  O  O7  1  0.19319100  0.26244300  0.93982600  1
+  O  O8  1  0.52220200  0.62676700  0.32523800  1
+  O  O9  1  0.53916300  0.58501100  0.81546100  1
+  O  O10  1  0.66141800  0.08567800  0.11201700  1

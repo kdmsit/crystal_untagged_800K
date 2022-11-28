@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_NaAlAsO4F
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       5.42824
+_cell_length_b       5.42825
+_cell_length_c       7.07656
+_cell_angle_alpha    105.208
+_cell_angle_beta     105.208
+_cell_angle_gamma    104.802
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  NaAlAsO4F
+_chemical_formula_sum  Na2Al2As2O8F2
+_cell_volume  182.01221130151353
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.00000  0.00000  0.00000  1
+ Al  Al2  1  0.00000  0.00000  0.50000  1
+ As  As1  1  0.31382  0.68618  0.25000  1
+ As  As2  1  0.68618  0.31382  0.75000  1
+ F  F1  1  0.06630  0.93370  0.75000  1
+ F  F2  1  0.93370  0.06630  0.25000  1
+ Na  Na1  1  0.32896  0.67104  0.75000  1
+ Na  Na2  1  0.67104  0.32896  0.25000  1
+ O  O1  1  0.09752  0.69354  0.38923  1
+ O  O2  1  0.30646  0.90248  0.11077  1
+ O  O3  1  0.90248  0.30646  0.61077  1
+ O  O4  1  0.69354  0.09752  0.88923  1
+ O  O5  1  0.36367  0.23707  0.58165  1
+ O  O6  1  0.63633  0.76293  0.41835  1
+ O  O7  1  0.76293  0.63633  0.91835  1
+ O  O8  1  0.23707  0.36367  0.08165  1

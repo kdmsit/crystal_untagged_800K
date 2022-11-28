@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Er2TiCuO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.59296391
+_cell_length_b   11.30389700
+_cell_length_c   3.59339301
+_cell_angle_alpha   90.00006230
+_cell_angle_beta   119.99604649
+_cell_angle_gamma   89.99999796
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2TiCuO6
+_chemical_formula_sum   'Er2 Ti1 Cu1 O6'
+_cell_volume   126.39610685
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.99998400  0.27224200  0.99997000  1
+  Er  Er1  1  0.99996600  0.72357600  0.99993000  1
+  Ti  Ti2  1  0.33335700  0.99826200  0.66671600  1
+  Cu  Cu3  1  0.66674400  0.49812700  0.33348700  1
+  O  O4  1  0.33332300  0.16332600  0.66664600  1
+  O  O5  1  0.66667000  0.66759700  0.33333900  1
+  O  O6  1  0.00002600  0.99775500  0.00005200  1
+  O  O7  1  0.99993300  0.49819600  0.99986500  1
+  O  O8  1  0.66668100  0.32870100  0.33336200  1
+  O  O9  1  0.33331500  0.83221700  0.66663200  1

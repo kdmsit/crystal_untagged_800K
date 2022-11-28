@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_NaCa3IrO6
+_symmetry_space_group_name_H-M  'R-3c'
+_cell_length_a       6.52057
+_cell_length_b       6.52056
+_cell_length_c       6.52056
+_cell_angle_alpha    90.4266
+_cell_angle_beta     90.4265
+_cell_angle_gamma    90.4265
+
+_symmetry_Int_Tables_number  167
+_chemical_formula_structural  NaCa3IrO6
+_chemical_formula_sum  Na2Ca6Ir2O2
+_cell_volume  277.2163539752991
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.60625  0.89375  0.25000  1
+ Ca  Ca2  1  0.25000  0.60625  0.89375  1
+ Ca  Ca3  1  0.89375  0.25000  0.60625  1
+ Ca  Ca4  1  0.39375  0.10625  0.75000  1
+ Ca  Ca5  1  0.75000  0.39375  0.10625  1
+ Ca  Ca6  1  0.10625  0.75000  0.39375  1
+ Ir  Ir1  1  0.00000  0.00000  0.00000  1
+ Ir  Ir2  1  0.50000  0.50000  0.50000  1
+ Na  Na1  1  0.75000  0.75000  0.75000  1
+ Na  Na2  1  0.25000  0.25000  0.25000  1
+ O  O1  1  0.42958  0.55911  0.20726  1
+ O  O2  1  0.55911  0.20726  0.42958  1
+ O  O3  1  0.94089  0.07042  0.29274  1
+ O  O4  1  0.07042  0.29274  0.94089  1
+ O  O5  1  0.29274  0.94089  0.07042  1
+ O  O6  1  0.92958  0.70726  0.05911  1
+ O  O7  1  0.57042  0.44089  0.79274  1
+ O  O8  1  0.44089  0.79274  0.57042  1
+ O  O9  1  0.20726  0.42958  0.55911  1
+ O  O10  1  0.05911  0.92958  0.70726  1
+ O  O11  1  0.79274  0.57042  0.44089  1
+ O  O12  1  0.70726  0.05911  0.92958  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TlBiF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77829100
+_cell_length_b   6.37330500
+_cell_length_c   8.55248407
+_cell_angle_alpha   82.93509525
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlBiF4
+_chemical_formula_sum   'Tl2 Bi2 F8'
+_cell_volume   204.38188525
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.75000000  0.74732200  0.89859700  1
+  Tl  Tl1  1  0.25000000  0.25267800  0.10140300  1
+  Bi  Bi2  1  0.75000000  0.76173200  0.39015600  1
+  Bi  Bi3  1  0.25000000  0.23826800  0.60984400  1
+  F  F4  1  0.75000000  0.34380100  0.74990700  1
+  F  F5  1  0.75000000  0.97488700  0.15178000  1
+  F  F6  1  0.75000000  0.97707000  0.61067000  1
+  F  F7  1  0.75000000  0.38050500  0.43021200  1
+  F  F8  1  0.25000000  0.65619900  0.25009300  1
+  F  F9  1  0.25000000  0.61949500  0.56978800  1
+  F  F10  1  0.25000000  0.02293000  0.38933000  1
+  F  F11  1  0.25000000  0.02511300  0.84822000  1

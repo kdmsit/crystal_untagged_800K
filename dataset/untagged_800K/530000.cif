@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ge4Mn4O4Se4
+_chemical_formula_sum              "Ge4 Mn4 O4 Se4"
+_cell_length_a       5.99093
+_cell_length_b       9.08879
+_cell_length_c       5.84703
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.99600  0.31700  0.10100  1.0000
+  Ge  Ge2       1.0  0.49600  0.68300  0.10100  1.0000
+  Ge  Ge3       1.0  0.50400  0.31700  0.60100  1.0000
+  Ge  Ge4       1.0  0.00447  0.68300  0.60100  1.0000
+  Mn  Mn1       1.0  0.10700  0.07510  0.48100  1.0000
+  Mn  Mn2       1.0  0.60700  0.92500  0.48100  1.0000
+  Mn  Mn3       1.0  0.39300  0.07510  0.98100  1.0000
+  Mn  Mn4       1.0  0.89300  0.92500  0.98100  1.0000
+  O   O1        1.0  0.07340  0.09350  0.12300  1.0000
+  O   O2        1.0  0.57300  0.90600  0.12300  1.0000
+  O   O3        1.0  0.42700  0.09350  0.62300  1.0000
+  O   O4        1.0  0.92700  0.90600  0.62300  1.0000
+  Se  Se1       1.0  0.56100  0.32900  0.04610  1.0000
+  Se  Se2       1.0  0.06140  0.67100  0.04610  1.0000
+  Se  Se3       1.0  0.93900  0.32900  0.54600  1.0000
+  Se  Se4       1.0  0.43900  0.67100  0.54600  1.0000

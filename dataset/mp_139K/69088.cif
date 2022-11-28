@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ti2(InBr3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.51836604
+_cell_length_b   7.51836604
+_cell_length_c   18.44810500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000037
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2(InBr3)3
+_chemical_formula_sum   'Ti4 In6 Br18'
+_cell_volume   903.08644590
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.66666700  0.33333300  0.16226700  1
+  Ti  Ti1  1  0.33333300  0.66666700  0.83472000  1
+  Ti  Ti2  1  0.33333300  0.66666700  0.66226700  1
+  Ti  Ti3  1  0.66666700  0.33333300  0.33472000  1
+  In  In4  1  0.66666700  0.33333300  0.95195400  1
+  In  In5  1  0.33333300  0.66666700  0.05327000  1
+  In  In6  1  0.33333300  0.66666700  0.45195400  1
+  In  In7  1  0.66666700  0.33333300  0.55327000  1
+  In  In8  1  0.00000000  0.00000000  0.77352900  1
+  In  In9  1  0.00000000  0.00000000  0.27352900  1
+  Br  Br10  1  0.49432100  0.98864200  0.74908900  1
+  Br  Br11  1  0.49432100  0.50567900  0.74908900  1
+  Br  Br12  1  0.01135800  0.50567900  0.74908900  1
+  Br  Br13  1  0.50567900  0.01135800  0.24908900  1
+  Br  Br14  1  0.50567900  0.49432100  0.24908900  1
+  Br  Br15  1  0.98864200  0.49432100  0.24908900  1
+  Br  Br16  1  0.82685800  0.65371500  0.08546000  1
+  Br  Br17  1  0.82685800  0.17314200  0.08546000  1
+  Br  Br18  1  0.34628500  0.17314200  0.08546000  1
+  Br  Br19  1  0.17195100  0.34390100  0.91252000  1
+  Br  Br20  1  0.17195100  0.82804900  0.91252000  1
+  Br  Br21  1  0.65609900  0.82804900  0.91252000  1
+  Br  Br22  1  0.17314200  0.34628500  0.58546000  1
+  Br  Br23  1  0.17314200  0.82685800  0.58546000  1
+  Br  Br24  1  0.65371500  0.82685800  0.58546000  1
+  Br  Br25  1  0.82804900  0.65609900  0.41252000  1
+  Br  Br26  1  0.82804900  0.17195100  0.41252000  1
+  Br  Br27  1  0.34390100  0.17195100  0.41252000  1

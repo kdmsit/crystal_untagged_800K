@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CsBa2Zn2F9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.96196501
+_cell_length_b   7.96196501
+_cell_length_c   7.96196469
+_cell_angle_alpha   44.29613031
+_cell_angle_beta   44.29613031
+_cell_angle_gamma   44.29613210
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsBa2Zn2F9
+_chemical_formula_sum   'Cs1 Ba2 Zn2 F9'
+_cell_volume   223.72371423
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.21464700  0.21464700  0.21464700  1
+  Ba  Ba1  1  0.99926200  0.99926200  0.99926200  1
+  Ba  Ba2  1  0.79235100  0.79235100  0.79235100  1
+  Zn  Zn3  1  0.39070300  0.39070300  0.39070300  1
+  Zn  Zn4  1  0.60423200  0.60423200  0.60423200  1
+  F  F5  1  0.26534000  0.77230700  0.26534000  1
+  F  F6  1  0.77230700  0.26534000  0.26534000  1
+  F  F7  1  0.26534000  0.26534000  0.77230700  1
+  F  F8  1  0.73455200  0.21802100  0.73455200  1
+  F  F9  1  0.21802100  0.73455200  0.73455200  1
+  F  F10  1  0.73455200  0.73455200  0.21802100  1
+  F  F11  1  0.98826300  0.51021400  0.51021400  1
+  F  F12  1  0.51021400  0.51021400  0.98826300  1
+  F  F13  1  0.51021400  0.98826300  0.51021400  1

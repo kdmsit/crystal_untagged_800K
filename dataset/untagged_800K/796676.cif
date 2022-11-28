@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_Li2Mn2FeO6
+_symmetry_space_group_name_H-M  'Cmce'
+_cell_length_a       4.87288
+_cell_length_b       4.87288
+_cell_length_c       10.0106
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.727
+
+_symmetry_Int_Tables_number  64
+_chemical_formula_structural  Li2Mn2FeO6
+_chemical_formula_sum  Li4Mn4Fe2O2
+_cell_volume  206.4202164613901
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.00000  0.00000  0.00000  1
+ Fe  Fe2  1  0.50000  0.50000  0.50000  1
+ Li  Li1  1  0.16002  0.66002  0.75000  1
+ Li  Li2  1  0.33998  0.83998  0.25000  1
+ Li  Li3  1  0.66002  0.16002  0.75000  1
+ Li  Li4  1  0.83998  0.33998  0.25000  1
+ Mn  Mn1  1  0.16257  0.83743  0.50000  1
+ Mn  Mn2  1  0.33743  0.66257  0.00000  1
+ Mn  Mn3  1  0.66257  0.33743  0.00000  1
+ Mn  Mn4  1  0.83743  0.16257  0.50000  1
+ O  O1  1  0.83793  0.49684  0.60651  1
+ O  O2  1  0.99684  0.33793  0.89349  1
+ O  O3  1  0.16207  0.50316  0.39349  1
+ O  O4  1  0.49684  0.83793  0.60651  1
+ O  O5  1  0.00316  0.66207  0.10651  1
+ O  O6  1  0.50316  0.16207  0.39349  1
+ O  O7  1  0.66597  0.66597  0.89661  1
+ O  O8  1  0.33793  0.99684  0.89349  1
+ O  O9  1  0.83403  0.83403  0.39661  1
+ O  O10  1  0.16597  0.16597  0.60339  1
+ O  O11  1  0.33403  0.33403  0.10339  1
+ O  O12  1  0.66207  0.00316  0.10651  1

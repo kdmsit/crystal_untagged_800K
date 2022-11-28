@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Bi2Na2O12Sr6
+_chemical_formula_sum              "Bi2 Na2 O12 Sr6"
+_cell_length_a       6.93751
+_cell_length_b       6.93751
+_cell_length_c       6.93751
+_cell_angle_alpha    91.2939
+_cell_angle_beta     91.2939
+_cell_angle_gamma    91.2939
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.00000  0.00000  0.00000  1.0000
+  Bi  Bi2       1.0  0.50000  0.50000  0.50000  1.0000
+  Na  Na1       1.0  0.25000  0.25000  0.25000  1.0000
+  Na  Na2       1.0  0.75000  0.75000  0.75000  1.0000
+  O   O1        1.0  0.92500  0.70800  0.05580  1.0000
+  O   O2        1.0  0.29200  0.94400  0.07460  1.0000
+  O   O3        1.0  0.42500  0.55600  0.20800  1.0000
+  O   O4        1.0  0.94400  0.07460  0.29200  1.0000
+  O   O5        1.0  0.55600  0.20800  0.42500  1.0000
+  O   O6        1.0  0.79200  0.57500  0.44400  1.0000
+  O   O7        1.0  0.20800  0.42500  0.55600  1.0000
+  O   O8        1.0  0.44400  0.79200  0.57500  1.0000
+  O   O9        1.0  0.05580  0.92500  0.70800  1.0000
+  O   O10       1.0  0.57500  0.44400  0.79200  1.0000
+  O   O11       1.0  0.70800  0.05580  0.92500  1.0000
+  O   O12       1.0  0.07460  0.29200  0.94400  1.0000
+  Sr  Sr1       1.0  0.75000  0.39900  0.10100  1.0000
+  Sr  Sr2       1.0  0.60100  0.89900  0.25000  1.0000
+  Sr  Sr3       1.0  0.10100  0.75000  0.39900  1.0000
+  Sr  Sr4       1.0  0.89900  0.25000  0.60100  1.0000
+  Sr  Sr5       1.0  0.39900  0.10100  0.75000  1.0000
+  Sr  Sr6       1.0  0.25000  0.60100  0.89900  1.0000

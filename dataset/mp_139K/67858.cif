@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LaMgIn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.80933495
+_cell_length_b   12.80933495
+_cell_length_c   12.80933495
+_cell_angle_alpha   125.06066243
+_cell_angle_beta   118.53056383
+_cell_angle_gamma   87.01520806
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaMgIn2
+_chemical_formula_sum   'La1 Mg1 In2'
+_cell_volume   1437.42789621
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00000000  0.50000000  0.50000000  1
+  Mg  Mg1  1  0.00000000  0.00000000  0.00000000  1
+  In  In2  1  0.00000000  0.24756200  0.24756200  1
+  In  In3  1  0.00000000  0.75243800  0.75243800  1

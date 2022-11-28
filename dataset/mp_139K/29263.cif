@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaPr3(NiO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95943281
+_cell_length_b   6.95943281
+_cell_length_c   5.48786600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   133.98463471
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaPr3(NiO4)2
+_chemical_formula_sum   'Ba1 Pr3 Ni2 O8'
+_cell_volume   191.24836075
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.85574700  0.14425300  0.50000000  1
+  Pr  Pr1  1  0.36283500  0.63716500  0.00000000  1
+  Pr  Pr2  1  0.63869100  0.36130900  0.00000000  1
+  Pr  Pr3  1  0.13538000  0.86462000  0.50000000  1
+  Ni  Ni4  1  0.49982100  0.50017900  0.50000000  1
+  Ni  Ni5  1  0.99731400  0.00268600  0.00000000  1
+  O  O6  1  0.17979200  0.82020800  0.00000000  1
+  O  O7  1  0.65844400  0.34155600  0.50000000  1
+  O  O8  1  0.32052500  0.67947500  0.50000000  1
+  O  O9  1  0.82468500  0.17531500  0.00000000  1
+  O  O10  1  0.26015100  0.24676700  0.76324600  1
+  O  O11  1  0.75323300  0.73984900  0.23675400  1
+  O  O12  1  0.26015100  0.24676700  0.23675400  1
+  O  O13  1  0.75323300  0.73984900  0.76324600  1

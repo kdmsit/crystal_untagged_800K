@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       Co2Fe2La6S14
+_chemical_formula_sum              "Co2 Fe2 La6 S14"
+_cell_length_a       10.1844
+_cell_length_b       10.1842
+_cell_length_c       5.86895
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.00000  0.00000  0.02880  1.0000
+  Co  Co2       1.0  0.00000  0.00000  0.52900  1.0000
+  Fe  Fe1       1.0  0.66700  0.33300  0.16300  1.0000
+  Fe  Fe2       1.0  0.33300  0.66700  0.66300  1.0000
+  La  La1       1.0  0.14200  0.37200  0.24900  1.0000
+  La  La2       1.0  0.23100  0.85800  0.24900  1.0000
+  La  La3       1.0  0.62800  0.76900  0.24900  1.0000
+  La  La4       1.0  0.85800  0.62800  0.74900  1.0000
+  La  La5       1.0  0.76900  0.14200  0.74900  1.0000
+  La  La6       1.0  0.37200  0.23100  0.74900  1.0000
+  S   S1        1.0  0.51700  0.09750  0.02890  1.0000
+  S   S2        1.0  0.58100  0.48300  0.02890  1.0000
+  S   S3        1.0  0.90300  0.41900  0.02890  1.0000
+  S   S4        1.0  0.33300  0.66700  0.04030  1.0000
+  S   S5        1.0  0.86500  0.08320  0.28100  1.0000
+  S   S6        1.0  0.21900  0.13500  0.28100  1.0000
+  S   S7        1.0  0.91700  0.78100  0.28100  1.0000
+  S   S8        1.0  0.48300  0.90300  0.52900  1.0000
+  S   S9        1.0  0.41900  0.51700  0.52900  1.0000
+  S   S10       1.0  0.09750  0.58100  0.52900  1.0000
+  S   S11       1.0  0.66700  0.33300  0.54000  1.0000
+  S   S12       1.0  0.08320  0.21900  0.78100  1.0000
+  S   S13       1.0  0.78100  0.86500  0.78100  1.0000
+  S   S14       1.0  0.13500  0.91700  0.78100  1.0000

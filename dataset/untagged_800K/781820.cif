@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_SmAgO2
+_symmetry_space_group_name_H-M  'P6_3/mmc'
+_cell_length_a       3.64485
+_cell_length_b       3.64489
+_cell_length_c       12.4362
+_cell_angle_alpha    90.0046
+_cell_angle_beta     90.0002
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  194
+_chemical_formula_structural  SmAgO2
+_chemical_formula_sum  Sm2Ag2O4
+_cell_volume  143.08118168866855
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.33333  0.66670  0.25000  1
+ Ag  Ag2  1  0.66667  0.33335  0.75000  1
+ O  O1  1  0.33336  0.66674  0.08496  1
+ O  O2  1  0.33331  0.66664  0.41504  1
+ O  O3  1  0.66668  0.33337  0.58496  1
+ O  O4  1  0.66666  0.33334  0.91504  1
+ Sm  Sm1  1  0.00001  0.00003  1.00000  1
+ Sm  Sm2  1  0.99999  0.00002  0.50000  1

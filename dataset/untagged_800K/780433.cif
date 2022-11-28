@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_NiAsS
+_symmetry_space_group_name_H-M  'P2_13'
+_cell_length_a       5.72852
+_cell_length_b       5.72852
+_cell_length_c       5.72852
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  198
+_chemical_formula_structural  NiAsS
+_chemical_formula_sum  Ni4As4S4
+_cell_volume  187.98696769776052
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.38000  0.12000  0.88000  1
+ As  As2  1  0.88000  0.38000  0.12000  1
+ As  As3  1  0.62000  0.62000  0.62000  1
+ As  As4  1  0.12000  0.88000  0.38000  1
+ Ni  Ni1  1  0.49415  0.50585  0.00585  1
+ Ni  Ni2  1  0.50585  0.00585  0.49415  1
+ Ni  Ni3  1  0.99415  0.99415  0.99415  1
+ Ni  Ni4  1  0.00585  0.49415  0.50585  1
+ S  S1  1  0.61560  0.88440  0.11560  1
+ S  S2  1  0.11560  0.61560  0.88440  1
+ S  S3  1  0.88440  0.11560  0.61560  1
+ S  S4  1  0.38440  0.38440  0.38440  1

@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_CdSe2O5
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       5.9869
+_cell_length_b       7.02567
+_cell_length_c       7.02567
+_cell_angle_alpha    109.042
+_cell_angle_beta     106.569
+_cell_angle_gamma    106.569
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  CdSe2O5
+_chemical_formula_sum  Cd2Se4O0
+_cell_volume  243.29901426529162
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cd  Cd1  1  0.25000  0.59074  0.40926  1
+ Cd  Cd2  1  0.75000  0.40926  0.59074  1
+ O  O1  1  0.75000  0.08400  0.91600  1
+ O  O2  1  0.25000  0.91600  0.08400  1
+ O  O3  1  0.68903  0.72402  0.59439  1
+ O  O4  1  0.81097  0.40561  0.27598  1
+ O  O5  1  0.31097  0.27598  0.40561  1
+ O  O6  1  0.18903  0.59439  0.72402  1
+ O  O7  1  0.27317  0.51664  0.07490  1
+ O  O8  1  0.22683  0.92510  0.48336  1
+ O  O9  1  0.72683  0.48336  0.92510  1
+ O  O10  1  0.77317  0.07490  0.51664  1
+ Se  Se1  1  0.88991  0.99766  0.71397  1
+ Se  Se2  1  0.61009  0.28603  0.00234  1
+ Se  Se3  1  0.11009  0.00234  0.28603  1
+ Se  Se4  1  0.38991  0.71397  0.99766  1

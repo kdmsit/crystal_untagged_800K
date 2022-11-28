@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SrCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.34032300
+_cell_length_b   7.07051900
+_cell_length_c   7.34275013
+_cell_angle_alpha   87.88648065
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCrO4
+_chemical_formula_sum   'Sr4 Cr4 O16'
+_cell_volume   432.71043725
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.95387100  0.24245400  0.16964600  1
+  Sr  Sr1  1  0.45387100  0.25754600  0.83035400  1
+  Sr  Sr2  1  0.04612900  0.75754600  0.83035400  1
+  Sr  Sr3  1  0.54612900  0.74245400  0.16964600  1
+  Cr  Cr4  1  0.49883900  0.71579900  0.72219700  1
+  Cr  Cr5  1  0.50116100  0.28420100  0.27780300  1
+  Cr  Cr6  1  0.00116100  0.21579900  0.72219700  1
+  Cr  Cr7  1  0.99883900  0.78420100  0.27780300  1
+  O  O8  1  0.47495400  0.08286400  0.17062000  1
+  O  O9  1  0.52504600  0.91713600  0.82938000  1
+  O  O10  1  0.13493800  0.93558200  0.19436400  1
+  O  O11  1  0.82224700  0.87829100  0.20976100  1
+  O  O12  1  0.97495400  0.41713600  0.82938000  1
+  O  O13  1  0.49294300  0.25881200  0.50053200  1
+  O  O14  1  0.86506200  0.06441800  0.80563600  1
+  O  O15  1  0.32224700  0.62170900  0.79023900  1
+  O  O16  1  0.02504600  0.58286400  0.17062000  1
+  O  O17  1  0.50705700  0.74118800  0.49946800  1
+  O  O18  1  0.00705700  0.75881200  0.50053200  1
+  O  O19  1  0.63493800  0.56441800  0.80563600  1
+  O  O20  1  0.36506200  0.43558200  0.19436400  1
+  O  O21  1  0.67775300  0.37829100  0.20976100  1
+  O  O22  1  0.17775300  0.12170900  0.79023900  1
+  O  O23  1  0.99294300  0.24118800  0.49946800  1

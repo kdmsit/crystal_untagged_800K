@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Fe2NiB
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37431749
+_cell_length_b   6.37431749
+_cell_length_c   6.37431749
+_cell_angle_alpha   96.23032578
+_cell_angle_beta   96.23032578
+_cell_angle_gamma   141.53137632
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2NiB
+_chemical_formula_sum   'Fe8 Ni4 B4'
+_cell_volume   152.12687209
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.37084700  0.98437100  0.33586100  1
+  Fe  Fe1  1  0.64851000  0.03498600  0.66413900  1
+  Fe  Fe2  1  0.01562900  0.35149000  0.38647600  1
+  Fe  Fe3  1  0.96501400  0.62915300  0.61352400  1
+  Fe  Fe4  1  0.83705700  0.64662100  0.97679200  1
+  Fe  Fe5  1  0.66982900  0.86026400  0.02320800  1
+  Fe  Fe6  1  0.35337900  0.33017100  0.19043500  1
+  Fe  Fe7  1  0.13973600  0.16294300  0.80956500  1
+  Ni  Ni8  1  0.44074100  0.04665900  0.96255800  1
+  Ni  Ni9  1  0.08410100  0.47818400  0.03744200  1
+  Ni  Ni10  1  0.95334100  0.91589900  0.39408300  1
+  Ni  Ni11  1  0.52181600  0.55925900  0.60591700  1
+  B  B12  1  0.80425300  0.47459300  0.25626600  1
+  B  B13  1  0.21832700  0.54798700  0.74373400  1
+  B  B14  1  0.52540700  0.78167300  0.32966000  1
+  B  B15  1  0.45201300  0.19574700  0.67034000  1

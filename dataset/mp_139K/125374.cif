@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Mg2Nb2SnO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.88120254
+_cell_length_b   10.88120254
+_cell_length_c   5.30827853
+_cell_angle_alpha   88.98273729
+_cell_angle_beta   88.98273729
+_cell_angle_gamma   32.67588755
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2Nb2SnO8
+_chemical_formula_sum   'Mg4 Nb4 Sn2 O16'
+_cell_volume   339.26208247
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.87105600  0.58929100  0.25582300  1
+  Mg  Mg1  1  0.41070900  0.12894400  0.24417700  1
+  Mg  Mg2  1  0.12894400  0.41070900  0.74417700  1
+  Mg  Mg3  1  0.58929100  0.87105600  0.75582300  1
+  Nb  Nb4  1  0.04462900  0.70077900  0.23356200  1
+  Nb  Nb5  1  0.29922100  0.95537100  0.26643800  1
+  Nb  Nb6  1  0.95537100  0.29922100  0.76643800  1
+  Nb  Nb7  1  0.70077900  0.04462900  0.73356200  1
+  Sn  Sn8  1  0.69439800  0.30560200  0.25000000  1
+  Sn  Sn9  1  0.30560200  0.69439800  0.75000000  1
+  O  O10  1  0.00369600  0.82836000  0.54440100  1
+  O  O11  1  0.17164000  0.99630400  0.95559900  1
+  O  O12  1  0.99630400  0.17164000  0.45559900  1
+  O  O13  1  0.82836000  0.00369600  0.04440100  1
+  O  O14  1  0.30877200  0.55339400  0.11612700  1
+  O  O15  1  0.44660600  0.69122800  0.38387300  1
+  O  O16  1  0.69122800  0.44660600  0.88387300  1
+  O  O17  1  0.55339400  0.30877200  0.61612700  1
+  O  O18  1  0.91959200  0.69574800  0.95283800  1
+  O  O19  1  0.30425200  0.08040800  0.54716200  1
+  O  O20  1  0.44999100  0.15690100  0.88178600  1
+  O  O21  1  0.84309900  0.55000900  0.61821400  1
+  O  O22  1  0.55000900  0.84309900  0.11821400  1
+  O  O23  1  0.15690100  0.44999100  0.38178600  1
+  O  O24  1  0.69574800  0.91959200  0.45283800  1
+  O  O25  1  0.08040800  0.30425200  0.04716200  1

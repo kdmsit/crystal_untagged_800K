@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Mg2Ta2TiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.03706694
+_cell_length_b   10.03706694
+_cell_length_c   5.23067051
+_cell_angle_alpha   89.92063420
+_cell_angle_beta   89.92063420
+_cell_angle_gamma   34.80267462
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2Ta2TiO8
+_chemical_formula_sum   'Mg4 Ta4 Ti2 O16'
+_cell_volume   300.75850208
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.86964900  0.58033700  0.76108600  1
+  Mg  Mg1  1  0.41966300  0.13035100  0.73891400  1
+  Mg  Mg2  1  0.13035100  0.41966300  0.23891400  1
+  Mg  Mg3  1  0.58033700  0.86964900  0.26108600  1
+  Ta  Ta4  1  0.03653800  0.72978400  0.74378800  1
+  Ta  Ta5  1  0.27021600  0.96346200  0.75621200  1
+  Ta  Ta6  1  0.96346200  0.27021600  0.25621200  1
+  Ta  Ta7  1  0.72978400  0.03653800  0.24378800  1
+  Ti  Ti8  1  0.62597500  0.37402500  0.75000000  1
+  Ti  Ti9  1  0.37402500  0.62597500  0.25000000  1
+  O  O10  1  0.05078100  0.80808200  0.08124900  1
+  O  O11  1  0.19191800  0.94921900  0.41875100  1
+  O  O12  1  0.94921900  0.19191800  0.91875100  1
+  O  O13  1  0.80808200  0.05078100  0.58124900  1
+  O  O14  1  0.31087400  0.57261300  0.58991100  1
+  O  O15  1  0.42738700  0.68912600  0.91008900  1
+  O  O16  1  0.68912600  0.42738700  0.41008900  1
+  O  O17  1  0.57261300  0.31087400  0.08991100  1
+  O  O18  1  0.91628800  0.71444600  0.44328300  1
+  O  O19  1  0.28555400  0.08371200  0.05671700  1
+  O  O20  1  0.45570000  0.15998800  0.37143100  1
+  O  O21  1  0.84001200  0.54430000  0.12856900  1
+  O  O22  1  0.54430000  0.84001200  0.62856900  1
+  O  O23  1  0.15998800  0.45570000  0.87143100  1
+  O  O24  1  0.71444600  0.91628800  0.94328300  1
+  O  O25  1  0.08371200  0.28555400  0.55671700  1

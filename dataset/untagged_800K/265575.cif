@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       CuLi4O6Pa
+_chemical_formula_sum              "Cu1 Li4 O6 Pa1"
+_cell_length_a       5.28181
+_cell_length_b       5.28181
+_cell_length_c       5.19755
+_cell_angle_alpha    99.0896
+_cell_angle_beta     99.0896
+_cell_angle_gamma    120.436
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.83300  0.16700  0.00000  1.0000
+  Li  Li1       1.0  0.50000  0.50000  0.00000  1.0000
+  Li  Li2       1.0  0.96900  0.03060  0.50000  1.0000
+  Li  Li3       1.0  0.67100  0.32900  0.50000  1.0000
+  Li  Li4       1.0  0.35700  0.64300  0.50000  1.0000
+  O   O1        1.0  0.59800  0.92700  0.23800  1.0000
+  O   O2        1.0  0.23000  0.25100  0.24400  1.0000
+  O   O3        1.0  0.90700  0.55400  0.24600  1.0000
+  O   O4        1.0  0.44600  0.09280  0.75400  1.0000
+  O   O5        1.0  0.74900  0.77000  0.75600  1.0000
+  O   O6        1.0  0.07340  0.40200  0.76200  1.0000
+  Pa  Pa1       1.0  0.16600  0.83400  0.00000  1.0000

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_SmErTi2(Fe8Co3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71135800
+_cell_length_b   6.42689110
+_cell_length_c   11.94269413
+_cell_angle_alpha   90.00254284
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   111.50206514
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmErTi2(Fe8Co3)2
+_chemical_formula_sum   'Sm1 Er1 Ti2 Fe16 Co6'
+_cell_volume   336.45043318
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.50262900  0.00525800  0.50282700  1
+  Er  Er1  1  0.00312600  0.00625200  0.00276300  1
+  Ti  Ti2  1  0.31209600  0.62419200  0.31081100  1
+  Ti  Ti3  1  0.81202500  0.62404900  0.81340300  1
+  Fe  Fe4  1  0.39004400  0.78008800  0.10862600  1
+  Fe  Fe5  1  0.88827200  0.77654400  0.61210600  1
+  Fe  Fe6  1  0.11117600  0.22235200  0.38735700  1
+  Fe  Fe7  1  0.60938700  0.21877300  0.89086600  1
+  Fe  Fe8  1  0.88645500  0.77291100  0.38573900  1
+  Fe  Fe9  1  0.38820100  0.77640200  0.88903700  1
+  Fe  Fe10  1  0.61606300  0.23212600  0.11524900  1
+  Fe  Fe11  1  0.11798400  0.23596700  0.61878300  1
+  Fe  Fe12  1  0.25165400  0.00290500  0.24856900  1
+  Fe  Fe13  1  0.75236700  0.00270000  0.75161200  1
+  Fe  Fe14  1  0.75125100  0.00290500  0.24856900  1
+  Fe  Fe15  1  0.25033300  0.00270000  0.75161200  1
+  Fe  Fe16  1  0.49953800  0.50032000  0.50147900  1
+  Fe  Fe17  1  0.99952100  0.50008500  0.00148000  1
+  Fe  Fe18  1  0.00078200  0.50032000  0.50147900  1
+  Fe  Fe19  1  0.50056400  0.50008500  0.00148000  1
+  Co  Co20  1  0.68148300  0.36296700  0.32079500  1
+  Co  Co21  1  0.18051900  0.36103700  0.82350300  1
+  Co  Co22  1  0.82269800  0.64539600  0.17950300  1
+  Co  Co23  1  0.32172900  0.64345900  0.68245900  1
+  Co  Co24  1  0.17465500  0.34931000  0.17372600  1
+  Co  Co25  1  0.67544800  0.35089700  0.67616500  1

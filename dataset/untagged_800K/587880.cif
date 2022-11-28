@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cr3Fe2Ti2
+_chemical_formula_sum              "Cr3 Fe2 Ti2"
+_cell_length_a       4.05191
+_cell_length_b       4.05191
+_cell_length_c       6.80884
+_cell_angle_alpha    72.6896
+_cell_angle_beta     72.6896
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.62400  0.62400  0.12900  1.0000
+  Cr  Cr2       1.0  0.12200  0.12200  0.63300  1.0000
+  Cr  Cr3       1.0  0.37000  0.37000  0.88900  1.0000
+  Fe  Fe1       1.0  0.50700  0.50700  0.48000  1.0000
+  Fe  Fe2       1.0  0.00115  0.00115  0.99700  1.0000
+  Ti  Ti1       1.0  0.24200  0.24200  0.27400  1.0000
+  Ti  Ti2       1.0  0.75900  0.75900  0.72400  1.0000

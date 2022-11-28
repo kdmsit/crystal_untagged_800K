@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na6PbO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30155128
+_cell_length_b   6.30155128
+_cell_length_c   6.30155128
+_cell_angle_alpha   103.19806458
+_cell_angle_beta   103.19806458
+_cell_angle_gamma   122.91293818
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na6PbO5
+_chemical_formula_sum   'Na6 Pb1 O5'
+_cell_volume   184.53589677
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.69994600  0.69994600  0.40845500  1
+  Na  Na1  1  0.69994600  0.29149100  0.00000000  1
+  Na  Na2  1  0.29149100  0.69994600  0.00000000  1
+  Na  Na3  1  0.75215500  0.25215500  0.50000000  1
+  Na  Na4  1  0.29149100  0.29149100  0.59154500  1
+  Na  Na5  1  0.25215500  0.75215500  0.50000000  1
+  Pb  Pb6  1  0.05919700  0.05919700  0.00000000  1
+  O  O7  1  0.00067300  0.27921800  0.27854400  1
+  O  O8  1  0.42092600  0.42092600  0.00000000  1
+  O  O9  1  0.72212900  0.00067300  0.72145600  1
+  O  O10  1  0.00067300  0.72212900  0.72145600  1
+  O  O11  1  0.27921800  0.00067300  0.27854400  1

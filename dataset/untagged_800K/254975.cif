@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mg2O8Zr4
+_chemical_formula_sum              "Mg2 O8 Zr4"
+_cell_length_a       6.30112
+_cell_length_b       6.30112
+_cell_length_c       6.30112
+_cell_angle_alpha    119.994
+_cell_angle_beta     90.0096
+_cell_angle_gamma    119.994
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.00000  0.00000  0.00000  1.0000
+  Mg  Mg2       1.0  0.75000  0.50000  0.25000  1.0000
+  O   O1        1.0  0.12900  0.75300  0.37600  1.0000
+  O   O2        1.0  0.62400  0.24700  0.37600  1.0000
+  O   O3        1.0  0.62400  0.75300  0.37600  1.0000
+  O   O4        1.0  0.12600  0.25300  0.37900  1.0000
+  O   O5        1.0  0.62400  0.24700  0.87100  1.0000
+  O   O6        1.0  0.12600  0.74700  0.87400  1.0000
+  O   O7        1.0  0.12600  0.25300  0.87400  1.0000
+  O   O8        1.0  0.62100  0.74700  0.87400  1.0000
+  Zr  Zr1       1.0  0.37500  0.75000  0.12500  1.0000
+  Zr  Zr2       1.0  0.37500  0.75000  0.62500  1.0000
+  Zr  Zr3       1.0  0.37500  0.25000  0.62500  1.0000
+  Zr  Zr4       1.0  0.87500  0.25000  0.62500  1.0000

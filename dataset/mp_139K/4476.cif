@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SrMg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.43891187
+_cell_length_b   9.43891187
+_cell_length_c   6.01833300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   154.44262285
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrMg
+_chemical_formula_sum   'Sr3 Mg3'
+_cell_volume   231.32100133
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.99214800  0.00785200  0.00000000  1
+  Sr  Sr1  1  0.67583900  0.32416100  0.00000000  1
+  Sr  Sr2  1  0.43801100  0.56198900  0.50000000  1
+  Mg  Mg3  1  0.33273500  0.66726500  0.00000000  1
+  Mg  Mg4  1  0.11695800  0.88304200  0.50000000  1
+  Mg  Mg5  1  0.77764300  0.22235700  0.50000000  1

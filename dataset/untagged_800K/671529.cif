@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ti2As4W3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.00501487
+_cell_length_b   7.00501487
+_cell_length_c   9.58238927
+_cell_angle_alpha   47.05336706
+_cell_angle_beta   47.05336706
+_cell_angle_gamma   27.78606345
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2As4W3
+_chemical_formula_sum   'Ti2 As4 W3'
+_cell_volume   156.14075830
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.99846400  0.99846400  0.00252300  1
+  Ti  Ti1  1  0.63304500  0.63304500  0.66976400  1
+  As  As2  1  0.71367800  0.71367800  0.34114000  1
+  As  As3  1  0.27995400  0.27995400  0.66605300  1
+  As  As4  1  0.05413500  0.05413500  0.23323500  1
+  As  As5  1  0.94570500  0.94570500  0.77206300  1
+  W  W6  1  0.37337700  0.37337700  0.31905200  1
+  W  W7  1  0.30523100  0.30523100  0.06307500  1
+  W  W8  1  0.69641000  0.69641000  0.93309600  1

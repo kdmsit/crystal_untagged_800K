@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_FeCoSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43821300
+_cell_length_b   4.44443200
+_cell_length_c   4.45181240
+_cell_angle_alpha   89.85943138
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCoSi2
+_chemical_formula_sum   'Fe2 Co2 Si4'
+_cell_volume   87.81323055
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.35908600  0.85829600  0.38631800  1
+  Fe  Fe1  1  0.85908600  0.14170400  0.61368200  1
+  Co  Co2  1  0.63859900  0.63728700  0.89385700  1
+  Co  Co3  1  0.13859900  0.36271300  0.10614300  1
+  Si  Si4  1  0.34339500  0.34159200  0.58793600  1
+  Si  Si5  1  0.84339500  0.65840800  0.41206400  1
+  Si  Si6  1  0.65891900  0.15629700  0.09474400  1
+  Si  Si7  1  0.15891900  0.84370300  0.90525600  1

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sn4Tb4Zn4
+_chemical_formula_sum              "Sn4 Tb4 Zn4"
+_cell_length_a       4.51377
+_cell_length_b       4.5138
+_cell_length_c       15.8256
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.66700  0.33300  0.11400  1.0000
+  Sn  Sn2       1.0  0.66700  0.33300  0.38600  1.0000
+  Sn  Sn3       1.0  0.33300  0.66700  0.61400  1.0000
+  Sn  Sn4       1.0  0.33300  0.66700  0.88600  1.0000
+  Tb  Tb1       1.0  0.00000  0.00000  0.00000  1.0000
+  Tb  Tb2       1.0  0.00000  0.00000  0.25000  1.0000
+  Tb  Tb3       1.0  0.00000  0.00000  0.50000  1.0000
+  Tb  Tb4       1.0  0.00001  0.00002  0.75000  1.0000
+  Zn  Zn1       1.0  0.33300  0.66700  0.15900  1.0000
+  Zn  Zn2       1.0  0.33300  0.66700  0.34100  1.0000
+  Zn  Zn3       1.0  0.66700  0.33300  0.65900  1.0000
+  Zn  Zn4       1.0  0.66700  0.33300  0.84100  1.0000

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KFe(SeO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66735142
+_cell_length_b   5.66735142
+_cell_length_c   7.44257577
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   95.67619155
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KFe(SeO3)4
+_chemical_formula_sum   'K1 Fe1 Se4 O12'
+_cell_volume   237.87503242
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.05058207  0.94941793  0.50000000  1
+  Fe  Fe1  1  0.44790352  0.55209648  0.00000000  1
+  Se  Se2  1  0.55119541  0.99269990  0.24357603  1
+  Se  Se3  1  0.55119541  0.99269990  0.75642397  1
+  Se  Se4  1  0.00730010  0.44880459  0.75642397  1
+  Se  Se5  1  0.00730010  0.44880459  0.24357603  1
+  O  O6  1  0.15575489  0.21334503  0.21970284  1
+  O  O7  1  0.78665497  0.84424511  0.21970284  1
+  O  O8  1  0.78665497  0.84424511  0.78029716  1
+  O  O9  1  0.15575489  0.21334503  0.78029716  1
+  O  O10  1  0.34177679  0.65822321  0.24648673  1
+  O  O11  1  0.68030695  0.31969305  0.17524183  1
+  O  O12  1  0.68030695  0.31969305  0.82475817  1
+  O  O13  1  0.34177679  0.65822321  0.75351327  1
+  O  O14  1  0.43509923  0.93742173  0.00000000  1
+  O  O15  1  0.51254320  0.04028450  0.50000000  1
+  O  O16  1  0.06257827  0.56490077  -0.00000000  1
+  O  O17  1  0.95971550  0.48745680  0.50000000  1

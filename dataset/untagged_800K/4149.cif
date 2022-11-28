@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cs2Hg4
+_chemical_formula_sum              "Cs2 Hg4"
+_cell_length_a       5.55027
+_cell_length_b       6.93174
+_cell_length_c       6.93174
+_cell_angle_alpha    101.214
+_cell_angle_beta     66.3998
+_cell_angle_gamma    113.6
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.93800  0.68800  0.31200  1.0000
+  Cs  Cs2       1.0  0.06210  0.31200  0.68800  1.0000
+  Hg  Hg1       1.0  0.33500  0.26300  0.09390  1.0000
+  Hg  Hg2       1.0  0.66500  0.09390  0.26300  1.0000
+  Hg  Hg3       1.0  0.33500  0.90600  0.73700  1.0000
+  Hg  Hg4       1.0  0.66500  0.73700  0.90600  1.0000

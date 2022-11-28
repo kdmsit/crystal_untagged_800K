@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cd2Cu4Ge2S8
+_chemical_formula_sum              "Cd2 Cu4 Ge2 S8"
+_cell_length_a       7.74069
+_cell_length_b       6.58919
+_cell_length_c       6.33833
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.50000  0.15600  0.49200  1.0000
+  Cd  Cd2       1.0  0.00000  0.84400  0.99200  1.0000
+  Cu  Cu1       1.0  0.25100  0.32600  0.99700  1.0000
+  Cu  Cu2       1.0  0.74900  0.32600  0.99700  1.0000
+  Cu  Cu3       1.0  0.24900  0.67400  0.49700  1.0000
+  Cu  Cu4       1.0  0.75100  0.67400  0.49700  1.0000
+  Ge  Ge1       1.0  0.00000  0.17800  0.48900  1.0000
+  Ge  Ge2       1.0  0.50000  0.82200  0.98900  1.0000
+  S   S1        1.0  0.50000  0.79500  0.34700  1.0000
+  S   S2        1.0  0.23100  0.34800  0.35800  1.0000
+  S   S3        1.0  0.76900  0.34800  0.35800  1.0000
+  S   S4        1.0  0.00000  0.84500  0.39700  1.0000
+  S   S5        1.0  0.00000  0.20500  0.84700  1.0000
+  S   S6        1.0  0.26900  0.65200  0.85800  1.0000
+  S   S7        1.0  0.73100  0.65200  0.85800  1.0000
+  S   S8        1.0  0.50000  0.15500  0.89700  1.0000

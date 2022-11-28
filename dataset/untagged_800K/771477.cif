@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_LiNbO2F
+_symmetry_space_group_name_H-M  'Cc'
+_cell_length_a       5.29901
+_cell_length_b       5.299
+_cell_length_c       5.60938
+_cell_angle_alpha    62.5294
+_cell_angle_beta     62.5294
+_cell_angle_gamma    58.843
+
+_symmetry_Int_Tables_number  9
+_chemical_formula_structural  LiNbO2F
+_chemical_formula_sum  Li2Nb2O4F2
+_cell_volume  114.33416457344539
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.92164  0.06152  0.27801  1
+ F  F2  1  0.06152  0.92164  0.77801  1
+ Li  Li1  1  0.72746  0.33168  0.67640  1
+ Li  Li2  1  0.33168  0.72746  0.17640  1
+ Nb  Nb1  1  0.49327  0.99796  0.52010  1
+ Nb  Nb2  1  0.99796  0.49327  0.02010  1
+ O  O1  1  0.62164  0.70053  0.31516  1
+ O  O2  1  0.24199  0.35831  0.27633  1
+ O  O3  1  0.35831  0.24199  0.77633  1
+ O  O4  1  0.70053  0.62164  0.81516  1

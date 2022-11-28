@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_YbNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.04048500
+_cell_length_b   5.38616600
+_cell_length_c   7.29228200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbNi
+_chemical_formula_sum   'Yb4 Ni4'
+_cell_volume   158.69991270
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.25000000  0.37855100  0.67986600  1
+  Yb  Yb1  1  0.25000000  0.12144900  0.17986600  1
+  Yb  Yb2  1  0.75000000  0.62144900  0.32013400  1
+  Yb  Yb3  1  0.75000000  0.87855100  0.82013400  1
+  Ni  Ni4  1  0.25000000  0.90031700  0.52860300  1
+  Ni  Ni5  1  0.25000000  0.59968300  0.02860300  1
+  Ni  Ni6  1  0.75000000  0.09968300  0.47139700  1
+  Ni  Ni7  1  0.75000000  0.40031700  0.97139700  1

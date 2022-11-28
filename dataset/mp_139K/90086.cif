@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_InNi3Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18150892
+_cell_length_b   4.18150892
+_cell_length_c   5.22506200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.01200712
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InNi3Sb
+_chemical_formula_sum   'In1 Ni3 Sb1'
+_cell_volume   79.11076336
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.66664800  0.33335200  0.25000000  1
+  Ni  Ni1  1  0.00002300  0.99997700  0.50505300  1
+  Ni  Ni2  1  0.00002300  0.99997700  0.99494700  1
+  Ni  Ni3  1  0.66666200  0.33333800  0.75000000  1
+  Sb  Sb4  1  0.33334400  0.66665600  0.75000000  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr2FeCoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53927681
+_cell_length_b   7.74065301
+_cell_length_c   5.53937014
+_cell_angle_alpha   90.00355247
+_cell_angle_beta   90.03542860
+_cell_angle_gamma   90.00582130
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2FeCoO6
+_chemical_formula_sum   'Sr4 Fe2 Co2 O12'
+_cell_volume   237.51495913
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50000300  0.25340700  0.99999800  1
+  Sr  Sr1  1  0.00000200  0.74659100  0.49999000  1
+  Sr  Sr2  1  0.49999700  0.74659200  0.00000300  1
+  Sr  Sr3  1  0.99999800  0.25340800  0.50000700  1
+  Fe  Fe4  1  0.00000600  0.00001200  0.00000300  1
+  Fe  Fe5  1  0.50000100  0.50000100  0.50001000  1
+  Co  Co6  1  0.49999800  0.00000000  0.49999700  1
+  Co  Co7  1  0.99999800  0.50000600  0.00000200  1
+  O  O8  1  0.00000300  0.26627800  0.99998500  1
+  O  O9  1  0.50001900  0.75089700  0.50001200  1
+  O  O10  1  0.25017600  0.50001200  0.25017700  1
+  O  O11  1  0.75153000  0.99998900  0.75153600  1
+  O  O12  1  0.25026400  0.49999300  0.74973100  1
+  O  O13  1  0.75175100  0.00000100  0.24824000  1
+  O  O14  1  0.99999800  0.73371900  0.00001200  1
+  O  O15  1  0.49998200  0.24910100  0.49998700  1
+  O  O16  1  0.74982700  0.49998500  0.74982500  1
+  O  O17  1  0.24846800  0.00000500  0.24846100  1
+  O  O18  1  0.74973200  0.50000300  0.25026700  1
+  O  O19  1  0.24824700  0.00000000  0.75175700  1

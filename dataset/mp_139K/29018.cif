@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Be4NbMo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.54403634
+_cell_length_b   4.54403634
+_cell_length_c   7.41396100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000490
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be4NbMo
+_chemical_formula_sum   'Be8 Nb2 Mo2'
+_cell_volume   132.57587389
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.00000000  0.00000000  0.50000000  1
+  Be  Be1  1  0.00000000  0.00000000  0.00000000  1
+  Be  Be2  1  0.82937000  0.17063000  0.25581600  1
+  Be  Be3  1  0.82937000  0.65874100  0.25581600  1
+  Be  Be4  1  0.34125900  0.17063000  0.25581600  1
+  Be  Be5  1  0.17063000  0.82937000  0.74418400  1
+  Be  Be6  1  0.17063000  0.34125900  0.74418400  1
+  Be  Be7  1  0.65874100  0.82937000  0.74418400  1
+  Nb  Nb8  1  0.66666700  0.33333300  0.92960300  1
+  Nb  Nb9  1  0.33333300  0.66666700  0.07039700  1
+  Mo  Mo10  1  0.33333300  0.66666700  0.43923900  1
+  Mo  Mo11  1  0.66666700  0.33333300  0.56076100  1

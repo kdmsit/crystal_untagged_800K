@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_TaNiB
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       3.06324
+_cell_length_b       3.29928
+_cell_length_c       6.85695
+_cell_angle_alpha    103.921
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  TaNiB
+_chemical_formula_sum  Ta2Ni2B2
+_cell_volume  67.26418881533812
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.75000  0.46554  0.93108  1
+ B  B2  1  0.25000  0.53446  0.06892  1
+ Ni  Ni1  1  0.75000  0.29576  0.59153  1
+ Ni  Ni2  1  0.25000  0.70424  0.40847  1
+ Ta  Ta1  1  0.75000  0.09901  0.19802  1
+ Ta  Ta2  1  0.25000  0.90099  0.80198  1

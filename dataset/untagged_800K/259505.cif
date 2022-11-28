@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Li2O12Ru2Sr6
+_chemical_formula_sum              "Li2 O12 Ru2 Sr6"
+_cell_length_a       6.66978
+_cell_length_b       6.66978
+_cell_length_c       6.66978
+_cell_angle_alpha    92.3781
+_cell_angle_beta     92.3781
+_cell_angle_gamma    92.3781
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.25000  0.25000  0.25000  1.0000
+  Li  Li2       1.0  0.75000  0.75000  0.75000  1.0000
+  O   O1        1.0  0.91600  0.71800  0.04630  1.0000
+  O   O2        1.0  0.28200  0.95400  0.08410  1.0000
+  O   O3        1.0  0.41600  0.54600  0.21800  1.0000
+  O   O4        1.0  0.95400  0.08410  0.28200  1.0000
+  O   O5        1.0  0.54600  0.21800  0.41600  1.0000
+  O   O6        1.0  0.78200  0.58400  0.45400  1.0000
+  O   O7        1.0  0.21800  0.41600  0.54600  1.0000
+  O   O8        1.0  0.45400  0.78200  0.58400  1.0000
+  O   O9        1.0  0.04630  0.91600  0.71800  1.0000
+  O   O10       1.0  0.58400  0.45400  0.78200  1.0000
+  O   O11       1.0  0.71800  0.04630  0.91600  1.0000
+  O   O12       1.0  0.08410  0.28200  0.95400  1.0000
+  Ru  Ru1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ru  Ru2       1.0  0.50000  0.50000  0.50000  1.0000
+  Sr  Sr1       1.0  0.75000  0.39000  0.11000  1.0000
+  Sr  Sr2       1.0  0.61000  0.89000  0.25000  1.0000
+  Sr  Sr3       1.0  0.11000  0.75000  0.39000  1.0000
+  Sr  Sr4       1.0  0.89000  0.25000  0.61000  1.0000
+  Sr  Sr5       1.0  0.39000  0.11000  0.75000  1.0000
+  Sr  Sr6       1.0  0.25000  0.61000  0.89000  1.0000

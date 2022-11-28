@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       B8Mo2Th2
+_chemical_formula_sum              "B8 Mo2 Th2"
+_cell_length_a       3.77772
+_cell_length_b       6.09865
+_cell_length_c       6.09865
+_cell_angle_alpha    104.131
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.50000  0.37700  0.06500  1.0000
+  B   B2        1.0  0.50000  0.91000  0.09000  1.0000
+  B   B3        1.0  0.50000  0.37200  0.37200  1.0000
+  B   B4        1.0  0.50000  0.06500  0.37700  1.0000
+  B   B5        1.0  0.50000  0.93500  0.62300  1.0000
+  B   B6        1.0  0.50000  0.62800  0.62800  1.0000
+  B   B7        1.0  0.50000  0.09000  0.91000  1.0000
+  B   B8        1.0  0.50000  0.62300  0.93500  1.0000
+  Mo  Mo1       1.0  0.00000  0.17200  0.17200  1.0000
+  Mo  Mo2       1.0  0.00000  0.82800  0.82800  1.0000
+  Th  Th1       1.0  0.00000  0.69800  0.30200  1.0000
+  Th  Th2       1.0  0.00000  0.30200  0.69800  1.0000

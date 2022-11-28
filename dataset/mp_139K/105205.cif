@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CoSeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.97458185
+_cell_length_b   4.97562854
+_cell_length_c   6.68647429
+_cell_angle_alpha   90.00081670
+_cell_angle_beta   90.00389401
+_cell_angle_gamma   112.69004484
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoSeO4
+_chemical_formula_sum   'Co2 Se2 O8'
+_cell_volume   152.69245320
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.00000000  0.50000000  1
+  Co  Co1  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se2  1  0.65152000  0.34853200  0.25006300  1
+  Se  Se3  1  0.34848000  0.65146700  0.74993700  1
+  O  O4  1  0.75875100  0.24131000  0.46039200  1
+  O  O5  1  0.24124800  0.75869000  0.53960800  1
+  O  O6  1  0.75864200  0.24151200  0.03967000  1
+  O  O7  1  0.24135700  0.75848800  0.96033000  1
+  O  O8  1  0.22016900  0.28030200  0.74979300  1
+  O  O9  1  0.77983200  0.71969700  0.25020700  1
+  O  O10  1  0.71996800  0.78032600  0.74984400  1
+  O  O11  1  0.28003300  0.21967400  0.25015600  1

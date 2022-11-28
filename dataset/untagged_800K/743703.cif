@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Lu4FeS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69073400
+_cell_length_b   6.36754505
+_cell_length_c   11.21123217
+_cell_angle_alpha   103.78058305
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   73.15352425
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu4FeS7
+_chemical_formula_sum   'Lu4 Fe1 S7'
+_cell_volume   244.23219529
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.69417100  0.61165800  0.20489800  1
+  Lu  Lu1  1  0.30566700  0.38866600  0.80222700  1
+  Lu  Lu2  1  0.99957300  0.00085500  0.00557300  1
+  Lu  Lu3  1  0.11289600  0.77420700  0.56545100  1
+  Fe  Fe4  1  0.88825800  0.22348400  0.42408400  1
+  S  S5  1  0.74466900  0.51066200  0.63905600  1
+  S  S6  1  0.26753700  0.46492700  0.35415900  1
+  S  S7  1  0.33881100  0.32237900  0.05135500  1
+  S  S8  1  0.65966400  0.68067200  0.94860100  1
+  S  S9  1  0.03331800  0.93336400  0.22540900  1
+  S  S10  1  0.96350400  0.07299300  0.78403200  1
+  S  S11  1  0.49193200  0.01613500  0.49515400  1

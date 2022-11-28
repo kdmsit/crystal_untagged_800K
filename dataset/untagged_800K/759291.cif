@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_MoO2
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       5.57362
+_cell_length_b       4.89278
+_cell_length_c       5.66269
+_cell_angle_alpha    90
+_cell_angle_beta     119.964
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  MoO2
+_chemical_formula_sum  Mo4O8
+_cell_volume  133.78365074088498
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mo  Mo1  1  0.23117  0.00719  0.21525  1
+ Mo  Mo2  1  0.23117  0.49281  0.71525  1
+ Mo  Mo3  1  0.76883  -0.00719  0.78475  1
+ Mo  Mo4  1  0.76883  0.50719  0.28475  1
+ O  O1  1  0.11182  0.71791  0.37776  1
+ O  O2  1  0.11182  0.78209  0.87776  1
+ O  O3  1  0.88818  0.21791  0.12224  1
+ O  O4  1  0.88818  0.28209  0.62224  1
+ O  O5  1  0.39106  0.19717  0.59276  1
+ O  O6  1  0.39106  0.30283  0.09276  1
+ O  O7  1  0.60894  0.69717  0.90724  1
+ O  O8  1  0.60894  0.80283  0.40724  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TmAlCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29558549
+_cell_length_b   5.29558549
+_cell_length_c   8.37798900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.09497832
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmAlCo
+_chemical_formula_sum   'Tm4 Al4 Co4'
+_cell_volume   205.29915923
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.33371100  0.66628900  0.20348200  1
+  Tm  Tm1  1  0.67021300  0.32978700  0.32463200  1
+  Tm  Tm2  1  0.67021300  0.32978700  0.67536800  1
+  Tm  Tm3  1  0.33371100  0.66628900  0.79651800  1
+  Al  Al4  1  0.99608500  0.00391500  0.27075400  1
+  Al  Al5  1  0.99608500  0.00391500  0.72924600  1
+  Al  Al6  1  0.83436900  0.66020800  0.00000000  1
+  Al  Al7  1  0.33979200  0.16563100  0.00000000  1
+  Co  Co8  1  0.83348300  0.16651700  0.00000000  1
+  Co  Co9  1  0.17458100  0.35665800  0.50000000  1
+  Co  Co10  1  0.64334200  0.82541900  0.50000000  1
+  Co  Co11  1  0.17408600  0.82591400  0.50000000  1

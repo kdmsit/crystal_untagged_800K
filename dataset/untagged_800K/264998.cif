@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Fe3O12P3
+_chemical_formula_sum              "Fe3 O12 P3"
+_cell_length_a       4.694
+_cell_length_b       4.694
+_cell_length_c       10.8827
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.43200  0.00000  0.33300  1.0000
+  Fe  Fe2       1.0  0.00000  0.43200  0.66700  1.0000
+  Fe  Fe3       1.0  0.56800  0.56800  0.00000  1.0000
+  O   O1        1.0  0.35500  0.29300  0.86400  1.0000
+  O   O2        1.0  0.70700  0.06180  0.19700  1.0000
+  O   O3        1.0  0.93800  0.64500  0.53000  1.0000
+  O   O4        1.0  0.06180  0.70700  0.80300  1.0000
+  O   O5        1.0  0.64500  0.93800  0.47000  1.0000
+  O   O6        1.0  0.29300  0.35500  0.13600  1.0000
+  O   O7        1.0  0.43100  0.37400  0.38800  1.0000
+  O   O8        1.0  0.62600  0.05730  0.72100  1.0000
+  O   O9        1.0  0.94300  0.56900  0.05430  1.0000
+  O   O10       1.0  0.05730  0.62600  0.27900  1.0000
+  O   O11       1.0  0.56900  0.94300  0.94600  1.0000
+  O   O12       1.0  0.37400  0.43100  0.61200  1.0000
+  P   P1        1.0  0.40400  0.00000  0.83300  1.0000
+  P   P2        1.0  0.00000  0.40400  0.16700  1.0000
+  P   P3        1.0  0.59600  0.59600  0.50000  1.0000

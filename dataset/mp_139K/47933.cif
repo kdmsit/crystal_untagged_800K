@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_FeCoAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.58986700
+_cell_length_b   6.02202600
+_cell_length_c   10.35843300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCoAs
+_chemical_formula_sum   'Fe6 Co6 As6'
+_cell_volume   223.93142634
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.00000000  0.29524100  0.20167500  1
+  Fe  Fe1  1  0.00000000  0.29524100  0.79832500  1
+  Fe  Fe2  1  0.00000000  0.90546200  0.00000000  1
+  Fe  Fe3  1  0.00000000  0.79646800  0.29951000  1
+  Fe  Fe4  1  0.00000000  0.79646800  0.70049000  1
+  Fe  Fe5  1  0.50000000  0.74519200  0.50000000  1
+  Co  Co6  1  0.50000000  0.62604900  0.12936200  1
+  Co  Co7  1  0.00000000  0.40166500  0.50000000  1
+  Co  Co8  1  0.50000000  0.24541600  0.00000000  1
+  Co  Co9  1  0.50000000  0.12362000  0.37148000  1
+  Co  Co10  1  0.50000000  0.12362000  0.62852000  1
+  Co  Co11  1  0.50000000  0.62604900  0.87063800  1
+  As  As12  1  0.00000000  0.00085700  0.50000000  1
+  As  As13  1  0.50000000  0.49533900  0.33540600  1
+  As  As14  1  0.50000000  0.99931700  0.83429500  1
+  As  As15  1  0.50000000  0.99931700  0.16570500  1
+  As  As16  1  0.00000000  0.50165400  0.00000000  1
+  As  As17  1  0.50000000  0.49533900  0.66459400  1

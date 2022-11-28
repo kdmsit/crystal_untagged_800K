@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Eu3Si4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.64676049
+_cell_length_b   9.64676049
+_cell_length_c   9.64676049
+_cell_angle_alpha   156.27429432
+_cell_angle_beta   152.66318132
+_cell_angle_gamma   36.50504469
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu3Si4
+_chemical_formula_sum   'Eu3 Si4'
+_cell_volume   165.65768470
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.99588900  0.00000000  0.99588900  1
+  Eu  Eu1  1  0.81342700  0.31510500  0.49832200  1
+  Eu  Eu2  1  0.18321800  0.68489500  0.49832200  1
+  Si  Si3  1  0.63935900  0.13826700  0.50109200  1
+  Si  Si4  1  0.36282400  0.86173300  0.50109200  1
+  Si  Si5  1  0.41596300  0.43532100  0.98064200  1
+  Si  Si6  1  0.54532000  0.56467900  0.98064200  1

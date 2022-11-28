@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_CaTiF4
+_symmetry_space_group_name_H-M  'P4/mmm'
+_cell_length_a       5.32038
+_cell_length_b       5.32039
+_cell_length_c       6.49726
+_cell_angle_alpha    114.168
+_cell_angle_beta     114.169
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  123
+_chemical_formula_structural  CaTiF4
+_chemical_formula_sum  Ca2Ti2F8
+_cell_volume  149.9499184618967
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.25057  0.24964  0.49889  1
+ Ca  Ca2  1  0.75057  0.74964  0.49889  1
+ F  F1  1  0.86973  0.86874  0.23717  1
+ F  F2  1  0.63143  0.63052  0.76065  1
+ F  F3  1  0.13145  0.13051  0.76065  1
+ F  F4  1  0.63143  0.13049  0.76060  1
+ F  F5  1  0.36969  0.36882  0.23717  1
+ F  F6  1  0.86966  0.36872  0.23713  1
+ F  F7  1  0.36971  0.86880  0.23714  1
+ F  F8  1  0.13142  0.63050  0.76062  1
+ Ti  Ti1  1  0.50057  -0.00037  -0.00111  1
+ Ti  Ti2  1  0.00057  0.49963  -0.00111  1

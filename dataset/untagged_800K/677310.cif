@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_AlGaCu2(SeS)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50918799
+_cell_length_b   5.49824499
+_cell_length_c   6.70622982
+_cell_angle_alpha   65.76828286
+_cell_angle_beta   65.71707066
+_cell_angle_gamma   89.93132274
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlGaCu2(SeS)2
+_chemical_formula_sum   'Al1 Ga1 Cu2 Se2 S2'
+_cell_volume   165.38331036
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.50683300  0.50683300  0.98633400  1
+  Ga  Ga1  1  0.24544000  0.74544000  0.50911900  1
+  Cu  Cu2  1  0.73705200  0.23705200  0.52589700  1
+  Cu  Cu3  1  0.01102100  0.01102100  0.97795700  1
+  Se  Se4  1  0.12119000  0.12943700  0.24766600  1
+  Se  Se5  1  0.63114400  0.62289700  0.24766600  1
+  S  S6  1  0.37571400  0.86888200  0.75268000  1
+  S  S7  1  0.87160500  0.37843800  0.75268000  1

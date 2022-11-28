@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       GeO6SrTe
+_chemical_formula_sum              "Ge1 O6 Sr1 Te1"
+_cell_length_a       5.10025
+_cell_length_b       5.10084
+_cell_length_c       5.34131
+_cell_angle_alpha    90.0026
+_cell_angle_beta     89.9948
+_cell_angle_gamma    119.996
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.66700  0.33300  0.50000  1.0000
+  O   O1        1.0  0.38300  0.00445  0.29600  1.0000
+  O   O2        1.0  0.99600  0.37900  0.29600  1.0000
+  O   O3        1.0  0.62100  0.61700  0.29600  1.0000
+  O   O4        1.0  0.99600  0.61700  0.70400  1.0000
+  O   O5        1.0  0.38300  0.37900  0.70400  1.0000
+  O   O6        1.0  0.62100  0.00445  0.70400  1.0000
+  Sr  Sr1       1.0  0.00000  0.00000  0.00000  1.0000
+  Te  Te1       1.0  0.33300  0.66600  0.50000  1.0000

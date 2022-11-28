@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Fe3Mn2Sr2
+_chemical_formula_sum              "Fe3 Mn2 Sr2"
+_cell_length_a       4.54721
+_cell_length_b       4.54721
+_cell_length_c       8.29423
+_cell_angle_alpha    74.0905
+_cell_angle_beta     74.0905
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.65300  0.65300  0.04200  1.0000
+  Fe  Fe2       1.0  0.10600  0.10600  0.68200  1.0000
+  Fe  Fe3       1.0  0.36500  0.36500  0.90600  1.0000
+  Mn  Mn1       1.0  0.48600  0.48600  0.54100  1.0000
+  Mn  Mn2       1.0  0.00632  0.00632  0.98100  1.0000
+  Sr  Sr1       1.0  0.23900  0.23900  0.28200  1.0000
+  Sr  Sr2       1.0  0.77000  0.77000  0.69000  1.0000

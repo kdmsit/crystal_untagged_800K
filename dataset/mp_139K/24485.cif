@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Tm4CuGe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94789800
+_cell_length_b   4.03420200
+_cell_length_c   16.29403900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm4CuGe8
+_chemical_formula_sum   'Tm4 Cu1 Ge8'
+_cell_volume   259.50893495
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.25000000  0.00000000  0.09857900  1
+  Tm  Tm1  1  0.25000000  0.50000000  0.60874900  1
+  Tm  Tm2  1  0.75000000  0.50000000  0.39844200  1
+  Tm  Tm3  1  0.75000000  0.00000000  0.89312800  1
+  Cu  Cu4  1  0.25000000  0.00000000  0.32307700  1
+  Ge  Ge5  1  0.25000000  0.00000000  0.46583100  1
+  Ge  Ge6  1  0.25000000  0.50000000  0.94472100  1
+  Ge  Ge7  1  0.75000000  0.50000000  0.04675900  1
+  Ge  Ge8  1  0.75000000  0.00000000  0.56396600  1
+  Ge  Ge9  1  0.25000000  0.50000000  0.23662200  1
+  Ge  Ge10  1  0.25000000  0.00000000  0.74723600  1
+  Ge  Ge11  1  0.75000000  0.00000000  0.23617200  1
+  Ge  Ge12  1  0.75000000  0.50000000  0.75471900  1

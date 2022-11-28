@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_TiSCl
+_symmetry_space_group_name_H-M  'Pmmn'
+_cell_length_a       4.83435
+_cell_length_b       7.16008
+_cell_length_c       3.43102
+_cell_angle_alpha    90.0068
+_cell_angle_beta     89.9998
+_cell_angle_gamma    90.0001
+
+_symmetry_Int_Tables_number  59
+_chemical_formula_structural  TiSCl
+_chemical_formula_sum  Ti2S2Cl2
+_cell_volume  118.76246372158707
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.50000  0.64461  0.49992  1
+ Cl  Cl2  1  0.00000  0.35539  0.00008  1
+ S  S1  1  0.50000  0.13262  0.50004  1
+ S  S2  1  -0.00000  0.86738  -0.00004  1
+ Ti  Ti1  1  0.50000  0.88918  -0.00002  1
+ Ti  Ti2  1  0.00000  0.11082  0.50002  1

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       La2Nb2Ni4Sn4
+_chemical_formula_sum              "La2 Nb2 Ni4 Sn4"
+_cell_length_a       4.39108
+_cell_length_b       6.35063
+_cell_length_c       9.02368
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.00000  0.00000  0.38000  1.0000
+  La  La2       1.0  0.50000  0.50000  0.62000  1.0000
+  Nb  Nb1       1.0  0.50000  0.49800  0.12100  1.0000
+  Nb  Nb2       1.0  0.00000  0.99800  0.87900  1.0000
+  Ni  Ni1       1.0  0.00000  0.74000  0.10800  1.0000
+  Ni  Ni2       1.0  0.50000  0.27100  0.33900  1.0000
+  Ni  Ni3       1.0  0.00000  0.77100  0.66100  1.0000
+  Ni  Ni4       1.0  0.50000  0.24000  0.89200  1.0000
+  Sn  Sn1       1.0  0.50000  0.98600  0.11200  1.0000
+  Sn  Sn2       1.0  0.00000  0.50400  0.34900  1.0000
+  Sn  Sn3       1.0  0.50000  0.00447  0.65100  1.0000
+  Sn  Sn4       1.0  0.00000  0.48600  0.88800  1.0000

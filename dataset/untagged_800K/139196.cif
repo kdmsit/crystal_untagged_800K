@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mn4P4
+_chemical_formula_sum              "Mn4 P4"
+_cell_length_a       5.83732
+_cell_length_b       5.18312
+_cell_length_c       3.13835
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.19500  0.00413  0.25000  1.0000
+  Mn  Mn2       1.0  0.30500  0.50400  0.25000  1.0000
+  Mn  Mn3       1.0  0.69500  0.49600  0.75000  1.0000
+  Mn  Mn4       1.0  0.80500  0.99600  0.75000  1.0000
+  P   P1        1.0  0.56900  0.18600  0.25000  1.0000
+  P   P2        1.0  0.93100  0.68600  0.25000  1.0000
+  P   P3        1.0  0.06930  0.31400  0.75000  1.0000
+  P   P4        1.0  0.43100  0.81400  0.75000  1.0000

@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Ho2InPd2
+_symmetry_space_group_name_H-M  'P4/mbm'
+_cell_length_a       7.71087
+_cell_length_b       7.71087
+_cell_length_c       3.65136
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  127
+_chemical_formula_structural  Ho2InPd2
+_chemical_formula_sum  Ho4In2Pd4
+_cell_volume  217.10079036677942
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ho  Ho1  1  0.32776  0.82776  0.50000  1
+ Ho  Ho2  1  0.82776  0.67224  0.50000  1
+ Ho  Ho3  1  0.17224  0.32776  0.50000  1
+ Ho  Ho4  1  0.67224  0.17224  0.50000  1
+ In  In1  1  0.00000  0.00000  0.00000  1
+ In  In2  1  0.50000  0.50000  0.00000  1
+ Pd  Pd1  1  0.37153  0.12847  0.00000  1
+ Pd  Pd2  1  0.87153  0.37153  0.00000  1
+ Pd  Pd3  1  0.12847  0.62847  0.00000  1
+ Pd  Pd4  1  0.62847  0.87153  0.00000  1

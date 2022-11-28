@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_U3(CoNi2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92052700
+_cell_length_b   5.00662838
+_cell_length_c   11.98931926
+_cell_angle_alpha   91.18667106
+_cell_angle_beta   89.59618901
+_cell_angle_gamma   118.98141374
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U3(CoNi2)2
+_chemical_formula_sum   'U6 Co4 Ni8'
+_cell_volume   258.31708769
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.33183300  0.67204000  0.29244300  1
+  U  U1  1  0.00195700  0.00607200  0.62164300  1
+  U  U2  1  0.67122200  0.34209200  0.95652500  1
+  U  U3  1  0.32877800  0.65790800  0.04347500  1
+  U  U4  1  0.99804300  0.99392800  0.37835700  1
+  U  U5  1  0.66816700  0.32796000  0.70755700  1
+  Co  Co6  1  0.50000000  0.00000000  0.50000000  1
+  Co  Co7  1  0.16760500  0.33385700  0.83392700  1
+  Co  Co8  1  0.83239500  0.66614300  0.16607300  1
+  Co  Co9  1  0.00000000  0.50000000  0.50000000  1
+  Ni  Ni10  1  0.66693400  0.83349400  0.83324900  1
+  Ni  Ni11  1  0.33306600  0.16650600  0.16675100  1
+  Ni  Ni12  1  0.33367300  0.66654200  0.66645400  1
+  Ni  Ni13  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni14  1  0.66632700  0.33345800  0.33354600  1
+  Ni  Ni15  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni16  1  0.16751000  0.83458500  0.83319300  1
+  Ni  Ni17  1  0.83249000  0.16541500  0.16680700  1
