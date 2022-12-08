@@ -5,6 +5,9 @@ In this paper, authors curated around 800K untagged crystal graph data from two 
 
 ![Dataset diagram](assets/dataset.png)
 
+## Contact
+
+If you have any query about the dataset, please contact me at [kishalaydas@kgpian.iitkgp.ac.in](kishalaydas@kgpian.iitkgp.ac.in)
 
 ## How to cite
 
